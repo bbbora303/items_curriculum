@@ -1,0 +1,156 @@
+{
+ "printedPage": "303",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "정답 및 풀이(해결해요 232쪽 / 단원 마무리 233쪽~235쪽)"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "옆넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴의 호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^2,\\ \\mathrm{cm}^3$",
+   "meaning": "넓이와 부피의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$4\\pi r^2$",
+   "plain": "반지름이 r인 구의 겉넓이 공식을 풀이에 사용한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$\\frac{4}{3}\\pi r^3$",
+   "plain": "반지름이 r인 구의 부피 공식을 풀이에 사용한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$\\frac{1}{3}\\times(\\text{밑넓이})\\times(\\text{높이})$",
+   "plain": "뿔의 부피 공식을 풀이에 사용한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(원뿔의 옆면인 부채꼴의 호의 길이)=(밑면인 원의 둘레의 길이)",
+   "plain": "이 관계로 원뿔의 밑면의 반지름을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "정다면체는 정사면체, 정육면체, 정팔면체, 정십이면체, 정이십면체의 다섯 가지뿐이다.",
+   "plain": "정다면체의 종류는 다섯 가지이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "해결해요 6번의 채점 기준과 배점 비율 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 쪽이 아니라 정답 및 풀이 쪽이다. 해결해요 232쪽 1~6번 풀이와 단원 마무리 233~235쪽의 답(1~5번 OX, 01~13번)과 풀이가 실려 있다. 새로 정의되는 용어나 기호는 없고, 입체도형(구, 뿔, 회전체, 정다면체)의 겉넓이와 부피를 계산하는 풀이만 나온다. 문제 본문이 없어 problems는 비웠다. 소단원 번호는 보이지 않아 section은 빈 문자열이다. 단원 이름은 목록과 풀이 내용(입체도형)으로 추정했다.",
+ "_page": 303,
+ "_profile": "full",
+ "_usage": {
+  "in": 6065,
+  "out": 1257,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,128 @@
+{
+ "printedPage": "281",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "정답과 해설(대단원 마무리 정답 및 서술형 풀이)"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "2^4\\times 3\\times 5",
+   "meaning": "240의 소인수분해",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\left\\{\\ \\right\\},\\ \\left[\\ \\right]",
+   "meaning": "중괄호·대괄호 순서대로 계산",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "240=2^4\\times3\\times5",
+   "plain": "어떤 수의 제곱이 되게 하려면 소인수의 지수가 모두 짝수가 되도록 나눈다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-3)\\times\\left(-\\frac{7}{3}\\right)\\times\\frac{1}{5}=\\frac{7}{5}",
+   "plain": "세 수의 곱이 가장 크려면 양수여야 하므로 절댓값이 큰 음수 2개와 양수 1개를 곱한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-3)\\times\\left(-\\frac{7}{3}\\right)\\times\\left(-\\frac{3}{5}\\right)=-\\frac{21}{5}",
+   "plain": "세 수의 곱이 가장 작으려면 음수여야 하므로 음수 3개를 곱한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "7-\\frac{2}{3}\\times\\left[\\left\\{\\frac{2}{3}+(-2)^2\\right\\}\\div\\frac{7}{9}-12\\right]=11",
+   "plain": "소괄호, 중괄호, 대괄호 순으로 계산하여 혼합 계산을 한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "17번 풀이(서술형)",
+   "summary": "240을 소인수분해하여 제곱이 되도록 나눌 가장 작은 자연수 15를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "18번 풀이(서술형)",
+   "summary": "네 유리수 중 세 수의 곱의 최댓값 7/5와 최솟값 -21/5의 합 -14/5를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "19번 풀이(서술형)",
+   "summary": "괄호가 중첩된 유리수의 혼합 계산을 단계별로 하여 11을 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "서술형 문항 17~19의 채점 기준표(구분·평가 요소·배점)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 없이 정답과 해설만 있는 쪽이다. 왼쪽 위는 앞 단원 마무리 문제 정답(1~10번, 문제 만들기 포함)이다. 대단원 마무리(59~61쪽)의 정답 1~19번은 정수와 유리수 단원의 내용이다. 17번은 소인수분해(1단원) 문제이다. 앞쪽 정답 일부(1~10번, 문제 만들기)는 단원 중간 정답 쪽으로 보이며 어느 단원인지 불분명하다.",
+ "_page": 281,
+ "_usage": {
+  "in": 5476,
+  "out": 1342,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,67 @@
+{
+ "printedPage": "17",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1. 소인수분해",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "verbs": [
+  "구하시오",
+  "찾으시오",
+  "말하시오",
+  "연결하여 보자"
+ ],
+ "contexts": [
+  "캠핑 텐트(그림 연결 활동)"
+ ],
+ "essay": false,
+ "dataFigures": false,
+ "problemCount": 4,
+ "notes": "배우고 익히기 문제 1, 2와 심화 문제 1⁺, 2⁺(추론 표시), 와글와글 수학 활동(문제해결·연결 역량)이 있다. 활동의 점 잇기 그림은 자료가 아니라 활동용 그림이라 dataFigures는 false로 두었다. 오른쪽 위 'FUN' 코너('서로소'로 삼행시를 지으면?)는 문제 수에서 제외했다.",
+ "_page": 17,
+ "_profile": "lite",
+ "_usage": {
+  "in": 3082,
+  "out": 485,
+  "sec": 5.3,
+  "stop": "end_turn"
+ }
+}

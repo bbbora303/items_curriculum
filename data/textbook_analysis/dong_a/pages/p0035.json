@@ -1,0 +1,43 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "파란 말풍선 배경 안에 큰 숫자 2가 파랑·초록 도형으로 디자인되어 있다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "여행"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 표지 쪽이다. 쪽 번호는 인쇄되어 있지 않다. 소단원 목차는 2.0 여행을 떠나 볼까요, 2.1 정수와 유리수, 2.2 정수와 유리수의 대소 관계, 2.3 정수와 유리수의 덧셈, 2.4 정수와 유리수의 뺄셈, 2.5 정수와 유리수의 곱셈, 2.6 정수와 유리수의 나눗셈이다. 프로젝트 '여행 계획을 세워요'도 함께 안내되어 있다. 부제는 '수를 자연수로부터 정수와 유리수로 확장시켜 볼까요?'이다. 배운 내용·배울 내용 표시는 없다.",
+ "_page": 35,
+ "_profile": "full",
+ "_usage": {
+  "in": 4067,
+  "out": 479,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

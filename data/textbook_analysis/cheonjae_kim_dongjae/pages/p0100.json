@@ -1,0 +1,169 @@
+{
+ "printedPage": "100",
+ "unit": {
+  "chapter": "문자와 식",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "다항식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수 꼴의 두 일차식의 차 $\\frac{2x-4}{3}-\\frac{x+1}{2}$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "어떤 다항식에서 $5x-2$를 빼었더니 $-4x-7$이 될 때 어떤 다항식 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "$6(x-1)+3=5x+\\square$가 x에 대한 항등식이 되도록 빈칸에 알맞은 식 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "고르면",
+   "summary": "등식의 성질을 이용한 것으로 옳은 것 2개 고르기(5지선다)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "무엇인가",
+   "summary": "방정식 $5x-7=3$에서 좌변의 $-7$을 이항한 것과 같은 뜻 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "12",
+   "level": "기본",
+   "verb": "무엇인가",
+   "summary": "해가 $x=-2$인 일차방정식 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "13",
+   "level": "기본",
+   "verb": "무엇인가",
+   "summary": "$x+4=2x+7$과 해가 같은 일차방정식 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "14",
+   "level": "기본",
+   "verb": "푸시오",
+   "summary": "소수와 분수가 섞인 일차방정식 $0.4x-\\frac{2}{3}x=\\frac{2-3x}{5}$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "9번 항등식의 빈칸이 있는 식을 상자 안에 제시",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 문제 쪽(7~14번). 이 쪽의 머리글은 'Ⅱ. 문자와 식'이지만 주어진 대단원 목록에는 '문자의 사용과 식', '일차방정식'이 따로 있어 표기가 다름. 용어는 모두 이전에 배운 것으로 전제하고 사용하며 새로 정의되는 것은 없음. 문제 번호 옆에 와이파이 모양 아이콘이 있으나 역량 라벨은 확인되지 않음.",
+ "_page": 100,
+ "_usage": {
+  "in": 4561,
+  "out": 1369,
+  "sec": 8.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

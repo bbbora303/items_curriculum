@@ -1,0 +1,158 @@
+{
+ "printedPage": "16",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.2 소인수분해",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "인수",
+   "role": "정의",
+   "definition": "약수와 같은 뜻으로 쓰이며, 어떤 자연수를 나누어떨어지게 하는 수이다.",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "정의",
+   "definition": "어떤 자연수의 인수 중에서 소수인 것이다.",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "어떤 자연수의 소수인 인수를 그 자연수의 소인수라고 한다.",
+   "plain": "어떤 수의 약수(인수) 중에서 소수인 것이 그 수의 소인수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "20의 인수 1, 2, 4, 5, 10, 20 중 소수 2, 5를 찾아 20의 소인수는 2, 5라고 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "8의 소인수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "15의 소인수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "21의 소인수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "30의 소인수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "12를 두 자연수의 곱으로 나타내는 가지 그림(12와 1, 2, 3 등)과 이를 보며 말하는 아이들의 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "동영상 등 학습 자료로 연결되는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입 쪽으로 학습 목표는 '소인수분해의 뜻을 안다', '자연수를 소인수분해 할 수 있다'이고 학습 요소는 소인수, 소인수분해, 거듭제곱, 밑, 지수이다. 이 쪽에서 새로 정의되는 용어는 인수와 소인수이며, 나머지 학습 요소는 이후 쪽에서 다룰 용어라서 사용으로 분류했다. '생각해요'에서 약수 중 소수와 합성수가 언급되어 이미 배운 개념으로 보았다.",
+ "_page": 16,
+ "_profile": "full",
+ "_usage": {
+  "in": 4417,
+  "out": 1267,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

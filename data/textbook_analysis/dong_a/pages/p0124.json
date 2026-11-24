@@ -1,0 +1,187 @@
+{
+ "printedPage": "124",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "정비례 관계 y=ax의 그래프",
+  "area": "예제 / 문제 / 수학 집 짓기"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "정의",
+   "definition": "두 변수 x, y에서 x의 값이 2배, 3배, 4배, …로 변함에 따라 y의 값도 2배, 3배, 4배, …로 변할 때, x와 y는 정비례한다고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=ax\\ (a\\neq 0)$",
+   "meaning": "정비례 관계를 나타내는 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(1,-1)$",
+   "meaning": "좌표평면 위의 점",
+   "role": "사용"
+  },
+  {
+   "symbol": "$O$",
+   "meaning": "원점",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$y=ax\\ (a\\neq 0)$의 그래프는 원점과 다른 한 점을 찾아 직선으로 잇는다.",
+   "plain": "정비례 관계 그래프를 그릴 때는 원점과 다른 한 점만 찾아 직선으로 이으면 편리하다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$x$가 2배, 3배, 4배, …가 될 때 $y$도 2배, 3배, 4배, …가 되면 정비례",
+   "plain": "x가 몇 배가 되면 y도 같은 배수로 변하는 관계가 정비례이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$y=2x$의 그래프는 원점과 점 $(1,2)$를 지나는 직선이다.",
+   "plain": "표, 식, 그래프로 정비례 관계를 나타낸 예이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 2",
+   "summary": "y=-x에서 x=1일 때 y=-1이므로 원점과 점 (1,-1)을 지나는 직선으로 그래프를 그린다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "수학 집 짓기(표·식·그래프)",
+   "summary": "x와 y의 대응표(1→2, 2→4, 3→6, 4→8)를 표, 식 y=2x, 그래프로 나타내며 정비례를 도입한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "좌표평면 위에 y=3x의 그래프 그리기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "좌표평면 위에 y=(1/4)x의 그래프 그리기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 3 (3)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "좌표평면 위에 y=-2x의 그래프 그리기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 3 (4)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "좌표평면 위에 y=-(1/2)x의 그래프 그리기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "예제 풀이로 원점과 점 (1,-1)을 지나는 직선 y=-x의 그래프가 그려진 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3에서 그래프를 그리기 위한 빈 좌표평면(x, y 범위 -6~6)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "x=1,2,3,4일 때 y=2,4,6,8인 대응표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원점과 점 (1,2)를 지나는 직선 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "자전거를 타는 고양이 캐릭터와 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기' 코너에서 정비례를 표·식·그래프로 정리하며 빈칸(정비례, 2, 2)이 채워져 있다. 쪽 내용상 소단원 번호·제목은 인쇄되어 있지 않아 y=ax 그래프 내용을 바탕으로 추정했다. 문제 3 (2)와 (4)의 분수는 이미지에서 1/4, -1/2로 읽었다.",
+ "_page": 124,
+ "_profile": "full",
+ "_usage": {
+  "in": 4458,
+  "out": 1791,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

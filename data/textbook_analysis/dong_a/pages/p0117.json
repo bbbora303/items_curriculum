@@ -1,0 +1,117 @@
+{
+ "printedPage": "117",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.2 그래프의 뜻과 표현",
+  "area": "개념 설명(예제·문제)"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반복되는 모양",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해수면의 높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "O",
+   "meaning": "그래프의 원점(가로축과 세로축이 만나는 점)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "바이올린과 피아노의 소리 그래프에서 반복되는 모양을 찾고, 0.01초 동안 그 모양이 몇 번 반복되는지 센다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "하루 동안 해수면 높이 그래프에서 높이가 가장 낮은 시각을 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "4시에서 22시 사이에 해수면의 높이가 높아지는 구간(몇 시부터 몇 시까지)을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "바이올린과 피아노의 소리를 시간(초)에 따른 위치로 나타낸 반복 그래프(0.01초 표시)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "풀이에서 반복 모양을 점선으로 나누어 바이올린 3번, 피아노 4번으로 표시한 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "시각(시)에 따른 해수면의 높이(cm) 변화를 나타낸 곡선 그래프(4, 10, 16, 22시와 38, 50, 100, 145, 150cm 표시)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "바이올린과 피아노 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "소리 분석 프로그램(바이올린, 피아노의 소리)",
+  "해수면의 높이 변화(국립해양조사원 자료)",
+  "음파와 물체의 진동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 번호 4(좌표평면과 그래프)와 쪽 아래 '4.2 그래프의 뜻과 표현'으로 단원을 판단함. '수학 톡 지식 톡' 곁글은 소리가 물체의 진동으로 생긴 음파가 귀에 들리는 것이라는 설명이며 수학 개념은 아님. 문제 3 그래프의 정확한 점 좌표는 이미지에서 일부만 읽힘.",
+ "_page": 117,
+ "_profile": "full",
+ "_usage": {
+  "in": 4597,
+  "out": 1105,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

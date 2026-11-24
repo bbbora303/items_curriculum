@@ -1,0 +1,208 @@
+{
+ "printedPage": "56",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "정수와 유리수의 곱셈",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수와 양의 정수의 곱셈",
+   "role": "정의",
+   "definition": "두 수의 절댓값의 곱에 음의 부호 −를 붙인다.",
+   "notation": "$(-)\\times(+)=(-)$"
+  },
+  {
+   "term": "음의 정수와 음의 정수의 곱셈",
+   "role": "정의",
+   "definition": "두 수의 절댓값의 곱에 양의 부호 +를 붙인다.",
+   "notation": "$(-)\\times(-)=(+)$"
+  },
+  {
+   "term": "유리수의 곱셈",
+   "role": "정의",
+   "definition": "정수의 곱셈과 같은 방법으로 계산한다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$+,\\ -$",
+   "meaning": "양의 부호, 음의 부호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$(-3)\\times(+2),\\ (-3)\\times(+1),\\ (-3)\\times 0,\\ (-3)\\times(-1),\\ (-3)\\times(-2)$ 의 곱: $-6,-3,0,+3,+6$",
+   "plain": "음의 정수 −3에 곱하는 수가 1씩 작아지면 곱은 3씩 커진다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$(-)\\times(+)=(-),\\ (-)\\times(-)=(+)$",
+   "plain": "음의 정수와 양의 정수의 곱은 음수, 음의 정수와 음의 정수의 곱은 양수이다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "부호가 같은 두 수의 곱: 절댓값의 곱에 +, 부호가 다른 두 수의 곱: 절댓값의 곱에 −",
+   "plain": "정수와 유리수의 곱셈은 부호가 같으면 양의 부호, 다르면 음의 부호를 붙인다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$a\\times 0=0$",
+   "plain": "어떤 수와 0의 곱은 항상 0이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(-3)\\times(+2)=(-3)+(-3)=-6$",
+   "plain": "곱셈을 같은 수의 덧셈으로 바꾸어 계산할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "(음의 정수)×(정수) 규칙 관찰",
+   "summary": "(−3)에 +2, +1, 0, −1, −2를 곱한 값의 패턴을 표와 부호 분리 식으로 보여준다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "레일 바이크 설명",
+   "summary": "(+4)×(−3)=−12를 속력 4 m/s와 3초 전의 위치(수직선)로 설명한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(+7)×(+6)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(−9)×(+3)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(+8)×(−6)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(−5)×(−4)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "실생활 소재(레일 바이크)를 이용해 (−5)×(−2)=+10을 설명한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "(−3)에 +2에서 −2까지 곱한 결과를 나열하고 곱이 3씩 커지는 것을 화살표로 표시한 식의 배열.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(−)×(+)→(−), (−)×(−)→(+) 부호 규칙 요약 상자.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "서쪽에서 동쪽으로 −12, −8, −4, 0과 3초 전~현재를 표시한 수직선.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "장식",
+   "desc": "레일 위를 달리는 레일 바이크 일러스트.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "레일 바이크",
+  "속력과 위치(동서 방향)",
+  "시간(전·후)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에서 보이지 않아 내용에 맞춰 '정수와 유리수의 곱셈'으로 적었다. 쪽 하단 표시는 '2. 정수와 유리수'. 이 쪽은 ➋(음의 정수)×(정수)로 시작하므로 앞 쪽에서 (양의 정수)×(정수)를 다뤘을 가능성이 있다.",
+ "_page": 56,
+ "_profile": "full",
+ "_usage": {
+  "in": 5061,
+  "out": 2014,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

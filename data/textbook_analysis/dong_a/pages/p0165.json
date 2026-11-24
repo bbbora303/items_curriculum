@@ -1,0 +1,190 @@
+{
+ "printedPage": "165",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.5 삼각형의 작도",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형이 하나로 정해지는 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 세 변의 길이 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "직선 l",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "작도의 뜻과 눈금 없는 자·컴퍼스의 용도를 빈칸에 써넣기 (3개 빈칸)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나열하시오",
+   "summary": "선분 AB와 길이가 같은 선분 PQ를 작도하는 과정(㉠~㉢)을 순서대로 나열",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "주어진 길이 a를 한 변으로 하는 정삼각형 작도",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "보기 중 삼각형의 세 변의 길이가 될 수 있는 것을 모두 고르기 (3,3,7 / 3,5,6 / 3,6,9 / 3,7,7)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "심화(+표시)",
+   "verb": "고르시오",
+   "summary": "∠A=50°일 때 조건이 추가되어 삼각형 ABC가 하나로 정해지는 것을 모두 고르기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "찢어진 삼각형 모양 응원기의 원래 삼각형을 작도하는 방법 설명",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 선분 a와 정삼각형을 작도할 빈 칸",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 4의 보기 상자(세 변의 길이 ㄱ~ㄹ)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 5의 보기 상자(조건 ㄱ~ㄹ)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 6의 찢어진 삼각형 응원기와 학생 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "체육 대회 응원기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "5.5를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내가 있음. 각 문제 옆에 우수·보통·분발 자기 점검 표정 아이콘이 있음. 문제 6에는 '도전' 표시가 있음. 문제 3은 정삼각형 작도 문제이고 문제 6은 세 변의 길이 또는 한 변과 양 끝각 등 삼각형 결정 조건과 연결되는 활용 문제로 보임.",
+ "_page": 165,
+ "_profile": "full",
+ "_usage": {
+  "in": 4819,
+  "out": 1541,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

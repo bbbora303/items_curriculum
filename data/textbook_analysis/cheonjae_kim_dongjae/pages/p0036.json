@@ -1,0 +1,222 @@
+{
+ "printedPage": "36",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "02 정수와 유리수의 덧셈과 뺄셈 - 정수와 유리수의 덧셈은 어떻게 할까?",
+  "area": "단원 도입 및 개념 설명(생각 열기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 부호",
+   "role": "사용",
+   "definition": "",
+   "notation": "+"
+  },
+  {
+   "term": "음의 부호",
+   "role": "사용",
+   "definition": "",
+   "notation": "-"
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "+",
+   "meaning": "양의 부호: 수직선에서 오른쪽으로 이동",
+   "role": "사용"
+  },
+  {
+   "symbol": "-",
+   "meaning": "음의 부호: 수직선에서 왼쪽으로 이동",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(+3)+(+2)=+(3+2)=+5",
+   "plain": "양의 정수끼리의 덧셈은 수직선에서 오른쪽으로 연속 이동하여 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-3)+(-2)=-(3+2)=-5",
+   "plain": "음의 정수끼리의 덧셈은 수직선에서 왼쪽으로 연속 이동하여 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(+)+(+)\\rightarrow +(\\text{절댓값의 합}),\\ (-)+(-)\\rightarrow -(\\text{절댓값의 합})",
+   "plain": "부호가 같은 두 정수의 덧셈은 두 수의 절댓값의 합에 공통 부호를 붙인다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  }
+ ],
+ "examples": [
+  {
+   "title": "(양의 정수)+(양의 정수)",
+   "summary": "수직선에서 (+3)+(+2)를 0에서 오른쪽으로 3, 다시 2만큼 이동하여 +5를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "(음의 정수)+(음의 정수)",
+   "summary": "수직선에서 (-3)+(-2)를 0에서 왼쪽으로 3, 다시 2만큼 이동하여 -5를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ①",
+   "level": "활동",
+   "verb": "말해 보시오",
+   "summary": "0에서 오른쪽으로 1, 다시 오른쪽으로 2 이동한 위치의 수",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ②",
+   "level": "활동",
+   "verb": "말해 보시오",
+   "summary": "0에서 왼쪽으로 2, 다시 왼쪽으로 3 이동한 위치의 수",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ③",
+   "level": "활동",
+   "verb": "말해 보시오",
+   "summary": "0에서 오른쪽으로 3, 왼쪽으로 4 이동한 위치의 수",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ④",
+   "level": "활동",
+   "verb": "말해 보시오",
+   "summary": "0에서 왼쪽으로 4, 오른쪽으로 5 이동한 위치의 수",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기 ①",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "(+4)+(+3)=+(4+3)=+7 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ②",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "(-6)+(-5)=-(6+5)=-11 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "펜싱 선수가 수직선(-6~6) 위에서 이동하는 그림",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(+3)+(+2)를 화살표로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(-3)+(-2)를 화살표로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "장식",
+   "desc": "펜싱 선수 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "같은 부호 덧셈 규칙을 정리한 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "펜싱"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정수와 유리수의 덧셈과 뺄셈의 원리를 이해하고, 그 계산을 할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호 02와 제목 '정수와 유리수의 덧셈과 뺄셈'은 소단원 도입부에서 확인. 이 쪽은 소단원 시작 쪽이며 같은 부호 두 정수의 덧셈만 다룸. 구체적인 '+' 기호는 색 원 안에 표시됨.",
+ "_page": 36,
+ "_usage": {
+  "in": 4801,
+  "out": 1982,
+  "sec": 11.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

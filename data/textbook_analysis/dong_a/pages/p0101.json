@@ -1,0 +1,315 @@
+{
+ "printedPage": "101",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "곱셈 기호와 나눗셈 기호의 생략",
+   "role": "사용",
+   "definition": "",
+   "notation": "$b\\times 3\\times a\\times b=3ab^2$, $a\\div 4=\\frac{a}{4}$"
+  },
+  {
+   "term": "대입",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "식의 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다항식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상수항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "차수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": "(일차식)$=0$"
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": "$x=(수)$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈 기호(생략 가능)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈 기호(분수 꼴로 나타낼 수 있음)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a^2$",
+   "meaning": "같은 문자의 거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$b\\times 3\\times a\\times b=3ab^2$",
+   "plain": "곱셈 기호를 생략할 때 수는 맨 앞에, 문자는 알파벳 순서로 쓰고 같은 문자는 거듭제곱으로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$a\\div 4=\\frac{a}{4}$",
+   "plain": "나눗셈 기호 ÷를 생략하고 분수 꼴로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$a=-3$일 때 $4a-1=4\\times(-3)-1=-13$",
+   "plain": "문자에 수를 대입하여 식의 값을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$a=b$이면 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $\\frac{a}{c}=\\frac{b}{c}$ (단, $c\\neq 0$)",
+   "plain": "등식의 양변에 같은 수를 더하거나 빼거나 곱하거나 (0이 아닌 수로) 나누어도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$2x+1=3 \\Rightarrow 2x=3-1$",
+   "plain": "이항: 항을 부호를 바꾸어 다른 변으로 옮긴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(일차식)$=0$ → $x=(수)$",
+   "plain": "일차방정식을 풀면 $x=$(수) 꼴로 해를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "대입과 식의 값",
+   "summary": "$a=-3$일 때 $4a-1$의 값을 구하면 $-13$이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "다항식 예시",
+   "summary": "$2x-5y+1$에서 $x$의 계수, $y$의 계수, 상수항, 항을 표시한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "확인 1",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "$-4x-5$에서 상수항이 5인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 2",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "$2x-1$에서 $x$의 차수가 2이고 이차식인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 3",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "$3a$와 $a^3$이 동류항인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 4",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "$-(x-1)+2=-x+3$이 항등식인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 5",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "$a=b$이면 $2a-1=2b-1$인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 6",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "$2x+7$이 일차방정식인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "01",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "입장료 9000원일 때 $x$명의 입장료를 문자를 사용한 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "02",
+   "level": "기본",
+   "verb": "모두 고르시오",
+   "summary": "보기 중 곱셈·나눗셈 기호를 생략해 바르게 나타낸 것을 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "03",
+   "level": "기본",
+   "verb": "것은?",
+   "summary": "$x=-1$일 때 식의 값이 다른 것을 고르기 (5지선다)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$\\frac{3}{2}(4x-2)+\\frac{1}{3}(9x+6)$을 계산하여 $x$의 계수와 상수항의 합 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "곱셈·나눗셈 기호 생략, 대입, 다항식, 등식의 성질, 이항, 일차방정식 풀이를 정리한 요약 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "02번 문제의 보기 ㄱ~ㄹ 상자",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "전시회 입장료"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 난이도 구분으로 01, 02는 '기본', 03, 04는 '표준' 라벨이 붙어 있음(04의 라벨은 03과 같은 구간으로 보임). 개념 정리 상자의 용어는 새로 정의되는 것이 아니라 단원 전체를 복습하는 것이므로 role을 사용으로 표시함. 왼쪽 ○×문제 번호에는 번호만 있고 '확인'이라는 표기는 없음.",
+ "_page": 101,
+ "_profile": "full",
+ "_usage": {
+  "in": 4793,
+  "out": 2676,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,156 @@
+{
+ "printedPage": "110",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "02 그래프",
+  "area": "단원 도입 및 개념 설명(생각 열기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "변수",
+   "role": "정의",
+   "definition": "여러 가지로 변하는 값을 나타내는 문자",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "정의",
+   "definition": "두 변수 사이의 관계를 좌표평면 위에 점, 직선, 곡선 등으로 나타낸 그림",
+   "notation": ""
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": "(높이, 기온)"
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$, $y$",
+   "meaning": "변하는 값(변수)을 나타내는 문자",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(20, 16)$",
+   "meaning": "20초일 때 물의 높이가 16 cm인 점의 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(0, 0)$",
+   "meaning": "0초일 때 물의 높이가 0 cm인 점의 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(40, 0)$",
+   "meaning": "40초일 때 물의 높이가 0 cm인 점의 좌표",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "변수: 여러 가지로 변하는 값을 나타내는 문자",
+   "plain": "변하는 값을 나타내는 문자를 변수라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "그래프: 두 변수 사이의 관계를 좌표평면 위에 나타낸 그림",
+   "plain": "두 변수의 관계를 점, 직선, 곡선 등으로 좌표평면에 나타낸 것이 그래프이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "일정하게 증가하면 선분으로 연결, 일정하게 감소해도 선분으로 연결",
+   "plain": "물의 높이가 일정하게 변하는 구간은 점들을 선분으로 이어 그래프를 그린다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "물통에 물을 채우고 비우는 예",
+   "summary": "높이 16 cm인 빈 물통에 20초 동안 물을 채우고 40초 동안 비울 때 시간 x초와 물의 높이 y cm의 관계를 그래프로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "순서쌍 (높이, 기온)을 좌표로 하는 점을 좌표평면 위에 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "연결해 보자",
+   "summary": "❶에서 나타낸 점을 차례대로 선분으로 연결하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "높이 0~4 km에 따른 기온 24, 18, 12, 6, 0 °C를 나타낸 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "가로축 높이(km), 세로축 기온(°C)인 빈 좌표평면(점을 찍는 활동용)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "물통 그림 위에 (0,0), (20,16), (40,0)을 선분으로 이은 시간-물의 높이 그래프와 설명 말풍선",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "지면으로부터의 높이에 따른 기온",
+  "원기둥 모양 물통에 물을 채우고 비우기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "다양한 상황을 그래프로 나타내고, 주어진 그래프를 해석할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 '02 그래프' 도입 쪽이며 소제목은 '그래프로 어떻게 나타낼까?'. 대단원은 쪽 아래의 'Ⅲ. 좌표평면과 그래프'를 따랐다. 배운 내용/배울 내용 표시는 보이지 않는다.",
+ "_page": 110,
+ "_usage": {
+  "in": 4766,
+  "out": 1554,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

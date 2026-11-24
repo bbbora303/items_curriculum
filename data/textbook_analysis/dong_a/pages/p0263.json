@@ -1,0 +1,129 @@
+{
+ "printedPage": "263",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "수학 돋보기 비판적 사고 능력 키우기",
+  "area": "수학 돋보기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "",
+   "plain": "자료를 표나 그래프로 잘못 나타내면 사실과 다른 정보를 전달하여 혼란을 줄 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "잘못된 히스토그램 예",
+   "summary": "세로축 눈금이 잘못된 통학 시간 히스토그램에서 5분 이상 10분 미만 학생 수가 5분 미만의 2배가 넘는 것처럼 오해할 수 있다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "토론해 보자",
+   "summary": "영화 관람객 나이 조사 자료(각 나이대 수가 비슷함)를 보고 쓴 신문 기사 내용이 적절한지 토론한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "토론해 보자",
+   "summary": "A 휴대 전화 광고(소비자 만족도 점수가 월등히 높다는 주장)가 그래프에 비추어 적절한지 토론한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "세로축 눈금이 잘못된 통학 시간 히스토그램(계급 5분 간격)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "영화를 관람한 사람들의 나이별 사람 수 도수분포표(합계 4800명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A, B 휴대 전화 소비자 만족도 점수를 나타낸 도수분포다각형 두 개",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "웹 브라우저 창 모양 틀과 휴대 전화를 든 손 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "영화 관람객 연령 조사",
+  "신문 기사",
+  "휴대 전화 광고",
+  "소비자 만족도",
+  "통학 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽 아래 인쇄된 '8.5 상대도수 263'에서 쪽 번호는 263. 단원 표시는 8단원(자료의 정리와 해석). 새로 정의되는 용어는 없고 앞서 배운 그래프 해석을 비판적으로 검토하는 활동 쪽이다. 활동 2 그래프의 세부 수치는 읽기 어려워 옮기지 않았다.",
+ "_page": 263,
+ "_profile": "full",
+ "_usage": {
+  "in": 4756,
+  "out": 1126,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

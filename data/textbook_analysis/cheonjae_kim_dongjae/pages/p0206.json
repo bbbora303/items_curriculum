@@ -1,0 +1,177 @@
+{
+ "printedPage": "206",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "부채꼴의 호의 길이와 넓이",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "원주율",
+   "role": "정의",
+   "definition": "원의 크기에 관계없이 일정한, 지름의 길이에 대한 원주의 비의 값",
+   "notation": "\\pi"
+  },
+  {
+   "term": "원주",
+   "role": "사용",
+   "definition": "",
+   "notation": "l"
+  },
+  {
+   "term": "부채꼴의 호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": "l"
+  },
+  {
+   "term": "부채꼴의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": "S"
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": "a^\\circ"
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율, '파이'라고 읽는다",
+   "role": "정의"
+  },
+  {
+   "symbol": "l",
+   "meaning": "원주 또는 부채꼴의 호의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "S",
+   "meaning": "원 또는 부채꼴의 넓이",
+   "role": "사용"
+  },
+  {
+   "symbol": "a^\\circ",
+   "meaning": "부채꼴의 중심각의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "l=2\\pi r,\\ S=\\pi r^2",
+   "plain": "반지름이 r인 원의 둘레와 넓이를 \\pi로 나타낸 식이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "l:2\\pi r=a:360,\\ S:\\pi r^2=a:360",
+   "plain": "부채꼴의 호의 길이와 넓이는 중심각의 크기에 정비례한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "l=2\\pi r\\times\\frac{a}{360},\\ S=\\pi r^2\\times\\frac{a}{360}",
+   "plain": "반지름 r, 중심각 a°인 부채꼴의 호의 길이와 넓이를 구하는 식이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "S=\\frac{1}{2}rl",
+   "plain": "반지름이 r이고 호의 길이가 l인 부채꼴의 넓이는 반지름과 호의 길이의 곱의 절반이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "채워 넣기 1",
+   "summary": "반지름 5 cm인 원의 원주와 넓이를 식의 빈칸을 채워 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "채워 넣기 2",
+   "summary": "반지름 6 cm, 중심각 60°인 부채꼴의 호의 길이와 넓이를 빈칸을 채워 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "부채꼴의 넓이 공식 유도",
+   "summary": "두 식 ①, ②에서 S=\\frac{1}{2}rl을 유도한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "채워 넣기 1",
+   "level": "기본",
+   "verb": "채우시오(빈칸)",
+   "summary": "반지름 5 cm인 원의 원주 l과 넓이 S를 구하는 식의 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 2",
+   "level": "기본",
+   "verb": "채우시오(빈칸)",
+   "summary": "반지름 6 cm, 중심각 60°인 부채꼴의 호의 길이 l과 넓이 S 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "원 안에 중심각 a°, 반지름 r, 호의 길이 l, 넓이 S가 표시된 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반지름 6 cm, 중심각 60°인 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부채꼴을 잘게 나누어 이어 붙여 밑변 \\frac{1}{2}l, 높이 r인 직사각형에 가깝게 만드는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 아래 'V. 도형의 성질'이 인쇄되어 있으나 주어진 대단원 목록에는 '평면도형의 성질'로 대응시켰다. 소단원 번호는 보이지 않아 소제목(부채꼴의 호의 길이와 넓이는 어떻게 구할까?)을 바탕으로 적었다.",
+ "_page": 206,
+ "_usage": {
+  "in": 4708,
+  "out": 1671,
+  "sec": 9.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

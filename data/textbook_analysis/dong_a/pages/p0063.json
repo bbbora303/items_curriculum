@@ -1,0 +1,154 @@
+{
+ "printedPage": "63",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.6 정수와 유리수의 나눗셈",
+  "area": "예제, 문제, 생각 넓히기, 수학 집 짓기"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소괄호·중괄호·대괄호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$()$, $\\{\\}$, $[\\ ]$"
+  },
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "나눗셈을 곱셈으로 바꾸기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\left(-\\frac{1}{2}\\right)^2$",
+   "meaning": "음의 유리수의 거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "괄호가 여러 개인 식: 거듭제곱·소괄호 → 중괄호 → 곱셈 → 덧셈",
+   "plain": "거듭제곱과 괄호 안을 먼저, 안쪽 괄호부터 바깥쪽 순서로 계산하고 곱셈 후 덧셈을 한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$8\\div\\left(-\\frac{2}{3}\\right)=8\\times\\left(-\\frac{3}{2}\\right)=-12$",
+   "plain": "나누는 수를 역수로 바꾸어 곱셈으로 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 2",
+   "summary": "거듭제곱, 소·중괄호가 섞인 $1+\\{6-(5-7)\\}\\times\\left(-\\frac12\\right)^2$을 계산하여 3을 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 4 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$5-[\\{6-(-8)\\}\\times\\frac12+1]$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-3)^3\\times\\{(\\frac32+\\frac14)\\div\\frac34\\}$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하고, 바르게 계산하시오",
+   "summary": "$(-24)\\div(-4)\\times(-6)$의 잘못된 계산 과정(나눗셈을 먼저 하지 않고 뒤를 묶음)의 이유를 설명하고 바르게 계산한다.",
+   "competencyIcons": [
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "풀이 각 단계 옆에 계산 순서를 설명하는 화살표와 말풍선",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "틀린 계산 과정 상자와 알지오매스 화면(결과 -36)",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 캐릭터와 분수 모양으로 나눗셈을 역수의 곱셈으로 바꾸는 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "알지오매스 계산 확인"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "예제 옆 '답 3'에 문제해결 계열의 작은 아이콘이 있으나 정확한 라벨은 읽기 어렵다. 생각 넓히기에서 알지오매스 결과는 -36이고 틀린 풀이는 -1이다.",
+ "_page": 63,
+ "_profile": "full",
+ "_usage": {
+  "in": 4417,
+  "out": 1447,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

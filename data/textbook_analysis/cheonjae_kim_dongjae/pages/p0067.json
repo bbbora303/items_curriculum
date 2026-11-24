@@ -1,0 +1,192 @@
+{
+ "printedPage": "67",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "1. 문자의 사용과 식",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x, y, a, b, h$",
+   "meaning": "문자로 나타낸 수나 양(가격, 길이, 밑변, 높이 등)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$b\\times h\\div 2$",
+   "meaning": "삼각형의 넓이를 문자로 나타낸 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$28-a$",
+   "meaning": "전체 28명에서 남학생 a명을 뺀 여학생 수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$10\\times a+6$",
+   "meaning": "문자를 사용한 식(상황을 만들어 보는 대상)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$50-\\square\\times x$",
+   "meaning": "귤 50개를 x명에게 나누어 주고 남은 귤의 개수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$b\\times h\\div 2$",
+   "plain": "삼각형의 넓이는 밑변의 길이와 높이를 곱한 값의 반이며, 이를 여러 나라 언어와 문자식으로 비교해 본다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "식 28-a로 나타낼 수 있는 상황 글",
+   "summary": "전체 28명 중 남학생이 a명일 때 여학생 수라는 상황을 예시로 제시",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "4병에 x원인 음료수 한 병의 가격을 문자를 사용한 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "가로 a cm, 세로 2 cm인 직사각형의 둘레의 길이를 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "식 28-a의 상황 글을 참고해 식 10×a+6으로 나타낼 수 있는 상황 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문자를 사용한 느낌은? 1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "헌 옷 1kg당 x원, 고철 1kg당 y원일 때 헌 옷 3kg과 고철 7kg을 판 금액을 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문자를 사용한 느낌은? 2",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "식 50-□×x에 맞는 상황(귤을 x명에게 3개씩 나누어 줌)의 빈칸 수 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "활동 (1)",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "일상 언어와 문자를 사용한 식의 공통점과 차이점 말하기",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 (2)",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "문자를 사용한 식의 편리한 점 말하기",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "식과 상황을 짝지은 칸(식 50-□×x, 상황: 귤 나누기)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "네 아이가 한국어, 영어, 아랍어, 문자식으로 삼각형의 넓이를 설명하는 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "밑변 b, 높이 h를 표시한 삼각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "귤 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "음료수 가격",
+  "직사각형의 둘레",
+  "재활용품 수거(헌 옷, 고철)",
+  "학급 학생 수",
+  "귤 나누어 주기",
+  "세계 여러 나라의 언어"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 소단원 번호 없이 '1. 문자의 사용과 식' 쪽 표시만 있어 section은 쪽 표시를 따랐다. 오른쪽 '문자를 사용한 느낌은?'은 FUN 코너의 문제로 보인다. 아랍어 문구는 판독하지 않았다.",
+ "_page": 67,
+ "_usage": {
+  "in": 4636,
+  "out": 1808,
+  "sec": 11.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

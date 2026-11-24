@@ -1,0 +1,145 @@
+{
+ "printedPage": "194",
+ "unit": {
+  "chapter": "평面도형의 성질",
+  "section": "01 다각형의 내각과 외각",
+  "area": "단원 도입 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "내각",
+   "role": "정의",
+   "definition": "다각형에서 이웃한 두 변으로 이루어진 내부의 각",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "정의",
+   "definition": "다각형의 각 꼭짓점에서 한 변과 그 변에 이웃한 변의 연장선으로 이루어진 각",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 내각의 크기의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle A+\\angle B+\\angle C=180^\\circ$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle ACD$",
+   "meaning": "점 C에서 변 AC와 BC의 연장선 CD가 이루는 각(외각)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\angle ACD=\\angle A+\\angle B$",
+   "plain": "삼각형의 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle A+\\angle B+\\angle C=180^\\circ$",
+   "plain": "삼각형의 세 내각의 크기의 합은 180도이다(이미 배운 성질로 사용).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 내각의 외각은 2개이고 서로 맞꼭지각이라 크기가 같다",
+   "plain": "외각은 2개 중 하나만 생각한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "삼각형 ABC에서 한 내각이 40°일 때 변 BC의 연장선 위 점 D에 대해 ∠ACD의 크기를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "∠ACD를 삼각형 ABC의 두 각의 크기의 합으로 나타낼 수 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "채우시오(빈칸 채우기)",
+   "summary": "삼각형에서 두 내각이 60°, 70°일 때 외각 x를 한 외각 = 이웃하지 않는 두 내각의 합으로 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "삼각형 ABC와 변 BC의 연장선 위 점 D, 40° 각 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형에서 내각과 두 외각(맞꼭지각)을 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형 ABC와 연장선 위 점 D로 각 A, B, C와 외각 ACD를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "내각 60°, 70°와 외각 x가 표시된 삼각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "다각형의 내각과 외각의 뜻을 알고, 그 크기를 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 이름이 목록에 정확히 없어 쪽 아래 'V. 도형의 성질'과 목록 중 '평면도형의 성질'을 맞춘 것으로 판단함(chapter 값 오타 주의: '평면도형의 성질'). 단원 도입 요소(소단원 제목, 생각 열기)와 개념 설명이 함께 있는 쪽이다. 역량 아이콘은 보이지 않음.",
+ "_page": 194,
+ "_usage": {
+  "in": 4666,
+  "out": 1507,
+  "sec": 9.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,126 @@
+{
+ "printedPage": "152",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 열기",
+   "corner": "생각 열기",
+   "icons": [
+    "건강"
+   ],
+   "level": "활동",
+   "text": "각을 기호로 어떻게 나타낼까?\n책상에 앉을 때 바른 자세로 앉고 틈틈이 일어나 스트레칭을 해주는 것이 좋다. 다음과 같이 바르게 앉은 자세와 잘못 앉은 자세에 표시한 각 중 예각, 직각, 둔각을 찾아보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "바르게 앉은 자세 그림과 잘못 앉은 자세 그림에 각이 표시되어 있다.",
+   "steps": [
+    "바르게 앉은 자세와 잘못 앉은 자세에 표시한 각 중 예각, 직각, 둔각을 찾아본다."
+   ],
+   "answerFormat": "그림에 표시된 각을 예각, 직각, 둔각으로 구별하여 찾기"
+  },
+  {
+   "kind": "기타",
+   "label": "각의 기호 표기",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "한 점 O에서 시작하는 두 반직선 OA와 OB로 이루어진 도형인 각 AOB를 기호로\n$\\angle AOB$ 또는 $\\angle BOA$\n와 같이 나타낸다.\n또 $\\angle AOB$를 간단히 $\\angle O$ 또는 $\\angle a$와 같이 나타내기도 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "각의 꼭짓점, 변, 크기",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "$\\angle AOB$에서 점 O를 각의 꼭짓점, 두 반직선 OA, OB를 각의 변이라 하고, 꼭짓점 O를 중심으로 변 OA가 변 OB까지 회전한 양을 $\\angle AOB$의 크기라고 한다.\n이때 $\\angle AOB$는 각을 나타내기도 하고, 그 각의 크기를 나타내기도 한다.\n예를 들어 오른쪽 그림에서 $\\angle AOB$의 크기가 $45^\\circ$이면\n$\\angle AOB=45^\\circ$ 또는 $\\angle O=45^\\circ$ 또는 $\\angle a=45^\\circ$\n와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "오른쪽 그림에서 $\\angle AOB$의 크기는 보통 작은 쪽인 $150^\\circ$를 말한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "평각",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "$\\angle AOB$의 두 변 OA, OB가 점 O를 중심으로 반대쪽에 있고 한 직선을 이룰 때, $\\angle AOB$를 평각이라고 한다.\n이때 평각의 크기는 $180^\\circ$이다.\n또 직각의 크기는 $90^\\circ$이므로 평각의 크기의 $\\frac{1}{2}$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "바르게 앉은 자세",
+   "labels": "바르게 앉은 자세",
+   "desc": "의자에 앉아 컴퓨터를 사용하는 학생 그림. 엉덩이와 무릎 부분에 각이 표시되어 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "잘못 앉은 자세",
+   "labels": "잘못 앉은 자세",
+   "desc": "의자에 앉아 컴퓨터를 사용하는 학생 그림. 무릎과 다리 부분에 붉은 선으로 각이 표시되어 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "각 AOB",
+   "labels": "점 O, A, B, 각 a. O에서 반직선 OA는 오른쪽 수평으로, 반직선 OB는 오른쪽 위로 뻗어 있다. 각 a는 O에서 OA와 OB 사이에 표시되어 있다.",
+   "desc": "한 점 O에서 시작하는 두 반직선 OA, OB로 이루어진 각"
+  },
+  {
+   "kind": "도형",
+   "caption": "각의 꼭짓점, 각의 변, ∠AOB의 크기",
+   "labels": "점 O, A, B, 각 a. 설명 상자: '각의 꼭짓점'(점 O를 가리킴), '각의 변'(반직선 OB 쪽을 가리킴), '∠AOB의 크기'(O 둘레의 회전 호를 가리킴)",
+   "desc": "변 OA가 점 O를 중심으로 변 OB까지 회전한 양을 호와 화살표로 나타낸 그림"
+  },
+  {
+   "kind": "도형",
+   "caption": "∠AOB의 크기가 150°인 그림",
+   "labels": "점 A, O, B. 150°, 210°. 점 O에서 반직선 OB는 오른쪽 수평, 반직선 OA는 왼쪽 위로 뻗어 있다. 150°는 작은 쪽 각, 210°는 O 둘레의 큰 쪽 각에 표시되어 있다.",
+   "desc": "각 AOB에서 작은 쪽 각은 150°, 큰 쪽 각은 210°임을 보여 주는 그림"
+  },
+  {
+   "kind": "도형",
+   "caption": "평각",
+   "labels": "점 A, O, B. 평각. 분도기가 A, O, B가 놓인 한 직선 위에 있다.",
+   "desc": "A, O, B가 한 직선 위에 있고 O를 중심으로 반대쪽에 A와 B가 있으며, 분도기로 평각을 나타낸 그림"
+  }
+ ],
+ "incomplete": "분도기의 작은 눈금 숫자와 두 자세 그림의 각 표시 세부는 작아서 읽지 못했다.",
+ "_page": 152,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4058,
+  "out": 2706,
+  "sec": 20.2,
+  "stop": "end_turn"
+ }
+}

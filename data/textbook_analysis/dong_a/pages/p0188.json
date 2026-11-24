@@ -1,0 +1,224 @@
+{
+ "printedPage": "188",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.1 다각형의 내각과 외각 / 6.3 (해결해요)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "다각형의 내각의 크기의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "십이각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정십오각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x의 크기(구할 각)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle ABC=15^\\circ$",
+   "meaning": "각 ABC의 크기가 15도",
+   "role": "사용"
+  },
+  {
+   "symbol": "$^\\circ$",
+   "meaning": "각도의 단위 도",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "십이각형의 내각의 크기의 합 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정십오각형의 한 내각의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "내각의 크기의 합이 $1260^\\circ$인 다각형의 이름 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "오각형에서 주어진 내각 85°, 145°, 95°, 120°를 이용해 $\\angle x$ 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "오각형에서 내각 95°, 135°, 100°(한 변을 연장한 외각)를 이용해 $\\angle x$ 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "정다각형 모양 과자의 일부에서 $\\angle ABC=15^\\circ$일 때 정다각형의 이름 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5(1)",
+   "level": "기본",
+   "verb": "해결하시오",
+   "summary": "한 꼭짓점에서 그을 수 있는 대각선의 개수가 8인 다각형의 내각의 크기의 합 구하기",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5(2)",
+   "level": "활동",
+   "verb": "해결하시오",
+   "summary": "㉠의 값을 바꾸어 문제를 만들고 친구가 만든 문제를 해결하기",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 대각선이 교차하는 도형에서 내각 105°, 110°, 140°, 76°, 30°, 34°가 주어졌을 때 $\\angle x$ 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "한 내각이 $160^\\circ$인 정다각형의 내각의 크기의 합을 구하고 풀이 과정 쓰기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "3(1) 내각 크기가 표시된 오각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "3(2) 한 변을 연장해 외각 100°가 표시된 오각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "4번 정다각형 모양 과자와 꼭짓점 A, B, C 및 15° 표시",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "6번 두 선분이 교차하는 모양의 다각형과 각도 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "5(2) 내가 만든 문제를 쓰는 빈 칸",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "정다각형 모양 과자"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '해결해요' 연습 코너. 5번에 6.1+6.3 통합 표시가 있고 상단에 '6.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요' 안내와 QR코드가 있음. 문항마다 우수/보통/분발 자기 표시 얼굴 아이콘이 있음. 3, 4, 6번의 각도와 도형 세부는 이미지 해상도상 일부 불확실할 수 있음.",
+ "_page": 188,
+ "_profile": "full",
+ "_usage": {
+  "in": 4511,
+  "out": 1909,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,145 @@
+{
+ "printedPage": "189",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.4 다각형의 외각의 크기의 합",
+  "area": "단원 도입 / 생각 1 함께해요"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형의 외각의 크기의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$180^\\circ$",
+   "meaning": "한 꼭짓점에서 내각과 외각의 크기의 합",
+   "role": "사용"
+  },
+  {
+   "symbol": "$n$각형",
+   "meaning": "변이 n개인 다각형",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(\\text{한 꼭짓점의 내각})+(\\text{외각})=180^\\circ",
+   "plain": "한 꼭짓점에서 내각과 외각의 크기의 합은 180°이다(이미 안다고 전제하고 사용).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(\\text{모든 내각과 외각의 합})-(\\text{내각의 합})=(\\text{외각의 합})",
+   "plain": "모든 각의 합에서 내각의 합을 빼면 외각의 합을 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "한 꼭짓점의 내각과 외각의 합이 180°임을 이용해 삼각형~육각형의 모든 내각과 외각의 합, 내각의 합, 외각의 합을 표로 완성한다(삼각형 180°×3=540°, 사각형 180°×4=720° 등).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "n각형의 외각의 크기의 합이 몇 도일지 말해 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "삼각형과 사각형의 외각을 한 점으로 모은 태블릿 화면과 이를 보는 아이들 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형, 사각형, 오각형, 육각형의 각 꼭짓점에 내각(주황)과 외각(보라)을 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "다각형별 모든 내각과 외각의 합, 내각의 합, 외각의 합을 채우는 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "태블릿으로 외각을 한 점에 모으는 활동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입 성격이 있는 6.4 소단원 첫 쪽이다. 학습 목표는 '다각형의 외각의 크기의 합을 구하는 과정을 이해하고 설명할 수 있다'. QR 코드가 있고, 말풍선에서 삼각형·사각형의 외각의 합이 360°임을 제시한다. 대단원 이름은 목록에서 '평면도형의 성질'로 추정했으며(오른쪽 표시는 6단원), 이미지에는 대단원 이름이 직접 보이지 않는다. 빈 표 칸(오각형, 육각형)은 학생이 채우는 부분이다.",
+ "_page": 189,
+ "_profile": "full",
+ "_usage": {
+  "in": 4421,
+  "out": 1359,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

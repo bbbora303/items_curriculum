@@ -1,0 +1,1547 @@
+{
+  "grade": 1,
+  "note": "교과서 차례는 PDF 앞부분 텍스트에서 정리. 소단원-성취기준 연결은 키워드 기반 잠정(mappingConfirmed=false).",
+  "books": {
+    "동아": {
+      "publisher": "동아출판",
+      "pdf": "5-1. [동아] 중_수학 1.pdf",
+      "units": [
+        {
+          "title": "소인수분해",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "소수와 합성수",
+              "startPage": 12,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "소인수분해",
+              "startPage": 16,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "최대공약수",
+              "startPage": 21,
+              "standards": [
+                "9수01-02"
+              ]
+            },
+            {
+              "title": "최소공배수",
+              "startPage": 25,
+              "standards": [
+                "9수01-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "정수와 유리수",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "정수와 유리수",
+              "startPage": 38,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 대소 관계",
+              "startPage": 42,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 덧셈",
+              "startPage": 46,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 뺄셈",
+              "startPage": 51,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 곱셈",
+              "startPage": 55,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 나눗셈",
+              "startPage": 61,
+              "standards": [
+                "9수01-05"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "문자의 사용과 식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "문자의 사용",
+              "startPage": 74,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "식의 값",
+              "startPage": 78,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "일차식과 수의 곱셈, 나눗셈",
+              "startPage": 81,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "일차식의 덧셈과 뺄셈",
+              "startPage": 85,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "일차방정식과 그 해",
+              "startPage": 88,
+              "standards": [
+                "9수02-03"
+              ]
+            },
+            {
+              "title": "일차방정식의 풀이",
+              "startPage": 94,
+              "standards": [
+                "9수02-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "좌표평면과 그래프",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "순서쌍과 좌표",
+              "startPage": 110,
+              "standards": [
+                "9수02-05"
+              ]
+            },
+            {
+              "title": "그래프의 뜻과 표현",
+              "startPage": 114,
+              "standards": [
+                "9수02-06"
+              ]
+            },
+            {
+              "title": "정비례와 그 그래프",
+              "startPage": 120,
+              "standards": [
+                "9수02-07"
+              ]
+            },
+            {
+              "title": "반비례와 그 그래프",
+              "startPage": 126,
+              "standards": [
+                "9수02-07"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "기본 도형과 작도",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "점, 선, 면",
+              "startPage": 142,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "각의 뜻과 성질",
+              "startPage": 146,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "위치 관계",
+              "startPage": 150,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "평행선의 성질",
+              "startPage": 155,
+              "standards": [
+                "9수03-02"
+              ]
+            },
+            {
+              "title": "삼각형의 작도",
+              "startPage": 159,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 합동",
+              "startPage": 166,
+              "standards": [
+                "9수03-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "평면도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다각형의 대각선의 개수",
+              "startPage": 180,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "삼각형의 내각과 외각",
+              "startPage": 183,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "다각형의 내각의 크기의 합",
+              "startPage": 186,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "다각형의 외각의 크기의 합",
+              "startPage": 189,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "원과 부채꼴",
+              "startPage": 192,
+              "standards": [
+                "9수03-06"
+              ]
+            },
+            {
+              "title": "부채꼴의 호의 길이와 넓이",
+              "startPage": 197,
+              "standards": [
+                "9수03-06"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "입체도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다면체",
+              "startPage": 210,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "회전체",
+              "startPage": 215,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "기둥과 뿔의 겉넓이",
+              "startPage": 219,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "기둥과 뿔의 부피",
+              "startPage": 224,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "구의 겉넓이와 부피",
+              "startPage": 229,
+              "standards": [
+                "9수03-08"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "자료의 정리와 해석",
+          "domain": "자료와 가능성",
+          "subUnits": [
+            {
+              "title": "대푯값",
+              "startPage": 242,
+              "standards": [
+                "9수04-01"
+              ]
+            },
+            {
+              "title": "줄기와 잎 그림",
+              "startPage": 246,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "도수분포표",
+              "startPage": 250,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "히스토그램과 도수분포다각형",
+              "startPage": 254,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "상대도수",
+              "startPage": 258,
+              "standards": [
+                "9수04-03"
+              ]
+            },
+            {
+              "title": "통계 프로젝트",
+              "startPage": 264,
+              "standards": [
+                "9수04-04"
+              ]
+            }
+          ]
+        }
+      ],
+      "mappingConfirmed": false,
+      "mappingCheck": {
+        "date": "2026-10-23",
+        "method": "소단원 제목+학습 목표와 성취기준 본문·해설의 낱말 겹침으로 가장 비슷한 성취기준을 찾아 현재 연결과 비교, 불일치 의심은 직접 읽어 판단",
+        "result": "소단원 43개 중 38개 일치. 불일치 의심 5개(소수와 합성수, 정수와 유리수의 뺄셈, 점·선·면, 각의 뜻과 성질, 삼각형의 내각과 외각)는 모두 현재 연결이 타당(겹침 지표의 허점: 동점·일반 낱말)",
+        "coverage": "중1 성취기준 24개 모두 연결, 천재와 같은 24개",
+        "needsHuman": true
+      }
+    },
+    "미래엔": {
+      "publisher": "미래엔",
+      "pdf": "5-2. [미래엔] 중_수학1.pdf",
+      "note": "자료의 정리와 해석(통계) 단원은 차례 쪽(6~7)에서 확인되지 않음 - 별도 확인 필요",
+      "units": [
+        {
+          "title": "소인수분해",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "소수와 합성수",
+              "startPage": 12,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "소인수분해",
+              "startPage": 16,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "최대공약수와 최소공배수",
+              "startPage": 21,
+              "standards": [
+                "9수01-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "정수와 유리수",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "정수와 유리수",
+              "startPage": 32,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 대소 관계",
+              "startPage": 38,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 덧셈",
+              "startPage": 42,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 뺄셈",
+              "startPage": 49,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 곱셈",
+              "startPage": 54,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 나눗셈",
+              "startPage": 61,
+              "standards": [
+                "9수01-05"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "문자와 식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "문자의 사용과 식의 값",
+              "startPage": 74,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "일차식과 수의 곱셈 나눗셈",
+              "startPage": 80,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "일차식의 덧셈과 뺄셈",
+              "startPage": 85,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "등식과 방정식",
+              "startPage": 90,
+              "standards": [
+                "9수02-03"
+              ]
+            },
+            {
+              "title": "일차방정식의 풀이",
+              "startPage": 95,
+              "standards": [
+                "9수02-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "좌표평면과 그래프",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "순서쌍과 좌표",
+              "startPage": 110,
+              "standards": [
+                "9수02-05"
+              ]
+            },
+            {
+              "title": "그래프",
+              "startPage": 115,
+              "standards": [
+                "9수02-06"
+              ]
+            },
+            {
+              "title": "정비례",
+              "startPage": 122,
+              "standards": [
+                "9수02-07"
+              ]
+            },
+            {
+              "title": "반비례",
+              "startPage": 128,
+              "standards": [
+                "9수02-07"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "기본 도형과 작도",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "점 선 면",
+              "startPage": 142,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "각",
+              "startPage": 148,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "위치 관계",
+              "startPage": 153,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "평행선의 성질",
+              "startPage": 160,
+              "standards": [
+                "9수03-02"
+              ]
+            },
+            {
+              "title": "간단한 도형의 작도",
+              "startPage": 165,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 작도",
+              "startPage": 168,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 합동 조건",
+              "startPage": 174,
+              "standards": [
+                "9수03-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "평면도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다각형",
+              "startPage": 184,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "삼각형의 내각과 외각",
+              "startPage": 187,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "다각형의 내각과 외각의 크기의 합",
+              "startPage": 190,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "원과 부채꼴",
+              "startPage": 196,
+              "standards": [
+                "9수03-06"
+              ]
+            },
+            {
+              "title": "부채꼴의 호의 길이와 넓이",
+              "startPage": 200,
+              "standards": [
+                "9수03-06"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "입체도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다면체",
+              "startPage": 212,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "회전체",
+              "startPage": 218,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "기둥과 뿔의 부피",
+              "startPage": 223,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "기둥과 뿔의 겉넓이",
+              "startPage": 228,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "구의 부피와 겉넓이",
+              "startPage": 233,
+              "standards": [
+                "9수03-08"
+              ]
+            }
+          ]
+        }
+      ],
+      "mappingConfirmed": false
+    },
+    "비상교육": {
+      "publisher": "비상교육",
+      "pdf": "5-3. [비상교육] 중_수학 1.pdf",
+      "units": [
+        {
+          "title": "소인수분해",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "소인수분해",
+              "startPage": 14,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "최대공약수와 최소공배수",
+              "startPage": 19,
+              "standards": [
+                "9수01-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "정수와 유리수",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "정수와 유리수",
+              "startPage": 30,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 덧셈과 뺄셈",
+              "startPage": 37,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 곱셈과 나눗셈",
+              "startPage": 45,
+              "standards": [
+                "9수01-05"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "문자의 사용과 식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "문자의 사용",
+              "startPage": 66,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "일차식과 그 계산",
+              "startPage": 71,
+              "standards": [
+                "9수02-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "일차방정식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "방정식과 그 해",
+              "startPage": 84,
+              "standards": [
+                "9수02-03"
+              ]
+            },
+            {
+              "title": "일차방정식의 풀이와 활용",
+              "startPage": 88,
+              "standards": [
+                "9수02-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "좌표와 그래프",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "순서쌍과 좌표",
+              "startPage": 106,
+              "standards": [
+                "9수02-05"
+              ]
+            },
+            {
+              "title": "그래프와 그 해석",
+              "startPage": 110,
+              "standards": [
+                "9수02-06"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "정비례와 반비례",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "정비례",
+              "startPage": 120,
+              "standards": [
+                "9수02-07"
+              ]
+            },
+            {
+              "title": "반비례",
+              "startPage": 126,
+              "standards": [
+                "9수02-07"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "기본 도형",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "점, 선, 면, 각",
+              "startPage": 144,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "점, 직선, 평면의 위치 관계",
+              "startPage": 152,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "동위각과 엇각",
+              "startPage": 157,
+              "standards": [
+                "9수03-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "작도와 합동",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "삼각형의 작도",
+              "startPage": 166,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 합동",
+              "startPage": 173,
+              "standards": [
+                "9수03-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "평면도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다각형",
+              "startPage": 188,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "원과 부채꼴",
+              "startPage": 194,
+              "standards": [
+                "9수03-06"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "입체도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다면체와 회전체",
+              "startPage": 206,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "입체도형의 겉넓이와 부피",
+              "startPage": 214,
+              "standards": [
+                "9수03-08"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "자료의 정리와 해석",
+          "domain": "자료와 가능성",
+          "subUnits": [
+            {
+              "title": "대푯값",
+              "startPage": 236,
+              "standards": [
+                "9수04-01"
+              ]
+            },
+            {
+              "title": "줄기와 잎 그림, 도수분포표",
+              "startPage": 240,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "히스토그램과 도수분포다각형",
+              "startPage": 245,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "상대도수와 그 그래프",
+              "startPage": 248,
+              "standards": [
+                "9수04-03"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "통계적 문제해결",
+          "domain": "자료와 가능성",
+          "subUnits": [
+            {
+              "title": "통계적 문제해결",
+              "startPage": 255,
+              "standards": [
+                "9수04-04"
+              ]
+            }
+          ]
+        }
+      ],
+      "mappingConfirmed": false
+    },
+    "천재(김동재)": {
+      "publisher": "천재교육",
+      "author": "김동재",
+      "pdf": "5-4. [천재] 중_수학1(김동재).pdf",
+      "units": [
+        {
+          "title": "소인수분해",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "소인수분해",
+              "startPage": 12,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "최대공약수",
+              "startPage": 16,
+              "standards": [
+                "9수01-02"
+              ]
+            },
+            {
+              "title": "최소공배수",
+              "startPage": 18,
+              "standards": [
+                "9수01-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "정수와 유리수",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "정수와 유리수의 뜻과 대소 관계",
+              "startPage": 26,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 덧셈과 뺄셈",
+              "startPage": 36,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 곱셈과 나눗셈",
+              "startPage": 44,
+              "standards": [
+                "9수01-05"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "문자의 사용과 식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "문자를 사용한 식",
+              "startPage": 66,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "식의 값",
+              "startPage": 70,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "일차식",
+              "startPage": 72,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "일차식의 계산",
+              "startPage": 74,
+              "standards": [
+                "9수02-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "일차방정식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "방정식과 그 해",
+              "startPage": 84,
+              "standards": [
+                "9수02-03"
+              ]
+            },
+            {
+              "title": "일차방정식과 그 풀이",
+              "startPage": 88,
+              "standards": [
+                "9수02-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "좌표평면과 그래프",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "순서쌍과 좌표",
+              "startPage": 106,
+              "standards": [
+                "9수02-05"
+              ]
+            },
+            {
+              "title": "그래프",
+              "startPage": 110,
+              "standards": [
+                "9수02-06"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "정비례와 반비례",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "정비례",
+              "startPage": 120,
+              "standards": [
+                "9수02-07"
+              ]
+            },
+            {
+              "title": "반비례",
+              "startPage": 126,
+              "standards": [
+                "9수02-07"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "기본 도형",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "점, 선, 면, 각",
+              "startPage": 148,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "위치 관계",
+              "startPage": 158,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "평행선의 성질",
+              "startPage": 162,
+              "standards": [
+                "9수03-02"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "작도와 합동",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "간단한 도형의 작도",
+              "startPage": 172,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 작도",
+              "startPage": 176,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 합동 조건",
+              "startPage": 180,
+              "standards": [
+                "9수03-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "평면도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다각형의 내각과 외각",
+              "startPage": 194,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "다각형의 대각선",
+              "startPage": 200,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "원과 부채꼴",
+              "startPage": 202,
+              "standards": [
+                "9수03-06"
+              ]
+            },
+            {
+              "title": "부채꼴의 호의 길이와 넓이",
+              "startPage": 204,
+              "standards": [
+                "9수03-06"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "입체도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다면체와 회전체",
+              "startPage": 214,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "기둥의 겉넓이와 부피",
+              "startPage": 220,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "뿔의 겉넓이와 부피",
+              "startPage": 224,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "구의 겉넓이와 부피",
+              "startPage": 228,
+              "standards": [
+                "9수03-08"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "자료의 정리와 해석",
+          "domain": "자료와 가능성",
+          "subUnits": [
+            {
+              "title": "대푯값",
+              "startPage": 242,
+              "standards": [
+                "9수04-01"
+              ]
+            },
+            {
+              "title": "줄기와 잎 그림과 도수분포표",
+              "startPage": 246,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "히스토그램과 도수분포다각형",
+              "startPage": 250,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "상대도수",
+              "startPage": 254,
+              "standards": [
+                "9수04-03"
+              ]
+            },
+            {
+              "title": "통계적 탐구 문제의 설정과 해결",
+              "startPage": 258,
+              "standards": [
+                "9수04-04"
+              ]
+            }
+          ]
+        }
+      ],
+      "mappingConfirmed": false,
+      "mappingCheck": {
+        "date": "2026-10-23",
+        "method": "동아와 동일",
+        "result": "소단원 35개 중 28개 일치. 불일치 의심 7개(소인수분해, 정수와 유리수의 덧셈과 뺄셈, 반비례, 간단한 도형의 작도, 다각형의 내각과 외각, 다각형의 대각선, 구의 겉넓이와 부피)는 모두 현재 연결이 타당",
+        "coverage": "중1 성취기준 24개 모두 연결",
+        "needsHuman": true
+      }
+    },
+    "천재(김화경)": {
+      "publisher": "천재교과서",
+      "author": "김화경",
+      "pdf": "5-5. [천재] 중_수학1(김화경).pdf",
+      "units": [
+        {
+          "title": "수와 연산",
+          "domain": "수와 연산",
+          "subUnits": [
+            {
+              "title": "소인수분해",
+              "startPage": 11,
+              "standards": [
+                "9수01-01"
+              ]
+            },
+            {
+              "title": "최대공약수와 최소공배수",
+              "startPage": 18,
+              "standards": [
+                "9수01-02"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 뜻과 대소 관계",
+              "startPage": 24,
+              "standards": [
+                "9수01-03",
+                "9수01-04"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 덧셈",
+              "startPage": 32,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 뺄셈",
+              "startPage": 37,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 곱셈",
+              "startPage": 42,
+              "standards": [
+                "9수01-05"
+              ]
+            },
+            {
+              "title": "정수와 유리수의 나눗셈",
+              "startPage": 49,
+              "standards": [
+                "9수01-05"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "문자와 식",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "문자의 사용과 식의 값",
+              "startPage": 65,
+              "standards": [
+                "9수02-01"
+              ]
+            },
+            {
+              "title": "일차식과 수의 곱셈, 나눗셈",
+              "startPage": 71,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "일차식의 덧셈과 뺄셈",
+              "startPage": 76,
+              "standards": [
+                "9수02-02"
+              ]
+            },
+            {
+              "title": "방정식과 그 해",
+              "startPage": 81,
+              "standards": [
+                "9수02-03"
+              ]
+            },
+            {
+              "title": "일차방정식",
+              "startPage": 86,
+              "standards": [
+                "9수02-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "좌표평면과 그래프",
+          "domain": "변화와 관계",
+          "subUnits": [
+            {
+              "title": "순서쌍과 좌표",
+              "startPage": 103,
+              "standards": [
+                "9수02-05"
+              ]
+            },
+            {
+              "title": "그래프와 그 해석",
+              "startPage": 108,
+              "standards": [
+                "9수02-06"
+              ]
+            },
+            {
+              "title": "정비례",
+              "startPage": 114,
+              "standards": [
+                "9수02-07"
+              ]
+            },
+            {
+              "title": "반비례",
+              "startPage": 121,
+              "standards": [
+                "9수02-07"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "도형의 기초",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "점, 선, 면",
+              "startPage": 137,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "각",
+              "startPage": 141,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "점, 직선, 평면의 위치 관계",
+              "startPage": 146,
+              "standards": [
+                "9수03-01"
+              ]
+            },
+            {
+              "title": "평행선의 성질",
+              "startPage": 152,
+              "standards": [
+                "9수03-02"
+              ]
+            },
+            {
+              "title": "삼각형의 작도",
+              "startPage": 157,
+              "standards": [
+                "9수03-03"
+              ]
+            },
+            {
+              "title": "삼각형의 합동",
+              "startPage": 165,
+              "standards": [
+                "9수03-04"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "도형의 성질",
+          "domain": "도형과 측정",
+          "subUnits": [
+            {
+              "title": "다각형",
+              "startPage": 179,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "다각형의 내각과 외각의 크기",
+              "startPage": 184,
+              "standards": [
+                "9수03-05"
+              ]
+            },
+            {
+              "title": "원과 부채꼴",
+              "startPage": 191,
+              "standards": [
+                "9수03-06"
+              ]
+            },
+            {
+              "title": "다면체와 회전체",
+              "startPage": 198,
+              "standards": [
+                "9수03-07"
+              ]
+            },
+            {
+              "title": "기둥의 겉넓이와 부피",
+              "startPage": 206,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "뿔의 겉넓이와 부피",
+              "startPage": 211,
+              "standards": [
+                "9수03-08"
+              ]
+            },
+            {
+              "title": "구의 겉넓이와 부피",
+              "startPage": 216,
+              "standards": [
+                "9수03-08"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "통계",
+          "domain": "자료와 가능성",
+          "subUnits": [
+            {
+              "title": "대푯값",
+              "startPage": 229,
+              "standards": [
+                "9수04-01"
+              ]
+            },
+            {
+              "title": "줄기와 잎 그림, 도수분포표",
+              "startPage": 235,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "히스토그램과 도수분포다각형",
+              "startPage": 240,
+              "standards": [
+                "9수04-02"
+              ]
+            },
+            {
+              "title": "상대도수",
+              "startPage": 245,
+              "standards": [
+                "9수04-03"
+              ]
+            },
+            {
+              "title": "통계적 문제해결 과정",
+              "startPage": 249,
+              "standards": [
+                "9수04-04"
+              ]
+            }
+          ]
+        }
+      ],
+      "mappingConfirmed": false
+    }
+  }
+}

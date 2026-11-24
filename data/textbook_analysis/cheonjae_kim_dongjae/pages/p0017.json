@@ -1,0 +1,139 @@
+{
+ "printedPage": "17",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "02 최대공약수와 최소공배수",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2\\times3\\times5$",
+   "meaning": "거듭제곱을 이용한 소인수분해 꼴",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 최대공약수 구하기: (1) $2^2\\times3\\times5$, $2^3\\times5^2$ (2) 126, 180, 270",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "두 수가 서로소인 것을 모두 찾기: (1) $3^2$, $2^2\\times3$ (2) 17, 19 (3) $2\\times3\\times7$, $5\\times11$ (4) 572, 605",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "두 수 $2^3\\times5\\times11$, $2^2\\times3\\times5^3$의 공약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "서로소인 두 합성수 말하기(추론)",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "두 수 $2^3\\times3^3\\times7$과 $2^2\\times3^3\\times5$의 공약수를 작은 수부터 차례대로 연결해 그림 완성하기",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "숫자와 두 수의 소인수분해 꼴이 점으로 흩어져 있는 점잇기 그림으로, 공약수를 작은 수부터 이으면 텐트가 있는 풍경이 완성된다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "캠핑 텐트 풍경",
+  "서로소로 삼행시 짓기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 문제 내용(최대공약수, 서로소)을 근거로 추정함. 점잇기 활동에서 점 위의 숫자는 약수 후보이며 공약수는 1, 2, 3, 4, 6, 9, 12, 18, 36이 된다. 점 중 0과 5 등은 공약수가 아니어서 함정 점으로 보임. 이 쪽에서 새로 정의되는 용어는 없다.",
+ "_page": 17,
+ "_usage": {
+  "in": 4362,
+  "out": 1256,
+  "sec": 10.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

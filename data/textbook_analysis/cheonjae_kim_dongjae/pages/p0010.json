@@ -1,0 +1,200 @@
+{
+ "printedPage": "10",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분수의 사칙계산",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 부호",
+   "role": "사용",
+   "definition": "",
+   "notation": "+"
+  },
+  {
+   "term": "음의 부호",
+   "role": "사용",
+   "definition": "",
+   "notation": "-"
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$>$, $<$",
+   "meaning": "두 수의 크기 비교 부호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$+$, $-$",
+   "meaning": "양의 부호, 음의 부호",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "20=1×20=2×10=4×5를 보고 20의 약수와 20이 어떤 수의 배수인지 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "12와 18의 공약수·최대공약수, 6과 15의 공배수·최소공배수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "분수와 소수 두 수의 크기를 비교하여 >, < 중 알맞은 것을 쓴다. 1/5과 1/3, 3/2과 5/4, 7/10과 0.6, 1.2와 1.21",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수의 덧셈, 뺄셈, 곱셈, 나눗셈을 계산한다. 3/2+1/2, 8/3−1, 4/3×9/2, 9/7÷3/35",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "돋보기를 든 학생 그림과 엄지 척 모양 1~4 체크 표시",
+   "_raw": "기타",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "로봇 손 위에 소인수분해, 정수, 유리수, 음수 등 핵심 용어가 담긴 단어 구름",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "20=1×20, 20=2×10, 20=4×5 곱셈식이 적힌 상자",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "약수와 배수",
+   "공약수와 최대공약수",
+   "공배수와 최소공배수",
+   "분수와 소수의 크기 비교",
+   "분수의 사칙계산"
+  ],
+  "current": [
+   "소인수분해의 뜻을 알고 자연수를 소인수분해하기",
+   "소인수분해로 최대공약수와 최소공배수 구하기",
+   "음수의 필요성 인식, 양의 부호·음의 부호, 정수와 유리수의 개념 이해",
+   "정수와 유리수의 대소 관계 판단",
+   "정수와 유리수의 사칙계산의 원리 이해와 계산"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 도입 '나의 학습 준비 상태'와 '이 단원의 학습 목표' 쪽이다. 하단에 'Ⅰ. 수와 연산'이 인쇄되어 있다. 이는 대단원 목록에 없는 상위 영역(수와 연산) 표시로, 소인수분해와 정수와 유리수 두 단원을 함께 묶는다. 대단원 이름과 소단원은 이 쪽에서 확정할 수 없어 비워 두었다. 학습 목표 1·3·4번의 초성 빈칸은 소인수분해(ㅅㅇㅅㅂㅎ), 양수·음수(ㅇㅅ), 정수·유리수(ㅈㅅ, ㅇㄹㅅ)로 추정되며, 이는 글자층과 단어 구름에서 보이는 용어를 바탕으로 한 것이다. 중2·중3 배울 내용 표시는 없다.「이 단원의 학습 목표」는 gradeLinks.current에 옮겼다.",
+ "_page": 10,
+ "_usage": {
+  "in": 4698,
+  "out": 1787,
+  "sec": 11.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

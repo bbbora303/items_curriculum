@@ -1,0 +1,170 @@
+{
+ "printedPage": "26",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "01 정수와 유리수의 뜻과 대소 관계",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "양의 부호",
+   "role": "정의",
+   "definition": "서로 반대되는 성질을 가진 양을 나타낼 때 쓰는 기호 +를 양의 부호라고 한다.",
+   "notation": "+"
+  },
+  {
+   "term": "음의 부호",
+   "role": "정의",
+   "definition": "서로 반대되는 성질을 가진 양을 나타낼 때 쓰는 기호 -를 음의 부호라고 한다.",
+   "notation": "-"
+  },
+  {
+   "term": "양수",
+   "role": "정의",
+   "definition": "0이 아닌 수에 양의 부호 +를 붙인 수를 양수라고 한다.",
+   "notation": "+1, +\\frac{3}{2}, +4.5"
+  },
+  {
+   "term": "음수",
+   "role": "정의",
+   "definition": "0이 아닌 수에 음의 부호 -를 붙인 수를 음수라고 한다.",
+   "notation": "-1, -\\frac{6}{7}, -8.9"
+  },
+  {
+   "term": "해발",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해저",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "+",
+   "meaning": "양의 부호(덧셈 기호와 모양은 같으나 뜻이 다름)",
+   "role": "정의"
+  },
+  {
+   "symbol": "-",
+   "meaning": "음의 부호(뺄셈 기호와 모양은 같으나 뜻이 다름)",
+   "role": "정의"
+  },
+  {
+   "symbol": "+1915\\text{ m}",
+   "meaning": "해발 1915 m",
+   "role": "사용"
+  },
+  {
+   "symbol": "-80\\text{ m}",
+   "meaning": "해저 80 m",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "서로 반대되는 성질의 양 → 기호 +, -로 나타냄",
+   "plain": "기준을 중심으로 반대되는 성질을 가진 양은 + 또는 - 기호를 붙여 수로 나타낼 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "+10 \\to 양의 10,\\ -10 \\to 음의 10",
+   "plain": "부호가 붙은 수는 '양의', '음의'를 붙여 읽는다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "0은 양수도 음수도 아니다",
+   "plain": "0은 양수도 아니고 음수도 아니다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "지리산과 보령 해저 터널",
+   "summary": "해수면을 0 m로 할 때 해발 1915 m는 +1915 m, 해저 80 m는 -80 m로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "해발 15 m를 어떻게 나타낼 수 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "해저 7 m를 어떻게 나타낼 수 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "나타낼 수 있다(빈칸 채우기)",
+   "summary": "발사 10초 전을 -10초로 나타낼 때 발사 5초 후를 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "수면을 0 m로 하여 섬의 해발 15 m에서 쓰레기를 줍는 사람들과 해저 7 m에서 쓰레기를 줍는 잠수부를 나타낸 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "우주선 발사 장면 사진(채워 넣기 옆)",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "환경(쓰레기 줍기 활동)",
+  "해발과 해저",
+  "지리산 높이",
+  "보령 해저 터널",
+  "우주선 발사 카운트다운"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "다양한 상황을 이용하여 음수의 필요성을 인식하고, 양수와 음수, 정수와 유리수의 개념을 이해한다.",
+   "정수와 유리수의 대소 관계를 판단할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 01 '정수와 유리수의 뜻과 대소 관계'의 첫 쪽(생각 열기 + 양수·음수 도입). 쪽 아래 표기는 'Ⅰ. 수와 연산'이며 대단원 목록상 '정수와 유리수'로 분류함. 정수·유리수 용어는 이 쪽에서 아직 정의되지 않음. 역량 아이콘은 보이지 않음.",
+ "_page": 26,
+ "_usage": {
+  "in": 4799,
+  "out": 1751,
+  "sec": 11.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

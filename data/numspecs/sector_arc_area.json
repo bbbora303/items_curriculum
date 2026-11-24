@@ -1,0 +1,36 @@
+{
+  "id": "sector_arc_area_v1",
+  "description": "부채꼴의 호의 길이와 넓이를 구하고, 반지름을 2배로 한 부채꼴과 비교하는 세트용 수치 후보",
+  "standards": ["9수03-06"],
+  "taskPatterns": ["context_compute_judge", "judge_claim", "table_then_relation"],
+  "status": "draft - 사람이 검수하기 전 초안",
+  "variables": {
+    "r": {"range": [3, 12], "unit": "cm", "meaning": "원래 부채꼴의 반지름"},
+    "theta": {"values": [30, 45, 60, 90, 120, 135, 150, 180, 240, 270, 300], "unit": "도", "meaning": "중심각"}
+  },
+  "derived": {
+    "arc": "2 * pi * r * theta / 360",
+    "area": "pi * r ** 2 * theta / 360",
+    "r2": "2 * r",
+    "area2": "pi * r2 ** 2 * theta / 360",
+    "areaRatio": "area2 / area",
+    "full_circle_area": "pi * r ** 2"
+  },
+  "constraints": [
+    "denom(coef_pi(arc)) == 1",
+    "denom(coef_pi(area)) == 1",
+    "numer(coef_pi(area)) <= 120",
+    "theta != 180",
+    "area != arc"
+  ],
+  "difficulty": {
+    "easy": "theta in (90, 270) and r <= 8",
+    "medium": "theta in (60, 120, 240, 300)",
+    "hard": "theta in (45, 135, 150, 30)"
+  },
+  "claimDesign": {
+    "note": "친구 주장 판단 소문항에서 쓰는 거짓 주장: '반지름만 2배로 하면 넓이도 2배가 된다'. 참값은 areaRatio(=4)이므로 주장은 항상 거짓이다.",
+    "falseClaimFactor": 2,
+    "trueFactor": "areaRatio"
+  }
+}

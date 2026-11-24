@@ -1,0 +1,147 @@
+{
+ "printedPage": "71",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "식의 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x^2$",
+   "meaning": "x의 제곱(거듭제곱 표기)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\frac{x}{2}$",
+   "meaning": "분수 꼴로 나타낸 문자식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$xy^2$",
+   "meaning": "곱셈 기호를 생략한 문자의 곱과 거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "보기(와글와글 수학 활동)",
+   "summary": "키가 h cm일 때 적당한 의자 높이 0.23h에 h=165를 대입하여 37.95 cm를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "x=-6일 때 x+2, 5-x, x/2+1, -x^2의 값 구하기(4문항)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "x=5/6일 때 식 2-3x의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "x=-4, y=2일 때 x^2-5y의 계산 과정에서 잘못된 부분(-4^2 처리)을 찾아 까닭을 설명하고 바르게 계산하기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "x=1, y=-2일 때 4x-3y, -2x+xy^2, (x-y)/(xy)의 값 구하기(3문항)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "써 보자",
+   "summary": "실생활 상황(달에서의 무게, 적당한 책상·의자 높이, 지면 높이에 따른 기온)을 보기처럼 식의 값을 이용해 글로 쓰기",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 2에서 x^2-5y의 잘못된 계산 과정을 보여 주는 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "컴퓨터 앞에 앉은 학생과 창밖 풍경, 세 가지 실생활 식 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "학생이 직접 글을 쓰는 줄 공책 칸",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "달에서의 무게",
+  "적당한 책상·의자 높이",
+  "지면으로부터 높이에 따른 기온",
+  "키"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 이 쪽에 보이지 않아 비워 둠. 하단에 '1. 문자의 사용과 식'만 표시됨. 문제 번호 1+, 2+는 오른쪽 단의 +표시 심화 문항으로 읽었음. 활동 속 '문자의 사용과 식' 상황식은 식의 값을 이용해 쓰는 활동임.",
+ "_page": 71,
+ "_usage": {
+  "in": 4575,
+  "out": 1345,
+  "sec": 9.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

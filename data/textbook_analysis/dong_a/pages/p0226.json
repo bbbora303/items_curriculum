@@ -1,0 +1,138 @@
+{
+ "printedPage": "226",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "생각 2 뿔의 부피는 어떻게 구할까요?",
+  "area": "탐구활동(함께해요)"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "뿔의 부피",
+   "role": "정의",
+   "definition": "뿔의 부피는 밑면이 합동이고 높이가 같은 기둥 부피의 $\\frac{1}{3}$이다.",
+   "notation": "$\\frac{1}{3}\\times(\\text{밑넓이})\\times(\\text{높이})$"
+  },
+  {
+   "term": "사각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(\\text{뿔의 부피})=\\frac{1}{3}\\times(\\text{밑넓이})\\times(\\text{높이})",
+   "plain": "뿔의 부피는 밑넓이와 높이가 같은 기둥 부피의 3분의 1이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(\\text{사각뿔의 부피})=\\frac{1}{3}\\times(\\text{사각기둥의 부피}),\\ (\\text{원뿔의 부피})=\\frac{1}{3}\\times(\\text{원기둥의 부피})",
+   "plain": "밑면이 합동이고 높이가 같은 뿔은 기둥 부피의 3분의 1이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "뿔 모양 그릇으로 모래를 몇 번 부으면 기둥 모양 그릇이 가득 차는지 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "활동 결과로 사각뿔·원뿔의 부피를 각각 기둥 부피의 몇 배인지 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "사각뿔 모양 그릇에 모래를 채워 사각기둥 그릇에 붓는 3단계 활동 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "원뿔 모양 그릇에 모래를 채워 원기둥 그릇에 붓는 3단계 활동 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "모래를 그릇에 붓는 실험"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "빈칸은 비어 있어 정답은 쓰여 있지 않음. 활동 결과(3번, $\\frac{1}{3}$)는 아래 설명과 공식으로 제시됨. 역량 아이콘은 보이지 않음.",
+ "_page": 226,
+ "_profile": "full",
+ "_usage": {
+  "in": 4414,
+  "out": 1222,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

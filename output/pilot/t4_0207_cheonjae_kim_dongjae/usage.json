@@ -1,0 +1,46 @@
+{
+ "rows": [
+  {
+   "stage": "G0",
+   "in": 1347,
+   "out": 1601,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G1",
+   "in": 5365,
+   "out": 2522,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G2",
+   "in": 6673,
+   "out": 2443,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G3-1",
+   "in": 26034,
+   "out": 20522,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "풀이판정",
+   "in": 8471,
+   "out": 881,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "AI점검",
+   "in": 15717,
+   "out": 6751,
+   "stop": "end_turn"
+  }
+ ],
+ "total": {
+  "calls": 6,
+  "in": 63607,
+  "out": 34720,
+  "estUSD": 0.474
+ }
+}

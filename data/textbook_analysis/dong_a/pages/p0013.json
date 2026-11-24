@@ -1,0 +1,124 @@
+{
+ "printedPage": "13",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.1 소수와 합성수",
+  "area": "생각2 / 함께해요 / 수학 집 짓기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "정의",
+   "definition": "1보다 큰 자연수 중에서 1과 자기 자신만을 약수로 가지는 수",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "에라토스테네스의 체",
+   "role": "정의",
+   "definition": "고대 그리스의 수학자 에라토스테네스가 고안한, 배수를 차례로 지워 소수를 찾는 방법",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "소수의 배수(자기 자신 제외)는 합성수이다",
+   "plain": "소수의 배수 중 자기 자신을 뺀 수는 모두 합성수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "1보다 큰 자연수 중 1과 자기 자신만을 약수로 가지는 수 = 소수",
+   "plain": "약수가 1과 자기 자신뿐인 1보다 큰 자연수가 소수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "1을 지운다 → 2는 남기고 2의 배수 지운다 → 3, 5도 같은 방법 → 반복",
+   "plain": "1을 지우고, 남은 처음 수는 남기고 그 배수를 모두 지우는 일을 반복하면 소수만 남는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "해 보자(○표를 하시오)",
+   "summary": "위 방법으로 1부터 100까지의 자연수 중에서 소수를 찾아 ○표를 한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "질문",
+   "level": "활동",
+   "verb": "생각해 보자",
+   "summary": "소수는 모두 홀수인지 묻는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "1~30의 수에서 1과 합성수를 지우고 소수에 ○표를 한 예시 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "1부터 100까지의 자연수를 10열로 나열한 표(소수 찾기 활동용)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "숫자 캐릭터 2, 3, 5, 7, 11, 13, 17, 19, 23이 길 위에 서 있고 '우리는 약수가 2개야.'라는 말풍선이 있는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'생각2'는 소수 찾는 방법을 안내하는 도입 활동이다. 합성수는 앞에서 이미 정의된 것으로 보고 '사용'으로 분류했다. '수학 집 짓기'의 빈칸에는 '소수'가 들어 있고 소수의 정의가 이 쪽에 나온다. 에라토스테네스 설명은 '수학 톡 지식 톡' 코너에 있다.",
+ "_page": 13,
+ "_profile": "full",
+ "_usage": {
+  "in": 4809,
+  "out": 1208,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

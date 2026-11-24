@@ -1,0 +1,114 @@
+{
+ "printedPage": "182",
+ "pageType": "탐구활동",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "수학 역량 쑥쑥 더하기",
+   "corner": "수학 역량 쑥쑥 더하기",
+   "icons": [],
+   "level": "",
+   "text": "수학 역량 쑥쑥 더하기",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "1",
+   "corner": "삼각형을 하나로 작도할 수 있을까?",
+   "icons": [
+    "추론",
+    "의사소통"
+   ],
+   "level": "활동",
+   "text": "다음의 각 경우에 삼각형을 하나로 작도할 수 있는지 친구들과 이야기해 보자.",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "세 각의 크기가 주어질 때"
+    },
+    {
+     "label": "2",
+     "text": "두 변의 길이와 그 끼인각이 아닌 한 각의 크기가 주어질 때"
+    },
+    {
+     "label": "3",
+     "text": "한 변의 길이와 그 양 끝 각이 아닌 두 각의 크기가 주어질 때"
+    }
+   ],
+   "conditions": [],
+   "given": "1: 세 각의 크기, 2: 두 변의 길이 a, b와 끼인각이 아닌 한 각의 크기, 3: 한 변의 길이 c와 그 양 끝 각이 아닌 두 각의 크기",
+   "steps": [
+    "각 경우에 삼각형을 하나로 작도할 수 있는지 친구들과 이야기한다."
+   ],
+   "answerFormat": "친구들과 이야기하기"
+  },
+  {
+   "kind": "활동",
+   "label": "2",
+   "corner": "합동인 삼각형 찾기",
+   "icons": [
+    "문제해결",
+    "연결"
+   ],
+   "level": "활동",
+   "text": "오른쪽 그림에서 $\\triangle ABC$와 $\\triangle CDE$는 정삼각형이고 $\\overline{AE}=3\\text{ cm}$, $\\overline{BC}=8\\text{ cm}$이다.",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "$\\triangle ACD$와 합동인 삼각형을 찾아 기호 $\\equiv$를 사용하여 나타내어 보자."
+    },
+    {
+     "label": "❷",
+     "text": "$\\overline{AD}$의 길이를 구해 보자."
+    }
+   ],
+   "conditions": [],
+   "given": "$\\triangle ABC$와 $\\triangle CDE$는 정삼각형, $\\overline{AE}=3\\text{ cm}$, $\\overline{BC}=8\\text{ cm}$",
+   "steps": [],
+   "answerFormat": "❶ 합동 기호 $\\equiv$를 사용한 식, ❷ 길이(cm)"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "1 세 각의 크기가 주어질 때 (카드 아래 그림)",
+   "labels": "크기가 다른 세 각이 그려져 있음(위쪽에 열린 각 하나, 아래쪽에 호 표시가 있는 각 두 개). 변의 길이·각도 수치는 없음. 안경 쓴 학생이 한 손을 든 일러스트",
+   "desc": ""
+  },
+  {
+   "kind": "기타",
+   "caption": "2 두 변의 길이와 그 끼인각이 아닌 한 각의 크기가 주어질 때 (카드 아래 그림)",
+   "labels": "점선 호로 표시된 선분 a, 점선 호로 표시된 선분 b, 호 표시가 있는 각 하나. 수치 없음. 곱슬머리 학생 일러스트",
+   "desc": ""
+  },
+  {
+   "kind": "기타",
+   "caption": "3 한 변의 길이와 그 양 끝 각이 아닌 두 각의 크기가 주어질 때 (카드 아래 그림)",
+   "labels": "점선 호로 표시된 선분 c, 호 표시가 있는 각 두 개. 수치 없음. 학생 일러스트",
+   "desc": ""
+  },
+  {
+   "kind": "도형",
+   "caption": "합동인 삼각형 찾기 문제의 그림",
+   "labels": "꼭짓점 A, B, C, D, E. $\\overline{BC}$=8 cm, $\\overline{AE}$=3 cm",
+   "desc": "왼쪽 아래 B, 오른쪽 아래 C, 위쪽 A, 오른쪽 위 D. 점 E는 선분 AB 위에서 A 가까이에 있음. 선분 AB, BC, CD, DA, AC, EC, ED가 그려진 것으로 보임(정삼각형 ABC와 CDE)."
+  }
+ ],
+ "incomplete": "그림 속 선분 연결(특히 E에서 D, C로 이어지는 선)은 해상도상 정확히 확인되지 않아 추정함. 카드 일러스트 속 각의 크기 수치는 표시되지 않음.",
+ "_page": 182,
+ "_why": [
+  "activity"
+ ],
+ "_usage": {
+  "in": 3696,
+  "out": 2292,
+  "sec": 22.6,
+  "stop": "end_turn"
+ }
+}

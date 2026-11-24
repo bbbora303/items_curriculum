@@ -1,0 +1,179 @@
+{
+ "printedPage": "186",
+ "pageType": "탐구활동",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "창의 융합 컴퓨팅",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [
+    "DIGITAL",
+    "활동 영상(QR 코드)"
+   ],
+   "level": "",
+   "text": "창의 융합 컴퓨팅 삼각형 작도하기 (DIGITAL, 활동 영상)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "➊",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [
+    "도구",
+    "다각형"
+   ],
+   "level": "활동",
+   "text": "기하 창을 열어 [도구]에서 [다각형]을 선택하여 삼각형 $\\mathrm{ABC}$를 그린다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "기하 창을 연다.",
+    "도구에서 다각형을 선택한다.",
+    "삼각형 ABC를 그린다."
+   ],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "➋",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [
+    "반직선",
+    "컴퍼스",
+    "교점"
+   ],
+   "level": "활동",
+   "text": "[반직선], [컴퍼스], [교점]을 이용하여 $\\overline{\\mathrm{BC}}$와 길이가 같은 $\\overline{\\mathrm{EF}}$를 작도한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "반직선, 컴퍼스, 교점을 이용한다.",
+    "BC와 길이가 같은 EF를 작도한다."
+   ],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "➌",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [
+    "중심이 있고 한 점을 지나는 원",
+    "교점",
+    "컴퍼스",
+    "반직선"
+   ],
+   "level": "활동",
+   "text": "[중심이 있고 한 점을 지나는 원], [교점], [컴퍼스], [반직선]을 이용하여 $\\angle \\mathrm{B}$와 크기가 같은 $\\angle \\mathrm{E}$를 작도한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "중심이 있고 한 점을 지나는 원, 교점, 컴퍼스, 반직선을 이용한다.",
+    "∠B와 크기가 같은 ∠E를 작도한다."
+   ],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "➍",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [],
+   "level": "활동",
+   "text": "$\\overline{\\mathrm{AB}}$와 길이가 같은 $\\overline{\\mathrm{DE}}$를 작도한 후, 두 점 $\\mathrm{D}$와 $\\mathrm{F}$를 이어서 삼각형 $\\mathrm{DEF}$를 작도한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "AB와 길이가 같은 DE를 작도한다.",
+    "두 점 D와 F를 이어서 삼각형 DEF를 작도한다."
+   ],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "활동 1",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [
+    "방법 1",
+    "방법 2"
+   ],
+   "level": "활동",
+   "text": "위의 방법을 참고하여 삼각형 $\\mathrm{ABC}$와 합동인 삼각형을 [방법 1], [방법 2]와 같이 각각 작도해 보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "방법 1, 방법 2로 각각 삼각형 작도"
+  },
+  {
+   "kind": "활동",
+   "label": "활동 2",
+   "corner": "창의 융합 컴퓨팅",
+   "icons": [],
+   "level": "활동",
+   "text": "삼각형 $\\mathrm{ABC}$가 작도한 삼각형과 완전히 포개어지는지 확인해 보자. 또 주어진 삼각형 $\\mathrm{ABC}$의 꼭짓점을 끌어 모양을 변형한 후 작도한 삼각형과 완전히 포개어지는지 확인해 보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "확인"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "➊ 컴퓨터 화면(기하 창)",
+   "labels": "왼쪽 도구 모음: 대수, 도구 / 점 A, B, C",
+   "desc": "삼각형 ABC(붉게 칠해짐): A가 위쪽, B가 왼쪽 아래, C가 오른쪽 아래."
+  },
+  {
+   "kind": "기타",
+   "caption": "➋ 컴퓨터 화면",
+   "labels": "대수, 도구 / 점 A, B, C, E, F",
+   "desc": "삼각형 ABC 아래쪽에 점 E를 중심으로 하고 F를 지나는 원이 있고, E에서 F를 지나 오른쪽으로 뻗는 반직선이 있으며 오른쪽 끝에 점이 하나 더 찍혀 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "➌ 컴퓨터 화면",
+   "labels": "대수, 도구 / 점 A, B, C, E, F",
+   "desc": "삼각형 ABC와, E에서 F 방향으로 뻗은 반직선이 있다. E 주변에 작은 원이 있고 더 큰 원이 있으며, E에서 오른쪽 위로 뻗는 반직선이 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "➍ 컴퓨터 화면",
+   "labels": "대수, 도구 / 점 A, B, C, D, E, F",
+   "desc": "삼각형 ABC와 E, F, D가 있다. 점 D는 E에서 오른쪽 위로 뻗은 반직선 위에 있고, E 주변에 원이 여러 개 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "활동 1 방법 1",
+   "labels": "대수, 도구 / 점 A, B, C, D, E, F",
+   "desc": "삼각형 ABC 아래에 E를 중심으로 한 원들과 D, F를 지나는 원이 있으며 E에서 오른쪽으로 뻗는 반직선이 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "활동 1 방법 2",
+   "labels": "대수, 도구 / 점 A, B, C, D, E, F",
+   "desc": "삼각형 ABC와 B, C 주변의 원이 있고, 아래쪽에 E, F 주변의 작은 원들과 큰 원이 있으며 E에서 오른쪽 위로 뻗은 반직선 위에 D가 있다."
+  }
+ ],
+ "incomplete": "컴퓨터 화면 그림 속 원과 선의 세부 위치, 작은 점들의 정확한 배치는 판독하기 어려워 대략만 적었다. 작은 글씨(도구 이름 라벨 등)는 글자층을 따랐다.",
+ "_page": 186,
+ "_why": [
+  "activity"
+ ],
+ "_usage": {
+  "in": 3912,
+  "out": 3167,
+  "sec": 20.6,
+  "stop": "end_turn"
+ }
+}

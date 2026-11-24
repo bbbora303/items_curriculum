@@ -1,0 +1,220 @@
+{
+ "printedPage": "295",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "03 평행선의 성질",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l /\\!/ n$",
+   "meaning": "두 직선이 평행함",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overleftrightarrow{CD}$",
+   "meaning": "직선 CD",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{CH}$",
+   "meaning": "선분 CH",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "동위각의 크기가 같으면 두 직선은 평행하다",
+   "plain": "동위각이 같으면 두 직선이 평행하다는 것을 답안에서 사용한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "엇각의 크기가 같으면 두 직선은 평행하다",
+   "plain": "엇각이 같으면 두 직선이 평행하다는 것을 답안에서 사용한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "평행선을 그어 엇각의 크기와 평각 180°를 이용한다",
+   "plain": "꺾인 선에서 보조 평행선을 그어 각을 구하는 풀이 방법이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "삼각형의 세 각의 크기의 합은 $180^\\circ$",
+   "plain": "태오의 방법에서 사용한 성질이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "역량 쑥쑥 2 ②",
+   "summary": "지유와 태오의 방법으로 꺾인 선에서 $\\angle x=32^\\circ+52^\\circ=84^\\circ$ 구하기",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "문제 만들기",
+   "summary": "M은 AB의 중점, N은 MB의 중점이고 AN=27 cm일 때 AB의 길이는 36 cm",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ①②",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "우체국, 학교 / $\\angle a$, $\\angle b$ 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  },
+  {
+   "label": "배우고 익히기 1, 2 (162~163쪽)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "동위각·엇각 찾기, 각의 크기(100°, 80°) 및 합 250° 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "배우고 익히기 1, 2 (164~165쪽)",
+   "level": "기본",
+   "verb": "구하시오·판단하시오",
+   "summary": "평행선에서 각의 크기 구하기, 동위각·엇각으로 평행 판단 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "역량 쑥쑥 수학 더하기 1~3",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "5 cm, 24 cm·40 cm, 지유·태오의 방법, 활동 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "중단원 마무리 1~4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "24, 28 cm, x=75·y=75, 점과 직선 사이의 거리 16 cm·17 cm 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "두 직선과 한 직선이 만나 생기는 동위각·엇각 표시 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평행선 l, m 사이에서 꺾인 선과 각 x를 구하는 풀이 그림(지유, 태오)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "삼각형 모양의 불가능한 도형 입체 그림(활동 1, 2)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 A, M, N, B가 있는 선분과 AN=27 cm 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [
+  "우체국",
+  "학교"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로 새로 정의되는 개념은 없다. 03 평행선의 성질의 답과 역량 쑥쑥 수학 더하기, 중단원 마무리 답이 함께 있다. 일부 정답 칸은 그림이라 내용을 옮기지 못했다. 마무리 답의 빈칸 기호는 이미지에서 확실하지 않다.",
+ "_page": 295,
+ "_usage": {
+  "in": 5102,
+  "out": 1905,
+  "sec": 11.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

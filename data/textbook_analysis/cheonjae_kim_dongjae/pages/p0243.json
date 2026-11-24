@@ -1,0 +1,155 @@
+{
+ "printedPage": "243",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "1. 자료의 정리와 해석 (대푯값: 최빈값)",
+  "area": "개념 설명 / 예제"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "최빈값",
+   "role": "정의",
+   "definition": "자료 중 가장 많이 나오는 값",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "최빈값은 두 개 이상일 수도 있다",
+   "plain": "평균이나 중앙값과 달리 최빈값은 자료에 따라 값이 하나로 정해지지 않을 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "극단적인 값이 있으면 평균보다 중앙값",
+   "plain": "매우 크거나 작은 값이 있으면 평균이 그 값의 영향을 많이 받으므로 중앙값을 대푯값으로 쓰는 것이 합리적이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "같은 값이 많은 경우, 수가 아닌 자료는 최빈값",
+   "plain": "변량에 같은 값이 많거나 혈액형·좋아하는 운동·선거처럼 값이 수가 아닌 자료에는 최빈값을 대푯값으로 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(\\text{중앙값})=\\frac{5+7}{2}=6",
+   "plain": "변량이 짝수 개이면 한가운데 있는 두 값의 평균이 중앙값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "독서량 자료 5, 3, 28, 3, 8, 7(권)의 평균(9권), 중앙값(6권), 최빈값(3권)을 구하고, 극단값 28 때문에 중앙값이 대푯값으로 적절하다고 설명한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "채워 넣기 ❶",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "4, 6, 6, 6, 8, 13, 15의 최빈값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❷",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "4, 6, 6, 8, 12, 13, 13, 16의 최빈값이 6과 얼마인지 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "예제 1 ⑴",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "독서량 자료의 평균, 중앙값, 최빈값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "예제 1 ⑵",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "⑴에서 구한 값 중 대푯값으로 적절한 것을 말하고 까닭 설명하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "6명의 독서량(단위: 권) 5, 3, 28, 3, 8, 7을 나열한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "예제 풀이 아래쪽에 쌓여 있는 책 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "학생 독서량",
+  "선거 득표",
+  "혈액형",
+  "좋아하는 운동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 위쪽은 앞 쪽에서 이어지는 내용으로 최빈값 정의부터 시작한다. 소단원 번호와 제목은 보이지 않아 쪽 아래의 '1. 자료의 정리와 해석'만 근거로 적었다. 역량 아이콘은 보이지 않는다.",
+ "_page": 243,
+ "_usage": {
+  "in": 4979,
+  "out": 1487,
+  "sec": 8.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

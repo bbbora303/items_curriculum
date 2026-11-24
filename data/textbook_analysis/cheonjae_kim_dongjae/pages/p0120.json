@@ -1,0 +1,158 @@
+{
+ "printedPage": "120",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "01 정비례",
+  "area": "단원 도입 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "정의",
+   "definition": "두 변수 x와 y 사이에서 x의 값이 2배, 3배, 4배, ...가 될 때 y의 값도 2배, 3배, 4배, ...가 되는 관계가 있으면 y는 x에 정비례한다고 한다.",
+   "notation": "$y=ax\\ (a\\neq 0)$"
+  },
+  {
+   "term": "정비례 관계",
+   "role": "정의",
+   "definition": "y가 x에 정비례할 때, x와 y 사이에는 정비례 관계가 있다고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "속력",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=ax$",
+   "meaning": "y가 x에 정비례할 때의 관계식(a는 0이 아닌 일정한 수)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$a\\neq 0$",
+   "meaning": "a는 0이 아닌 수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x, y$",
+   "meaning": "변하는 두 양을 나타내는 변수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "x가 2배, 3배, 4배, ...가 될 때 y도 2배, 3배, 4배, ...가 되면 y는 x에 정비례한다",
+   "plain": "x가 몇 배가 될 때 y도 같은 배가 되면 정비례이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$y=ax\\ (a\\neq 0)$",
+   "plain": "y가 x에 정비례하면 0이 아닌 일정한 수 a가 있어서 y=ax가 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$y=ax\\ (a\\neq 0)$이면 y는 x에 정비례한다",
+   "plain": "x와 y 사이에 y=ax(a≠0) 관계가 있으면 y는 x에 정비례한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 열기: 자율 주행 버스",
+   "summary": "분속 30 m로 가는 버스가 x분 동안 간 거리 y m를 표로 완성하고, x가 2배, 3배, 4배일 때 y가 몇 배가 되는지 빈칸에 쓴다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "채워 넣기: 우유 정화에 필요한 물의 양",
+   "summary": "우유 100 mL를 정화하는 데 물 2000 L가 필요할 때, x(mL)와 y(L)의 관계를 표로 완성하고 y=□x 식의 빈칸을 채운다.",
+   "solutionShown": false,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "버스가 이동한 거리 표를 완성하고 x가 2배, 3배, 4배일 때 y의 배수를 빈칸에 써넣는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "나타내면",
+   "summary": "우유 양 x mL와 물의 양 y L의 관계를 표로 완성하고 식 y=□x의 □를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "x(분) 1~4에 대응하는 y(m)를 구하는 표와 2배, 3배, 4배 화살표, 도로와 마을 배경 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x(mL) 100~500에 대응하는 y(L)를 채우는 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "우유 병과 우유가 담긴 컵 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "y=ax에서 a가 일정한 수임을 화살표로 표시한 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "노약자 이동을 돕는 자율 주행 버스",
+  "우유 정화에 필요한 물의 양"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 아래 표시는 'Ⅲ. 좌표평면과 그래프'로 인쇄되어 있으나 주어진 대단원 목록에는 '정비례와 반비례'가 있어 이를 chapter에 적었다. 소단원 번호 '01'은 큰 숫자로 보이고 제목은 '정비례'이다. 소제목은 '정비례 관계란 무엇일까?'이다. 표의 y칸은 비어 있다.",
+ "_page": 120,
+ "_usage": {
+  "in": 4577,
+  "out": 1756,
+  "sec": 11.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

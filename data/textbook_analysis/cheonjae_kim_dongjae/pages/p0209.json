@@ -1,0 +1,100 @@
+{
+ "printedPage": "209",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "3 평면도형을 이용하여 유리창 디자인하기",
+  "area": "역량 쑥쑥 수학 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [
+  {
+   "title": "예시",
+   "summary": "원의 일부(반원 모양 호)와 부채꼴을 조합해 만든 두 가지 창 무늬 예시(보라색, 초록색). 점선으로 원의 중심과 반지름을 표시함.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "디자인해 보자",
+   "summary": "원, 부채꼴, 다각형을 이용해 스테인드글라스 무늬를 모눈 위에 직접 디자인한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "원형 스테인드글라스 사진(오른쪽 위)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "모눈종이 위에 원의 호와 부채꼴을 이용한 창 무늬 예시 두 개(보라색, 초록색), 중심점과 점선 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "스테인드글라스 램프와 스테인드글라스 창이 있는 건물 복도 사진(배경)",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "스테인드글라스",
+  "유리창 디자인",
+  "건축",
+  "교회·공공건물 창"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '역량 쑥쑥 수학 더하기' 코너의 활동 쪽이다. 대단원은 원과 부채꼴을 다루는 '평면도형의 성질'로 추정했다. 새로 정의되는 용어나 수식은 없다. 예시 도형의 정확한 반지름과 크기는 이미지만으로 확인하기 어렵다.",
+ "_page": 209,
+ "_usage": {
+  "in": 4207,
+  "out": 835,
+  "sec": 9.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

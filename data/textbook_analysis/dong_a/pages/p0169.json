@@ -1,0 +1,193 @@
+{
+ "printedPage": "169",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "5.6 삼각형의 합동",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\equiv"
+  },
+  {
+   "term": "대응변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\equiv",
+   "meaning": "합동",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\triangle ABC",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\overline{AB}",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\angle B",
+   "meaning": "각 B의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "답하시오",
+   "summary": "합동인 두 삼각형에 대해 (1) 기호 ≡로 나타내기, (2) 대응변과 대응각 말하기 (모눈 위 삼각형)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "△ABC≡△DEF일 때 변의 길이 10 cm, 8 cm와 각 50°가 주어졌을 때 x, y의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "보기 중 △ABC≡△DEF가 되는 조건을 모두 고르기 (변 2개와 끼인각, 변 2개와 다른 각, 변 1개와 양 끝각, 세 각)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "그림에서 합동인 두 삼각형을 찾아 기호로 나타내고 합동 조건 말하기 (1)(2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "정육각형의 세 꼭짓점 B, D, F를 연결한 삼각형 BDF가 어떤 삼각형인지 말하기",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "설명하시오",
+   "summary": "AO=CO, AB=CD일 때 △AOD≡△COB임을 설명: (1) 같은 변과 각 찾기, (2) 합동 설명",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "모눈종이 위에 그려진 합동인 두 삼각형 ABC, DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "변의 길이와 각의 크기가 표시된 두 삼각형 ABC, DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "보기 ㄱ~ㄹ의 합동 조건 박스",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "합동인 삼각형을 찾는 (1) 평행사변형 모양, (2) 점 O에서 교차하는 도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육각형 ABCDEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 O에서 만나는 두 선분과 삼각형 AOD, COB",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 1번에는 우수/보통/분발 자기 점검 표시가 있고, 각 문제 오른쪽에는 표정 아이콘이 있다. 6번에 '서술형' 표시가 있다. 상단에 '5.6을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요' 안내와 QR 코드가 있다. 1~3번에는 역량 아이콘이 보이지 않는다.",
+ "_page": 169,
+ "_profile": "full",
+ "_usage": {
+  "in": 4723,
+  "out": 1614,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

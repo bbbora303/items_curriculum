@@ -1,0 +1,46 @@
+{
+ "rows": [
+  {
+   "stage": "G0",
+   "in": 1111,
+   "out": 402,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G1",
+   "in": 4877,
+   "out": 2288,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G2",
+   "in": 3902,
+   "out": 1317,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G3-1",
+   "in": 16115,
+   "out": 25035,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G3-2",
+   "in": 24214,
+   "out": 9723,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "AI점검",
+   "in": 12427,
+   "out": 10002,
+   "stop": "end_turn"
+  }
+ ],
+ "total": {
+  "calls": 6,
+  "in": 62646,
+  "out": 48767,
+  "estUSD": 0.919
+ }
+}

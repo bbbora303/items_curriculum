@@ -1,0 +1,112 @@
+{
+ "printedPage": "97",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.6 일차방정식의 풀이",
+  "area": "생각2 – 함께해요"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": "x"
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "구하려는 값(참가자 B의 점수)을 나타내는 미지수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "문제를 이해하고 미지수 정하기 → 일차방정식 세우기 → 일차방정식 풀기 → 확인하기",
+   "plain": "일차방정식으로 문제를 해결하는 4단계 순서이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$90+x+(x+4)=270$",
+   "plain": "세 참가자의 점수 합이 총점 270점이라는 조건으로 방정식을 세운다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "함께해요: 오디션 참가자 점수",
+   "summary": "A가 90점, C가 B보다 4점 높고 총점이 270점일 때 B의 점수를 일차방정식으로 구한다(빈칸을 채우며 풀이).",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "4단계 순서에 따라 빈칸에 알맞은 것을 써넣어 B의 점수를 구한다(C의 점수 $x+4$, 방정식, 해 $x$, 확인).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "노래하는 A, 기타 치는 B, 춤추는 C 세 참가자의 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "A 90점, B x점, C (  )점, 총점 270점을 얼굴 그림으로 나타낸 도식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "4단계 풀이 순서를 담은 하늘색 설명 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "오디션 프로그램 점수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "왼쪽 말풍선: 미지수로 보통 x를 사용하지만 다른 문자를 사용할 수도 있다. 이 쪽은 소단원 3.6 '일차방정식의 풀이'의 '생각2' 도입 활동이며, 일차방정식 활용 문제 해결 절차를 처음 안내한다. 빈칸 답은 이미지에 적혀 있지 않다.",
+ "_page": 97,
+ "_profile": "full",
+ "_usage": {
+  "in": 4604,
+  "out": 1019,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

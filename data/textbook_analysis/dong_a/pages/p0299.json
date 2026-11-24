@@ -1,0 +1,245 @@
+{
+ "printedPage": "299",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "정답 및 풀이 (단원 마무리 201쪽~203쪽, 프로젝트 205쪽)"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "부채꼴의 호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴의 중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형의 내각·외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등변삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overset{\\frown}{AC}$",
+   "meaning": "호 AC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{OC}$",
+   "meaning": "선분 OC",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\frac{n(n-3)}{2}$",
+   "plain": "n각형의 대각선의 개수 (풀이에서 오각형에 적용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$\\frac{180^\\circ\\times(n-2)}{n}$",
+   "plain": "정n각형의 한 내각의 크기 (풀이에서 정오각형에 적용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$\\angle AOC:\\angle COB=\\widehat{AC}:\\widehat{BC}$",
+   "plain": "호의 길이는 중심각의 크기에 정비례한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "외각의 크기의 합 $=360^\\circ$",
+   "plain": "다각형의 외각의 크기의 합은 360°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "삼각형의 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l=2\\pi r\\times\\frac{x}{360}$",
+   "plain": "부채꼴의 호의 길이 (풀이에서 사용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$S=\\frac{1}{2}rl$",
+   "plain": "부채꼴의 넓이 (풀이에서 사용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "",
+   "plain": "현의 길이는 중심각의 크기에 정비례하지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "반원에서 호 AC의 길이를 비례식 108:72=AC:8π로 구해 12π cm",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "12",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "정오각형에서 이등변삼각형을 이용해 ∠x=72°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "13",
+   "level": "서술형",
+   "verb": "(풀이)",
+   "summary": "캔 4개를 묶는 끈의 길이를 두 방법으로 구해 6π+24 cm로 같음을 보임",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "호의 길이 7π, 반지름 12인 부채꼴의 중심각 105°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "08",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "사각형 내각의 합 360°로 ∠x=158°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "색칠한 각의 합이 육각형 외각의 합 360°",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "정육각형과 정팔각형의 외각으로 ∠x=150°",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "프로젝트 2",
+   "level": "활동",
+   "verb": "(예시 답안)",
+   "summary": "부채꼴·정다각형의 내각을 이용해 빈틈없이 덮는 무늬 만들기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "반원에서 반지름 OC를 그은 그림 (36° 두 개, 호 8π cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "캔 4개를 끈으로 묶은 모양 (방법 1, 방법 2)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "육각형 안의 삼각형 외각 a, b, a+b",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육각형과 정팔각형이 변을 공유하는 그림 (60°, 45°)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "부채꼴 모양 기본 무늬 예시 1과 정다각형 무늬 예시 2 (60°, 120°)",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "캔을 끈으로 묶기",
+  "무늬 만들기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새 개념 정의는 없고 앞에서 배운 내용을 사용한다. 소단원 번호는 보이지 않는다. 단원마무리 정답 1~5번은 O/X 문항이다(1 ×, 2 ○, 3 ×, 4 ○, 5 ×). 01~13번 정답도 함께 실려 있다.",
+ "_page": 299,
+ "_profile": "full",
+ "_usage": {
+  "in": 5781,
+  "out": 2096,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

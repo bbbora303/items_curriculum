@@ -1,0 +1,147 @@
+{
+ "printedPage": "148",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 3",
+   "corner": "생각 3",
+   "icons": [],
+   "level": "",
+   "text": "점과 직선 사이의 거리는 어떻게 구할 수 있나요?\n오른쪽 그림과 같이 두 직선 AB와 CD의 교각이 직각일 때, 이 두 직선은 직교한다고 하고, 이것을 기호로\n$\\overleftrightarrow{\\mathrm{AB}}\\perp\\overleftrightarrow{\\mathrm{CD}}$\n와 같이 나타낸다.\n이때 두 직선 AB와 CD는 서로 수직이라고도 하고, 한 직선을 다른 직선의 수선이라고 한다.\n직선 $l$이 선분 AB의 중점 M을 지나고 선분 AB에 수직일 때, 직선 $l$을 선분 AB의 수직이등분선이라고 한다.\n직선 $l$ 위에 있지 않은 점 P에서 직선 $l$에 수선을 그어서 생기는 교점을 H라고 할 때, 점 H를 점 P에서 직선 $l$에 내린 수선의 발이라고 한다. 이때 선분 PH는 점 P와 직선 $l$ 위에 있는 점을 잇는 선분 중에서 길이가 가장 짧다. 이 선분 PH의 길이를 점 P와 직선 $l$ 사이의 거리라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆글 1",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "•두 선분 AB와 CD가 직교할 때는 기호로 $\\overline{\\mathrm{AB}}\\perp\\overline{\\mathrm{CD}}$와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆글 2",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "•$\\overline{\\mathrm{PH}}<\\overline{\\mathrm{PA}}<\\overline{\\mathrm{PB}}$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림과 같이 한 눈금의 길이가 1인 모눈종이 위에 직선 $l$과 두 점 A, B가 있다. 물음에 답하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "두 점 A, B에서 직선 $l$에 내린 수선의 발을 각각 P, Q라고 할 때, 두 점 P, Q를 모눈종이 위에 각각 나타내시오."
+    },
+    {
+     "label": "(2)",
+     "text": "두 점 A, B와 직선 $l$ 사이의 거리를 각각 구하시오."
+    },
+    {
+     "label": "(3)",
+     "text": "선분 PQ의 수직이등분선을 모눈종이 위에 그리시오."
+    }
+   ],
+   "conditions": [],
+   "given": "한 눈금의 길이가 1인 모눈종이, 직선 $l$, 두 점 A, B",
+   "steps": [],
+   "answerFormat": "(1) 모눈종이 위에 점 P, Q 나타내기 (2) 거리 구하기 (3) 모눈종이 위에 수직이등분선 그리기"
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "맞꼭지각의 성질: $\\angle a=\\angle$ [c] , $\\angle b=\\angle$ [d]\n직선 $l$은 선분 AB의 수직이등분선: $\\overline{\\mathrm{AB}}\\perp l$, $\\overline{\\mathrm{AM}}=$ [$\\overline{\\mathrm{MB}}$]",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "네모 칸 채우기(칸 안에 c, d, MB가 흐린 글씨로 인쇄되어 있음)"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "두 직선 AB와 CD의 직교",
+   "labels": "가로 직선 위에 왼쪽 점 A, 오른쪽 점 B; 세로 직선 위에 위쪽 점 C, 아래쪽 점 D; 교점에 직각 표시",
+   "desc": "가로 직선 AB와 세로 직선 CD가 수직으로 만난다."
+  },
+  {
+   "kind": "도형",
+   "caption": "선분 AB의 수직이등분선",
+   "labels": "가로 선분 위에 왼쪽 A, 가운데 M, 오른쪽 B; 세로 직선 $l$이 M을 지남(분홍색); M에 직각 표시; AM과 MB에 같은 길이를 나타내는 눈금 표시",
+   "desc": "직선 $l$이 선분 AB의 중점 M을 지나며 수직이다."
+  },
+  {
+   "kind": "도형",
+   "caption": "수선의 발과 점과 직선 사이의 거리",
+   "labels": "점 P가 위쪽, 직선 $l$이 가로, 수선의 발 H가 직선 $l$ 위 P의 바로 아래, H에 직각 표시; 말풍선 '수선의 발'(H를 가리킴); '점 P와 직선 $l$ 사이의 거리'(선분 PH 옆 설명)",
+   "desc": "점 P에서 직선 $l$에 내린 수선 PH."
+  },
+  {
+   "kind": "도형",
+   "caption": "PH<PA<PB 그림(옆글)",
+   "labels": "위쪽 점 P; 아래 가로선 위에 왼쪽부터 H, A, B; PH는 수직이고 H에 직각 표시; 선분 PA, PB가 P에서 그어져 있음",
+   "desc": "점 P에서 직선 위의 점 H, A, B로 그은 선분들."
+  },
+  {
+   "kind": "기타",
+   "caption": "문제 3 모눈종이",
+   "labels": "모눈종이 위에 가로 직선 $l$; 점 A는 직선 $l$ 위쪽 왼쪽 부분, 점 B는 직선 $l$ 아래쪽 오른쪽 부분; 직선 $l$ 오른쪽 끝에 $l$ 표시",
+   "desc": "한 눈금의 길이가 1인 정사각형 모눈종이."
+  },
+  {
+   "kind": "도형",
+   "caption": "맞꼭지각의 성질",
+   "labels": "두 직선이 한 점에서 교차; 각 $d$(위쪽 왼쪽), $c$(위쪽 오른쪽), $a$(왼쪽 아래), $b$(아래쪽); 교점 주변 두 각이 분홍색·노란색으로 칠해짐",
+   "desc": "가로에 가까운 직선과 비스듬한 직선이 교차해 만든 네 각 a, b, c, d."
+  },
+  {
+   "kind": "도형",
+   "caption": "직선 $l$은 선분 AB의 수직이등분선",
+   "labels": "세로 직선 $l$; 가로 선분 위에 A, M, B; M에 직각 표시(빨간색); AM과 MB에 같은 길이 표시(주황색 짧은 선)",
+   "desc": "직선 $l$이 선분 AB의 중점 M에서 수직으로 만난다."
+  },
+  {
+   "kind": "기타",
+   "caption": "장식 그림",
+   "labels": "",
+   "desc": "북을 치는 캐릭터와 깃발을 든 곰 캐릭터 일러스트(장식)"
+  }
+ ],
+ "incomplete": "문제 3 모눈종이의 눈금 칸 수와 점 A, B의 정확한 격자 좌표는 이미지에서 확실히 읽을 수 없어 적지 않음.",
+ "_page": 148,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4197,
+  "out": 4015,
+  "sec": 28.5,
+  "stop": "end_turn"
+ }
+}

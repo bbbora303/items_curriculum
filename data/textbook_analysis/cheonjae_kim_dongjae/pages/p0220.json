@@ -1,0 +1,170 @@
+{
+ "printedPage": "220",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "02 기둥의 겉넓이와 부피",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "밑넓이",
+   "role": "정의",
+   "definition": "입체도형에서 한 밑면의 넓이",
+   "notation": ""
+  },
+  {
+   "term": "옆넓이",
+   "role": "정의",
+   "definition": "입체도형에서 옆면 전체의 넓이",
+   "notation": ""
+  },
+  {
+   "term": "기둥의 겉넓이",
+   "role": "정의",
+   "definition": "기둥의 겉면 전체의 넓이로, 두 밑넓이와 옆넓이의 합",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "옆면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "각기둥과 원기둥의 전개도는 합동인 두 밑면과 직사각형 모양의 옆면으로 이루어진다.",
+   "plain": "기둥의 전개도는 합동인 밑면 2개와 직사각형 옆면으로 되어 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(기둥의 겉넓이)=(밑넓이)\\times 2+(옆넓이)",
+   "plain": "기둥의 겉넓이는 밑넓이의 두 배에 옆넓이를 더해서 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "그려 보자",
+   "summary": "삼각기둥의 전개도를 그려 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "삼각기둥의 옆면을 펼치면 어떤 도형이 되는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "생각 열기 ❸",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "삼각기둥의 겉넓이를 구하는 방법을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "삼각기둥을 펼쳐 가는 과정과 전개도를 그릴 빈 칸",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "각기둥이 펼쳐져 전개도가 되는 과정과 밑면·옆면 표시",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원기둥이 펼쳐져 전개도가 되는 과정과 밑면·옆면 표시",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "장식",
+   "desc": "원기둥 모양의 페인트 통들",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "페인트 통"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입 쪽으로 '생각 열기' 활동과 겉넓이 개념 설명이 함께 있다. 단원 이름은 목록 중 '입체도형의 성질'로 추정했다(쪽 아래에는 'V. 도형의 성질'로 인쇄됨).",
+ "_page": 220,
+ "_usage": {
+  "in": 4416,
+  "out": 1320,
+  "sec": 8.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

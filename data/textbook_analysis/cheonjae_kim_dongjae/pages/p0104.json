@@ -1,0 +1,180 @@
+{
+ "printedPage": "104",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x축, y축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "수직선 위의 세 점 A, B, C에 대응하는 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "비례식 3:8=12:□에서 빈칸에 알맞은 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "비례식 □:60=5:3에서 빈칸에 알맞은 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "표로 주어진 ■와 ▲ 사이의 대응 관계(1→5, 2→10, …, 5→25)를 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "4-(1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "한 자루에 1000원인 볼펜 x자루의 가격을 문자를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "4-(2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "가로가 x cm이고 넓이가 24 cm²인 직사각형의 세로 길이를 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "−3부터 3까지 눈금이 있는 수직선 위에 점 A, B, C가 표시되어 있다.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "■가 1~5일 때 ▲가 5, 10, 15, 20, 25인 대응표.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정비례, 반비례, 그래프, 순서쌍, 좌표평면, 원점, x축, y축, 변수, 사분면 등 핵심 용어를 담은 구름 모양 워드클라우드와 로봇 캐릭터.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "돋보기를 든 학생 캐릭터, 엄지 아이콘 1~4(맞은 문항에 색칠).",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "볼펜 가격",
+  "직사각형의 넓이와 변의 길이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "좌표평면과 그래프를 이해하고 그 편리함을 인식하기",
+   "다양한 상황을 그래프로 나타내고 주어진 그래프를 해석하기",
+   "정비례, 반비례 관계를 이해하고 표, 식, 그래프로 나타내기"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'나의 학습 준비 상태' 진단 문항 4개(수직선의 수, 비례식, 대응 관계의 식, 문자 사용 식)와 '이 단원의 학습 목표'(초성 빈칸 채우기: 좌표평면/그래프, 정비례/반비례 등 추정)로 구성된 쪽이다. 초성 빈칸은 정답을 추정한 것이므로 terms에는 구름 속 용어를 '사용'으로만 기록했다. 중2·중3 표시는 보이지 않는다. 1번 문항 수직선의 점 위치는 A≈-2, B≈0 근처 오른쪽, C≈2로 보이나 정확한 값은 문제 풀이 영역이라 적지 않았다.",
+ "_page": 104,
+ "_usage": {
+  "in": 4523,
+  "out": 1654,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

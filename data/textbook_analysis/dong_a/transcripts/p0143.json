@@ -1,0 +1,193 @@
+{
+ "printedPage": "143",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 2",
+   "corner": "생각 2",
+   "icons": [],
+   "level": "",
+   "text": "직선, 반직선, 선분은 어떻게 나타낼 수 있나요?\n한 점 A를 지나는 직선은 무수히 많지만, 서로 다른 두 점 A, B를 지나는 직선은 오직 하나뿐이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명 1",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "•점은 대문자 A, B, C, ...로 나타내고, 직선은 소문자 $l$, $m$, $n$, ...으로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "직선 AB",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "서로 다른 두 점 A, B를 지나는 직선을 직선 AB라 하고, 이것을 기호로\n$\\overleftrightarrow{AB}$\n와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명 2",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "•직선 AB를 간단히 직선 $l$로 나타내기도 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "반직선 AB",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "직선 AB 위의 점 A에서 시작하여 점 B의 방향으로 한없이 연장한 선을 반직선 AB라 하고, 이것을 기호로\n$\\overrightarrow{AB}$\n와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "질문",
+   "corner": "질문",
+   "icons": [],
+   "level": "",
+   "text": "$\\overrightarrow{AB}$와 $\\overrightarrow{BA}$는 서로 같을까요?",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "선분 AB",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "직선 AB 위의 점 A에서 점 B까지의 부분을 선분 AB라 하고, 이것을 기호로\n$\\overline{AB}$\n와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림과 같이 한 직선 위에 세 점 A, B, C가 있다. 다음 중 같은 것을 나타내는 것끼리 짝 지으시오.\n$\\overrightarrow{AB}$, $\\overrightarrow{AC}$, $\\overline{AC}$, $\\overrightarrow{BC}$, $\\overline{BC}$, $\\overrightarrow{CA}$, $\\overline{CA}$, $\\overline{CB}$",
+   "subItems": [],
+   "conditions": [],
+   "given": "한 직선 위의 세 점 A, B, C. 보기: $\\overrightarrow{AB}$, $\\overrightarrow{AC}$, $\\overline{AC}$, $\\overrightarrow{BC}$, $\\overline{BC}$, $\\overrightarrow{CA}$, $\\overline{CA}$, $\\overline{CB}$",
+   "steps": [],
+   "answerFormat": "같은 것끼리 짝 짓기"
+  },
+  {
+   "kind": "기타",
+   "label": "두 점 사이의 거리",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "두 점 A, B를 잇는 무수히 많은 선 중에서 길이가 가장 짧은 것은 선분 AB이다.\n이 선분 AB의 길이를 두 점 A, B 사이의 거리라고 한다.\n이때 선분 AB의 길이가 10 cm인 것은 $\\overline{AB}=10\\text{ cm}$와 같이 나타내고, 선분 AB의 길이와 선분 CD의 길이가 같을 때 $\\overline{AB}=\\overline{CD}$로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명 3",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "•$\\overline{AB}$는 도형으로서 선분을 나타내기도 하고, 그 도형의 길이를 나타내기도 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "점 A를 지나는 여러 직선",
+   "labels": "점 A, 점 B. 점 A를 지나는 여러 직선이 있고, 그중 분홍색 직선이 점 B를 지남",
+   "desc": "점 A에서 여러 직선이 퍼져 나가는 모양. 분홍색 수평 직선이 A와 B를 지나고, 다른 직선들은 B를 지나지 않음"
+  },
+  {
+   "kind": "도형",
+   "caption": "직선 AB",
+   "labels": "점 A, 점 B",
+   "desc": "수평 직선 위에 두 점 A, B가 왼쪽부터 차례로 있음. 직선이 양쪽으로 끝없이 뻗음"
+  },
+  {
+   "kind": "도형",
+   "caption": "직선 AB를 직선 l로 나타냄(옆 설명)",
+   "labels": "점 A, 점 B, 직선 l",
+   "desc": "수평 직선 위에 두 점 A, B가 있고 오른쪽 끝에 l이 표시됨"
+  },
+  {
+   "kind": "도형",
+   "caption": "반직선 AB",
+   "labels": "점 A, 점 B",
+   "desc": "A의 왼쪽은 점선, A에서 B를 지나 오른쪽으로 실선이 뻗음"
+  },
+  {
+   "kind": "도형",
+   "caption": "선분 AB",
+   "labels": "점 A, 점 B",
+   "desc": "A와 B 사이는 실선이고, A의 왼쪽과 B의 오른쪽은 점선"
+  },
+  {
+   "kind": "도형",
+   "caption": "문제 1 그림",
+   "labels": "점 A, 점 B, 점 C",
+   "desc": "왼쪽 위에서 오른쪽 아래로 향하는 직선 위에 A, B, C가 차례로 있고, C가 가장 아래 오른쪽에 있음"
+  },
+  {
+   "kind": "도형",
+   "caption": "두 점 A, B를 잇는 여러 선",
+   "labels": "점 A, 점 B",
+   "desc": "A와 B를 잇는 위로 볼록한 곡선, 물결 모양 곡선, 아래로 꺾인 꺾은선, 분홍색 직선(선분 AB)이 있음"
+  }
+ ],
+ "incomplete": "그림의 선 개수와 정확한 위치는 대략적으로만 적음. 역량 아이콘은 보이지 않음.",
+ "_page": 143,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4129,
+  "out": 3421,
+  "sec": 22.7,
+  "stop": "end_turn"
+ }
+}

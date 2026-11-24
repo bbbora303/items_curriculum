@@ -1,0 +1,198 @@
+{
+ "printedPage": "184",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "길이가 같은 선분의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "크기가 같은 각의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 대변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 대각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SSS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등변삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle XOY$",
+   "meaning": "각 XOY",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{PQ}$",
+   "meaning": "반직선 PQ",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "눈금 없는 자와 컴퍼스만을 사용하여 도형을 그리는 것을 작도라 한다.",
+   "plain": "작도는 눈금 없는 자와 컴퍼스만으로 도형을 그리는 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "삼각형을 하나로 작도할 수 있는 경우: ① 세 변의 길이 ② 두 변의 길이와 그 (끼인각)의 크기 ③ 한 변의 길이와 그 양 끝각의 크기",
+   "plain": "세 가지 조건 중 하나가 주어지면 삼각형을 하나로 작도할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "SSS 합동, SAS 합동, (ASA) 합동",
+   "plain": "두 삼각형이 합동이 되는 세 가지 조건이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "하시오",
+   "summary": "작도에 대한 설명이 옳으면 ○, 옳지 않으면 ×를 표시한다. (1) 작도 시 눈금 없는 자와 컴퍼스 사용 (2) 크기가 같은 각의 작도 시 각도기 사용",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나열하시오",
+   "summary": "∠XOY와 크기가 같고 반직선 PQ를 한 변으로 하는 각의 작도 과정 ㉠~㉤을 순서대로 나열한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "두 변의 길이가 a, 나머지 한 변의 길이가 b인 이등변삼각형을 작도한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "컴퍼스로 선분 AB와 길이가 같은 선분 CD를 옮겨 작도하는 과정",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "크기가 같은 각의 작도 과정(점 ①~⑤ 순서 표시)",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형 ABC와 변 BC의 대각 ∠A, ∠A의 대변 BC 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "SSS, SAS, ASA 합동을 나타내는 삼각형 쌍",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2번 문제의 ∠XOY와 반직선 PQ 작도 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "3번 문제의 길이 a, b 선분",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "작도",
+   "삼각형의 작도",
+   "삼각형의 합동 조건"
+  ],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 쪽으로 빈칸 채우기 형태의 정리 코너와 기본 문제로 구성됨. 빈칸 정답(선분, 각, 끼인각, 양 끝각, ASA)은 이미지에 보이지 않아 추정한 것이며, 일부 빈칸 단어는 확실하지 않음. 3번 옆 문제 아이콘(A)의 의미는 불분명함.",
+ "_page": 184,
+ "_usage": {
+  "in": 4322,
+  "out": 1714,
+  "sec": 10.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

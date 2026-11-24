@@ -1,0 +1,173 @@
+{
+ "printedPage": "260",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "생각2 상대도수의 분포표를 그래프로 나타낼 수 있나요?",
+  "area": "함께해요"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "상대도수의 분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "가로축에 계급의 양 끝 값, 세로축에 상대도수를 적고 직사각형을 그리거나 점을 찍어 선분으로 연결한다",
+   "plain": "상대도수의 분포는 히스토그램이나 도수분포다각형과 같은 방법으로 그래프로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "두 자료의 상대도수의 분포를 한 그래프에 함께 나타내면 분포 상태를 한눈에 비교할 수 있다",
+   "plain": "두 자료의 상대도수 분포 그래프를 함께 그리면 비교가 쉽다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "A 학교의 상대도수 분포표(0.06, 0.19, 0.27, 0.35, 0.13)를 순서에 따라 그래프로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "A 학교 그래프와 함께 B 학교의 상대도수 분포표(0.12, 0.28, 0.2, 0.24, 0.16)를 그래프로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "3-(1)",
+   "level": "활동",
+   "verb": "빈칸을 채우시오",
+   "summary": "A, B 학교에서 상대도수가 가장 높은 계급을 그래프에서 찾아 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3-(2)",
+   "level": "활동",
+   "verb": "고르시오",
+   "summary": "6편 이상 8편 미만 계급의 상대도수가 더 높은 학교를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3-(3)",
+   "level": "활동",
+   "verb": "고르시오",
+   "summary": "그래프가 오른쪽으로 치우친 학교를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3-(4)",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "어느 학교 학생들이 상대적으로 웹툰을 더 많이 구독했는지 근거를 들어 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "A 학교의 구독 중인 웹툰 수에 대한 상대도수 분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "A 학교의 상대도수 그래프(히스토그램과 다각형이 일부만 그려져 있고 나머지는 직접 그리도록 비어 있음)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "B 학교의 구독 중인 웹툰 수에 대한 상대도수 분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "A 학교의 다각형이 그려진 격자에 B 학교의 다각형을 함께 그리는 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "웹툰 구독 수",
+  "학교별 비교"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "1번 그래프의 가로축 빈 칸 3개는 학생이 채우는 부분이다. 2번 그래프에는 B 학교 다각형이 이미 그려져 있고 'A학교' 라벨이 보이는 것처럼 보이나, 그래프 제목이 '구독 중인 웹툰 수'로만 되어 있어 어느 쪽이 어느 학교 선인지 확실하지 않다. 이 쪽은 단원 소단원 번호 없이 '생각 2'로 표시되어 있다.",
+ "_page": 260,
+ "_profile": "full",
+ "_usage": {
+  "in": 4966,
+  "out": 1657,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

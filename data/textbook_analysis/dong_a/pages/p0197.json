@@ -1,0 +1,168 @@
+{
+ "printedPage": "197",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.6 부채꼴의 호의 길이와 넓이",
+  "area": "단원 도입 / 생각1"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "원주율",
+   "role": "정의",
+   "definition": "원의 크기에 관계없이 원주를 지름의 길이로 나눈 일정한 값으로, 3.141592653…처럼 끝없이 계속되는 소수이다.",
+   "notation": "$\\pi$"
+  },
+  {
+   "term": "원주",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l$"
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": "$S$"
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율, '파이'라고 읽는다",
+   "role": "정의"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "원의 둘레의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$S$",
+   "meaning": "원의 넓이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$r$",
+   "meaning": "원의 반지름의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$90^\\circ$",
+   "meaning": "야구장 부채꼴의 중심각의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l=2\\pi r$",
+   "plain": "반지름이 r인 원의 둘레의 길이는 2πr이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$S=\\pi r^2$",
+   "plain": "반지름이 r인 원의 넓이는 πr²이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "반지름이 3 cm인 원의 둘레의 길이는 $2\\pi\\times3=6\\pi$ (cm), 넓이는 $\\pi\\times3^2=9\\pi$ (cm²)이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "축구장(직사각형 110 m×71 m, 넓이 7810 m²)과 야구장(중심각 90°, 반지름 100 m인 부채꼴) 중 어느 곳이 더 넓은지 원주율 3.14로 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "반지름의 길이가 6 cm인 원의 둘레의 길이와 넓이를 각각 π를 사용하여 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "직사각형 축구장(가로 110 m, 세로 71 m)과 중심각 90°인 부채꼴 야구장(반지름 100 m)을 일러스트로 나타낸 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "QR 코드(생각해요 옆)",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "축구장",
+  "야구장",
+  "체육"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "(원의 둘레의 길이)=2×(반지름의 길이)×(원주율) (초등)",
+   "(원의 넓이)=(반지름의 길이)×(반지름의 길이)×(원주율) (초등)"
+  ],
+  "current": [
+   "원주율 π의 뜻을 안다.",
+   "부채꼴의 호의 길이와 넓이를 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 요소는 π. 상단 '수학+체육' 융합 표시가 있고 오른쪽에 '6단원' 표시가 있다. 이 쪽은 소단원 도입(생각해요)과 생각1 개념 설명이 함께 있다. 단원 이름은 목록에서 '평면도형의 성질'로 보았으며 쪽에는 직접 인쇄되어 있지 않다.",
+ "_page": 197,
+ "_profile": "full",
+ "_usage": {
+  "in": 4638,
+  "out": 1493,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

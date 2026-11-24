@@ -1,0 +1,98 @@
+{
+ "printedPage": "52",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "분배법칙 도입",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "이제 분배법칙에 대해 알아보자.\n$(3+5)\\times4=(3+5)+(3+5)+(3+5)+(3+5)$\n$=(3+3+3+3)+(5+5+5+5)$\n$=3\\times4+5\\times4$\n와 같이 계산할 수 있다.\n또 두 수의 곱셈에서 두 수의 순서를 바꾸어 곱하여도 그 결과는 같으므로\n$4\\times(3+5)=(3+5)\\times4$\n$=3\\times4+5\\times4$\n$=4\\times3+4\\times5$\n이다.\n이와 같이 어떤 수에 두 수의 합을 곱한 결과는 어떤 수에 각각의 수를 곱한 결과의 합과 같다.\n이것을 분배법칙이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "분배법칙",
+   "corner": "분배법칙",
+   "icons": [],
+   "level": "",
+   "text": "세 수 $a, b, c$에 대하여\n$a\\times(b+c)=a\\times b+a\\times c$    $(a+b)\\times c=a\\times c+b\\times c$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "분배법칙 활용 안내",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "분배법칙을 이용하여 계산하면 편리할 때가 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "예제",
+   "label": "예제 4",
+   "corner": "예제",
+   "icons": [],
+   "level": "기본",
+   "text": "분배법칙을 이용하여 다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$12\\times\\left\\{\\frac{5}{6}+\\left(-\\frac{1}{4}\\right)\\right\\}$"
+    },
+    {
+     "label": "(2)",
+     "text": "$15\\times\\left(-\\frac{4}{7}\\right)+15\\times\\left(-\\frac{3}{7}\\right)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "풀이 (1) $12\\times\\left\\{\\frac{5}{6}+\\left(-\\frac{1}{4}\\right)\\right\\}=12\\times\\frac{5}{6}+12\\times\\left(-\\frac{1}{4}\\right)$ $=10+(-3)$ $=7$",
+    "풀이 (2) $15\\times\\left(-\\frac{4}{7}\\right)+15\\times\\left(-\\frac{3}{7}\\right)=15\\times\\left\\{\\left(-\\frac{4}{7}\\right)+\\left(-\\frac{3}{7}\\right)\\right\\}$ $=15\\times(-1)$ $=-15$",
+    "답 (1) 7 (2) $-15$"
+   ],
+   "answerFormat": "계산 결과"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "분배법칙 설명 상자 1",
+   "labels": "$(3+5)\\times4$ / $=3\\times4+5\\times4$",
+   "desc": "$(3+5)\\times4$의 괄호 안 3과 5에서 각각 곡선 화살표가 4를 향해 그려져 있음(분배를 나타냄)."
+  },
+  {
+   "kind": "기타",
+   "caption": "분배법칙 설명 상자 2",
+   "labels": "$4\\times(3+5)$ / $=4\\times3+4\\times5$",
+   "desc": "$4\\times(3+5)$에서 4로부터 3과 5를 향해 곡선 화살표가 그려져 있음(분배를 나타냄)."
+  }
+ ],
+ "incomplete": "",
+ "_page": 52,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3936,
+  "out": 1775,
+  "sec": 13.7,
+  "stop": "end_turn"
+ }
+}

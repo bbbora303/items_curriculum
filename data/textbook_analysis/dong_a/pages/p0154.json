@@ -1,0 +1,218 @@
+{
+ "printedPage": "154",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.3 위치 관계 (해결해요: 5.3 확인 문제)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l\\parallel m$"
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l\\perp P$"
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "한 점에서 만난다",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점·직선·평면의 위치 관계(포함)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선과 평면의 위치 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "모서리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "두 점 A, B를 지나는 직선",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\parallel$",
+   "meaning": "평행",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "예시",
+   "summary": "산책로 m은 바닥 P에 포함된다는 위치 관계 서술의 예",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "한 평면 위의 직선 4개 그림에서 보기 ㄱ~ㄹ(평행, 한 점에서 만남, 만나지 않음, 일치) 중 옳은 것을 모두 고른다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "삼각기둥에서 모서리 쌍 (1) AB와 AC, (2) AD와 BE, (3) BC와 ED의 위치 관계를 쓴다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "$l\\parallel m$, $l\\perp P$일 때 직선 m과 평면 P의 위치 관계를 쓴다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "케이블카 그림에서 점 A, B, 직선 k, l, m, n, 평면 P 사이의 위치 관계를 예시처럼 두 가지 찾아 쓴다",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "5",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "직육면체에서 세 조건(BF와 꼬인 위치, 면 BFGC와 만나지 않음, CD와 만나지 않음)을 모두 만족하는 모서리를 구한다",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "한 평면 위에서 두 쌍의 직선이 직각으로 만나 A, B, C, D를 이루는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~F가 표시된 삼각기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "바닥 평면 P 위에 케이블카 선과 산책로를 직선 k, l, m, n으로 나타내고 사람을 점 A, B로 표시한 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~H가 표시된 직육면체",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "케이블카",
+  "산책로",
+  "공원"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 번호 5에 '도전' 표시가 있다. 각 문제 옆의 우수/보통/분발 표정 아이콘은 자기 점검용이다. 상단 안내문은 5.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 내용이다. 소단원은 안내문에서 5.3으로 추정했다. 문제 1의 직선 기호 위 화살표 표시는 이미지상 직선으로 보인다.",
+ "_page": 154,
+ "_profile": "full",
+ "_usage": {
+  "in": 4653,
+  "out": 1750,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

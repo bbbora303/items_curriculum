@@ -1,0 +1,155 @@
+{
+ "printedPage": "30",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "수직선",
+  "area": "생각 열기 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "수직선",
+   "role": "정의",
+   "definition": "직선 위에 0을 나타내는 점을 정하고 그 점의 오른쪽에 양수를, 왼쪽에 음수를 나타낸 직선이다.",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "정의",
+   "definition": "수직선에서 0을 나타내는 점이다.",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수(자연수)",
+   "role": "사용",
+   "definition": "",
+   "notation": "+1, +2, +3, \\ldots"
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": "-1, -2, -3, \\ldots"
+  },
+  {
+   "term": "양의 유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 부호, 음의 부호",
+   "role": "사용",
+   "definition": "",
+   "notation": "+, -"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "+",
+   "meaning": "양의 부호 (수직선에서 생략하여 나타내기도 함)",
+   "role": "사용"
+  },
+  {
+   "symbol": "-",
+   "meaning": "음의 부호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "원점을 기준으로 오른쪽에 +1, +2, +3, \\ldots을, 왼쪽에 -1, -2, -3, \\ldots을 차례대로 대응",
+   "plain": "일정한 간격으로 점을 찍어 양의 정수는 원점의 오른쪽에, 음의 정수는 왼쪽에 차례대로 대응시키면 모든 정수를 수직선 위에 나타낼 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "모든 유리수는 수직선 위의 점에 대응시킬 수 있다",
+   "plain": "정수처럼 유리수도 수직선 위의 점으로 나타낼 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "-2.4,\\ -\\frac{4}{3},\\ \\frac{1}{5},\\ 1.5",
+   "plain": "이 유리수들을 수직선 위에 나타낸 예시이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "유리수를 수직선에 나타내기",
+   "summary": "-2.4, -4/3, 1/5, 1.5를 수직선 위에 나타내고 음의 유리수·양의 유리수 영역을 표시함",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "-5부터 -1까지의 정수를 주어진 수직선의 빈 칸에 나타낸다(온도계 참고).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "이야기해 보고 나타내어 보자",
+   "summary": "+0.5와 -0.5를 나타내는 방법을 친구들과 이야기하고 ❶의 직선 위에 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "온도계 그림과 이를 확대한 형태로 이어진 수직선(빈 칸 5개, 0~+5 표시)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원점 0을 중심으로 -5~+5 정수를 음의 정수와 양의 정수(자연수)로 구분해 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "-2.4, -4/3, 1/5, 1.5를 점으로 나타내고 음의 유리수와 양의 유리수 영역을 색으로 구분한 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [
+  "온도계"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 '수직선'으로 추정함. 대단원은 쪽 아래 'Ⅰ. 수와 연산'(대영역)과 단원 목록을 참고해 '정수와 유리수'로 판단함. 생각 열기의 온도계 그림 일부 숫자는 작아 읽기 어려움.",
+ "_page": 30,
+ "_usage": {
+  "in": 4677,
+  "out": 1567,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,48 @@
+{
+ "printedPage": "314",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "사진 및 인용 자료 출처"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "쪽 아래 오른쪽에 연필과 전구를 그린 장식 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "쪽 위 제목 옆에 책을 보는 학생 캐릭터 아이콘",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "통계 자료 출처(지진·산불 발생, 기온, 고용률, 관객 수 등)",
+  "QR 코드 연결 자료(활동 영상, 단원 정리, 계통도, 누리집, 참고 자료)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 부록 쪽이다. 위쪽은 '사진 및 인용 자료 출처'로, 쪽별 인용 자료의 기관명과 연도를 나열한다. 아래쪽은 'QR 코드 URL'로, 쪽 번호별 QR 연결 자료의 종류(활동 영상, 단원 정리, 계통도, 누리집, 참고 자료)와 주소를 나열한다. 대단원·소단원 표시는 없어 빈 문자열로 두었다.",
+ "_page": 314,
+ "_usage": {
+  "in": 7232,
+  "out": 510,
+  "sec": 4.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

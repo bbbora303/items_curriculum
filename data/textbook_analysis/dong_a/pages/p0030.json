@@ -1,0 +1,171 @@
+{
+ "printedPage": "30",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수의 개수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2\\times3^2\\times5$",
+   "meaning": "거듭제곱을 이용한 소인수분해 표현",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "것은?",
+   "summary": "보기 5개 중 72와 소인수가 모두 같은 수를 고른다(28, 42, 64, 80, 96).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수가 세 개인 자연수 중 가장 작은 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해된 꼴의 두 수 $2^2\\times3^2\\times5$, $2\\times3^3\\times7$의 공약수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "08",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 수 $2^2\\times3^a$, $2^b\\times3^2$의 최대공약수가 $2\\times3^2$, 최소공배수가 $2^2\\times3^3$일 때 $a+b$를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "30보다 크고 40보다 작으며 소인수가 2개이고 두 소인수의 합이 5인 자연수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "$2^3\\times3^{\\square}$으로 소인수분해되는 수의 약수가 12개일 때 □ 안의 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "11",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "63과 84를 어떤 자연수로 나누면 모두 나누어떨어지고 몫이 서로소가 되는 자연수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "12",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "$6\\times\\square$와 $8\\times\\square$의 최소공배수가 216일 때 □에 공통으로 들어갈 수 있는 자연수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "07번 문제의 두 수를 담은 상자와 09번 조건을 담은 상자.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 마무리 문제 쪽이다. 소단원 번호와 제목은 보이지 않는다. 09번부터 '발전' 표시가 있어 09~12번을 심화로 분류했다. 역량 아이콘은 보이지 않는다. 쪽 아래에 '30 1. 소인수분해'가 인쇄되어 있다.",
+ "_page": 30,
+ "_profile": "full",
+ "_usage": {
+  "in": 4426,
+  "out": 1452,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

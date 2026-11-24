@@ -1,0 +1,509 @@
+{
+ "printedPage": "287",
+ "pageType": "기타",
+ "items": [
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "정답 및 풀이",
+   "icons": [],
+   "level": "",
+   "text": "점 P(a, b)는 제2사분면 위에 있으므로 $a<0$, $b>0$",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$-a>0$, $b>0$이므로 점 A($-a$, $b$)는 제1사분면 위에 있다."
+    },
+    {
+     "label": "(2)",
+     "text": "$a<0$, $-b<0$이므로 점 B($a$, $-b$)는 제3사분면 위에 있다."
+    },
+    {
+     "label": "(3)",
+     "text": "$b>0$, $a<0$이므로 점 C($b$, $a$)는 제4사분면 위에 있다."
+    },
+    {
+     "label": "(4)",
+     "text": "$a-b<0$, $-ab>0$이므로 점 D($a-b$, $-ab$)는 제2사분면 위에 있다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "6",
+   "corner": "정답 및 풀이",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "(좌표평면 위에 삼각형 ABC를 그린 그림, figures 참고)"
+    },
+    {
+     "label": "(2)",
+     "text": "삼각형 ABC에서 선분 AC를 밑변으로 생각하면 밑변의 길이는 5, 높이는 4이므로 삼각형 ABC의 넓이는 $\\frac{1}{2}\\times5\\times4=10$이다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "4.2 그래프의 뜻과 표현",
+   "corner": "단원 제목",
+   "icons": [],
+   "level": "",
+   "text": "4.2 그래프의 뜻과 표현 (114쪽~118쪽)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "예시 바닷물의 온도가 점점 높아지고 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "함께해요 1",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "‘높아진다’에 ○표, ‘변함없다’에 ○표, ‘낮아진다’에 ○표"
+    },
+    {
+     "label": "2",
+     "text": "예시 (시간에 따른 높이 그래프, graphs 참고)"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "(1) (2) (3) (4)를 ㉠ ㉡ ㉢ ㉣과 선으로 연결한 그림(figures 참고). 예시 • (1), (2)는 물통의 폭이 일정하므로 물의 높이가 일정하게 높아진다. 하지만 (1)보다 (2)의 폭이 더 좁으므로 (2)의 물의 높이가 더 빨리 높아진다. • (3)은 물의 높이가 느리게 높아지다가 물통의 폭이 좁아지면 빠르게 높아진다. • (4)는 (3)을 뒤집은 모양이므로 물의 높이가 빠르게 높아지다가 물통의 폭이 넓어지면 느리게 높아진다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "(1)~(4)와 ㉠~㉣ 연결"
+  },
+  {
+   "kind": "문제",
+   "label": "함께해요 2",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "5"
+    },
+    {
+     "label": "2",
+     "text": "50"
+    },
+    {
+     "label": "3",
+     "text": "10"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "5 m/s"
+    },
+    {
+     "label": "(2)",
+     "text": "600 W"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "20 ppm"
+    },
+    {
+     "label": "(2)",
+     "text": "예시 석유를 연료로 하는 자동차를 많이 사용하고, 이산화 탄소를 흡수하는 삼림 파괴로 인하여 이산화 탄소 농도가 증가했다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "4시, 16시"
+    },
+    {
+     "label": "(2)",
+     "text": "4시부터 10시까지, 16시부터 22시까지"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 4",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "오븐의 가장 높은 온도는 140 ℃, 가장 낮은 온도는 120 ℃이다."
+    },
+    {
+     "label": "(2)",
+     "text": "➊: ㄴ, ➋: ㄷ, ➌: ㄱ"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [],
+   "level": "",
+   "text": "예시 달리기 연습을 했다. 점점 빨리 달리다가 내가 낼 수 있는 최대 속력으로 달렸더니 힘들어서 잠시 멈춰 물을 마셨다. 다시 힘을 내서 있는 힘껏 쭉 달렸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "해결해요 (119쪽)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "ㄴ"
+    },
+    {
+     "label": "(2)",
+     "text": "ㄷ"
+    },
+    {
+     "label": "(3)",
+     "text": "ㄱ"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "ㄴ. ➋ 구간: 30분 동안 정지했다. ㄷ. ➌ 구간: 60분 동안 10 km를 이동했다. 따라서 옳은 것은 ㄱ, ㄹ, ㅁ이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "2 m"
+    },
+    {
+     "label": "(2)",
+     "text": "1 m"
+    },
+    {
+     "label": "(3)",
+     "text": "높이가 1.5 m인 경우는 1초, 3초, 5초, 7초, 9초의 5번이다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "서술형문제",
+   "label": "4",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "서술형",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "두 사람이 출발한 지 60분 후에 출발점으로부터 같은 거리에 있다. 따라서 두 사람은 출발한 지 60분 후에 처음으로 다시 만났다. … ➊"
+    },
+    {
+     "label": "(2)",
+     "text": "지원이는 출발한 지 90분 후에 결승점에 도착했고, 서현이는 출발한 지 100분 후에 결승점에 도착했다. 따라서 결승점에 먼저 도착한 사람은 지원이다. … ➋"
+    },
+    {
+     "label": "(3)",
+     "text": "출발한 지 30분 후 서현이는 출발점으로부터 5 km 떨어져 있고, 지원이는 4 km 떨어져 있으므로 두 사람의 거리 차이는 1 km이다. … ➌"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "채점 기준 표 참고"
+  },
+  {
+   "kind": "기타",
+   "label": "4.3 정비례와 그 그래프",
+   "corner": "단원 제목",
+   "icons": [],
+   "level": "",
+   "text": "4.3 정비례와 그 그래프 (120쪽~124쪽)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "10 km, 20 km, 30 km",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "(x, y 값의 표, tables 참고) $x$의 값이 2배, 3배, 4배, $\\cdots$로 변함에 따라 $y$의 값도 2배, 3배, 4배, $\\cdots$로 변하므로 $x$와 $y$는 정비례한다."
+    },
+    {
+     "label": "(2)",
+     "text": "$y=5x$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$y=1200x$"
+    },
+    {
+     "label": "(2)",
+     "text": "$y=24-x$"
+    },
+    {
+     "label": "(3)",
+     "text": "$y=6x$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "따라서 $x$와 $y$가 정비례하는 것은 (1), (3)이다."
+  }
+ ],
+ "tables": [
+  {
+   "caption": "해결해요 4 채점 기준",
+   "unit": "",
+   "headers": [
+    "채점 기준",
+    "배점 비율"
+   ],
+   "rows": [
+    [
+     "➊ 몇 분 후에 처음으로 다시 만났는지 구하기",
+     "30 %"
+    ],
+    [
+     "➋ 결승점에 누가 먼저 도착했는지 구하기",
+     "30 %"
+    ],
+    [
+     "➌ 출발한 지 30분 후 두 사람의 거리 차이 구하기",
+     "40 %"
+    ]
+   ],
+   "source": ""
+  },
+  {
+   "caption": "4.3 문제 1 (1)",
+   "unit": "cm",
+   "headers": [
+    "x(cm)",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "rows": [
+    [
+     "y(cm)",
+     "5",
+     "10",
+     "15",
+     "20",
+     "25",
+     "30"
+    ]
+   ],
+   "source": ""
+  }
+ ],
+ "graphs": [
+  {
+   "type": "기타",
+   "title": "함께해요 1 의 2 예시 (시간에 따른 높이)",
+   "xAxis": "시간 (구간 ➊, ➋, ➌ 표시)",
+   "yAxis": "높이",
+   "values": "원점 O에서 오른쪽 위로 올라가는 선분(붉은색, 구간 ➊) → 수평 선분(붉은색, 구간 ➋) → 오른쪽 아래로 내려와 시간축에 닿는 선분(파란색, 구간 ➌). 점선 세로선이 구간 경계마다 있고, 수평 선분 높이에서 y축 방향으로 점선이 이어짐.",
+   "note": "눈금 숫자 없음"
+  }
+ ],
+ "figures": [
+  {
+   "kind": "좌표평면",
+   "caption": "6 (1) 삼각형 ABC",
+   "labels": "x축, y축, 원점 O, 눈금 -4, -2, 2, 4 (x축·y축 모두). 점 A, B, C와 삼각형 ABC(붉은 선). A는 x=2 위쪽(y가 2와 4 사이), B는 x축 왼쪽(x=-2 부근), C는 x=2 아래쪽(y=-2 부근)에 위치.",
+   "desc": "A와 C를 잇는 선분은 x=2 위에 있는 세로선"
+  },
+  {
+   "kind": "기타",
+   "caption": "문제 1 연결 그림",
+   "labels": "위쪽 점에 (1), (2), (3), (4), 아래쪽 점에 ㉠, ㉡, ㉢, ㉣. 붉은 선으로 위·아래 점을 연결(교차함).",
+   "desc": "연결: (1)→㉢쪽, (2)→㉠쪽, (3)→㉣쪽, (4)→㉡쪽으로 보이나 선이 교차해 불확실"
+  }
+ ],
+ "incomplete": "문제 1 연결 그림의 선 연결 대응이 겹쳐 있어 정확히 확인하기 어려움. 6 (1) 그림의 점 좌표는 눈금 위치로 대략 읽었음.",
+ "_page": 287,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 5362,
+  "out": 6248,
+  "sec": 40.5,
+  "stop": "end_turn"
+ }
+}

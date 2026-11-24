@@ -1,0 +1,177 @@
+{
+ "printedPage": "125",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.3 정비례와 그 그래프",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=ax$",
+   "meaning": "y가 x에 정비례하는 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "x와 y가 정비례할 때 x=5,10,15,20에 대한 표를 완성한다(x=10일 때 y=60).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "정사각형의 한 변의 길이 x cm와 둘레 y cm의 표를 완성하고 정비례 여부를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "x와 y 사이의 관계를 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "y=x/3에 대한 보기 ㄱ~ㄷ 중 옳은 설명을 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4-(1)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "y=6x의 그래프가 지나는 사분면을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4-(2)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "y=-3/5 x의 그래프가 지나는 사분면을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "그래프를 보고 y=ax, y=bx에서 a, b의 값을 구한다(그래프에 (-2,4), (4,3) 표시).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "y=2x의 그래프에서 점의 좌표가 문자(7-a, a-1)로 주어질 때 a의 값을 구하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "x와 y의 값을 나타낸 정비례 표(일부 빈칸)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "모눈종이 위에 한 변이 1cm씩 늘어나는 정사각형",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x(cm)와 y(cm)의 값을 채우는 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원점을 지나는 두 직선 y=ax(감소), y=bx(증가)와 점선으로 표시한 좌표",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "y=2x의 그래프와 좌표 7-a, a-1이 표시된 그림",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "모눈종이 위 정사각형의 둘레"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "'해결해요' 코너. 4.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내와 QR코드가 있음. 문제 1~6 옆에 우수/보통/분발 표정 아이콘이 있음. 그래프 5번의 숫자 일부(4, 3, -2)가 흐리게 보여 정확한 좌표는 확실하지 않음.",
+ "_page": 125,
+ "_profile": "full",
+ "_usage": {
+  "in": 4597,
+  "out": 1547,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

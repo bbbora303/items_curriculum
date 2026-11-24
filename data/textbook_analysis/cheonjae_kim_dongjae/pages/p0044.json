@@ -1,0 +1,152 @@
+{
+ "printedPage": "44",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "03 정수와 유리수의 곱셈과 나눗셈",
+  "area": "단원 도입 / 개념 설명 (생각 열기, 채워 넣기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(+3)\\times(-1)$",
+   "meaning": "부호가 있는 수의 곱을 괄호로 나타낸 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(양의 정수)$\\times$(양의 정수)$=+$(두 수의 절댓값의 곱)",
+   "plain": "양수끼리 곱하면 부호는 +이고 절댓값의 곱이 된다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "(양의 정수)$\\times$(음의 정수)$=-$(두 수의 절댓값의 곱)",
+   "plain": "양수와 음수를 곱하면 부호는 -이고 절댓값의 곱이 된다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  }
+ ],
+ "examples": [
+  {
+   "title": "(+3)을 곱하는 수를 1씩 줄이기 (양의 정수×양의 정수)",
+   "summary": "(+3)×(+3), (+3)×(+2), (+3)×(+1)의 곱이 3씩 작아지는 규칙으로 양×양의 부호 규칙을 이끌어 낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "(+3)에 음의 정수를 곱하기 (양의 정수×음의 정수)",
+   "summary": "(+3)×(-1), (+3)×(-2), (+3)×(-3)의 결과로 양×음의 부호 규칙을 이끌어 낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "곱하는 수가 1씩 작아질 때 두 수의 곱이 얼마씩 작아지는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "❶의 규칙에 따라 2×(-1), 2×(-2)의 빈칸에 알맞은 수를 써넣는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기 ❶",
+   "level": "기본",
+   "verb": "채우시오(빈칸 채우기)",
+   "summary": "(+2)×(+6)=(2×6)=12 꼴의 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❷",
+   "level": "기본",
+   "verb": "채우시오(빈칸 채우기)",
+   "summary": "(+3)×(-5)=(3×5)=15 꼴의 빈칸(부호)을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "2에 2, 1, 0, -1, -2를 곱한 결과를 나열한 표로, 마지막 두 곱은 빈칸이다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(+3)에 +3부터 -3까지 곱한 결과를 나열하고, 곱하는 수가 1씩 작아지면 곱이 3씩 작아짐을 화살표로 보여 준다.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정수와 유리수의 곱셈과 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 03 '정수와 유리수의 곱셈과 나눗셈'의 도입 쪽이다. 규칙(패턴)을 통해 곱셈의 부호 규칙을 귀납적으로 이끌어 낸다. 채워 넣기의 동그라미 빈칸은 부호(+, -)로 보이지만 이미지에는 비어 있어 확실하지 않다. 글자층에서 ×가 '_'로 깨져 있어 이미지를 따랐다.",
+ "_page": 44,
+ "_usage": {
+  "in": 4802,
+  "out": 1640,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

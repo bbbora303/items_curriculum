@@ -1,0 +1,152 @@
+{
+ "printedPage": "100",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "수학 놀이터 - 일차방정식 기차 만들기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "일차방정식의 미지수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "모둠별로 기차 칸에 일차방정식을 적고, 다른 모둠이 적은 방정식을 풀어 해를 적은 뒤 기차를 이어 붙인다.",
+   "plain": "일차방정식을 만들고 풀어서 기차 칸을 많이 이어 붙인 모둠이 이기는 놀이이다.",
+   "_raw": "방법",
+   "statementType": "활동 안내"
+  }
+ ],
+ "examples": [
+  {
+   "title": "기차 칸 예시 1",
+   "summary": "$2(x-3)=12-x$ 의 해는 $x=6$ 으로 적혀 있다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "기차 칸 예시 2",
+   "summary": "$\\frac{4}{3}x+\\frac{1}{6}=\\frac{1}{4}x-2$ 의 해는 $x=-2$ 로 적혀 있다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "기차 칸 예시 3",
+   "summary": "$3x-1=1$ 의 해는 $x=\\frac{2}{3}$ 로 적혀 있다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "기차 칸 예시 4",
+   "summary": "$5-x=2$ 의 해는 $x=3$ 으로 적혀 있다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "놀이",
+   "level": "활동",
+   "verb": "적는다/푼다",
+   "summary": "모둠별로 일차방정식을 기차 칸에 적고, 나누어 가진 일차방정식을 풀어 해를 적은 뒤 다른 모둠의 해를 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "학생들이 책상에 둘러서서 기차 칸에 일차방정식과 해를 적는 모습",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "일차방정식과 해가 적힌 기차 칸 4개(주황색 1개, 파란색 3개 등)를 이어 붙인 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "칠판에 모둠별 기차 칸이 이어 붙여진 모습과 이를 보는 학생들",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "'기차 그림' QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "기차 만들기 놀이",
+  "모둠 활동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 놀이터 활동 쪽으로 새로 정의되는 용어나 기호는 없다. 파란색 기차 칸은 계수가 모두 정수인 일차방정식, 주황색 기차 칸은 계수에 소수 또는 분수가 있는 일차방정식을 적는다. 그림 속 일부 식은 작아서 읽기 어렵다. 소단원 번호는 보이지 않는다.",
+ "_page": 100,
+ "_profile": "full",
+ "_usage": {
+  "in": 4532,
+  "out": 1313,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

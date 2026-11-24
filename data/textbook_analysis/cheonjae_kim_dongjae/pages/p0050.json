@@ -1,0 +1,165 @@
+{
+ "printedPage": "50",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수와 유리수의 나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "(-3)^4, -2^6"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\div",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\times",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "a^n",
+   "meaning": "거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "정수·소수의 나눗셈 4문항 (+14)÷(+7), (-27)÷(-9), (-3.5)÷(+0.5), (+4.8)÷(-1.2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "계산하시오",
+   "summary": "거듭제곱이 포함된 나눗셈 (-3)^4÷(-9), -2^6÷(-4)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "수의 역수 구하기: 3, -9/8, -1/4",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "0.4의 역수와 3과 1/3의 역수의 곱 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수·소수의 나눗셈 4문항 (+5/4)÷(+5/7), (-25/18)÷(+5), (+8/15)÷(-4/5), (-0.5)÷(-3/8)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3+",
+   "level": "심화(+표시)",
+   "verb": "계산하시오",
+   "summary": "곱셈과 나눗셈이 섞인 계산 (-21/2)÷7×(-4), (-3)^3×5÷(-9)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "4명이 5×5 수 격자에서 가로줄·세로줄 규칙에 따라 수 4개씩 골라 계산 결과가 가장 큰 나눗셈(분수 형태 ÷ 분수 형태)을 만드는 게임",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "별(★)이 가운데 있는 5×5 수 격자(7, -12, -6, 11, 5 등 정수)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "선택한 수를 적는 빈칸과 분수÷분수=♥ 형태의 빈칸 식",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "색연필과 노트 배경",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "가위바위보 수 선택 게임"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 쪽 아래에는 'Ⅰ. 수와 연산'이 표시됨. 문제 1+, 2+, 3+는 오른쪽 열의 심화 문항으로 보임. 활동의 나눗셈 빈칸은 분자와 분모 각각 두 칸씩으로, 총 4개의 수를 채우는 구조임.",
+ "_page": 50,
+ "_usage": {
+  "in": 4752,
+  "out": 1468,
+  "sec": 8.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

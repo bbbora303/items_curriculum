@@ -1,0 +1,115 @@
+{
+ "printedPage": "170",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "수학 놀이터 - 보물찾기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자와 컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AC}$"
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overrightarrow{AB}$"
+  },
+  {
+   "term": "각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle BAC$"
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AC}$",
+   "meaning": "선분 AC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$",
+   "meaning": "반직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle BAC=\\angle ACE$",
+   "meaning": "두 각의 크기가 같음",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "보물찾기",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "보물 지도의 네 점 A, B, C, D와 단서 ❶~❺를 따라 눈금 없는 자와 컴퍼스만으로 작도하여 보물의 위치를 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "섬과 바다가 그려진 보물 지도에 네 점 A, B, C, D가 표시되어 있고, 왼쪽에 작도 순서 단서 ❶~❺가 적혀 있다.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "해적 캐릭터, 배, 고래, 나침반 등 장식 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "해적",
+  "보물 지도",
+  "보물찾기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 중간의 '수학 놀이터' 활동 쪽이며 소단원 번호는 보이지 않는다. 단서: ❶ AC를 그린다. ❷ 반직선 AB 위에 ∠BAC=∠ACE가 되는 점 E를 찾는다(크기가 같은 각의 작도). ❸ AC와 DE의 교점 F를 찾는다. ❹ 점 E에서 점 D 방향으로 EF의 2배만큼 간 곳이 보물의 위치이다(선분 길이의 복사). 글자층에서 ❷의 'AB³'는 반직선 AB의 기호가 깨진 것으로 보고 이미지를 따랐다.",
+ "_page": 170,
+ "_profile": "full",
+ "_usage": {
+  "in": 4141,
+  "out": 1013,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

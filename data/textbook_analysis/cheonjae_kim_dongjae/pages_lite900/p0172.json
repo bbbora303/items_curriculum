@@ -1,0 +1,95 @@
+{
+ "printedPage": "172",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "01 간단한 도형의 작도",
+  "area": "탐구 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "정의",
+   "definition": "눈금 없는 자와 컴퍼스만을 사용하여 도형을 그리는 것",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자",
+   "role": "정의",
+   "definition": "두 점을 연결하는 선분을 그리거나 주어진 선분을 연장하는 데 사용하는 도구",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "정의",
+   "definition": "원을 그리거나 주어진 선분의 길이를 재어서 옮기는 데 사용하는 도구",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l$"
+  },
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "verbs": [
+  "찾아보자",
+  "비교해 보자",
+  "작도해 보자",
+  "답해 보자"
+ ],
+ "contexts": [],
+ "essay": false,
+ "dataFigures": false,
+ "problemCount": 2,
+ "notes": "쪽 위 단원 표시는 보이지 않고 아래 'Ⅳ. 도형의 기초'만 보임. 대단원명은 제공된 목록과 내용(작도)을 근거로 '작도와 합동'으로 추정함. 교과서 표기는 Ⅳ. 도형의 기초이나 목록에는 없음.",
+ "_page": 172,
+ "_profile": "lite",
+ "_usage": {
+  "in": 3254,
+  "out": 664,
+  "sec": 4.7,
+  "stop": "end_turn"
+ }
+}

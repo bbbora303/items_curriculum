@@ -1,0 +1,176 @@
+{
+ "printedPage": "41",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "셈돌",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "뺄셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일교차",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(+4)-(-3)$",
+   "meaning": "양수에서 음수를 빼는 정수의 뺄셈 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "빨간 셈돌은 $+1$, 파란 셈돌은 $-1$, 빨간 셈돌 1개와 파란 셈돌 1개는 $0$",
+   "plain": "셈돌 규칙에 따라 정수를 그림으로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$-3$을 뺄 수 없으면 $0$(빨강+파랑)을 3개 넣은 뒤 파란 셈돌 3개를 뺀다",
+   "plain": "뺄 수가 없을 때는 0을 만드는 쌍을 넣어 뺄셈을 한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시 (+4)-(+3)=+1",
+   "summary": "빨간 셈돌 4개에서 3개를 빼면 1개가 남아 +1이 된다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "예시 (+4)-(-3)=+7",
+   "summary": "-3을 뺄 수 없으므로 0(빨강+파랑)을 3개 넣고 파란 셈돌 3개를 빼면 빨간 셈돌 7개가 남아 +7이 된다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "정수의 뺄셈 4문항: (+8)-(+6), (-7)-(-4), (+3)-(-3), (-9)-(+2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "유리수의 뺄셈 4문항: 분수 3문항과 소수 1문항",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "+2보다 7만큼 작은 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "표의 두 도시 A, B의 최고·최저 기온으로 일교차를 구해 더 큰 도시를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "활동 (1)",
+   "level": "활동",
+   "verb": "계산해 보자",
+   "summary": "(-5)-(-2)를 셈돌 그림으로 나타내어 계산한다.",
+   "competencyIcons": [
+    "문제해결",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "활동 (2)",
+   "level": "활동",
+   "verb": "계산해 보자",
+   "summary": "(-6)-(+2)를 셈돌 그림으로 나타내어 계산한다.",
+   "competencyIcons": [
+    "문제해결",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "A, B 두 도시의 최고 기온과 최저 기온을 나타낸 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "셈돌 규칙(빨강 +1, 파랑 -1, 빨강+파랑 0)을 나타낸 상자",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "셈돌로 (+4)-(+3)과 (+4)-(-3)의 뺄셈 과정을 보여 주는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [
+  "두 도시의 일교차(기온)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 활동 문항은 (1), (2)로만 표시되어 있어 label을 '활동 (1)', '활동 (2)'로 붙임. 1+, 2+는 오른쪽 열의 별도 심화 문제.",
+ "_page": 41,
+ "_usage": {
+  "in": 4490,
+  "out": 1629,
+  "sec": 12.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

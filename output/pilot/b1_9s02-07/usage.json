@@ -1,0 +1,46 @@
+{
+ "rows": [
+  {
+   "stage": "G0",
+   "in": 1307,
+   "out": 484,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G1",
+   "in": 4532,
+   "out": 2487,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "GN",
+   "in": 2954,
+   "out": 3481,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G2",
+   "in": 3620,
+   "out": 2458,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G3-1",
+   "in": 8976,
+   "out": 12747,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "G3-2",
+   "in": 17070,
+   "out": 7282,
+   "stop": "end_turn"
+  }
+ ],
+ "total": {
+  "calls": 6,
+  "in": 38459,
+  "out": 28939,
+  "estUSD": 0.549
+ }
+}

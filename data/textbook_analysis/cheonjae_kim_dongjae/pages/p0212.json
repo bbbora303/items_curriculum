@@ -1,0 +1,112 @@
+{
+ "printedPage": "212",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "창의 융합 컴퓨팅 - 블록 코딩으로 정다각형 그리기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "블록 코딩",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반시계 방향",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$120^\\circ$",
+   "meaning": "거북이가 반시계 방향으로 회전하는 각의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "3만큼 이동 → 반시계 방향 $120^\\circ$ 회전, 3회 반복",
+   "plain": "변을 그리고 회전하는 과정을 세 번 반복하면 정삼각형이 그려진다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "정삼각형 그리기 블록 코딩 과정 ①~④",
+   "summary": "알지오매스 블록 코딩으로 거북이가 3만큼 이동하고 120° 회전하는 것을 3번 반복해 정삼각형을 그린다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "정삼각형이 아닌 다른 정다각형을 그리는 블록 코딩을 해 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "알지오매스 블록 코딩 화면 4장(블록 구성, 3만큼 이동, 120° 회전, 정삼각형 완성)",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "장식",
+   "desc": "활동 영상 QR 코드와 블록 장식 그림",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "알지오매스",
+  "블록 코딩",
+  "거북이 그래픽"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 표시는 쪽 아래 'V. 도형의 성질'이며, 주어진 대단원 목록 중 가장 가까운 것은 '평면도형의 성질'로 추정함. 소단원 번호는 없음. 정다각형의 정의는 이 쪽에서 새로 도입되지 않고 이미 배운 것으로 전제됨. 활동은 정삼각형의 외각 120°와 반복 횟수 관계를 암시하나 쪽에 명시되지 않음.",
+ "_page": 212,
+ "_usage": {
+  "in": 4954,
+  "out": 969,
+  "sec": 12.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "m1_9s04-02_judge_claim_v1__ds_0402_cheonjae",
+  "description": "학생 20명의 운동 시간 자료를 줄기와 잎 그림과 도수분포표로 정리하고, 히스토그램에서 읽은 계급별 도수로 주장을 판단하는 세트용 자료 후보",
+  "variables": {
+    "s": {
+      "range": [
+        1,
+        40
+      ],
+      "meaning": "자료 묶음 번호(바꾸면 표의 자료가 달라짐)",
+      "step": 1
+    },
+    "n": {
+      "values": [
+        20
+      ],
+      "unit": "명",
+      "meaning": "자료의 개수(학생 수)"
+    },
+    "lo": {
+      "values": [
+        10
+      ],
+      "unit": "분",
+      "meaning": "운동 시간의 최솟값 범위(첫 계급의 시작)"
+    },
+    "hi": {
+      "values": [
+        59
+      ],
+      "unit": "분",
+      "meaning": "운동 시간의 최댓값 범위"
+    }
+  },
+  "derived": {
+    "data": "dataset(s, n, lo, hi)",
+    "c1": "count_between(data, lo, lo + 10)",
+    "c2": "count_between(data, lo + 10, lo + 20)",
+    "c3": "count_between(data, lo + 20, lo + 30)",
+    "c4": "count_between(data, lo + 30, lo + 40)",
+    "c5": "count_between(data, lo + 40, lo + 50)",
+    "top": "max(c1, c2, c3, c4, c5)",
+    "topStart": "(c1 == top) * lo + (c2 == top) * (lo + 10) + (c3 == top) * (lo + 20) + (c4 == top) * (lo + 30) + (c5 == top) * (lo + 40)",
+    "ge30": "count_between(data, lo + 20, lo + 50)",
+    "ge30Rate": "rel_freq(data, lo + 20, lo + 50)",
+    "mo": "mode(data)",
+    "mf": "mode_freq(data)",
+    "rng": "data_range(data)"
+  },
+  "constraints": [
+    "c1 >= 1",
+    "c2 >= 1",
+    "c3 >= 1",
+    "c4 >= 1",
+    "c5 >= 1",
+    "c1 <= 8 and c2 <= 8 and c3 <= 8 and c4 <= 8 and c5 <= 8",
+    "c1 + c2 + c3 + c4 + c5 == n",
+    "((c1 == top) + (c2 == top) + (c3 == top) + (c4 == top) + (c5 == top)) == 1",
+    "ge30 != n / 2",
+    "min(data) >= lo",
+    "max(data) <= hi",
+    "distinct(data) >= 12",
+    "mf >= 2"
+  ],
+  "difficulty": {
+    "easy": "abs(ge30 - n / 2) >= 3",
+    "medium": "top >= 5",
+    "hard": "abs(ge30 - n / 2) <= 2"
+  },
+  "standards": [
+    "9수04-02"
+  ],
+  "taskPatterns": [
+    "judge_claim"
+  ],
+  "status": "provisional",
+  "plainSummary": "운동 시간 20명의 자료를 바꿔 가며 쓰고, 계급은 10분 간격입니다. 모든 계급에 자료가 있고 가장 큰 도수는 하나뿐이며, 30분 이상이 정확히 절반이 아니게 합니다. 쉬움은 절반과 차이가 크고, 어려움은 절반에 가깝습니다.",
+  "baseId": "m1_9s04-02_judge_claim_v1"
+}

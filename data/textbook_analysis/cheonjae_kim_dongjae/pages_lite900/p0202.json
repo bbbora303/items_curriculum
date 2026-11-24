@@ -1,0 +1,120 @@
+{
+ "printedPage": "202",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "03 원과 부채꼴",
+  "area": "생각 열기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "원",
+   "role": "정의",
+   "definition": "평면 위의 한 점 O로부터 일정한 거리에 있는 점들로 이루어진 도형이다.",
+   "notation": "원 O"
+  },
+  {
+   "term": "원의 중심",
+   "role": "정의",
+   "definition": "원을 이루는 점들로부터 일정한 거리에 있는 점 O이다.",
+   "notation": "O"
+  },
+  {
+   "term": "호",
+   "role": "정의",
+   "definition": "원 O 위에 두 점 A, B를 잡을 때 원이 나뉘는 두 부분 각각이다.",
+   "notation": "$\\widehat{AB}$"
+  },
+  {
+   "term": "현",
+   "role": "정의",
+   "definition": "원 O 위의 두 점을 이은 선분이다.",
+   "notation": "현 AB"
+  },
+  {
+   "term": "지름",
+   "role": "정의",
+   "definition": "원의 중심을 지나는 현이다.",
+   "notation": ""
+  },
+  {
+   "term": "할선",
+   "role": "정의",
+   "definition": "원 O와 직선 l이 서로 다른 두 점에서 만날 때, 그 직선 l이다.",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "정의",
+   "definition": "원 O에서 두 반지름 OA, OB와 호 AB로 이루어진 도형이다.",
+   "notation": "부채꼴 AOB"
+  },
+  {
+   "term": "중심각",
+   "role": "정의",
+   "definition": "부채꼴 AOB에서 두 반지름 OA, OB가 이루는 각 AOB이다.",
+   "notation": "$\\angle AOB$"
+  },
+  {
+   "term": "활꼴",
+   "role": "정의",
+   "definition": "현 CD와 호 CD로 이루어진 도형이다.",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": "OA, OB"
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "l"
+  },
+  {
+   "term": "각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle AOB$"
+  },
+  {
+   "term": "도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "호, 현, 할선, 부채꼴, 중심각, 활꼴의 뜻을 안다."
+  ],
+  "later": []
+ },
+ "verbs": [
+  "말해 보자"
+ ],
+ "contexts": [
+  "부채"
+ ],
+ "essay": false,
+ "dataFigures": false,
+ "problemCount": 0,
+ "notes": "단원 도입 겸 개념 설명 쪽. 대단원명은 쪽 아래 'V. 도형의 성질'이 보이나 주어진 목록에서 가장 가까운 '평면도형의 성질'로 적음. 참고 상자에서 큰 호를 $\\widehat{ACB}$로 나타내는 방법을 설명함.",
+ "_page": 202,
+ "_profile": "lite",
+ "_usage": {
+  "in": 3442,
+  "out": 989,
+  "sec": 6.6,
+  "stop": "end_turn"
+ }
+}

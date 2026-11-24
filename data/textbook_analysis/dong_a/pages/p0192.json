@@ -1,0 +1,185 @@
+{
+ "printedPage": "192",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.5 원과 부채꼴",
+  "area": "단원 도입 및 개념 설명(생각 1)"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "원",
+   "role": "정의",
+   "definition": "평면 위의 한 점 O로부터 일정한 거리에 있는 모든 점으로 이루어진 도형이다.",
+   "notation": "원 O"
+  },
+  {
+   "term": "원의 중심",
+   "role": "정의",
+   "definition": "원을 이루는 점들로부터 일정한 거리에 있는 점 O이다.",
+   "notation": "O"
+  },
+  {
+   "term": "반지름",
+   "role": "정의",
+   "definition": "원의 중심에서 원 위의 한 점을 이은 선분이다.",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "정의",
+   "definition": "원 O 위에 두 점을 잡았을 때 원이 나누어지는 두 부분 각각이다.",
+   "notation": "$\\overset{\\frown}{AB}$"
+  },
+  {
+   "term": "현",
+   "role": "정의",
+   "definition": "원 O 위의 두 점을 이은 선분이다.",
+   "notation": "현 AB"
+  },
+  {
+   "term": "지름",
+   "role": "정의",
+   "definition": "원의 중심을 지나는 현이다.",
+   "notation": ""
+  },
+  {
+   "term": "할선",
+   "role": "정의",
+   "definition": "원 O 위의 두 점을 지나는 직선이다.",
+   "notation": "할선 CD"
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "활꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overset{\\frown}{AB}$",
+   "meaning": "양 끝 점이 A, B인 호 AB (보통 길이가 짧은 쪽의 호)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overset{\\frown}{ACB}$",
+   "meaning": "호 위의 한 점 C를 잡아 나타낸, 길이가 긴 쪽의 호",
+   "role": "정의"
+  },
+  {
+   "symbol": "원 O",
+   "meaning": "중심이 O인 원",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "원: 한 점 O로부터 일정한 거리에 있는 모든 점의 모임",
+   "plain": "한 점에서 같은 거리에 있는 점들을 모두 모으면 원이 된다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원 O 위의 두 점을 이은 선분 → 현",
+   "plain": "원 위의 두 점을 이은 선분이 현이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원의 중심을 지나는 현 = 지름",
+   "plain": "중심을 지나는 현은 그 원의 지름이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "원 O 위의 두 점을 지나는 직선 → 할선",
+   "plain": "원 위의 두 점을 지나는 직선이 할선이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원 위의 두 점이 원을 나눈 두 부분 → 호",
+   "plain": "원 위에 두 점을 잡으면 생기는 두 부분이 각각 호이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "그림의 타일들이 어떤 도형을 이용하여 디자인되었는지 말해 보기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "타일 디자이너 인터뷰 장면과 원 모양이 들어간 타일 디자인 세 가지",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원 O의 중심과 반지름을 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원 O 위의 점 A, B, C와 호를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원 O의 현 AB와 할선 CD를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "타일 디자이너",
+  "타일 디자인",
+  "진로"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "호, 현, 할선, 부채꼴, 중심각, 활꼴의 뜻을 안다.",
+   "부채꼴의 중심각과 호의 관계를 이해한다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이지만 '생각 1'의 개념 설명(원, 호, 현, 할선의 정의)이 쪽의 큰 부분을 차지한다. 부채꼴·중심각·활꼴은 학습 목표에만 나오고 이 쪽에서는 정의되지 않아 '사용'으로 분류했다. '배운 내용/배울 내용' 표시는 없다. '수학 톡 지식 톡'은 타일 디자이너 직업 소개이다.",
+ "_page": 192,
+ "_profile": "full",
+ "_usage": {
+  "in": 4779,
+  "out": 1716,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,164 @@
+{
+ "printedPage": "173",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "01 삼각형의 작도(추정): 작도 — 소단원 번호와 제목은 이 쪽에 보이지 않음",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "눈금 없는 자와 컴퍼스만을 사용하여 도형을 그리는 것",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "연장",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}+\\overline{CD}$",
+   "meaning": "두 선분의 길이의 합",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "눈금 없는 자와 컴퍼스만으로 도형을 그리는 것을 뜻하는 말(작도)을 빈칸에 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "작도에서 눈금 없는 자와 컴퍼스로 각각 할 수 있는 일을 말하기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "선분 AB를 점 B 방향으로 연장하여 길이가 AB의 2배인 선분 AC 작도",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "작도하시오",
+   "summary": "두 선분 AB, CD를 이용하여 길이가 AB+CD인 선분 EF 작도",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "지도에서 소희네 집을 중심으로 중학교와 반대 방향에 같은 거리만큼 떨어진 편의점의 위치를 표시하고 방법 설명",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "'길이가 같을까?' 코너의 화살표 모양 두 선분(착시 그림)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB 하나",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB와 선분 CD 두 개, 아래에 작도 답란",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "중학교, 소희네 집, 도서관, 병원 등이 표시된 지도와 학생 그림 두 명",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "지도",
+  "중학교·소희네 집·편의점의 위치",
+  "거리"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목이 쪽에 보이지 않아 section은 추정이며 불확실함. '길이가 같을까?'는 FUN 코너로 화살표 착시 그림만 보이고 설명 글은 없음. 문제 1+, 2+는 번호 위 '+' 표시로 보아 심화로 분류함. 문제 2와 2+ 끝의 A 표시는 수준 표시로 보이나 확실하지 않음.",
+ "_page": 173,
+ "_usage": {
+  "in": 4413,
+  "out": 1427,
+  "sec": 9.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

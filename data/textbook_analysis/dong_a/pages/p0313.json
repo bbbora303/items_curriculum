@@ -1,0 +1,34 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": ""
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이미지 전체가 옅은 하늘색 단색 배경이고 글자, 수식, 그림, 쪽 번호가 보이지 않는다. 글자층에도 내용이 없다. 표지 안쪽, 면지 또는 빈 쪽으로 보이지만 확실하지 않아 기타로 분류했다.",
+ "_page": 313,
+ "_profile": "full",
+ "_usage": {
+  "in": 2929,
+  "out": 245,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

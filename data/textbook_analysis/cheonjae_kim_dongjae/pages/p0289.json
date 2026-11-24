@@ -1,0 +1,198 @@
+{
+ "printedPage": "289",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "01 정비례",
+  "area": "정답과 해설 / 단원 도입"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=ax$",
+   "meaning": "정비례 관계를 나타내는 식(예: $y=50x$, $y=200x$)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(x, y)$",
+   "meaning": "순서쌍, 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\mathrm{A}(-2)$",
+   "meaning": "수직선 위 점의 좌표",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$x$가 2배, 3배, 4배, ...가 될 때 $y$도 2배, 3배, 4배, ...가 되면 정비례 관계",
+   "plain": "x가 몇 배가 될 때 y도 같은 배가 되면 정비례 관계가 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "수학 활동: 도서관 복사 비용",
+   "summary": "한 장당 50원인 용지를 x장 복사할 때 금액 y원의 표와 식 $y=50x$를 제시한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기(01 정비례)",
+   "level": "활동",
+   "verb": "채우시오",
+   "summary": "정비례 관계의 값 30, 60, 90, 120 / 2, 3, 4 등 표에서 규칙을 찾는다(정답만 제시).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "표 채우기, x와 y 사이의 정비례 관계 설명, 식 $y=200x$ 구하기(정답).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 1+",
+   "level": "심화(+표시)",
+   "verb": "고르시오",
+   "summary": "정비례하는 것을 고른다(정답: (1), $y=20x$).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 2",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "정답: (1), (2), (3).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 2+",
+   "level": "심화(+표시)",
+   "verb": "맞추시오",
+   "summary": "퍼즐 조각에 $y=3x$, $y=x$, $y=-x$, $y=\\\\frac{x}{2}$를 맞추는 정답 그림.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "중단원 마무리 1~7 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "좌표 읽기, 사분면, 도형 그리기와 넓이 42, 그래프 해석, 문제 만들기 정답이 실려 있음.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "생각 열기 ➊",
+   "level": "활동",
+   "verb": "",
+   "summary": "x(건)과 y(점)의 표를 보고 순서쌍 (x, y)를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "정답 그림: 사다리꼴 ABCD를 그린 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "활동",
+   "desc": "복사 장수 x와 금액 y의 표(1~4장, 50~200원)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "x(건), y(점), (x, y) 순서쌍 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정비례 식이 적힌 퍼즐 조각 맞추기 정답",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "뉴스 대본 역할극 표(사회자, 기자)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "도서관 복사 비용",
+  "해수면 높이 상승과 기후 변화 뉴스 대본",
+  "식물의 광합성량과 온도",
+  "점수와 건수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정비례 관계란 무엇일까?(120~121쪽)",
+   "정비례 관계의 그래프는 어떻게 그릴까?(122~125쪽)"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이 쪽은 정답과 해설 쪽으로, 앞 단원(좌표평면과 그래프) 중단원 마무리 정답과 정비례와 반비례 단원 시작 부분 정답이 함께 있음. 대단원은 정비례와 반비례로 보았음. 문제 발문은 보이지 않고 정답만 제시되어 있어 문제 내용은 정답을 바탕으로 요약했음. 상단 역사와 수학 사이(118쪽)의 정답은 인물 이름(존 찰스 필즈, 마리암 미르자카니, 아르키메데스)이 적혀 있음.",
+ "_page": 289,
+ "_usage": {
+  "in": 5275,
+  "out": 1924,
+  "sec": 12.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

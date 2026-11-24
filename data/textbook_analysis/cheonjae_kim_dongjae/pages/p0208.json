@@ -1,0 +1,142 @@
+{
+ "printedPage": "208",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$7.2^\\circ$",
+   "meaning": "막대와 햇빛이 이루는 각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{km}$",
+   "meaning": "거리의 단위(킬로미터)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1-❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "7명이 둥근 탁자에 앉아 양옆 학생끼리 악수할 때, 악수하는 학생은 모두 몇 쌍인지 말한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "1-❷",
+   "level": "활동",
+   "verb": "구하고 설명해 보자",
+   "summary": "양옆이 아닌 나머지 학생끼리 눈인사하는 쌍의 수를 구하고 그 까닭을 설명한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "시에네와 알렉산드리아 사이의 거리 약 800 km와 각 7.2°를 이용해 지구 둘레의 길이를 계산하는 과정을 설명한다(지구는 완전한 구).",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "7명의 학생이 둥근 탁자에 둘러앉아 있는 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원(지구 단면) 위에 알렉산드리아와 시에네, 두 지점 사이 약 800 km, 햇빛과 막대가 이루는 각 7.2°를 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "에라토스테네스와 알렉산드리아, 시에네의 막대·우물 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "지구 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "둥근 탁자에서 인사하기",
+  "에라토스테네스의 지구 둘레 측정",
+  "하짓날 태양과 그림자"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "V. 도형의 성질 단원 '수학 역량 쑥쑥 더하기' 쪽. 제공된 대단원 목록에는 '도형의 성질'이 없으므로 '평면도형의 성질'로 추정함(쪽 아래 표시는 'V. 도형의 성질'). 소단원 번호는 보이지 않음. 1번 활동은 문제해결·의사소통, 2번 활동은 문제해결·의사소통·연결 아이콘이 표시됨. 새로 정의되는 용어는 없고, 원과 각의 개념을 전제하고 사용하는 것으로 보임.",
+ "_page": 208,
+ "_usage": {
+  "in": 4564,
+  "out": 1256,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

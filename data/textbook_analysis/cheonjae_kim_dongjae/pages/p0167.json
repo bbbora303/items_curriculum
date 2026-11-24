@@ -1,0 +1,143 @@
+{
+ "printedPage": "167",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "3 펜로즈 삼각형 사진 촬영",
+  "area": "역량 쑥쑥 수학 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "펜로즈 삼각형",
+   "role": "정의",
+   "definition": "영국의 수학자 펜로즈가 고안한 도형으로, 정삼각형처럼 보이지만 실제로는 세 개의 각기둥으로 이루어진 입체도형이다.",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l$, $m$"
+  },
+  {
+   "term": "위치 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l$, $m$",
+   "meaning": "그림 속 두 직선의 이름",
+   "role": "사용"
+  },
+  {
+   "symbol": "$60^\\circ$",
+   "meaning": "정삼각형의 한 각의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "찍어 보자",
+   "summary": "펜로즈 삼각형 전개도를 잘라 접고 풀칠해 만든 뒤 사진을 찍는다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "펜로즈 삼각형을 여러 각도에서 찍은 사진에서 다양한 위치 관계(예: 두 직선 l, m이 평행)를 찾아 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "수학 체험 공원에 있는 펜로즈 삼각형 구조물을 세 각도에서 찍은 사진 세 장",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "만들기 3단계(자르기, 접기, 풀칠하기)를 보여 주는 순서도",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "책상 위 펜로즈 삼각형과 이를 보는 학생, 직선 l, m이 표시되고 '두 직선 l, m은 서로 평행해'라는 말풍선이 있는 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "누리집 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "펜로즈 삼각형",
+  "수학 체험 공원",
+  "사진 촬영",
+  "종이 모형 만들기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '역량 쑥쑥 수학 더하기' 코너의 활동 쪽이다. 대단원은 직선의 평행과 위치 관계 내용을 근거로 '기본 도형'으로 추정했으며 쪽에 단원명은 인쇄되어 있지 않다. 코너명은 하단 문구를 따랐다(글자층의 '더히기'는 '더하기'의 오타로 보임).",
+ "_page": 167,
+ "_usage": {
+  "in": 4424,
+  "out": 1202,
+  "sec": 7.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

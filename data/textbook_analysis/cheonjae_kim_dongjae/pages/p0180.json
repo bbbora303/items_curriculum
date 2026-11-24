@@ -1,0 +1,188 @@
+{
+ "printedPage": "180",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "03 삼각형의 합동 조건",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "정의",
+   "definition": "모양과 크기가 같아서 포개었을 때 완전히 겹치는 두 도형을 서로 합동이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "정의",
+   "definition": "두 삼각형이 합동이 되기 위한 조건으로 SSS, SAS, ASA 합동 세 가지가 있다.",
+   "notation": ""
+  },
+  {
+   "term": "SSS 합동",
+   "role": "정의",
+   "definition": "대응하는 세 변의 길이가 각각 같을 때의 합동이다.",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "정의",
+   "definition": "대응하는 두 변의 길이가 각각 같고 그 끼인각의 크기가 같을 때의 합동이다.",
+   "notation": ""
+  },
+  {
+   "term": "ASA 합동",
+   "role": "정의",
+   "definition": "대응하는 한 변의 길이가 같고 그 양 끝 각의 크기가 각각 같을 때의 합동이다.",
+   "notation": ""
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}, \\overline{BC}, \\overline{CA}$",
+   "meaning": "삼각형의 세 변(선분)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A, \\angle B, \\angle C$",
+   "meaning": "삼각형의 세 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "모양과 크기가 같아 포개었을 때 완전히 겹치는 두 도형은 합동",
+   "plain": "완전히 겹쳐지는 두 도형을 서로 합동이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "SSS 합동: 대응하는 세 변의 길이가 각각 같다.",
+   "plain": "세 변의 길이가 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "SAS 합동: 두 변의 길이가 각각 같고 그 끼인각의 크기가 같다.",
+   "plain": "두 변과 그 끼인각이 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "ASA 합동: 한 변의 길이가 같고 그 양 끝 각의 크기가 각각 같다.",
+   "plain": "한 변과 그 양 끝 각이 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "표를 해 보자",
+   "summary": "삼각형 ABC와 합동인 삼각형을 작도할 때 이용할 세 변과 세 각을 표에서 골라 ○표 하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "완성한 표를 친구들과 비교하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "합동인 삼각형을 작도할 대상인 삼각형 ABC",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "AB, BC, CA, ∠A, ∠B, ∠C를 열 머리로 하고 ○표를 쓰는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "SSS 합동 조건을 나타내는 두 삼각형(대응변 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "SAS 합동 조건을 나타내는 두 삼각형(두 변과 끼인각 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "ASA 합동 조건을 나타내는 두 삼각형(한 변과 양 끝 각 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "삼각형의 합동 조건을 이해하고, 이를 이용하여 두 삼각형이 합동인지 판별할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입 쪽으로 '생각 열기' 활동과 합동 조건 개념 설명이 함께 있다. 옆 여백에 S는 Side(변), A는 Angle(각)의 첫 글자라는 설명이 있다. 쪽 아래 표시는 'Ⅳ. 도형의 기초'로, 대단원 '작도와 합동'은 목록과 소단원 내용으로 판단했다.",
+ "_page": 180,
+ "_usage": {
+  "in": 4568,
+  "out": 1816,
+  "sec": 10.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

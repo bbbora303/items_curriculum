@@ -1,0 +1,105 @@
+{
+ "printedPage": "15",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.1 소수와 합성수",
+  "area": "수학 실험실"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "블록 코딩",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "알지오매스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "확인해 보자",
+   "summary": "블록 코딩 프로그램을 실행하여 137이 소수인지 아닌지 확인한다.",
+   "competencyIcons": [
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "프로그램을 사용하여 친구들과 함께 다섯 자리의 소수를 찾는다.",
+   "competencyIcons": [
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "알지오매스 블록 코딩 화면으로, 반복문과 조건문으로 입력한 수가 소수인지 판별하는 프로그램이다.",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "컴퓨터 화면에 '소수인지 궁금한 수를 입력해 주세요!' 입력창이 뜨고 137이 입력된 모습이다.",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 연결용 QR 코드와 주소 https://t25.kr/a46e이다.",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "암호",
+  "컴퓨터 프로그램"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "블록 코딩 화면의 블록 글자가 작아 세부 내용은 읽기 어렵다. 반복문으로 나누어떨어지는지 검사하는 구조로 보이나 정확한 식은 확인하지 못했다. 소수는 이전 쪽에서 정의된 것으로 보고 '사용'으로 분류했다.",
+ "_page": 15,
+ "_profile": "full",
+ "_usage": {
+  "in": 4581,
+  "out": 802,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

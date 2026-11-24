@@ -1,0 +1,153 @@
+{
+ "printedPage": "147",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.2 각의 뜻과 성질",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교각",
+   "role": "정의",
+   "definition": "서로 다른 두 직선이 한 점에서 만날 때 생기는 네 개의 각",
+   "notation": "$\\angle a, \\angle b, \\angle c, \\angle d$"
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "정의",
+   "definition": "두 직선이 만나서 생기는 교각 중 서로 마주 보는 두 각",
+   "notation": "$\\angle a$와 $\\angle c$, $\\angle b$와 $\\angle d$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "점 O를 꼭짓점으로 하는 각 AOB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "문자로 이름 붙인 각",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "맞꼭지각의 크기는 서로 같다.",
+   "plain": "두 직선이 만날 때 마주 보는 두 각의 크기는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a+\\angle b=180^\\circ,\\ \\angle b+\\angle c=180^\\circ \\Rightarrow \\angle a=\\angle c$",
+   "plain": "평각이 180°임을 이용해 맞꼭지각의 크기가 같음을 보인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "∠AOB가 평각일 때 ∠x의 크기를 구한다. (1) 120°, 35° (2) 직각 표시와 60°",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 2-함께해요 1",
+   "level": "활동",
+   "verb": "빈칸 채우기",
+   "summary": "∠a+∠b=180°, ∠b+∠c=180°임을 이용해 ∠a=∠c를 보인다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 2-함께해요 2",
+   "level": "활동",
+   "verb": "빈칸 채우기",
+   "summary": "∠b+∠c=180°, ∠c+∠d=180°임을 이용해 ∠b=∠d를 보인다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 2-함께해요 3",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "1, 2에서 알 수 있는 점을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 직선이 만날 때 ∠a, ∠b의 크기를 각각 구한다. (1) 105° (2) 직각 표시와 30°",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "평각 AOB 위의 반직선으로 나뉜 각과 각도(120°, 35° / 직각, 60°)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 직선이 한 점에서 만나 생기는 교각 a, b, c, d",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "교각 a, b, c, d가 표시된 두 직선 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "두 직선이 만나는 그림(105°, 30°와 직각 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'생각 2'가 도입되고 '함께해요' 활동 후 맞꼭지각의 성질로 정리된다. 문제 1은 앞 내용(평각)을 이용한 문제다. 문제 2 (2)의 각도 배치는 그림이 작아 정확히 읽기 어렵다.",
+ "_page": 147,
+ "_profile": "full",
+ "_usage": {
+  "in": 4498,
+  "out": 1494,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

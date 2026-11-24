@@ -1,0 +1,122 @@
+{
+ "printedPage": "61",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "2.6 정수와 유리수의 나눗셈",
+   "corner": "단원 머리",
+   "icons": [],
+   "level": "",
+   "text": "2.6 정수와 유리수의 나눗셈\n학습 목표: •정수와 유리수의 나눗셈의 원리를 이해하고, 그 계산을 할 수 있다.\n학습 요소: •역수",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "친구들에게 나눗셈을 설명하고 있습니다.\n말풍선 1: 3÷4는 이렇게 계산할 수 있어.\n말풍선 2: $\\frac{2}{3}\\div\\frac{3}{5}$은 이렇게 계산할 수 있지.\n$\\frac{2}{3}\\div\\frac{3}{5}$을 계산한 방법을 말해 보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "왼쪽 카드: $3\\div4=3\\times\\frac{1}{4}=\\frac{3}{4}$ / 오른쪽 카드: $\\frac{2}{3}\\div\\frac{3}{5}=\\frac{2}{3}\\times\\frac{5}{3}=\\frac{10}{9}$",
+   "steps": [],
+   "answerFormat": "말로 설명하기"
+  },
+  {
+   "kind": "활동",
+   "label": "생각 1",
+   "corner": "생각 1",
+   "icons": [],
+   "level": "",
+   "text": "정수와 유리수의 나눗셈은 어떻게 할까요?\n어떤 두 수의 곱이 1이 될 때, 한 수를 다른 수의 역수라고 한다.\n예를 들어 $\\left(-\\frac{4}{3}\\right)\\times\\left(-\\frac{3}{4}\\right)=1$이므로 $-\\frac{4}{3}$의 역수는 $-\\frac{3}{4}$이고, $-\\frac{3}{4}$의 역수는 $-\\frac{4}{3}$이다.\n[곁글] •0은 어떤 수와 곱하여도 1이 되지 않으므로 0의 역수는 없다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 수의 역수를 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\frac{3}{7}$"
+    },
+    {
+     "label": "(2)",
+     "text": "$-\\frac{1}{6}$"
+    },
+    {
+     "label": "(3)",
+     "text": "$+9$"
+    },
+    {
+     "label": "(4)",
+     "text": "$-0.5$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "각 수의 역수 쓰기"
+  },
+  {
+   "kind": "기타",
+   "label": "설명",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "자연수의 나눗셈과 분수의 나눗셈은\n$8\\div2=8\\times\\frac{1}{2}=4,\\quad \\frac{3}{8}\\div\\frac{2}{5}=\\frac{3}{8}\\times\\frac{5}{2}=\\frac{15}{16}$\n와 같이 나누는 수의 역수를 곱하여 계산한다.\n정수와 유리수의 나눗셈도 나누는 수의 역수를 곱하여 계산할 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "정수와 유리수의 나눗셈",
+   "corner": "정리 상자",
+   "icons": [],
+   "level": "",
+   "text": "정수와 유리수의 나눗셈\n두 수의 나눗셈은 나누는 수의 역수를 곱한다.\n[곁글] •나눗셈에서 0으로 나누는 것은 생각하지 않는다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "생각해요 삽화",
+   "labels": "왼쪽 아이의 카드: $3\\div4=3\\times\\frac{1}{4}=\\frac{3}{4}$; 오른쪽 아이의 카드: $\\frac{2}{3}\\div\\frac{3}{5}=\\frac{2}{3}\\times\\frac{5}{3}=\\frac{10}{9}$",
+   "desc": "교실에서 두 아이가 카드를 들고 나눗셈을 설명하고 있고, 다른 아이 둘과 고양이, 책장 위의 강아지가 함께 있는 삽화. 왼쪽 위에 QR 코드가 있음. 쪽 오른쪽 위에 '2 단원' 표시."
+  }
+ ],
+ "incomplete": "QR 코드의 내용은 읽지 못함.",
+ "_page": 61,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4048,
+  "out": 2744,
+  "sec": 17.9,
+  "stop": "end_turn"
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "printedPage": "144",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "중점",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "오른쪽 그림과 같이 점 M이 선분 AB 위의 한 점이고, $\\overline{AM}=\\overline{MB}$일 때, 점 M을 선분 AB의 **중점**이라고 한다.\n이때 선분 AB의 길이는 선분 AM의 길이의 두 배이므로 $\\overline{AB}=2\\overline{AM}$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림에서 $\\overline{AB}$의 중점을 M, $\\overline{AM}$의 중점을 N이라고 할 때, 다음 □ 안에 알맞은 수를 써넣으시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\overline{AB}=$ □ $\\overline{NM}$"
+    },
+    {
+     "label": "(2)",
+     "text": "$\\overline{NB}=$ □ $\\overline{AB}$"
+    },
+    {
+     "label": "(3)",
+     "text": "$\\overline{AB}=12$ cm이면 $\\overline{NB}=$ □ cm이다."
+    }
+   ],
+   "conditions": [],
+   "given": "$\\overline{AB}$의 중점이 M, $\\overline{AM}$의 중점이 N. (3)에서 $\\overline{AB}=12$ cm",
+   "steps": [],
+   "answerFormat": "각 □ 안에 알맞은 수를 써넣기"
+  },
+  {
+   "kind": "활동",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [
+    "의사소통",
+    "연결"
+   ],
+   "level": "활동",
+   "text": "아래 지도에서 내 위치를 점 A, 서점을 점 C, 편의점을 점 G, 집을 점 H라고 하자.\n지도를 보고 다음을 선분을 이용하여 설명하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "내 위치에서 서점까지의 거리"
+    },
+    {
+     "label": "(2)",
+     "text": "편의점과 집 사이의 거리"
+    },
+    {
+     "label": "(3)",
+     "text": "길이가 서로 같은 길"
+    }
+   ],
+   "conditions": [],
+   "given": "내 위치=점 A, 서점=점 C, 편의점=점 G, 집=점 H. 지도의 길이: 200 m, 150 m, 140 m, 150 m, 160 m, 180 m, 110 m",
+   "steps": [],
+   "answerFormat": "선분을 이용하여 서술"
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "직선 AB: $\\overleftrightarrow{AB}$\n반직선 AB: $\\overrightarrow{AB}$\n반직선 BA: $\\overrightarrow{BA}$ (회색 상자 안에 표기)\n선분 AB: $\\overline{AB}$ (회색 상자 안에 표기)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "수직선",
+   "caption": "중점 설명 그림",
+   "labels": "왼쪽부터 점 A, 점 M(붉은 점), 점 B. AM과 MB 위에 같은 길이를 나타내는 호와 같음 표시(짧은 줄 표시)가 있음",
+   "desc": "선분 AB 위에 점 M이 있고, AM과 MB가 같음을 표시"
+  },
+  {
+   "kind": "수직선",
+   "caption": "문제 2 그림",
+   "labels": "왼쪽부터 점 A, N, M, B가 선분 위에 차례로 있음",
+   "desc": "선분 AB 위에 점 N, M이 있음"
+  },
+  {
+   "kind": "도형",
+   "caption": "생각 넓히기 지도",
+   "labels": "내 위치(점 A, 지도 핀 표시), 서점(점 C 근처 건물), 편의점(점 G 근처), 집(점 H 근처). 위쪽 길: A에서 B까지 200 m, B에서 C까지 150 m. 점 A 아래쪽에 점 D가 있고 D에서 E까지 140 m, D에서 F까지 150 m. B에서 G까지 세로 길 160 m. 아래쪽 길: E에서 F까지 180 m, F에서 G까지 110 m. C에서 H까지 세로 길. 점 B, C, G, H에 직각 표시가 있음",
+   "desc": "A–B–C가 위쪽 가로 길, E–F–G–H가 아래쪽 가로 길이고, 점 D, E, F가 삼각형 모양의 길을 이룸. B–G와 C–H는 세로 길"
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 그림 1: 직선 AB",
+   "labels": "점 A, B. 직선이 양쪽으로 끝없이 뻗음. 기호 $\\overleftrightarrow{AB}$",
+   "desc": "양쪽 방향으로 늘인 직선 위에 점 A, B"
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 그림 2: 반직선 AB",
+   "labels": "점 A, B. 기호 $\\overrightarrow{AB}$",
+   "desc": "A에서 시작해 B 방향으로 뻗은 선"
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 그림 3: 반직선 BA",
+   "labels": "점 A, B. 기호 $\\overrightarrow{BA}$ (회색 상자)",
+   "desc": "B에서 시작해 A 방향으로 뻗은 선"
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 그림 4: 선분 AB",
+   "labels": "점 A, B. 기호 $\\overline{AB}$ (회색 상자)",
+   "desc": "두 점 A, B 사이의 선분"
+  }
+ ],
+ "incomplete": "지도에서 거리 표시(140 m, 150 m, 160 m 등)가 어느 길에 해당하는지는 위치로만 추정함. 수학 집 짓기 쪽의 새, 여우, 토끼, 밧줄 등 장식 삽화는 옮기지 않음.",
+ "_page": 144,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3902,
+  "out": 3005,
+  "sec": 22.6,
+  "stop": "end_turn"
+ }
+}

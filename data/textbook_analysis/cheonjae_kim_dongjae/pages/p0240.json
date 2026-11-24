@@ -1,0 +1,223 @@
+{
+ "printedPage": "240",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "띠그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "막대그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꺾은선그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\%",
+   "meaning": "백분율",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "6명이 걸은 시간 7, 6, 10, 11, 22, 16분의 평균 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "인가",
+   "summary": "띠그래프에서 수학을 좋아하는 학생의 비율(%) 읽기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "인가",
+   "summary": "전체 30명과 띠그래프의 역사 비율로 역사를 좋아하는 학생 수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3-(1)",
+   "level": "기본",
+   "verb": "무엇인가",
+   "summary": "막대그래프에서 가장 많은 학생이 좋아하는 운동 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3-(2)",
+   "level": "기본",
+   "verb": "몇 명인가",
+   "summary": "막대그래프에서 조사한 학생 전체 수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4-(1)",
+   "level": "기본",
+   "verb": "몇 cm인가",
+   "summary": "꺾은선그래프에서 6월 식물의 키 읽기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4-(2)",
+   "level": "기본",
+   "verb": "몇 cm 더 자랐는가",
+   "summary": "꺾은선그래프에서 7월과 8월의 키 차이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "걸리는 시간 자료 6개(7, 6, 10, 11, 22, 16)를 나열한 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "좋아하는 책의 분야를 나타낸 띠그래프(수학, 과학, 역사, 인문, 기타)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "좋아하는 운동을 나타낸 막대그래프(축구, 농구, 야구, 배구, 수영)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "5~8월 식물의 키를 나타낸 꺾은선그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "로봇 팔과 핵심 용어 단어구름(도수분포표, 히스토그램, 상대도수 등)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "마트까지 걷는 시간",
+  "좋아하는 책의 분야",
+  "좋아하는 운동",
+  "식물의 키 성장"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "대푯값(중앙값, 최빈값)의 뜻과 선택",
+   "줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형",
+   "상대도수의 분포를 표나 그래프로 나타내고 해석",
+   "통계적 탐구 문제 설정과 공학 도구 활용"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 준비 상태 4문항은 초등 평균과 여러 그래프 읽기를 진단하는 내용이다. 학습 목표의 초성 빈칸은 글자 수와 문맥으로 볼 때 1번은 중앙값과 최빈값, 2번은 도수분포표와 히스토그램, 3번은 상대도수로 추정되며 이미지에는 초성만 보인다. 띠그래프의 정확한 눈금 값은 읽기 어려워 따로 적지 않았다.",
+ "_page": 240,
+ "_usage": {
+  "in": 4894,
+  "out": 1776,
+  "sec": 10.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

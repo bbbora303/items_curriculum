@@ -1,0 +1,41 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "베이지색 말풍선 모양 도형 안에 '정답 및 풀이'라는 제목이 적힌 부록 구분 쪽 디자인",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 부록의 시작을 알리는 구분(표지) 쪽이다. 수학 내용, 문제, 쪽 번호는 없다.",
+ "_page": 273,
+ "_profile": "full",
+ "_usage": {
+  "in": 3898,
+  "out": 271,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

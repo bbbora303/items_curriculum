@@ -1,0 +1,139 @@
+{
+ "printedPage": "72",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "단원 도입 (준비해요)"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "대응 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수와 유리수의 사칙계산",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "문자",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle$",
+   "meaning": "어떤 수를 나타내는 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$X$",
+   "meaning": "문자 X (단원 도입 제목에 쓰인 문자)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1-(1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "어떤 수 △보다 5만큼 작은 수를 △를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "1-(2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "어떤 수 △의 2배보다 3만큼 큰 수를 △를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$3+(-1)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-2)-3$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$2\\times(-3)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$\\left(-\\frac{1}{2}\\right)\\div(-4)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "공원에서 책을 읽거나 음악을 듣고 쉬는 사람들과 도시 건물을 담은 전면 사진·일러스트로, 책 표지와 안내 표지 등에 문자 X 모양이 숨어 있다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "공원",
+  "도시 거리",
+  "독서와 휴식"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등 | 대응 관계",
+   "중1 | 정수와 유리수의 사칙계산"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 번호 3.0과 '수학+사회' 융합 표시가 있는 도입 쪽이다. 소단원 번호는 보이지 않아 section은 비워 두었다. '준비해요'는 선수 학습 확인 문제(초등 대응 관계, 중1 정수와 유리수의 사칙계산)이다. 배울 내용(중2·중3 표시)은 이 쪽에 없다.",
+ "_page": 72,
+ "_profile": "full",
+ "_usage": {
+  "in": 4135,
+  "out": 1148,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,176 @@
+{
+ "printedPage": "198",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "부채꼴의 호의 길이와 넓이",
+  "area": "생각 2 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "부채꼴의 호의 길이",
+   "role": "정의",
+   "definition": "반지름 r, 중심각 x°인 부채꼴에서 호의 길이 l은 원의 둘레에 중심각 비율(x/360)을 곱한 값이다.",
+   "notation": "l"
+  },
+  {
+   "term": "부채꼴의 넓이",
+   "role": "정의",
+   "definition": "반지름 r, 중심각 x°인 부채꼴의 넓이 S는 원의 넓이에 중심각 비율(x/360)을 곱한 값이다.",
+   "notation": "S"
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": "x^\\circ"
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": "2\\pi r"
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\pi r^2"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "l",
+   "meaning": "부채꼴의 호의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "S",
+   "meaning": "부채꼴의 넓이",
+   "role": "사용"
+  },
+  {
+   "symbol": "r",
+   "meaning": "반지름의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "x^\\circ",
+   "meaning": "중심각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "2\\pi r : l = 360 : x,\\quad \\pi r^2 : S = 360 : x",
+   "plain": "부채꼴의 호의 길이와 넓이는 중심각의 크기에 정비례한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "l = 2\\pi r \\times \\frac{x}{360}",
+   "plain": "부채꼴의 호의 길이는 원의 둘레에 x/360을 곱해 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "S = \\pi r^2 \\times \\frac{x}{360}",
+   "plain": "부채꼴의 넓이는 원의 넓이에 x/360을 곱해 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "반지름 6 cm, 중심각 60°인 부채꼴의 호의 길이와 넓이를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 4 cm, 중심각 45°인 부채꼴의 호의 길이와 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 9 cm, 중심각 120°인 부채꼴의 호의 길이와 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "원 안에 반지름 r, 중심각 x°, 호의 길이 l, 넓이 S가 표시된 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "공식 상자 안에 r, x°, l, S가 표시된 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "예제 1의 반지름 6 cm, 중심각 60°인 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2 (1) 반지름 4 cm, 중심각 45°인 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2 (2) 반지름 9 cm, 중심각 120°인 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 '생각 2'의 질문과 내용을 바탕으로 적었다. 정비례, 원의 둘레와 넓이 공식은 이미 배운 것으로 보고 '사용'으로 분류했다.",
+ "_page": 198,
+ "_profile": "full",
+ "_usage": {
+  "in": 4486,
+  "out": 1553,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

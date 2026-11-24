@@ -1,0 +1,157 @@
+{
+ "printedPage": "66",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": "$|a|$"
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "$(-1)^{10}$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$|a|$",
+   "meaning": "절댓값",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\times$, $\\div$",
+   "meaning": "정수와 유리수의 곱셈과 나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a^n$",
+   "meaning": "거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "분수로 주어진 a, b를 각각 계산한 뒤 $a\\div b$의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "것은?",
+   "summary": "절댓값, 소수, 분수, 곱셈, 나눗셈, 거듭제곱이 섞인 다섯 식 중 계산 결과가 가장 큰 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "괄호, 거듭제곱, 사칙연산이 섞인 식을 계산한다. (1) 정수 (2) 분수",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$-1$의 거듭제곱 10, 11, 12, 13이 섞인 식을 계산한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "08",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "어떤 수와 $-1.5$의 역수의 곱이 6일 때, 어떤 수와 $\\frac{1}{4}$의 역수의 곱을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "09",
+   "level": "심화(+표시)",
+   "verb": "고르면?",
+   "summary": "$a\\div b<0$, $a-b<0$, $b\\times c>0$일 때 a, b, c의 부호를 추론해 옳은 것 2개를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "절댓값이 11인 수와 8인 수의 합과 곱이 모두 음수일 때 두 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "11",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "사각형 각 변의 세 수의 곱이 모두 같을 때 $a\\times b\\div c$의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "사각형 꼭짓점과 변 위에 12, $-\\frac{1}{8}$, $\\frac{4}{3}$, a, c, $\\frac{1}{2}$, $-\\frac{2}{3}$, b가 놓인 원형 칸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "08~11번은 '발전' 표시가 있는 문제로 보임. 발전 라벨은 08번 위에 있어 오른쪽 열 전체를 가리키는 것으로 판단함. 역량 아이콘은 보이지 않음.",
+ "_page": 66,
+ "_profile": "full",
+ "_usage": {
+  "in": 4537,
+  "out": 1432,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

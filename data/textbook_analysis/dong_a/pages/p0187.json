@@ -1,0 +1,179 @@
+{
+ "printedPage": "187",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.3 다각형의 내각의 크기의 합",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다각형의 내각의 크기의 합",
+   "role": "정의",
+   "definition": "n각형의 내각의 크기의 합은 180°×(n-2)이다.",
+   "notation": "180^\\circ\\times(n-2)"
+  },
+  {
+   "term": "정n각형",
+   "role": "정의",
+   "definition": "변의 개수가 n인 정다각형을 정n각형이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "정다각형의 한 내각의 크기",
+   "role": "정의",
+   "definition": "정n각형의 내각의 크기의 합을 꼭짓점의 개수 n으로 나눈 값이다.",
+   "notation": "\\frac{180^\\circ\\times(n-2)}{n}"
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 내각의 크기의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": "180^\\circ"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "n",
+   "meaning": "다각형의 변(꼭짓점)의 개수",
+   "role": "사용"
+  },
+  {
+   "symbol": "180^\\circ\\times(n-2)",
+   "meaning": "n각형의 내각의 크기의 합",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(n각형의 내각의 크기의 합)=180^\\circ\\times(n-2)",
+   "plain": "한 꼭짓점에서 대각선을 모두 그으면 (n-2)개의 삼각형이 생기므로 내각의 합은 180°에 (n-2)를 곱한 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(정n각형의 한 내각의 크기)=\\frac{180^\\circ\\times(n-2)}{n}",
+   "plain": "정다각형은 내각의 크기가 모두 같으므로 내각의 크기의 합을 꼭짓점의 개수로 나눈다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기의 육각형 풀이",
+   "summary": "육각형을 내부의 한 점으로 6개의 삼각형으로 나누어 180°×6−360°=720°로 내각의 합을 구한 식을 제시한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "육각형의 내각의 크기의 합을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "팔각형의 내각의 크기의 합을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정오각형의 한 내각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정십각형의 한 내각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "육각형을 내부의 한 점으로 6개의 삼각형으로 나눈 그림을 보고 180°×6−360°=720°를 구한 방법을 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "육각형 내부의 한 점에서 각 꼭짓점으로 선분을 그어 6개의 삼각형으로 나눈 그림이며 꼭짓점의 각이 색칠되어 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 병아리 요리사 그림과 함께 (n-2)개의 삼각형에서 180°×(n-2)로 이어지는 흐름을 보여 준다.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "'내각의 크기의 합을 꼭짓점의 개수로 나눠요'라고 말하는 캐릭터 말풍선.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기'는 빈칸 2를 채워 n각형의 내각의 합 공식을 정리하는 요약 코너이다. 이 쪽에는 단원 도입 정보(배운 내용/배울 내용)가 없다. 대단원명은 목록과 단원 번호 6에 따라 '평면도형의 성질'로 판단했다.",
+ "_page": 187,
+ "_profile": "full",
+ "_usage": {
+  "in": 4543,
+  "out": 1755,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

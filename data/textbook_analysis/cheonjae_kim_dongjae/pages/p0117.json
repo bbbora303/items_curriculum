@@ -1,0 +1,151 @@
+{
+ "printedPage": "117",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "x축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "y축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\mathrm{A}(a+1, \\\\frac{1}{2}a-3)$",
+   "meaning": "점 A의 좌표 표기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\mathrm{B}(3b-1, b)$",
+   "meaning": "점 B의 좌표 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "집에서 출발해 도서관에서 책을 읽고 돌아오는 상황에서 시간 x분과 거리 y m의 관계를 나타낸 그래프를 보기 ㉠~㉣ 중에서 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "온도와 식물의 광합성량 관계를 나타낸 그래프를 보고 온도에 따른 광합성량의 변화를 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "점 A(a+1, a/2−3)이 x축 위에, 점 B(3b−1, b)가 y축 위에 있을 때 두 점의 좌표를 구한다. 밑줄 친 부분을 바꾸어 문제를 만드는 '문제 만들기' 활동이 이어진다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "집에서 150 m 떨어진 편의점까지 가는 은우의 시간-거리 그래프를 보고 도착할 때까지 이동한 총거리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "4번 보기: 시간 x와 거리 y의 관계를 나타낸 네 가지 그래프(삼각형 모양, 아래로 볼록한 곡선, 완만한 구간이 있는 증가 곡선, 사다리꼴 모양)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "5번: 온도(10~40℃)에 따른 광합성량 곡선으로, 증가하다가 40℃ 부근에서 급격히 감소한다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "7번: 시간 x초와 거리 y m의 꺾은선 그래프로, 0에서 20초에 60 m, 40초에 90 m, 60초에 60 m까지 가고 80초 이후 150 m에 도달한다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Road 복습 안내 그림: 1~7번 문항 팻말 아래에 복습할 쪽(107쪽 1, 109쪽 2, 109쪽 1, 111쪽 2, 113쪽 1, 109쪽 1, 113쪽 1)이 적혀 있다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "집과 도서관 사이의 이동",
+  "온도와 식물의 광합성량",
+  "집에서 편의점까지 걷거나 뛰어서 이동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Road 복습 안내",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7"
+   ]
+  }
+ ],
+ "notes": "6번 'x축', 'y축' 밑줄은 이미지에서 확인했다. 6번에 '발전' 표시가 있어 level을 심화로 분류했다. Math Road는 문항별 복습 쪽 안내이며 자기평가 개념 이름은 없고 팻말 번호 1~7만 보인다. 이 번호가 이 쪽의 문제 번호 4~7과 직접 대응하는지는 불분명하다. 7번 그래프의 눈금 값은 이미지에서 읽은 대략적인 값이다.",
+ "_page": 117,
+ "_usage": {
+  "in": 4645,
+  "out": 1598,
+  "sec": 10.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

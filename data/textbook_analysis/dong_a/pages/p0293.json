@@ -1,0 +1,255 @@
+{
+ "printedPage": "293",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "삼각형의 작도 (삼각형의 작도 방법과 삼각형이 하나로 정해지는 조건)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AC}$",
+   "meaning": "선분 AC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{BC}$",
+   "meaning": "선분 BC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "주어진 두 각이 주어진 한 변의 양 끝 각일 때만 작도한 삼각형의 모양과 크기가 하나로 정해진다.",
+   "plain": "한 변과 두 각이 주어질 때, 두 각이 그 변의 양 끝 각이어야 삼각형이 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "세 각의 크기가 주어진 경우 삼각형이 하나로 정해지지 않는다.",
+   "plain": "세 각의 크기만으로는 삼각형의 크기가 정해지지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle A$가 $\\overline{AC}$와 $\\overline{BC}$의 끼인각이 아니면 삼각형이 하나로 정해지지 않는다.",
+   "plain": "두 변과 끼인각이 아닌 다른 각이 주어지면 삼각형이 하나로 정해지지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "문제 6 예시 (세 변의 길이)",
+   "summary": "세 변의 길이를 이용하여 삼각형을 작도한 순서(①~④)를 그림으로 보여 준다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "문제 6 예시 (두 변과 끼인각)",
+   "summary": "두 변의 길이와 그 끼인각의 크기를 이용한 삼각형 작도 순서를 보여 준다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "문제 6 예시 (한 변과 양 끝 각)",
+   "summary": "한 변의 길이와 그 양 끝 각의 크기를 이용한 삼각형 작도 순서를 보여 준다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "생각 넓히기 예시",
+   "summary": "한 변 3 cm와 두 각 30°, 60°가 주어져도 삼각형의 크기가 서로 다른 두 삼각형이 있어 하나로 정해지지 않는다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "",
+   "summary": "각을 옮겨 작도하는 과정의 답(작도 순서 그림)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 3",
+   "level": "기본",
+   "verb": "",
+   "summary": "세 변의 길이가 주어진 삼각형 작도의 답 그림",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 4",
+   "level": "기본",
+   "verb": "",
+   "summary": "두 변과 그 끼인각이 주어진 삼각형 작도의 답 그림",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 5",
+   "level": "기본",
+   "verb": "",
+   "summary": "한 변과 양 끝 각이 주어진 삼각형 작도의 답 그림",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 6",
+   "level": "기본",
+   "verb": "",
+   "summary": "삼각형을 작도한 세 가지 방법의 예시 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "해결해요 1",
+   "level": "기본",
+   "verb": "",
+   "summary": "(1) 작도 (2) 눈금 없는 자 (3) 컴퍼스",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "기타"
+  },
+  {
+   "label": "해결해요 2",
+   "level": "기본",
+   "verb": "",
+   "summary": "작도 순서 ㉠→㉡→㉢",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "기타"
+  },
+  {
+   "label": "해결해요 3",
+   "level": "기본",
+   "verb": "",
+   "summary": "세 변의 길이가 모두 a인 정삼각형 작도 답 그림",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "해결해요 4",
+   "level": "기본",
+   "verb": "",
+   "summary": "답: ㄴ, ㄹ",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "해결해요 5",
+   "level": "기본",
+   "verb": "",
+   "summary": "ㄱ, ㄴ 각각 삼각형이 하나로 정해지지 않는 이유와 반례 삼각형 그림(각 50°, 100°, 30° / 4 cm, 5 cm, 50°)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "각 옮기기와 삼각형 작도 과정(호와 ①~⑤ 번호)을 보여 주는 답 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "세 가지 방법으로 작도한 삼각형 예시 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "한 변 3 cm, 두 각 30°, 60°인 크기가 다른 두 삼각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정삼각형 작도 답 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각형이 하나로 정해지지 않음을 보이는 반례 삼각형들",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 새 개념 정의는 없고 앞 쪽 문제의 답과 풀이를 보여 준다. '수학 집 짓기: 끼인각'은 용어 확인 코너로 보이며 정의 문장은 이 쪽에 없다. 해결해요 3·4의 문항 내용은 이미지에서 답만 보이고 원 문제는 확인할 수 없다.",
+ "_page": 293,
+ "_profile": "full",
+ "_usage": {
+  "in": 4755,
+  "out": 2396,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

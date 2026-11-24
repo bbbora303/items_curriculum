@@ -1,0 +1,135 @@
+{
+ "printedPage": "55",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "3 정수 십자 퍼즐",
+  "area": "역량 쑥쑥 수학 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "핵심 수",
+   "role": "정의",
+   "definition": "놀이에서 주사위를 던져 나온 눈의 수로, 카드 수의 합을 만들 때 정수를 곱하는 기준이 되는 수이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "-1, -2, \\ldots, -8",
+   "meaning": "음의 정수가 적힌 카드의 수",
+   "role": "사용"
+  },
+  {
+   "symbol": "1, 2, \\ldots, 8",
+   "meaning": "양의 정수가 적힌 카드의 수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "카드에 적힌 수의 합 = 핵심 수 \\times 정수",
+   "plain": "배열한 카드 수의 합이 핵심 수의 정수배(…, -6, -3, 0, 3, 6, …)가 되도록 만든다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시 1 (핵심 수 3)",
+   "summary": "8장의 카드 중 2, 4, -3, -6을 배열하면 합이 -3(=3×(-1))이 되고, 4장을 보충한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "예시 2 (카드 추가 배열)",
+   "summary": "기존 배열에 카드 1장을 가로에 추가(3), 2장을 세로에 추가(-5, 7), 3장을 세로로 놓아 가로에 추가(9, 1, -4)하는 경우를 보여 준다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "정수 십자 퍼즐 활동",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "48장의 정수 카드와 주사위로, 카드 수의 합이 핵심 수의 정수배가 되도록 십자 모양으로 배열하는 4인 놀이를 한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "8장의 카드, 배열한 카드, 4장을 보충한 카드의 변화 과정을 보여 주는 정수 카드 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "카드 1장 가로 추가, 2장 세로 추가, 3장 세로 놓아 가로 추가의 세 가지 십자 배열 예시",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  },
+  {
+   "role": "장식",
+   "desc": "'카드놀이' 글자가 적힌 깃발 장식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "카드 놀이",
+  "주사위"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 '역량 쑥쑥 수학 더하기' 활동 쪽이다. 정수의 덧셈과 곱셈은 사용하지만 새 개념은 정의하지 않는다. 핵심 수는 활동용 용어로 보았다. 소단원 '3 정수 십자 퍼즐'은 활동 번호로 판단했다.",
+ "_page": 55,
+ "_usage": {
+  "in": 5021,
+  "out": 1270,
+  "sec": 7.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,184 @@
+{
+ "printedPage": "42",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.2 정수와 유리수의 대소 관계",
+  "area": "단원 도입 / 생각해요 / 생각1 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "절댓값",
+   "role": "정의",
+   "definition": "수직선 위에서 어떤 수에 대응하는 점과 원점 사이의 거리를 그 수의 절댓값이라 한다.",
+   "notation": "$|\\;\\;|$"
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$|\\;\\;|$",
+   "meaning": "절댓값 기호",
+   "role": "정의"
+  },
+  {
+   "symbol": "$|-3|=3$",
+   "meaning": "-3의 절댓값은 3",
+   "role": "정의"
+  },
+  {
+   "symbol": "$|+2|=2$",
+   "meaning": "+2의 절댓값은 2",
+   "role": "정의"
+  },
+  {
+   "symbol": "$|0|=0$",
+   "meaning": "0의 절댓값은 0",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\geq, \\leq$",
+   "meaning": "부등호(학습 요소로 제시, 이 쪽에서는 아직 도입되지 않음)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "수 $a$의 절댓값 $|a|$ = 수직선에서 $a$에 대응하는 점과 원점 사이의 거리",
+   "plain": "절댓값은 수직선에서 원점으로부터 떨어진 거리이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$|0|=0$",
+   "plain": "0의 절댓값은 0이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예를 들어",
+   "summary": "-3의 절댓값은 |-3|=3, +2의 절댓값은 |+2|=2로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "나타내고, 구하시오",
+   "summary": "+3의 절댓값을 기호로 나타내고 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "나타내고, 구하시오",
+   "summary": "-5의 절댓값을 기호로 나타내고 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "나타내고, 구하시오",
+   "summary": "$+\\frac{7}{2}$의 절댓값을 기호로 나타내고 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4)",
+   "level": "기본",
+   "verb": "나타내고, 구하시오",
+   "summary": "-4.6의 절댓값을 기호로 나타내고 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "내 위치에서 분식집과 빵집까지의 거리를 각각 말한다(3 km, 2 km).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "길 위의 내 위치를 기준으로 왼쪽 분식집은 3 km, 오른쪽 빵집은 2 km 떨어진 지도 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원점 0을 기준으로 -3과 +2에 대응하는 점까지의 거리 3과 2를 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "장식",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "지도에서 분식집과 빵집까지의 거리"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 2.2의 첫 쪽으로 학습 목표(절댓값의 뜻, 정수와 유리수의 대소 관계 판단)와 학습 요소(절댓값, | |, ≥, ≤)가 제시됨. 배운 내용/배울 내용 표시는 없음. 글자층의 '¾, É'는 ≥, ≤로 해석함.",
+ "_page": 42,
+ "_profile": "full",
+ "_usage": {
+  "in": 4433,
+  "out": 1618,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

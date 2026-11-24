@@ -1,0 +1,187 @@
+{
+ "printedPage": "108",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "평면 위의 점의 위치는 어떻게 나타낼까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "정의",
+   "definition": "두 수의 순서를 정하여 짝을 지어 나타낸 쌍",
+   "notation": "(a, b)"
+  },
+  {
+   "term": "x축",
+   "role": "정의",
+   "definition": "좌표평면에서 가로의 수직선",
+   "notation": ""
+  },
+  {
+   "term": "y축",
+   "role": "정의",
+   "definition": "좌표평면에서 세로의 수직선",
+   "notation": ""
+  },
+  {
+   "term": "좌표축",
+   "role": "정의",
+   "definition": "x축과 y축을 통틀어 이르는 말",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "정의",
+   "definition": "두 좌표축이 만나는 점 O",
+   "notation": "O"
+  },
+  {
+   "term": "좌표평면",
+   "role": "정의",
+   "definition": "좌표축이 정해져 있는 평면",
+   "notation": ""
+  },
+  {
+   "term": "점 P의 좌표",
+   "role": "정의",
+   "definition": "점 P에서 x축, y축에 그은 수선이 각 축과 만나는 점에 대응하는 수 a, b의 순서쌍 (a, b)",
+   "notation": "P(a, b)"
+  },
+  {
+   "term": "x좌표",
+   "role": "정의",
+   "definition": "점 P(a, b)에서 a",
+   "notation": "a"
+  },
+  {
+   "term": "y좌표",
+   "role": "정의",
+   "definition": "점 P(a, b)에서 b",
+   "notation": "b"
+  },
+  {
+   "term": "사분면",
+   "role": "정의",
+   "definition": "좌표축에 의해 나누어진 좌표평면의 네 부분(제1, 2, 3, 4사분면)",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "(a, b)",
+   "meaning": "순서쌍",
+   "role": "정의"
+  },
+  {
+   "symbol": "P(a, b)",
+   "meaning": "점 P의 좌표가 (a, b)임",
+   "role": "정의"
+  },
+  {
+   "symbol": "O",
+   "meaning": "원점, 좌표는 (0, 0)",
+   "role": "정의"
+  },
+  {
+   "symbol": "(+, +), (-, +), (-, -), (+, -)",
+   "meaning": "제1~4사분면 위 점의 (x좌표, y좌표) 부호",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(128, 38)\\\\neq(38, 128)",
+   "plain": "순서쌍은 순서가 다르면 서로 다른 쌍이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "O(0, 0)",
+   "plain": "원점의 좌표는 (0, 0)이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "제1사분면 (+,+),\\\\ 제2사분면 (-,+),\\\\ 제3사분면 (-,-),\\\\ 제4사분면 (+,-)",
+   "plain": "각 사분면에 있는 점의 x좌표와 y좌표의 부호가 정해져 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "좌표축 위의 점은 어느 사분면에도 속하지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "지도의 경도·위도",
+   "summary": "동경 128°, 북위 38°의 속초를 (128, 38)로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "x축, y축, 원점이 표시된 격자 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점 P(a, b)에서 두 축에 수선을 그어 x좌표 a, y좌표 b를 나타낸 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "네 사분면과 각 사분면의 좌표 부호를 색으로 구분한 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "장식",
+   "desc": "'이 단원의 수학자' 데카르트 캐릭터 일러스트",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "지도의 경도와 위도",
+  "속초의 위치"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 소단원 개념 설명 쪽. 소단원 번호는 보이지 않아 제목만 기록함. 옆 단에 '이 단원의 수학자 데카르트(1596~1650)' 소개가 있음.",
+ "_page": 108,
+ "_usage": {
+  "in": 4911,
+  "out": 1579,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

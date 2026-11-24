@@ -1,0 +1,72 @@
+{
+ "printedPage": "176",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "나의 미래"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "도시 재생 전문가",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도형의 위치 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "도시 건물과 굽은 길 위에서 모형을 든 휠체어 이용자와 나무를 심는 사람을 그린 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "도시 재생 전문가와 나의 적성이 맞는지 ○/×로 확인하는 7개 항목의 체크리스트",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "도시 재생",
+  "도시 건물·도로 배치",
+  "지도와 약도",
+  "가구 배치",
+  "직업 탐색"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 개념을 가르치는 쪽이 아니라 직업 소개 읽기 자료('나의 미래')이다. 수학과의 연결은 '도형의 위치 관계, 작도 등을 알고 있어야 한다'는 한 문장뿐이다. 새로 정의되는 용어나 기호는 없다. 체크리스트는 진로 적성 확인용이고 수학 문제가 아니다. 소단원 번호는 보이지 않아 비워 두었다. 출처는 커리어넷(2023)이다.",
+ "_page": 176,
+ "_profile": "full",
+ "_usage": {
+  "in": 4564,
+  "out": 596,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

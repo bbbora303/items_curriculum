@@ -1,0 +1,149 @@
+{
+ "printedPage": "101",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "15",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 일차방정식 $\\frac{1}{2}x-\\frac{7}{3}=\\frac{x-6}{3}$, $5x-a=2(x+a)$의 해가 같을 때 수 $a$의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "16",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "가로 3 cm, 세로 4 cm인 직육면체의 겉넓이가 122 cm²일 때 높이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "17",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "$x$의 계수가 $-3$인 일차식에서 $x=1$일 때의 값 $m$, $x=3$일 때의 값 $n$에 대해 $m-n$의 값을 구한다(풀이 과정을 자세히 쓴다).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "18",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "일차방정식 $x-2(x+a)=2x-11$의 해가 자연수가 되도록 하는 모든 자연수 $a$의 값의 합을 구한다(풀이 과정을 자세히 쓴다).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "19",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "동생이 분속 40 m로 출발한 지 10분 후 형이 분속 60 m로 따라갈 때, 형이 출발한 지 몇 분 후에 만나는지 구한다(풀이 과정을 자세히 쓴다).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "구불구불한 길을 동생이 앞서 걷고 형이 뒤따라가는 모습의 삽화(19번).",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "Math Pizza 자기평가 그림으로, 피자 토핑 위 숫자 원에 맞은 문항을 색칠하고 아래에 느낀 점을 쓰는 칸이 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "동생과 형이 걷는 속력과 시간(거리·속력·시간)",
+  "직육면체의 겉넓이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "문자를 사용한 식",
+   "problemNos": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "concept": "식의 값",
+   "problemNos": [
+    "4"
+   ]
+  },
+  {
+   "concept": "일차식",
+   "problemNos": [
+    "5"
+   ]
+  },
+  {
+   "concept": "일차식의 계산",
+   "problemNos": [
+    "6",
+    "7",
+    "8",
+    "17"
+   ]
+  },
+  {
+   "concept": "방정식과 그 해",
+   "problemNos": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ]
+  },
+  {
+   "concept": "일차방정식과 그 풀이",
+   "problemNos": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "18",
+    "19"
+   ]
+  }
+ ],
+ "notes": "문제 15~19번 옆에 작은 아이콘(빨간 와이파이 모양)이 있으나 어떤 역량인지 라벨이 없어 competencies는 비워 둠. 17~19번은 '서술형 문제' 코너로 묶여 있으며, 15·16번은 그 위쪽 일반 문제임.",
+ "_page": 101,
+ "_usage": {
+  "in": 4493,
+  "out": 1300,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

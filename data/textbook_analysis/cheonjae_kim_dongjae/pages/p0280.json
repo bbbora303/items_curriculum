@@ -1,0 +1,124 @@
+{
+ "printedPage": "280",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "-2^4=-(2\\times2\\times2\\times2)=-16,\\ (-2)^4=16",
+   "plain": "$-2^4$과 $(-2)^4$은 밑과 부호의 위치가 달라 값이 다르다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "A=0\\text{으로 놓고 차례로 계산}",
+   "plain": "기준 지점의 높이를 0으로 놓고 각 지점의 높이를 구해 가장 높은 곳과 낮은 곳의 차를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "\\left(+\\frac12\\right)\\div\\left(-\\frac23\\right)\\div\\cdots=-\\left(\\frac12\\times\\frac32\\times\\cdots\\times\\frac{100}{99}\\right)",
+   "plain": "나눗셈을 역수의 곱셈으로 바꾸고 약분하여 계산한다. 음수가 49개이면 부호는 −이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "수학 더하기 1 해설",
+   "summary": "A=0으로 놓고 각 지점의 높이를 구해 G와 B의 높이 차 36.7 m를 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "수학 더하기 2 ❶ 해설",
+   "summary": "분수의 덧셈과 뺄셈을 묶어 $5-\\frac12-1-\\frac32-2=0$을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "수학 더하기 2 ❷ 해설",
+   "summary": "분수의 나눗셈을 역수의 곱셈으로 바꿔 약분하여 $-\\frac{100}{4}=-25$를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "배우고 익히기 1~3(정수와 유리수의 나눗셈) 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "정수와 유리수의 나눗셈 문제의 정답: 1 (1)+2 (2)+3 (3)−7 (4)−4, 1⁺ (1)−9 (2)+16, 2 (1)+1/3 (2)−8/9 (3)−4, 2⁺ +3/4, 3 (1)+7/4 (2)−5/18 (3)−2/3 (4)+4/3, 3⁺ (1)+6 (2)+15",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 1~2(사칙계산 혼합) 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "혼합 계산 문제의 정답: 1 (1)−20 (2)15/7 (3)1/36 (4)2/3, 1⁺ 틀린 부분을 찾아 −4로 고침, 2 (1)7 (2)−310, 2⁺ ㉮100 ㉯−1326",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "",
+   "summary": "계산기에 식을 입력하여 결과 −32를 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "앞 쪽 2⁺, 3, 3⁺",
+   "level": "기본",
+   "verb": "",
+   "summary": "2⁺ (1)+390 (2)−3.7, 3 (1)−560 (2)+16 (3)+10 (4)+3/4, 3⁺ $-2^4$과 $(-2)^4$은 다르다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "계산기 입력식과 계산 결과 −32를 보여 주는 화면",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "지점의 높이 차",
+  "계산기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽이다. 단원 마무리 박스에는 핵심 용어(정수, 작다/크다, 합/차, 덧셈, +/−, 곱셈)가 나열되어 있으나 새 정의는 없다. 소단원 번호는 보이지 않는다. 문항 번호가 앞 쪽과 이어져 일부 라벨은 추정하여 묶었다.",
+ "_page": 280,
+ "_usage": {
+  "in": 5395,
+  "out": 1612,
+  "sec": 10.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

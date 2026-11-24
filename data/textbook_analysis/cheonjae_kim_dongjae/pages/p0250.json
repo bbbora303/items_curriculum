@@ -1,0 +1,151 @@
+{
+ "printedPage": "250",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "03 히스토그램과 도수분포다각형",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "히스토그램",
+   "role": "정의",
+   "definition": "가로축에 계급의 양 끝 값, 세로축에 도수를 표시하고 각 계급의 크기를 가로, 도수를 세로로 하는 직사각형을 차례대로 그린 그래프이다.",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\text{dB}",
+   "meaning": "데시벨, 소리의 크기를 나타내는 단위",
+   "role": "사용"
+  },
+  {
+   "symbol": "50\\text{ 이상 } \\sim 55\\text{ 미만}",
+   "meaning": "계급의 표현(이상~미만)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "히스토그램 그리는 순서: ① 가로축에 계급의 양 끝 값 표시 → ② 세로축에 도수 표시 → ③ 계급의 크기를 가로, 도수를 세로로 하는 직사각형을 차례대로 그림",
+   "plain": "도수분포표를 이용해 세 단계로 히스토그램을 그린다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "히스토그램은 각 계급에 속하는 자료의 수가 많고 적음을 한눈에 알 수 있다.",
+   "plain": "히스토그램의 장점은 도수의 많고 적음을 한눈에 볼 수 있다는 것이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "그래프에서 직사각형의 가로와 세로가 각각 뜻하는 것을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "그래프를 완성하고 도수분포표에 비해 어떤 장점이 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "66개 지점의 환경 소음도 도수분포표(계급 50~80dB, 도수 3·6·13·22·16·6, 합계 66).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "첫 번째 계급(50~55)만 직사각형으로 그려져 있는 미완성 그래프.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "히스토그램을 그리는 3단계 순서도.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "〈그림 2〉 소음도 히스토그램(도수 3, 6, 13, 22, 16, 6).",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "환경 관련 일러스트(지구, 사람, 트럭, 택시, 비행기, 크레인).",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "환경 소음도",
+  "국가소음정보시스템 자료(2022년)",
+  "데시벨(dB)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "자료를 히스토그램과 도수분포다각형으로 나타내고 해석할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 03 시작 쪽으로, 학습 목표와 '생각 열기' 후 히스토그램 정의가 도입된다. 도수분포다각형은 학습 목표에만 언급되고 이 쪽에서 정의되지 않는다. 쪽 아래 표시는 'Ⅵ. 통계'이다. 배운 내용/배울 내용 표시는 없다.",
+ "_page": 250,
+ "_usage": {
+  "in": 4739,
+  "out": 1453,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,166 @@
+{
+ "printedPage": "190",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "다각형의 외각의 크기의 합",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다각형의 외각의 크기의 합",
+   "role": "정의",
+   "definition": "다각형의 외각의 크기를 모두 더한 값은 항상 360°이다.",
+   "notation": "360^\\circ"
+  },
+  {
+   "term": "정다각형의 한 외각의 크기",
+   "role": "정의",
+   "definition": "정다각형은 외각의 크기가 모두 같으므로 외각의 크기의 합을 꼭짓점의 개수로 나눈 값이다.",
+   "notation": "\\frac{360^\\circ}{n}"
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "n",
+   "meaning": "다각형의 변 또는 꼭짓점의 개수(n각형)",
+   "role": "사용"
+  },
+  {
+   "symbol": "180^\\circ\\times(n-2)",
+   "meaning": "n각형의 내각의 크기의 합",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\angle x",
+   "meaning": "x로 나타낸 각",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(\\text{외각의 크기의 합})=180^\\circ\\times n-180^\\circ\\times(n-2)=360^\\circ",
+   "plain": "각 꼭짓점에서 내각과 외각의 합이 180°임을 이용해, n각형의 외각의 크기의 합이 360°임을 유도한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "\\text{다각형의 외각의 크기의 합은 }360^\\circ",
+   "plain": "다각형의 모양이나 변의 개수와 관계없이 외각의 크기의 합은 360°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(\\text{정}n\\text{각형의 한 외각의 크기})=\\frac{360^\\circ}{n}",
+   "plain": "정다각형의 한 외각의 크기는 360°를 꼭짓점의 개수로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "다각형 그림에서 외각 60°, 70°, 120°가 주어졌을 때 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직각, 85°, 65°, 45°가 표시된 다각형 그림에서 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정오각형의 한 외각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정팔각형의 한 외각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 1(1): 아래쪽이 직선인 사각형 모양에 외각 x, 60°, 70°, 120°가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1(2): 직각, 65°, 45°, 85°, x가 표시된 사각형 모양의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "수학 집 짓기: 정육각형의 외각을 모아 한 점 둘레에 모으면 360°가 되는 과정을 보여 주는 그림 세 장",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "카메라를 든 곰 캐릭터와 말풍선, 사진, 설명 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기' 코너의 빈칸에는 360°가 들어간다. 말풍선 '외각의 크기의 합을 꼭짓점의 개수로 나눠요.'는 정다각형 한 외각의 크기 공식을 안내한다. 이 쪽에는 역량 아이콘이 보이지 않는다.",
+ "_page": 190,
+ "_profile": "full",
+ "_usage": {
+  "in": 4360,
+  "out": 1627,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

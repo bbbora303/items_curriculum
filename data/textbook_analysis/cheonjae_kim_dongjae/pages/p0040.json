@@ -1,0 +1,174 @@
+{
+ "printedPage": "40",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "정수와 유리수의 뺄셈은 어떻게 할까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정수의 뺄셈",
+   "role": "정의",
+   "definition": "두 정수의 뺄셈은 빼는 수의 부호를 바꾸어 더하는 것과 같다.",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 뺄셈",
+   "role": "정의",
+   "definition": "두 수의 뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 고쳐서 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "덧셈과 뺄셈의 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": "$2+3=5 \\rightarrow 5-3=2$"
+  },
+  {
+   "term": "정수의 덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(+4)-(+6)$",
+   "meaning": "양의 정수를 빼는 정수의 뺄셈",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(+5)-(-3)$",
+   "meaning": "음의 정수를 빼는 정수의 뺄셈",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(+2)-(+6)=(+2)+(-6)",
+   "plain": "+6을 빼는 것은 -6을 더하는 것과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(+5)-(-3)=(+5)+(+3)",
+   "plain": "-3을 빼는 것은 +3을 더하는 것과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 정수의 뺄셈은 빼는 수의 부호를 바꾸어 더한다.",
+   "plain": "뺄셈을 빼는 수의 부호를 바꾼 덧셈으로 고쳐서 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "두 수의 뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 고쳐서 계산한다.",
+   "plain": "유리수의 뺄셈도 정수와 같은 방법으로 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "어떤 수에서 0을 빼면 그 수 자신이다.",
+   "plain": "0을 빼도 수는 변하지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "(정수)-(양의 정수)",
+   "summary": "덧셈식 $(-4)+(+6)=+2$를 뺄셈식 $(+2)-(+6)=-4$로 나타내어 $(+2)-(+6)=(+2)+(-6)$임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "(정수)-(음의 정수)",
+   "summary": "덧셈식 $(+8)+(-3)=+5$를 뺄셈식 $(+5)-(-3)=+8$로 나타내어 $(+5)-(-3)=(+5)+(+3)$임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "$(-2)+(+6)=+4$를 이용해 $(+4)-(+6)=\\square$의 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "$(+4)-(+6)$의 계산 결과와 $(+4)+(-6)$의 계산 결과를 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기 1",
+   "level": "기본",
+   "verb": "채우시오(빈칸 채우기)",
+   "summary": "$(-7)-(-2)=(-7)+(\\square)=\\square$의 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 2",
+   "level": "기본",
+   "verb": "채우시오(빈칸 채우기)",
+   "summary": "$(-\\frac{2}{3})-(+\\frac{5}{6})=(-\\frac{2}{3})+(\\square)=(-\\frac{4}{6})+(\\square)=\\square$의 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "덧셈을 뺄셈으로 나타내는 예 $2+3=5 \\rightarrow 5-3=2$를 보여 주는 메모지 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(정수)-(양의 정수)에서 뺄셈을 덧셈으로 바꾸며 부호를 바꾸는 과정을 보여 주는 도식",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(정수)-(음의 정수)에서 뺄셈을 덧셈으로 바꾸며 부호를 바꾸는 과정을 보여 주는 도식",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "곁글 '어떤 수에서 0을 빼면 그 수 자신이다.'가 있다. 생각 열기의 빈칸은 이미지에서 비어 있다. 쪽 아래 'Ⅰ. 수와 연산'은 영역 표시이고, 대단원은 목록에 따라 '정수와 유리수'로 추정했다.",
+ "_page": 40,
+ "_usage": {
+  "in": 4900,
+  "out": 1979,
+  "sec": 14.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

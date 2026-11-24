@@ -1,0 +1,112 @@
+{
+ "printedPage": "90",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "생각 3 등식에는 어떤 성질이 있을까요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "등식의 성질",
+   "role": "정의",
+   "definition": "등식의 양변에 같은 수를 더하거나 빼거나 곱하거나 0이 아닌 같은 수로 나누어도 등식이 성립한다는 성질",
+   "notation": "a=b \\\\Rightarrow a+c=b+c"
+  },
+  {
+   "term": "등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "=",
+   "meaning": "등호, 양쪽이 같음",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\\\neq",
+   "meaning": "같지 않음(c≠0 조건)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "a=b \\\\text{이면 } a+c=b+c",
+   "plain": "등식의 양변에 같은 수를 더해도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a=b \\\\text{이면 } a-c=b-c",
+   "plain": "등식의 양변에서 같은 수를 빼도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a=b \\\\text{이면 } ac=bc",
+   "plain": "등식의 양변에 같은 수를 곱해도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a=b \\\\text{이면 } \\\\frac{a}{c}=\\\\frac{b}{c}\\\\ (\\\\text{단, } c\\\\neq0)",
+   "plain": "등식의 양변을 0이 아닌 같은 수로 나누어도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "a=b일 때 a+1=b+1, a-2=b-2, -3a=-3b, a/4=b/4가 성립함을 색 표시로 보여 줌",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "저울 양쪽에 같은 무게를 더하거나 빼도 평형을 이루는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "저울 양쪽 물건의 무게를 2배로 늘리거나 반으로 줄여도 평형을 이루는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [
+  "저울의 평형"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'확인해요'는 문제가 아니라 성질을 확인하는 예시로 보아 examples에 넣음. 이 쪽에서 등식의 성질을 처음 도입하는 것으로 보임.",
+ "_page": 90,
+ "_profile": "full",
+ "_usage": {
+  "in": 4568,
+  "out": 1011,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

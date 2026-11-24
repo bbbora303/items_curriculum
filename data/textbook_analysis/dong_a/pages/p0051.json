@@ -1,0 +1,183 @@
+{
+ "printedPage": "51",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.4 정수와 유리수의 뺄셈",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각 1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정수와 유리수의 뺄셈",
+   "role": "정의",
+   "definition": "두 정수의 뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "뺄셈식",
+   "role": "사용",
+   "definition": "",
+   "notation": "$5-3=2$"
+  },
+  {
+   "term": "덧셈식",
+   "role": "사용",
+   "definition": "",
+   "notation": "$2+3=5$"
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(+5)-(+3)$",
+   "meaning": "+5에서 +3을 뺀다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(+5)+(-3)$",
+   "meaning": "+5에 -3을 더한다. 빼는 수의 부호를 바꾼 덧셈",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "자연수에서 성립하는 덧셈과 뺄셈 사이의 관계는 정수에서도 성립한다",
+   "plain": "덧셈식을 뺄셈식으로 바꾸는 관계를 정수에도 그대로 쓸 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(+5)-(+3)=(+5)+(-3)=+2$",
+   "plain": "양의 정수를 빼는 것은 그 수의 부호를 바꾼 음의 정수를 더하는 것과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(+1)-(-3)=(+1)+(+3)=+4$",
+   "plain": "음의 정수를 빼는 것은 그 수의 부호를 바꾼 양의 정수를 더하는 것과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 정수의 뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 계산한다",
+   "plain": "뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 바꿔 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "$(-8)-(+5)=(-8)+(-5)=-13$, $(-6)-(-4)=(-6)+(+4)=-2$로 부호를 바꾸어 덧셈으로 계산하는 과정을 보여 준다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(+3)-(+1)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-8)-(+4)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(+9)-(-6)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-7)-(-2)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "학생들이 칠판에 $2+3=5$와 $5-3=2$의 관계를 화살표로 나타내고, $(+2)+(+3)=+5$를 뺄셈식으로 바꿔 보는 장면",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부호 바꾸기를 색 원(파랑·분홍)으로 표시한 식 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정수와 유리수의 뺄셈"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 목표: 정수와 유리수의 뺄셈의 원리를 이해하고 그 계산을 할 수 있다. 쪽 오른쪽의 '2단원' 표시는 대단원 번호이다. 이 쪽의 전개는 '생각해요' 도입, '생각 1' 개념 설명, '확인해요', '문제 1' 순이다.",
+ "_page": 51,
+ "_profile": "full",
+ "_usage": {
+  "in": 4687,
+  "out": 1667,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

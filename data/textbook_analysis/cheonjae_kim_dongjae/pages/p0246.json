@@ -1,0 +1,120 @@
+{
+ "printedPage": "246",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "02 줄기와 잎 그림과 도수분포표",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "줄기와 잎 그림",
+   "role": "정의",
+   "definition": "변량을 줄기와 잎으로 구분하여 세로선 양쪽에 나타낸 그림이다.",
+   "notation": ""
+  },
+  {
+   "term": "줄기",
+   "role": "정의",
+   "definition": "변량에서 십의 자리 등 앞부분의 수로, 세로선의 왼쪽에 작은 값부터 차례대로 세로로 쓴다.",
+   "notation": ""
+  },
+  {
+   "term": "잎",
+   "role": "정의",
+   "definition": "변량에서 일의 자리 등 나머지 부분의 수로, 세로선의 오른쪽에 가로로 쓴다.",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "(3|2\\text{는 }32\\text{세})",
+   "meaning": "줄기 3, 잎 2는 32세를 나타내는 줄기와 잎 그림의 읽는 방법",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "변량 → 줄기와 잎 구분 → 세로선과 줄기 쓰기 → 잎 쓰기",
+   "plain": "변량을 줄기와 잎으로 나누고, 세로선 왼쪽에 줄기를 작은 값부터 쓰고, 오른쪽에 잎을 가로로 쓴다(중복된 값은 횟수만큼 쓰고 간격을 일정하게 띄운다).",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "줄기와 잎 그림의 장점",
+   "plain": "자료의 분포 상태를 파악할 수 있고 각 자료의 값을 그대로 알 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "기본",
+   "verb": "말해 보자",
+   "summary": "수학자 20명의 수명 자료에서 가장 오래 산 수학자의 수명을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "기본",
+   "verb": "구해 보자",
+   "summary": "수명이 50세 미만인 수학자의 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "위대한 수학자 20명의 수명(세) 자료를 2행 10열로 나열한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "줄기와 잎 그림을 만드는 3단계 순서도와 완성된 <그림 1> 줄기와 잎 그림(줄기 3~7)",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "위대한 수학자의 수명"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "자료를 줄기와 잎 그림과 도수분포표로 나타내고 해석할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "중단원 02 도입 쪽으로 학습 목표가 제시되어 있다. 줄기와 잎 그림의 용어가 새로 정의되고 도수분포표는 제목에만 나온다. 쪽 하단 표기는 'Ⅵ. 통계'이며, 주어진 대단원 목록에서는 '자료의 정리와 해석'에 해당하는 것으로 판단했다.",
+ "_page": 246,
+ "_usage": {
+  "in": 4888,
+  "out": 1272,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

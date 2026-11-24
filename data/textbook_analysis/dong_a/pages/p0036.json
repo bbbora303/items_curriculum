@@ -1,0 +1,177 @@
+{
+ "printedPage": "36",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "단원 도입 / 준비해요"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "환율",
+   "role": "정의",
+   "definition": "자기 나라 돈과 다른 나라 돈의 교환 비율",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "▲",
+   "meaning": "전날보다 환율이 오름",
+   "role": "정의"
+  },
+  {
+   "symbol": "▼",
+   "meaning": "전날보다 환율이 내림",
+   "role": "정의"
+  },
+  {
+   "symbol": "<, >",
+   "meaning": "두 수의 크기 비교",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "오르면 ▲, 내리면 ▼",
+   "plain": "환율이 전날보다 오르면 ▲, 내리면 ▼로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "환율표",
+   "summary": "미국 USD 1275.1원(▲2.1), 유럽 연합 EUR 1359.7원(▼0.5)으로 전일 대비 변화를 보여 준다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "5, 5.23, 2/5, 58 중에서 자연수를 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "3과 4의 크기를 <, >로 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "소수 0.25와 0.43의 크기를 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(3)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "분수 2/3와 2/5의 크기를 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(4)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "분수 6/5와 7/6의 크기를 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "미국·유럽 연합 돈의 환율과 전일 대비 변화를 나타낸 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "세계 지도, 여행 계획 수첩, 여행 사진과 두 인물이 있는 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "도입 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "여행",
+  "환율",
+  "여행 비용",
+  "해외 돈(USD, EUR)"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등: 자연수",
+   "초등: 자연수, 소수, 분수의 크기 비교"
+  ],
+  "current": [
+   "서로 반대되는 성질을 가지는 수량을 부호를 사용하여 나타내기",
+   "수의 사칙계산으로 여행 비용 계산하기(68쪽)"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 번호 2.0 '여행을 떠나 볼까요'(수학+경제 융합 표시)가 단원 도입 제목이다. 소단원 번호는 없다. 하단 '준비해요'는 초등 선수 학습 확인 문제 2문항이다.",
+ "_page": 36,
+ "_profile": "full",
+ "_usage": {
+  "in": 4618,
+  "out": 1344,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

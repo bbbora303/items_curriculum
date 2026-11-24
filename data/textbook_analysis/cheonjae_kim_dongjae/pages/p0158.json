@@ -1,0 +1,164 @@
+{
+ "printedPage": "158",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "02 위치 관계",
+  "area": "단원 도입 및 개념 설명(생각 열기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "점과 직선의 위치 관계",
+   "role": "정의",
+   "definition": "점이 직선 위에 있거나 직선 위에 있지 않은 두 가지 경우로 나누어 나타내는 관계이다.",
+   "notation": ""
+  },
+  {
+   "term": "점이 직선 위에 있다",
+   "role": "정의",
+   "definition": "직선이 그 점을 지나는 상태로, '직선이 점을 지난다'와 같은 뜻이다.",
+   "notation": ""
+  },
+  {
+   "term": "점이 직선 위에 있지 않다",
+   "role": "정의",
+   "definition": "직선이 그 점을 지나지 않는 상태로, '점이 직선 밖에 있다'와 같은 뜻이다.",
+   "notation": ""
+  },
+  {
+   "term": "두 직선의 위치 관계",
+   "role": "정의",
+   "definition": "한 평면 위에서 두 직선은 일치하거나, 한 점에서 만나거나, 평행하다.",
+   "notation": ""
+  },
+  {
+   "term": "일치한다",
+   "role": "정의",
+   "definition": "두 직선이 완전히 겹쳐 하나의 직선이 되는 경우이다.",
+   "notation": "l, m"
+  },
+  {
+   "term": "한 점에서 만난다",
+   "role": "정의",
+   "definition": "두 직선이 오직 한 점에서 만나는 경우이다.",
+   "notation": ""
+  },
+  {
+   "term": "평행하다",
+   "role": "정의",
+   "definition": "한 평면 위의 두 직선이 서로 만나지 않는 경우이다.",
+   "notation": "l \\parallel m"
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "l, m"
+  },
+  {
+   "term": "평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "l \\parallel m",
+   "meaning": "직선 l과 직선 m이 서로 평행하다",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "점과 직선: ① 점이 직선 위에 있다. ② 점이 직선 위에 있지 않다.",
+   "plain": "점과 직선의 위치 관계는 두 가지이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "두 직선: ① 일치한다 ② 한 점에서 만난다 ③ 평행하다",
+   "plain": "한 평면 위에서 두 직선의 위치 관계는 세 가지이다(①②는 만나는 경우, ③은 만나지 않는 경우).",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "l \\parallel m",
+   "plain": "한 평면 위의 두 직선 l, m이 평행하면 기호로 l ∥ m이라 쓴다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 1",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "고가 도로 사진에서 직선 l과 직선 m이 서로 만나는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 2",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "고가 도로 사진에서 직선 l과 직선 m이 서로 평행한지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "고가 도로를 위에서 찍은 사진에 두 직선 l, m이 표시되어 있다.",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선 l 위의 점과 직선 l 밖의 점을 나타낸 두 개의 상자 그림.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 직선의 일치, 한 점에서 만남, 평행을 나타낸 세 개의 그림과 '만난다/만나지 않는다' 분류 표시.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "검도하는 두 사람의 사진.",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "고가 도로",
+  "검도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "점과 직선의 위치 관계",
+   "한 평면 위에서 두 직선의 위치 관계"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 성격(소단원 제목, 학습 목표, 생각 열기)과 개념 설명이 함께 있는 쪽이다. 배운 내용/배울 내용 표시는 보이지 않는다. 학습 목표에는 '점, 직선, 평면의 위치 관계'가 나오지만 이 쪽에서는 점과 직선, 두 직선만 다룬다.",
+ "_page": 158,
+ "_usage": {
+  "in": 4487,
+  "out": 1620,
+  "sec": 10.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

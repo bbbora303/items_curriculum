@@ -1,0 +1,172 @@
+{
+ "printedPage": "61",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "곱셈의 교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곱셈의 결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(+27)\\times\\left(-\\frac{5}{3}\\right)\\times\\left(+\\frac{4}{9}\\right)$",
+   "meaning": "부호를 포함한 유리수의 곱셈 표기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(-2)^2$",
+   "meaning": "음수의 거듭제곱(제곱)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "16",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 수의 곱셈 계산 과정의 빈칸 ㉠~㉤(곱셈의 교환법칙·결합법칙 이름과 중간 값)을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "17",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "240을 자연수로 나누어 어떤 자연수의 제곱이 되게 할 때 나눌 수 있는 가장 작은 자연수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "18",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "네 유리수 $-\\frac{7}{3}, -\\frac{3}{5}, \\frac{1}{5}, -3$ 중 서로 다른 세 수를 뽑아 곱한 값 중 최댓값과 최솟값의 합을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "19",
+   "level": "서술형",
+   "verb": "계산하시오",
+   "summary": "$7-\\frac{2}{3}\\times\\left[\\left\\{\\frac{2}{3}+(-2)^2\\right\\}\\div\\frac{7}{9}-12\\right]$를 계산한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "Math Lemon: 레몬 나무 그림에 1~19번 문항 번호가 레몬으로 있고 소단원별(소인수분해, 최대공약수, 최소공배수, 정수와 유리수의 뜻과 대소 관계, 덧셈과 뺄셈, 곱셈과 나눗셈)로 묶여 있으며, 맞은 문항에 색칠하고 아래 화분에 느낀 점을 쓴다.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "소인수분해",
+   "problemNos": [
+    "2",
+    "4",
+    "17"
+   ]
+  },
+  {
+   "concept": "최대공약수",
+   "problemNos": [
+    "1",
+    "3"
+   ]
+  },
+  {
+   "concept": "최소공배수",
+   "problemNos": [
+    "5",
+    "6"
+   ]
+  },
+  {
+   "concept": "정수와 유리수의 뜻과 대소 관계",
+   "problemNos": [
+    "7",
+    "8",
+    "9"
+   ]
+  },
+  {
+   "concept": "정수와 유리수의 덧셈과 뺄셈",
+   "problemNos": [
+    "10",
+    "11"
+   ]
+  },
+  {
+   "concept": "정수와 유리수의 곱셈과 나눗셈",
+   "problemNos": [
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "18",
+    "19"
+   ]
+  }
+ ],
+ "notes": "문항 17(240의 소인수분해)은 소인수분해 영역 레몬(2, 4, 17)에 속하고, 곱셈·나눗셈 영역에 16, 18, 19가 있는 것으로 읽었으나 레몬 나무의 그룹 경계가 약간 모호함. 서술형 문제 17~19에 대한 와이파이 모양 아이콘이 있으나 역량 이름은 불확실함. 16번 빈칸의 ㉠~㉤ 기호는 원문자로 보이나 작아서 확인이 어려움.",
+ "_page": 61,
+ "_usage": {
+  "in": 4402,
+  "out": 1516,
+  "sec": 9.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,177 @@
+{
+ "printedPage": "57",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.5 정수와 유리수의 곱셈",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "곱셈의 교환법칙",
+   "role": "정의",
+   "definition": "두 수의 순서를 바꾸어 곱해도 그 결과가 같다는 법칙",
+   "notation": "$a\\times b=b\\times a$"
+  },
+  {
+   "term": "곱셈의 결합법칙",
+   "role": "정의",
+   "definition": "세 수의 곱셈에서 어느 두 수를 먼저 곱해도 그 결과가 같다는 법칙",
+   "notation": "$(a\\times b)\\times c=a\\times(b\\times c)$"
+  },
+  {
+   "term": "부호가 다른 두 수의 곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부호가 같은 두 수의 곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a\\times b\\times c$",
+   "meaning": "세 수의 곱에서 괄호를 생략한 표현",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈 기호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a\\times b=b\\times a$",
+   "plain": "두 수의 곱셈은 순서를 바꾸어도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$(a\\times b)\\times c=a\\times(b\\times c)$",
+   "plain": "세 수의 곱셈은 어느 두 수를 먼저 곱해도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$(-\\frac{2}{5})\\times(-\\frac{3}{4})=+(\\frac{2}{5}\\times\\frac{3}{4})$",
+   "plain": "부호가 같으면 양의 부호를 붙이고 절댓값의 곱을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$(-3.4)\\times(+5)=-(3.4\\times5)$",
+   "plain": "부호가 다르면 음의 부호를 붙이고 절댓값의 곱을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "(1) 두 음의 분수의 곱, (2) 음의 소수와 양의 정수의 곱을 계산한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각 2 예시 (+4)×(-3)",
+   "summary": "두 수의 순서를 바꾸어 곱해도 -12로 같음을 보인다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각 2 예시 (-2),(+3),(+4)",
+   "summary": "묶는 방법을 바꾸어 곱해도 -24로 같음을 보인다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "양의 분수끼리의 곱 $(+\\frac{3}{8})\\times(+\\frac{8}{7})$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "음의 소수와 양의 정수의 곱 $(-8.6)\\times(+3)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "양의 분수와 음의 분수의 곱 $(+\\frac{7}{10})\\times(-\\frac{5}{2})$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "음의 소수끼리의 곱 $(-4.8)\\times(-0.5)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "곱셈의 계산 법칙(교환법칙, 결합법칙)을 정리한 회색 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "풀이에서 부호와 약분 과정을 색 원과 작은 숫자로 표시",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "생각 2의 질문은 '수의 곱셈에는 어떤 계산 법칙이 있나요?'이다. 문제 2 (1)의 분수는 이미지에서 +3/8 × +8/7로 읽었다. 곱셈 기호는 글자층에서 '_'로 깨져 있어 이미지를 따랐다.",
+ "_page": 57,
+ "_profile": "full",
+ "_usage": {
+  "in": 4614,
+  "out": 1726,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

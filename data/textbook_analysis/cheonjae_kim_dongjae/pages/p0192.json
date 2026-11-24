@@ -1,0 +1,199 @@
+{
+ "printedPage": "192",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율(3.14)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "주어진 네 도형 중 다각형을 찾아 이름을 말하기(원, 오각형, 삼각형 모양, 칠각형 모양)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 5 cm인 원의 원주와 넓이 구하기(원주율 3.14)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "보기의 입체도형 중 각기둥, 각뿔, 원기둥, 원뿔을 각각 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직육면체(8, 6, 10 cm)와 정육면체(한 모서리 8 cm)의 겉넓이와 부피 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원, 오각형, 삼각형 모양, 칠각형 모양 네 가지 평면도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반지름 5 cm가 표시된 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "보기: 각뿔, 원뿔, 원기둥, 삼각기둥 모양 입체도형",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직육면체와 정육면체, 각 모서리 길이 표시",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "핵심 용어(다면체, 중심각, 회전체, 부채꼴 등)를 모은 단어 구름과 로봇 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "다각형",
+   "원주와 원의 넓이",
+   "입체도형의 이름(각기둥, 각뿔, 원기둥, 원뿔)",
+   "직육면체·정육면체의 겉넓이와 부피"
+  ],
+  "current": [
+   "다각형의 성질 이해와 설명",
+   "부채꼴의 중심각과 호·넓이의 관계, 호의 길이와 넓이",
+   "다면체와 회전체의 성질 탐구",
+   "입체도형의 겉넓이와 부피"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'나의 학습 준비 상태'에서 1~4번 문항에 해당하는 엄지 아이콘이 있어 맞은 문항에 색칠하게 한다. 쪽 하단에는 'V. 도형의 성질'로 인쇄되어 있으나 제공된 대단원 목록에는 '평면도형의 성질'과 '입체도형의 성질'로 나뉘어 있어 chapter는 목록에 맞춰 '평면도형의 성질'로 적었고, 대단원 구분이 애매할 수 있다. 학습 목표의 초성 빈칸(ㅈㅅㄱ=중심각, ㅎ=호, ㄷㅁㅊ=다면체, ㅎㅈㅊ=회전체로 추정)은 학생이 채우는 활동이며 정답은 이미지에 직접 적혀 있지 않다.",
+ "_page": 192,
+ "_usage": {
+  "in": 4598,
+  "out": 1647,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

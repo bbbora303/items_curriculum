@@ -1,0 +1,425 @@
+{
+  "schemaVersion": "math-0.1",
+  "id": "x90308_none",
+  "level": "중학교",
+  "grade": 1,
+  "domain": "도형과 측정",
+  "standardCodes": [
+    "9수03-08"
+  ],
+  "assessmentContext": "수행평가",
+  "responseType": "서술형",
+  "taskPattern": "reading_modeling",
+  "competencies": [
+    "추론",
+    "문제해결",
+    "의사소통"
+  ],
+  "maxScore": 10,
+  "unitPolicy": "평가하지 않음",
+  "intent": "선물 상자와 장식물이 나오는 글을 읽고 입체도형으로 모델링하여 겉넓이와 부피를 구하게 하는 수행평가 문항이다. 1-1은 정사각기둥 모양 상자의 겉넓이와 부피를 계산 과정과 함께 구하는 문항으로, 기본 공식을 정확히 적용하는 능력을 확인하며 D·C 수준을 겨냥한다. 1-2는 밑면과 높이가 같은 원기둥과 원뿔을 비교하여 원뿔의 부피를 구하는 과정을 말과 식으로 설명하게 하는 문항으로, 추론과 의사소통 능력을 확인하며 C·B 수준을 겨냥한다. 1-3은 구 모양 장식에 대한 친구의 주장이 옳은지 구의 겉넓이와 부피를 구해 판단하고 근거를 논리적으로 서술하게 하는 문항으로, 문제해결과 의사소통 능력을 확인하며 A·B 수준을 겨냥한다.",
+  "stimulus": {
+    "text": "지민이는 친구의 생일 선물을 포장하려고 한다. 선물 상자는 밑면이 한 변의 길이가 {{a}} cm인 정사각형이고 높이가 {{h}} cm인 정사각기둥 모양이다. 상자는 뚜껑까지 모두 닫혀 있고, 상자 재료의 두께는 생각하지 않는다. 지민이는 선물 가게에서 쓸 장식물로 밑면의 반지름이 {{rc}} cm이고 높이가 {{hc}} cm인 원뿔 모양 장식과, 반지름이 {{s}} cm인 구 모양 장식을 만들었다. 또 원뿔 모양 장식과 밑면의 반지름, 높이가 각각 같은 원기둥 모양 투명 통도 하나 준비하였다.",
+    "figures": [],
+    "tables": []
+  },
+  "subQuestions": [
+    {
+      "no": "1-1",
+      "prompt": "정사각기둥 모양 선물 상자의 겉넓이와 부피를 각각 구하고, 구하는 과정을 쓰시오.",
+      "answerType": "값",
+      "conditions": [],
+      "maxScore": 3,
+      "targetLevels": [
+        "D",
+        "C"
+      ],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "기둥의 겉넓이와 부피 구하기",
+          "standardCodes": [
+            "9수03-08"
+          ],
+          "scoringElements": [
+            {
+              "text": "정사각기둥의 겉넓이와 부피를 식과 계산 과정을 보이며 구하기",
+              "maxScore": 3,
+              "levels": [
+                {
+                  "score": 3,
+                  "descriptors": [
+                    "상자의 겉넓이와 부피를 각각 식과 계산 과정을 보이며 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "겉넓이와 부피 중 한 값만 정확하게 구하거나, 두 값을 정확하게 구했으나 계산 과정을 쓰지 않음."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "겉넓이 또는 부피의 식을 세웠으나 두 값 모두 정확하게 구하지 못함."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-2",
+      "prompt": "원뿔 모양 장식의 부피를 구하는 과정을 〈조건〉에 맞게 설명하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {
+          "id": "C1",
+          "text": "원기둥 모양 투명 통과 비교하여 두 입체도형의 부피 사이의 관계를 설명에 포함할 것"
+        }
+      ],
+      "maxScore": 3,
+      "targetLevels": [
+        "C",
+        "B"
+      ],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "뿔의 부피를 구하는 과정 설명하기",
+          "standardCodes": [
+            "9수03-08"
+          ],
+          "scoringElements": [
+            {
+              "text": "원기둥과의 부피 관계를 이용하여 원뿔의 부피를 구하는 과정 설명하기",
+              "maxScore": 3,
+              "conditionRefs": [
+                "C1"
+              ],
+              "levels": [
+                {
+                  "score": 3,
+                  "descriptors": [
+                    "원기둥 모양 통과의 부피 관계를 근거로 설명하고 원뿔 모양 장식의 부피를 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "원기둥 모양 통과의 부피 관계를 설명했으나 계산에 오류가 있거나, 부피 관계는 쓰지 않고 공식에 대입하여 부피를 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "원기둥 모양 통과의 부피 관계를 설명하지 못하고 부피도 정확하게 구하지 못했으나 원뿔 또는 원기둥의 부피를 구하는 식을 세움."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-3",
+      "prompt": "현우는 구 모양 장식의 반지름을 {{s}} cm에서 {{2*s}} cm로 2배로 늘이면 겉넓이도 2배, 부피도 2배가 된다고 주장하였다. 현우의 주장이 옳은지 판단하고, 그 이유를 〈조건〉에 맞게 서술하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {
+          "id": "C1",
+          "text": "반지름이 {{s}} cm인 구와 {{2*s}} cm인 구의 겉넓이와 부피를 각각 구하여 판단에 사용할 것"
+        },
+        {
+          "id": "C2",
+          "text": "판단의 근거에 '겉넓이'와 '부피'라는 용어를 모두 사용할 것"
+        }
+      ],
+      "maxScore": 4,
+      "targetLevels": [
+        "A",
+        "B"
+      ],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "구의 겉넓이와 부피를 이용하여 문제 상황 해결하기",
+          "standardCodes": [
+            "9수03-08"
+          ],
+          "scoringElements": [
+            {
+              "text": "반지름이 다른 두 구의 겉넓이와 부피 구하기",
+              "maxScore": 2,
+              "conditionRefs": [
+                "C1"
+              ],
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "두 구의 겉넓이와 부피 네 값을 공식에 대입하여 모두 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "네 값 중 일부만 정확하게 구하거나, 구의 겉넓이와 부피를 구하는 식은 세웠으나 값을 정확하게 구하지 못함."
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "계산 결과를 바탕으로 주장의 옳고 그름을 판단하고 근거 설명하기",
+              "maxScore": 2,
+              "conditionRefs": [
+                "C2"
+              ],
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "주장에 대한 판단이 자신의 계산 결과와 일치하고, 겉넓이와 부피가 각각 몇 배가 되는지를 모두 근거로 설명함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "주장에 대한 판단은 했으나 겉넓이와 부피 중 하나만 근거로 설명하거나 근거를 설명하지 못했으며, 또는 판단이 자신의 계산 결과와 일치하지 않음."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "solutionMethods": [
+    {
+      "id": "M1",
+      "name": "공식에 직접 대입하여 계산",
+      "summary": "기둥, 뿔, 구의 겉넓이와 부피를 구하는 공식에 주어진 값을 직접 대입하여 계산한다."
+    },
+    {
+      "id": "M2",
+      "name": "전개도 또는 원기둥과의 부피 관계를 이용하여 계산",
+      "summary": "전개도의 각 면의 넓이, 원기둥과 원뿔의 부피 관계, 반지름이 2배가 될 때 식의 변화 등 도형 사이의 관계를 이용하여 계산한다."
+    }
+  ],
+  "modelAnswers": [
+    {
+      "subNo": "1-1",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "겉넓이는 (밑넓이)×2+(옆넓이)로 구한다. 밑넓이는 ${{a}} \\times {{a}} = {{a**2}}$ (cm²)이므로 밑면 2개의 넓이는 ${{boxBase2}}$ cm²이다. 옆넓이는 (밑면의 둘레)×(높이)이므로 $4 \\times {{a}} \\times {{h}} = {{boxSide}}$ (cm²)이다. 따라서 겉넓이는 ${{boxBase2}} + {{boxSide}} = {{boxSurface}}$ (cm²)이다. 부피는 (밑넓이)×(높이)이므로 ${{a**2}} \\times {{h}} = {{a**2*h}}$ (cm³)이다. 답: 겉넓이 {{boxSurface}} cm², 부피 {{a**2*h}} cm³",
+          "checks": [
+            {
+              "label": "밑넓이",
+              "expr": "boxBase2/2",
+              "expected": "a**2"
+            },
+            {
+              "label": "밑면 2개의 넓이",
+              "expr": "2*a**2",
+              "expected": "boxBase2"
+            },
+            {
+              "label": "옆넓이",
+              "expr": "4*a*h",
+              "expected": "boxSide"
+            },
+            {
+              "label": "겉넓이",
+              "expr": "boxBase2+boxSide",
+              "expected": "boxSurface"
+            },
+            {
+              "label": "부피",
+              "expr": "a**2*h",
+              "expected": "boxBase2*h/2"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "전개도에는 한 변이 {{a}} cm인 정사각형 2개와 가로 {{a}} cm, 세로 {{h}} cm인 직사각형 4개가 있다. 정사각형 한 개의 넓이는 ${{a**2}}$ cm², 직사각형 한 개의 넓이는 ${{a}} \\times {{h}} = {{a*h}}$ cm²이다. 겉넓이는 전개도의 모든 면의 넓이의 합이므로 $2 \\times {{a**2}} + 4 \\times {{a*h}} = {{boxSurface}}$ (cm²)이다. 부피는 밑면에 한 모서리가 1 cm인 쌓기나무를 ${{a**2}}$개 깔고 {{h}}층으로 쌓은 것과 같으므로 ${{a**2}} \\times {{h}} = {{a**2*h}}$ (cm³)이다. 답: 겉넓이 {{boxSurface}} cm², 부피 {{a**2*h}} cm³",
+          "checks": [
+            {
+              "label": "직사각형 한 개의 넓이",
+              "expr": "a*h",
+              "expected": "boxSide/4"
+            },
+            {
+              "label": "전개도의 모든 면의 넓이의 합",
+              "expr": "2*a**2+4*a*h",
+              "expected": "boxSurface"
+            },
+            {
+              "label": "쌓기나무 한 층의 개수",
+              "expr": "a*a",
+              "expected": "boxBase2/2"
+            },
+            {
+              "label": "부피",
+              "expr": "a**2*h",
+              "expected": "boxBase2*h/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subNo": "1-2",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "밑면과 높이가 같은 원기둥과 원뿔에서 원뿔의 부피는 원기둥 부피의 $\\frac{1}{3}$이므로 (원뿔의 부피)=$\\frac{1}{3}$×(밑넓이)×(높이)이다. 밑넓이는 $\\pi \\times {{rc}}^2 = {{cylBase|latex}}$ (cm²)이다. 따라서 원뿔 모양 장식의 부피는 $\\frac{1}{3} \\times {{cylBase|latex}} \\times {{hc}} = {{coneVol|latex}}$ (cm³)이다. 답: ${{coneVol|latex}}$ cm³",
+          "checks": [
+            {
+              "label": "밑넓이",
+              "expr": "pi*rc**2",
+              "expected": "cylBase"
+            },
+            {
+              "label": "원뿔의 부피",
+              "expr": "cylBase*hc/3",
+              "expected": "coneVol"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "원기둥 모양 통의 부피는 ${{cylBase|latex}} \\times {{hc}} = {{cylVol|latex}}$ (cm³)이다. 원뿔 모양 그릇에 물을 가득 채워 같은 밑면과 높이의 원기둥 통에 부으면 {{volRatio}}번 부었을 때 통이 가득 차므로 통의 부피는 원뿔 부피의 {{volRatio}}배이다. 따라서 원뿔의 부피는 ${{cylVol|latex}} \\div {{volRatio}} = {{coneVol|latex}}$ (cm³)이다. 답: ${{coneVol|latex}}$ cm³",
+          "checks": [
+            {
+              "label": "원기둥의 부피",
+              "expr": "cylBase*hc",
+              "expected": "cylVol"
+            },
+            {
+              "label": "원기둥과 원뿔의 부피의 비",
+              "expr": "cylVol/coneVol",
+              "expected": "volRatio"
+            },
+            {
+              "label": "원뿔의 부피",
+              "expr": "cylVol/volRatio",
+              "expected": "coneVol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subNo": "1-3",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "반지름이 {{s}} cm인 구의 겉넓이는 $4\\pi \\times {{s}}^2 = 4\\pi \\times {{s**2}} = {{sphereSurface|latex}}$ (cm²), 부피는 $\\frac{4}{3}\\pi \\times {{s}}^3 = \\frac{4}{3}\\pi \\times {{s**3}} = {{sphereVolume|latex}}$ (cm³)이다. 반지름이 {{2*s}} cm인 구의 겉넓이는 $4\\pi \\times {{2*s}}^2 = 4\\pi \\times {{(2*s)**2}} = {{2**2*sphereSurface|latex}}$ (cm²), 부피는 $\\frac{4}{3}\\pi \\times {{2*s}}^3 = {{2**3*sphereVolume|latex}}$ (cm³)이다. 반지름을 2배로 하면 겉넓이는 $2^2$배, 부피는 $2^3$배가 된다. 겉넓이와 부피 모두 2배가 아니므로 현우의 주장은 옳지 않다.",
+          "checks": [
+            {
+              "label": "반지름 s인 구의 겉넓이",
+              "expr": "4*pi*s**2",
+              "expected": "sphereSurface"
+            },
+            {
+              "label": "반지름 s인 구의 부피",
+              "expr": "4*pi*s**3/3",
+              "expected": "sphereVolume"
+            },
+            {
+              "label": "반지름 2s인 구의 겉넓이",
+              "expr": "4*pi*(2*s)**2",
+              "expected": "2**2*sphereSurface"
+            },
+            {
+              "label": "반지름 2s인 구의 부피",
+              "expr": "4*pi*(2*s)**3/3",
+              "expected": "2**3*sphereVolume"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "반지름이 $r$인 구의 겉넓이는 $4\\pi r^2$, 부피는 $\\frac{4}{3}\\pi r^3$이다. 반지름을 $2r$로 하면 겉넓이는 $4\\pi (2r)^2 = 2^2 \\times 4\\pi r^2$이므로 $2^2$배, 부피는 $\\frac{4}{3}\\pi (2r)^3 = 2^3 \\times \\frac{4}{3}\\pi r^3$이므로 $2^3$배가 된다. 처음 구의 겉넓이는 ${{sphereSurface|latex}}$ cm², 부피는 ${{sphereVolume|latex}}$ cm³이므로, 반지름이 {{2*s}} cm인 구의 겉넓이는 $2^2 \\times {{sphereSurface|latex}} = {{2**2*sphereSurface|latex}}$ (cm²), 부피는 $2^3 \\times {{sphereVolume|latex}} = {{2**3*sphereVolume|latex}}$ (cm³)이다. 겉넓이는 2배가 아니라 $2^2$배, 부피는 2배가 아니라 $2^3$배이므로 현우의 주장은 옳지 않다.",
+          "checks": [
+            {
+              "label": "반지름이 2배일 때 겉넓이의 배수",
+              "expr": "4*pi*(2*s)**2/sphereSurface",
+              "expected": "2**2"
+            },
+            {
+              "label": "반지름이 2배일 때 부피의 배수",
+              "expr": "(4*pi*(2*s)**3/3)/sphereVolume",
+              "expected": "2**3"
+            },
+            {
+              "label": "반지름 2s인 구의 겉넓이",
+              "expr": "2**2*sphereSurface",
+              "expected": "4*pi*(2*s)**2"
+            },
+            {
+              "label": "반지름 2s인 구의 부피",
+              "expr": "2**3*sphereVolume",
+              "expected": "4*pi*(2*s)**3/3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scoringNotes": [
+    "수와 식으로 표현한 문제해결 과정이 수학적으로 논리적이면 예시답안과 달라도 정답으로 인정한다.",
+    "성취기준이 값을 구하는 것이므로 단위 표기는 평가하지 않는다.",
+    "1-2에서 원기둥과의 부피 관계를 물 붓기 실험, 공식 등 다른 표현으로 설명했더라도 두 입체도형의 부피 사이의 관계가 옳게 드러나면 정답으로 인정한다.",
+    "1-3에서 구의 겉넓이나 부피 계산에 오류가 있더라도 그 값을 바탕으로 한 판단과 근거 설명이 논리적으로 일관되면 '계산 결과를 바탕으로 판단하고 근거 설명하기' 요소의 해당 수준 점수를 부여한다."
+  ],
+  "teacherChecks": [
+    {
+      "id": "T1",
+      "text": "1-2와 1-3에서 π를 3.14 등 근삿값으로 계산한 답을 인정할지 사전에 협의한다.",
+      "subNos": [
+        "1-2",
+        "1-3"
+      ]
+    },
+    {
+      "id": "T2",
+      "text": "1-1에서 겉넓이에 밑면을 한 개만 더하거나 옆면 4개를 빠뜨린 경우(개념 이해 오류)와 곱셈·덧셈 실수(계산 실수)를 구분하여 채점하는 기준을 협의한다.",
+      "subNos": [
+        "1-1"
+      ]
+    },
+    {
+      "id": "T3",
+      "text": "1-3에서 반지름이 다른 두 구와 겉넓이·부피를 구분하여 각각의 값과 배수를 답했는지 확인한다.",
+      "subNos": [
+        "1-3"
+      ]
+    }
+  ],
+  "feedbackNotes": [
+    "1-1에서 겉넓이를 구할 때 밑면 하나만 더하거나 옆면의 개수를 틀리는 학생에게는 전개도에서 정사각형 2개와 직사각형 4개를 직접 세어 보게 하고, 부피(cm³)와 겉넓이(cm²)의 의미 차이를 확인하게 한다.",
+    "1-2에서 원뿔의 부피를 (밑넓이)×(높이)로 구하여 $\\frac{1}{3}$을 빠뜨리는 학생에게는 같은 밑면과 높이의 원기둥 통에 원뿔 모양 그릇으로 물을 부으면 몇 번에 가득 차는지 생각하게 하여 부피 관계를 이해하도록 지도한다.",
+    "1-3에서 '반지름이 2배이면 겉넓이도 부피도 2배'라고 생각하는 학생에게는 반지름이 1, 2, 3일 때 겉넓이와 부피를 표로 정리하게 하여, 겉넓이에는 반지름이 제곱으로, 부피에는 반지름이 세제곱으로 쓰인다는 점을 확인하게 한다."
+  ],
+  "review": {
+    "status": "unreviewed",
+    "reviewedBy": null
+  },
+  "generationMeta": {
+    "model": "claude-sonnet-5-5",
+    "difficulty": "medium",
+    "seed": 1,
+    "guides": "A1B1",
+    "textbook": "none",
+    "textbookBasis": [],
+    "textbookBasisOffered": false,
+    "textbookGoals": []
+  }
+}

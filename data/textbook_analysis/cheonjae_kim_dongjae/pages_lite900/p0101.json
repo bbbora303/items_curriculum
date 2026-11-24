@@ -1,0 +1,84 @@
+{
+ "printedPage": "101",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "식의 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직육면체의 겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "속력",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "verbs": [
+  "구하시오",
+  "써 보자"
+ ],
+ "contexts": [
+  "동생과 형이 같은 길에서 만나는 상황(속력)",
+  "직육면체의 겉넓이"
+ ],
+ "essay": true,
+ "dataFigures": false,
+ "problemCount": 5,
+ "notes": "문제 15~19번이 있다. 17~19번은 서술형 문제 표시가 있다. 오른쪽 아래의 Math Pizza는 맞은 문항 색칠과 느낀 점 쓰기 코너이다. 소단원 번호와 제목은 보이지 않는다. 대단원 이름은 목록과 문제 내용(일차방정식)으로 판단했다.",
+ "_page": 101,
+ "_profile": "lite",
+ "_usage": {
+  "in": 3213,
+  "out": 518,
+  "sec": 4.6,
+  "stop": "end_turn"
+ }
+}

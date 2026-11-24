@@ -1,0 +1,125 @@
+{
+ "printedPage": "199",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "참고",
+   "label": "곁글",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "부채꼴을 잘라 엇갈리게 맞붙여서 넓이를 구할 수도 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "부채꼴의 넓이(반지름과 호의 길이 이용)",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "부채꼴의 넓이는 반지름의 길이와 호의 길이를 이용하여 구할 수도 있다.\n반지름의 길이가 $r$이고 호의 길이가 $l$인 부채꼴의 중심각의 크기를 $x^\\circ$라고 하면 부채꼴의 넓이 $S$는\n$S=\\pi r^2\\times\\frac{x}{360}=\\frac{1}{2}\\times r\\times\\left(2\\pi r\\times\\frac{x}{360}\\right)=\\frac{1}{2}rl$\n이다.\n따라서 반지름의 길이가 $r$이고 호의 길이가 $l$인 부채꼴의 넓이 $S$는 다음과 같다.\n$S=\\frac{1}{2}rl$",
+   "subItems": [],
+   "conditions": [],
+   "given": "반지름 $r$, 호의 길이 $l$, 중심각의 크기 $x^\\circ$, 부채꼴의 넓이 $S$",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "확인해요",
+   "corner": "확인해요",
+   "icons": [],
+   "level": "기본",
+   "text": "반지름의 길이가 $8$ cm이고 호의 길이가 $\\pi$ cm인 부채꼴의 넓이는 $\\frac{1}{2}\\times 8\\times \\pi=4\\pi(\\text{cm}^2)$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "반지름 8 cm, 호의 길이 $\\pi$ cm (식에서 8과 $\\pi$가 색으로 강조됨)",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 부채꼴의 넓이를 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "반지름의 길이 5 cm, 호의 길이 $2\\pi$ cm인 부채꼴"
+    },
+    {
+     "label": "(2)",
+     "text": "반지름의 길이 12 cm, 호의 길이 $18\\pi$ cm인 부채꼴(색칠된 큰 부채꼴)"
+    }
+   ],
+   "conditions": [],
+   "given": "(1) 5 cm, $2\\pi$ cm (2) 12 cm, $18\\pi$ cm",
+   "steps": [],
+   "answerFormat": "부채꼴의 넓이 구하기"
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "호의 길이 = 원의 둘레의 길이 $\\times\\frac{x}{360}$ = $2\\pi r\\times\\frac{x}{360}$\n부채꼴의 넓이 = 원의 넓이 $\\times\\frac{x}{360}$ = $\\pi r^2\\times\\frac{x}{360}$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "부채꼴을 잘라 엇갈리게 맞붙이기(왼쪽 곁그림)",
+   "labels": "위 그림: 여러 조각으로 잘린 부채꼴, 반지름 r, 호 l. 아래 화살표(↓) 후 아래 그림: 조각을 엇갈리게 붙인 직사각형 모양, 세로 r, 가로 $\\frac{1}{2}l$",
+   "desc": "부채꼴을 가는 조각으로 잘라 위아래로 엇갈리게 맞붙인 모양이며 일부 조각은 노란색, 일부는 보라색"
+  },
+  {
+   "kind": "도형",
+   "caption": "반지름 r, 호의 길이 l인 부채꼴",
+   "labels": "반지름 r, 중심각 $x^\\circ$, 넓이 S, 호의 길이 l",
+   "desc": "연한 노란색 부채꼴, 호 바깥쪽에 길이 l 표시"
+  },
+  {
+   "kind": "도형",
+   "caption": "문제 3 (1)",
+   "labels": "반지름 5 cm, 호의 길이 $2\\pi$ cm",
+   "desc": "연한 청록색 부채꼴, 왼쪽 반지름이 기울어져 있고 오른쪽 반지름은 밑변(수평)"
+  },
+  {
+   "kind": "도형",
+   "caption": "문제 3 (2)",
+   "labels": "반지름 12 cm, 호의 길이 $18\\pi$ cm",
+   "desc": "오른쪽이 입처럼 벌어진 연한 청록색 큰 부채꼴(파이 모양), 바깥에 호 표시"
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 그림",
+   "labels": "원 안에 360°, 부채꼴(r, $x^\\circ$), 원숭이가 원을 들고 있는 그림. 가운데 식: '호의 길이'(부채꼴, r, x) = '원의 둘레의 길이'(원) × $\\frac{x}{360}$, 아래 $=2\\pi r\\times\\frac{x}{360}$. 오른쪽 식: '부채꼴의 넓이'(색칠된 부채꼴, r, x) = '원의 넓이'(색칠된 원) × $\\frac{x}{360}$, 아래 $=\\pi r^2\\times\\frac{x}{360}$",
+   "desc": "오른쪽 아래에 쥐 캐릭터와 사과, 왼쪽 아래에 사과 그림이 있음"
+  }
+ ],
+ "incomplete": "",
+ "_page": 199,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3868,
+  "out": 2898,
+  "sec": 20.2,
+  "stop": "end_turn"
+ }
+}

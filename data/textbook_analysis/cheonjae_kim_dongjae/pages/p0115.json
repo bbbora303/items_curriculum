@@ -1,0 +1,138 @@
+{
+ "printedPage": "115",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "3 그래프 환경 뉴스",
+  "area": "역량 쑥쑥 수학 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "그래프란 두 변수 사이의 관계를 좌표평면 위에 점, 직선, 곡선 등으로 나타낸 그림이다.",
+   "plain": "뉴스 대본 예시 안에서 사회자의 말로 그래프의 뜻을 다시 설명한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시: 지구 평균 해수면 높이에 대한 뉴스 대본",
+   "summary": "사회자가 그래프의 뜻을 말하고, 기자가 1995년 약 13 mm에서 2020년 약 96 mm로 상승한 변화와 원인·과제를 보도하는 대본",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "정한다",
+   "summary": "환경 관련 그래프를 주제로 정한다(인터넷에서 찾거나 직접 그림).",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "작성한다",
+   "summary": "역할별 필수 조건을 고려하여 활동 1의 그래프에 맞는 상황을 전하는 뉴스 대본을 함께 작성한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 3",
+   "level": "활동",
+   "verb": "나눈다",
+   "summary": "역할을 분담하여 영상으로 만들어 발표하고, 친구들의 영상을 보고 간단한 소감을 나눈다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "1995~2020년 연도(년)에 따른 지구 평균 해수면 높이(mm)를 나타낸 꺾은선 그래프로 대체로 오른쪽 위로 상승한다(출처: NASA, 2023년).",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "사회자·기자의 역할, 필수 조건, 뉴스 대본 예시를 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "교실에서 모둠별로 대본을 쓰고 발표하는 학생들과 교사 일러스트, 바다 배경",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "지구 평균 해수면 상승",
+  "기후 변화",
+  "환경 뉴스 제작",
+  "영상 발표"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "새로 정의되는 용어는 없고, 앞 단원에서 배운 그래프·좌표 읽기를 활용하는 융합 활동 쪽이다. 우측 상단에 '환경' 주제 아이콘이 있다. 그래프 값(약 13 mm, 96 mm)은 대본 글에서 확인했다.",
+ "_page": 115,
+ "_usage": {
+  "in": 4725,
+  "out": 1241,
+  "sec": 8.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

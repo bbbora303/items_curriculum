@@ -1,0 +1,47 @@
+{
+ "printedPage": "171",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "버스 정류장 광고판에 당구공, 컴퍼스로 그리는 삼각형 모양 스테인드글라스, 연못 사진이 있고 그 앞에 세 사람이 서 있는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "당구(흰 공과 빨간 공의 경로)",
+  "스테인드글라스",
+  "연못의 폭"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "01 간단한 도형의 작도",
+   "02 삼각형의 작도",
+   "03 삼각형의 합동 조건"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 '작도와 합동'의 도입 쪽이다. 소단원 목차 세 개와 각 소단원의 도입 질문(175쪽: 흰 공의 경로 그리기, 179쪽: 스테인드글라스 속 삼각형 그리기, 181쪽: 연못의 폭 구하기)만 있다. '배운 내용/배울 내용' 표시는 이 쪽에 보이지 않아 gradeLinks의 prior와 later는 비웠다.",
+ "_page": 171,
+ "_usage": {
+  "in": 4180,
+  "out": 485,
+  "sec": 3.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

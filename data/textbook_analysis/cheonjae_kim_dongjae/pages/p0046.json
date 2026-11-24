@@ -1,0 +1,159 @@
+{
+ "printedPage": "46",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "곱셈의 교환법칙",
+   "role": "정의",
+   "definition": "두 수의 곱셈에서 순서를 바꾸어 곱하여도 결과가 같다는 법칙",
+   "notation": "$a\\times b=b\\times a$"
+  },
+  {
+   "term": "곱셈의 결합법칙",
+   "role": "정의",
+   "definition": "세 수의 곱셈에서 앞이나 뒤의 두 수를 먼저 곱한 후 나머지 수를 곱하여도 결과가 같다는 법칙",
+   "notation": "$(a\\times b)\\times c=a\\times(b\\times c)$"
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "$(-3)^3$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a\\times b\\times c$",
+   "meaning": "결합법칙이 성립하므로 괄호 없이 나타낸 세 수의 곱",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(-3)^3$",
+   "meaning": "$(-3)$을 세 번 곱한 거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a\\times b=b\\times a$",
+   "plain": "두 수의 곱은 곱하는 순서를 바꾸어도 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$(a\\times b)\\times c=a\\times(b\\times c)$",
+   "plain": "세 수를 곱할 때 어느 두 수를 먼저 곱해도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "곱의 부호 결정 후 절댓값의 곱에 부호를 붙인다",
+   "plain": "0이 아닌 여러 수를 곱할 때 먼저 부호를 정하고 절댓값의 곱에 붙이면 편리하다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "음수가 없거나 짝수 개이면 +, 홀수 개이면 -",
+   "plain": "곱에서 음수의 개수가 짝수면 양수, 홀수면 음수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "교환법칙 예시",
+   "summary": "$(+2)\\times(-5)$와 $(-5)\\times(+2)$가 모두 $-10$으로 같다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "결합법칙 예시",
+   "summary": "$\\{(-2)\\times(+3)\\}\\times(-5)$와 $(-2)\\times\\{(+3)\\times(-5)\\}$가 모두 $+30$이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "세 분수의 곱셈(채워 넣기)",
+   "summary": "교환법칙과 결합법칙을 이용해 $(-\\frac{4}{3})\\times(+\\frac{2}{5})\\times(+\\frac{3}{8})$을 계산하면 $-\\frac{1}{5}$이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "채워 넣기 1(세 분수 곱)",
+   "level": "기본",
+   "verb": "빈칸에 알맞은 말을 써넣으시오",
+   "summary": "각 단계에서 이용한 법칙(곱셈의 교환법칙, 곱셈의 결합법칙)을 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 2-❶",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "$(-2)\\times(-4)\\times(+5)$의 부호와 절댓값의 곱을 이용해 $40$을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 2-❷",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "$(-3)^3=(-3)\\times(-3)\\times(-3)$의 부호를 정하고 절댓값의 곱으로 $-27$을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "음수 기호(-) 짝수 개의 곱은 +, 홀수 개의 곱은 -임을 화살표로 보여 주는 그림 상자",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "계산 단계에 법칙 이름을 쓰는 곡선 화살표와 빈칸 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 두었다. 곱셈의 부호 규칙, 절댓값, 거듭제곱은 앞서 배운 것으로 보고 '사용'으로 분류했다. 채워 넣기 2의 ❷ 답은 이미지의 '27' 앞 부호가 뚜렷하지 않다. 곱셈의 계산 법칙 상자 안의 교환법칙·결합법칙 항목에는 ❶❷ 번호가 붙어 있다.",
+ "_page": 46,
+ "_usage": {
+  "in": 4809,
+  "out": 1876,
+  "sec": 11.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

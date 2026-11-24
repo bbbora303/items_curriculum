@@ -1,0 +1,151 @@
+{
+ "printedPage": "231",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.5 구의 겉넓이와 부피",
+  "area": "문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": "r"
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$r$",
+   "meaning": "구의 반지름",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(구의 겉넓이) = 4\\pi r^2",
+   "plain": "구의 겉넓이는 반지름이 같은 원의 넓이의 4배이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(구의 부피) = \\frac{4}{3}\\pi r^3",
+   "plain": "반지름이 r인 구의 부피는 4/3 곱하기 πr³이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 반지름 6 cm인 구의 부피, (2) 반지름 4 cm인 반구의 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "원기둥과 반구를 붙인 모양인 경주 석굴암 주실(반지름 3.6 m, 높이 5.1 m)의 부피를 구한다.",
+   "competencyIcons": [
+    "연결",
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "반지름 6 cm인 구와 반지름 4 cm인 반구 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "석굴암 주실의 단면 그림으로 반구 반지름 3.6 m, 원기둥 부분 길이 5.1 m가 표시됨",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "경주 석굴암 내부 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원과 구를 비교하고 겉넓이와 부피 공식 빈칸을 채우는 수학 집 짓기 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "경주 석굴암",
+  "세계 유산",
+  "국보"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "수학 집 짓기 코너는 구의 겉넓이(4πr²)와 부피(4/3πr³) 공식의 빈칸 채우기 형태이며 숫자 4, 4/3은 칸 안에 들어 있음. 석굴암 그림의 5.1 m가 원기둥 부분의 높이인지 전체 높이인지는 이미지만으로 확실하지 않음. 계산기 아이콘이 있음.",
+ "_page": 231,
+ "_profile": "full",
+ "_usage": {
+  "in": 4235,
+  "out": 1181,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

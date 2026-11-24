@@ -1,0 +1,206 @@
+{
+ "printedPage": "223",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "2. 입체도형의 성질 (기둥의 부피)",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^2$, $\\mathrm{cm}^3$",
+   "meaning": "넓이와 부피의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(부피)=(밑넓이)\\times(높이)",
+   "plain": "기둥의 부피는 밑넓이에 높이를 곱해서 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(원기둥의 밑넓이)=\\pi\\times(반지름)^2",
+   "plain": "원기둥의 밑넓이는 반지름의 제곱에 π를 곱한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(사다리꼴의 넓이)=\\frac{1}{2}\\times(윗변+아랫변)\\times(높이)",
+   "plain": "사각기둥의 밑면인 사다리꼴 넓이를 이 식으로 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "채워 넣기 ❶",
+   "summary": "밑면이 사다리꼴인 사각기둥(밑면 변 4, 6, 높이 3, 기둥 높이 8)의 밑넓이와 부피를 빈칸을 채워 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "채워 넣기 ❷",
+   "summary": "반지름 5 cm, 높이 9 cm인 원기둥의 밑넓이와 부피를 빈칸을 채워 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "밑면이 직각삼각형(3 cm, 4 cm), 높이 6 cm인 각기둥의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "밑면이 사다리꼴(5 cm, 7 cm, 높이 3 cm), 높이 6 cm인 각기둥의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 4 cm, 높이 7 cm인 원기둥의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 6 cm, 높이 8 cm인 눕혀진 원기둥의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "밑넓이 15 cm², 부피 300 cm³인 오각기둥의 높이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "전개도(옆면 가로 8π cm, 세로 5 cm)로 만든 원기둥의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "밑면이 사다리꼴인 사각기둥 그림(4 cm, 3 cm, 6 cm, 8 cm 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "반지름 5 cm, 높이 9 cm인 원기둥 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직각삼각형 밑면의 삼각기둥과 사다리꼴 밑면의 사각기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "세워진 원기둥과 눕혀진 원기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥의 전개도(두 원과 직사각형, 8π cm, 5 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "위쪽 '채워 넣기'는 앞쪽 개념 설명에서 이어지는 부분이다. 사다리꼴 밑면의 치수(4, 6, 3 cm 등)는 그림이 작아 정확한 위치를 확신하기 어렵다. 2+번 전개도에서 5 cm가 원기둥의 높이인지 밑면 반지름인지는 그림상 높이로 보인다.",
+ "_page": 223,
+ "_usage": {
+  "in": 4407,
+  "out": 1856,
+  "sec": 11.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

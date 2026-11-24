@@ -1,0 +1,199 @@
+{
+ "printedPage": "214",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.1 다면체",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "면의 개수에 따른 ~면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "모서리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "옆면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "n",
+   "meaning": "n각뿔대의 밑면 변의 수를 나타내는 문자",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "두 다면체(각뿔대, 변형된 입체)가 각각 몇 면체인지 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "보기(삼각기둥, 칠각뿔, 오각뿔대, 육각뿔대, 정십이면체, 정이십면체)에서 (1) 면이 8개, (2) 옆면이 직사각형이 아닌 사다리꼴, (3) 모든 면이 삼각형인 다면체를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "전개도로 만든 정다면체의 이름, 한 꼭짓점에 모인 면의 개수, 꼭짓점의 개수를 구한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "심화(+표시)",
+   "verb": "답하시오",
+   "summary": "(1) 삼~육각뿔대의 모서리·꼭짓점 개수 표 완성, (2) n각뿔대의 모서리·꼭짓점 개수를 n의 식으로 나타내기, (3) 모서리와 꼭짓점 개수의 합이 35인 각뿔대의 밑면 모양 쓰기.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "5",
+   "level": "활동",
+   "verb": "답하시오",
+   "summary": "모든 면이 정삼각형이고 한 꼭짓점에 모인 면이 3개인 정다면체 이름 문제를 해결하고, ㉠이나 ㉡을 바꾸어 새 문제를 만들어 친구와 바꿔 해결한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_levelSuspect": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "1번 (1) 각뿔대 모양과 (2) 한 모서리가 잘린 육면체 모양의 다면체 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "3번 정다면체의 전개도(정삼각형 8개로 이뤄진 모양)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "4번 삼각뿔대~육각뿔대의 모서리·꼭짓점 개수를 채우는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "5번 '내가 만든 문제'를 쓰는 빈 칸",
+   "_raw": "기타",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "문제 더 풀기 QR 코드와 자기평가 표정 아이콘(우수/보통/분발)",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 이름은 쪽 아래 '7. 입체도형의 성질'과 7.1 안내 문구로 판단했다. 소단원 '7.1 다면체'는 안내 문구에서 추정했다. 4번에는 '도전' 표시가 있다. 1번 옆의 '해당하는 곳에 색칠해요'는 자기 점검 표시(우수/보통/분발)이다.",
+ "_page": 214,
+ "_profile": "full",
+ "_usage": {
+  "in": 4722,
+  "out": 1652,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

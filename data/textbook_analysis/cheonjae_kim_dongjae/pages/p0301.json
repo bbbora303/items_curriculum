@@ -1,0 +1,145 @@
+{
+ "printedPage": "301",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "02 다각형의 대각선",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "180^\\circ\\times(n-2)",
+   "plain": "n각형의 내각의 크기의 합 (풀이에서 사용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "\\frac{180^\\circ\\times(n-2)}{n}",
+   "plain": "정n각형의 한 내각의 크기 (풀이에서 사용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "\\frac{360^\\circ}{n}",
+   "plain": "정n각형의 한 외각의 크기 (풀이에서 사용)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "360^\\circ",
+   "plain": "다각형의 외각의 크기의 합은 360°이다 (풀이에서 사용)",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "내각의 크기의 합으로 다각형의 이름과 내각의 합 구하기 (답: (1) 칠각형, 900°, (2) 팔각형, 1080°)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정십이각형의 한 내각의 크기 풀이: 180°×(12-2)/12=150°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "한 내각 조건에서 정다각형 구하기 (답: 정십사각형)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2 (외각)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정이십각형의 한 외각의 크기 풀이: 360°/20=18°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+ (외각)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "한 외각 조건에서 정다각형 구하기 (답: 정구각형)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "와글와글 수학 활동 (1)~(3)",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "오각형의 내각의 합을 윤우(내부의 한 점)와 은서(한 변 위의 점)의 방법으로 구하고 n각형으로 일반화하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "방법 1·방법 2",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "한 내각이 135°인 정다각형 찾기: 내각 이용(방법 1), 외각 이용(방법 2) 모두 n=8, 정팔각형",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 열기 ❶❷",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "사각형·오각형·육각형의 꼭짓점 개수와 한 꼭짓점에서 그을 수 있는 대각선 수 표 완성, ❷ 12",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "사각형·오각형·육각형의 꼭짓점 개수(4,5,6)와 한 꼭짓점에서 그을 수 있는 대각선의 개수(1,2,3) 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽(301쪽)이라 새 개념은 정의되지 않고 앞쪽 문제의 답과 풀이만 있음. 왼쪽은 198~199쪽(다각형의 외각의 크기의 합) 관련, 오른쪽 아래는 200~201쪽(다각형의 대각선) 관련 해설. 채워 넣기 답: 9, 7, 1260 / 360 / 8, 8, 20. 생각 열기 답: 360°, 360°.",
+ "_page": 301,
+ "_usage": {
+  "in": 5300,
+  "out": 1525,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

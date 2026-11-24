@@ -1,0 +1,117 @@
+{
+ "printedPage": "109",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": "(a, b)"
+  },
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "A(a, b)",
+   "meaning": "점 A의 좌표 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "순서쌍을 좌표로 하는 점을 좌표평면 위에 나타내고 차례대로 연결해 그림을 완성한 뒤, 세 점 A, B, C의 좌표를 기호로 나타낸다. A(4,0)에서 출발해 (5,0), (6,-1), (7,-1), B, (8,1), (7,2), (5,2), (6,3), (5,4), (3,5), C, (-6,4), (-8,1), (-5,-2), (-3,-2), (0,-2), A 순서로 연결한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기",
+   "_levelSuspect": true
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "주어진 점이 제몇 사분면 위에 있는지 말한다. (1) A(3, 22) (2) B(4, -20) (3) C(-11, 3) (4) D(-12, -10)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "영화관의 좌석 번호, 지도의 경도와 위도 등 주변에서 좌표를 사용하는 예를 찾고 좌표의 편리한 점을 말한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "바닷속 배경 위에 눈금이 그려진 좌표평면이 있고, 점 A, B, C가 표시되어 있으며 연결해 완성할 물고기 그림 조각들이 흩어져 있다.",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "출발 A에서 도착 A까지 이어지는 순서쌍 목록이 화살표로 연결되어 있다.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "바닷속 그림 완성",
+  "영화관 좌석 번호",
+  "지도의 경도와 위도",
+  "기념일 날짜(세계 물의 날, 장애인의 날, 학생의 날, 세계 인권의 날)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "'눈 운동을 해 볼까?'는 쉬어가는 코너이고 '기념일 알기'는 날짜를 소개하는 곁가지 코너이다. 소단원 번호와 제목은 보이지 않아 section을 비웠다. 문제 3 위의 연결 아이콘은 작게 인쇄되어 있다. 문제 1의 점 B와 C의 좌표는 순서쌍이 주어지지 않아 그림에서 찾아야 한다.",
+ "_page": 109,
+ "_usage": {
+  "in": 4429,
+  "out": 1209,
+  "sec": 7.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

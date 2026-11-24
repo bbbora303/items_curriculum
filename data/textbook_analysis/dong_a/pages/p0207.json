@@ -1,0 +1,52 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "큰 숫자 7을 초록·붉은색·진녹색 도형으로 디자인한 단원 번호 그림이 말풍선 모양 흰 배경 위에 있다.",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "새 활용(업사이클링)",
+  "지구 환경 보호"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "7.0 새 활용으로 지구를 지켜요",
+   "7.1 다면체",
+   "7.2 회전체",
+   "7.3 기둥과 뿔의 겉넓이",
+   "7.4 기둥과 뿔의 부피",
+   "7.5 구의 겉넓이와 부피",
+   "프로젝트: 새 활용 물건을 만들어요"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 표지 쪽이다. 이 쪽에는 '배운 내용/배울 내용' 표시가 없고 소단원 목차만 있다. 인쇄된 쪽 번호는 보이지 않는다. 안내 문구: '입체도형은 어떤 성질이 있고, 겉넓이와 부피는 어떻게 구할까요?'",
+ "_page": 207,
+ "_profile": "full",
+ "_usage": {
+  "in": 4048,
+  "out": 490,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

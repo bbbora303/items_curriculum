@@ -1,0 +1,58 @@
+{
+ "printedPage": "25",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "",
+   "level": "활동",
+   "verb": "계산하면 얼마일까요?",
+   "summary": "말풍선 질문: $2-3\\times(-4)$를 계산하면 얼마인가?",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "필름 모양 띠 안에 산 정상 표지석 사진, 양손에 양수·음수 셈돌을 든 그림, 칠판 앞에서 식을 설명하는 선생님이 있고, 아래에서 촬영 스태프들이 영화를 찍는 장면",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "산의 높이",
+  "셈돌(양수·음수 모형)",
+  "영화 촬영 장면"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "01 정수와 유리수의 뜻과 대소 관계",
+   "02 정수와 유리수의 덧셈과 뺄셈",
+   "03 정수와 유리수의 곱셈과 나눗셈"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로, 소단원 세 개와 각 소단원 질문(산의 높이 표현-26쪽, 셈돌을 이용한 덧셈-39쪽, 식의 계산 순서-51쪽)이 제시됨. '배운 내용/배울 내용(중2·중3)' 표시는 이 쪽에 보이지 않음. 칠판의 식 $2-3\\times(-4)$는 소단원 03(곱셈, 혼합 계산) 예고 질문으로 보이며 이 쪽에서 정의되는 용어나 기호는 없음.",
+ "_page": 25,
+ "_usage": {
+  "in": 4112,
+  "out": 666,
+  "sec": 5.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

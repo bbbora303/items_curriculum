@@ -1,0 +1,21 @@
+{
+  "_note": "자료(통계) 문항용 수치 명세 형식 예. 숫자 규칙 만들기(GN) 프롬프트에만 쓰는 예시이며 확정 명세가 아니다(numspecs 폴더에 두지 않는다).",
+  "id": "example_dataset",
+  "description": "학생 20명의 점수 자료에서 중앙값과 최빈값을 구하고 도수분포표로 정리하는 세트용 자료 후보",
+  "variables": {
+    "s": {"range": [1, 300], "meaning": "자료 묶음 번호(바꾸면 표의 자료가 달라짐)"},
+    "n": {"values": [20], "unit": "명", "meaning": "자료의 개수(학생 수)"},
+    "lo": {"values": [40], "unit": "점", "meaning": "점수의 최솟값 범위(계급의 시작)"},
+    "hi": {"values": [99], "unit": "점", "meaning": "점수의 최댓값 범위"}
+  },
+  "derived": {
+    "data": "dataset(s, n, lo, hi)",
+    "med": "median(data)",
+    "mo": "mode(data)",
+    "mf": "mode_freq(data)",
+    "avg": "mean(data)",
+    "c3": "count_between(data, lo + 20, lo + 30)"
+  },
+  "constraints": ["n_modes(data) == 1", "mf >= 3", "is_int(med)", "distinct(data) >= 12", "min(data) >= lo", "max(data) < lo + 60"],
+  "difficulty": {"easy": "data_range(data) <= 45", "medium": "data_range(data) <= 55", "hard": "data_range(data) >= 40"}
+}

@@ -1,0 +1,217 @@
+{
+ "printedPage": "76",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "배우고 익히기 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "나눗셈 기호 ÷의 생략",
+   "role": "정의",
+   "definition": "나눗셈 기호 ÷를 쓰지 않고 분수 꼴로 나타낸다.",
+   "notation": "a\\div 3=\\frac{a}{3}"
+  },
+  {
+   "term": "곱셈 기호와 나눗셈 기호가 섞여 있는 식의 표현",
+   "role": "정의",
+   "definition": "×와 ÷가 섞여 있는 식은 앞에서부터 차례대로 기호를 쓰지 않고 간단히 나타낸다.",
+   "notation": "a\\div b\\times 3=\\frac{3a}{b}"
+  },
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곱셈 기호의 생략",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\div",
+   "meaning": "나눗셈 기호(식에서 생략하여 분수 꼴로 나타냄)",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\times",
+   "meaning": "곱셈 기호(생략 가능)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "a\\div b\\times 3=\\frac{a}{b}\\times 3=\\frac{3a}{b}",
+   "plain": "곱셈과 나눗셈이 섞인 식은 앞에서부터 차례대로 계산하며 기호를 없앤다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "수가 맨 앞, 문자는 알파벳 순서, 같은 문자는 거듭제곱, 나눗셈은 분수 꼴",
+   "plain": "수학 집 짓기에서 곱셈·나눗셈 기호를 생략하는 규칙을 그림으로 정리했다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "a÷b×3",
+   "summary": "a÷b×3을 앞에서부터 차례로 분수 꼴로 바꾸어 3a/b로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각 넓히기 예시",
+   "summary": "재생 시간이 60초인 동영상을 x초 재생했을 때 남은 시간을 (60−x)초로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "수학 집 짓기 예시",
+   "summary": "b×1×(−3)×a×b를 −3ab²으로, a÷4를 a/4로 나타내는 규칙을 보여 준다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "a÷3을 나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "2x÷(−y)를 나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (3)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(a−4)÷b를 나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (4)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "−x÷(y+8)을 나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "a×b÷(−7)을 곱셈·나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "5÷x×y를 곱셈·나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (3)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "a×5−4÷b를 곱셈·나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (4)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(x+y)÷a×2를 곱셈·나눗셈 기호 없이 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "주변에서 문자를 사용한 식으로 나타낼 수 있는 상황을 찾아 상황과 식을 쓴다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "동영상 재생 화면 모양의 상황·식 예시와 학생이 직접 쓰는 빈 칸",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 곱셈·나눗셈 기호 생략 규칙을 말풍선과 캐릭터로 보여 주는 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "동영상 재생 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 하단에 '3. 문자의 사용과 식'만 표시됨. 수학 집 짓기의 −3ab² 결과는 캐릭터 그림으로 표현되어 있어 일부 해석에 의존함.",
+ "_page": 76,
+ "_profile": "full",
+ "_usage": {
+  "in": 4513,
+  "out": 2143,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

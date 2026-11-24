@@ -1,0 +1,105 @@
+{
+ "printedPage": "141",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "합동인 두 삼각형 ㄱㄴㄷ과 ㄹㅁㅂ에서 점 ㄱ의 대응점, 변 ㄴㄷ의 대응변, 각 ㄹㅂㅁ의 대응각을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "고층 건물과 도로, 공원이 보이는 도시 전경 사진과 일러스트 건물·사람들",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "서로 합동인 두 삼각형 ㄱㄴㄷ과 ㄹㅁㅂ",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "도입 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "도시 설계",
+  "주거 지역과 상업 지역 배치",
+  "교통 시설과 대중교통",
+  "놀이공원 설계"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등 | 합동"
+  ],
+  "current": [
+   "도형을 이루는 기본 요소와 위치 관계",
+   "작도"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "5단원 도입 쪽이다. 소단원 번호와 제목은 보이지 않아 section은 비워 두었다. 학습 계획 세우기 칸에는 '배운 내용은 잊지 않도록 공책에 정리하겠다.'라는 예시 문구가 적혀 있다. 하단에 '초등 | 합동'으로 표시된 문제 3번은 선수 학습 확인용이다(문제 1, 2번은 이 쪽에 없음). 단원 번호는 5이다.",
+ "_page": 141,
+ "_profile": "full",
+ "_usage": {
+  "in": 4469,
+  "out": 827,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

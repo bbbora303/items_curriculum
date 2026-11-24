@@ -1,0 +1,200 @@
+{
+ "printedPage": "150",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "코너 제목",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "직선",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "한 점 A를 지나는 직선은 무수히 많지만, 서로 다른 두 점 A, B를 지나는 직선은 오직 하나뿐이다.\n이 직선 AB를 기호로\n$\\overleftrightarrow{\\mathrm{AB}}$\n와 같이 나타낸다.\n이것을 간단히 직선 $l$로 나타내기도 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명 1",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "$\\overleftrightarrow{\\mathrm{AB}}$와 $\\overleftrightarrow{\\mathrm{BA}}$는 서로 같은 직선이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "보통 점은 알파벳 대문자 A, B, C, …로, 직선은 알파벳 소문자 $l$, $m$, $n$, …으로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "반직선",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "직선 AB 위의 점 A에서 점 B 방향으로 끝없이 뻗은 부분인 반직선 AB를 기호로\n$\\overrightarrow{\\mathrm{AB}}$\n와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명 2",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "$\\overrightarrow{\\mathrm{AB}}$와 $\\overrightarrow{\\mathrm{BA}}$는 서로 다른 반직선이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "선분",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "또 직선 AB 위의 점 A에서 점 B까지의 부분인 선분 AB를 기호로\n$\\overline{\\mathrm{AB}}$\n와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명 3",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "$\\overline{\\mathrm{AB}}$와 $\\overline{\\mathrm{BA}}$는 서로 같은 선분이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "선분의 길이",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "한편 $\\overline{\\mathrm{AB}}$는 선분 AB의 길이를 나타내기도 한다. 예를 들어 선분 AB의 길이가 3 cm일 때, $\\overline{\\mathrm{AB}}$=3 cm와 같이 나타낸다. 또 선분 AB와 선분 CD의 길이가 서로 같을 때, $\\overline{\\mathrm{AB}}$=$\\overline{\\mathrm{CD}}$와 같이 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "두 점 사이의 거리",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "서로 다른 두 점 A, B를 잇는 선은 무수히 많지만, 그중에서 길이가 가장 짧은 선은 선분 AB이다. 이 선분 AB의 길이를 두 점 A, B 사이의 거리라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "중점",
+   "corner": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+   "icons": [],
+   "level": "",
+   "text": "선분 AB 위에 있는 점으로 양 끝점에서 같은 거리에 있는 점 M을 선분 AB의 중점이라고 한다.\n이때 $\\overline{\\mathrm{AM}}$=$\\overline{\\mathrm{BM}}$=$\\frac{1}{2}\\overline{\\mathrm{AB}}$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "한 점 A를 지나는 직선과 두 점 A, B를 지나는 직선",
+   "labels": "점 A, 점 B",
+   "desc": "점 A를 지나는 여러 개의 직선(검은색)이 퍼져 있고, 점 A와 점 B를 지나는 직선 하나는 분홍색(붉은색)으로 그려져 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "직선 AB",
+   "labels": "직선 위의 점 A, B, 직선 이름 $l$(왼쪽 끝), 말풍선 '직선 AB'",
+   "desc": "양쪽으로 끝없이 뻗은 직선 위에 점 A, B가 있고 왼쪽에 $l$이 표기되어 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "반직선 AB",
+   "labels": "점 A, 점 B, 말풍선 '반직선 AB'",
+   "desc": "점 A의 왼쪽은 점선, A에서 B 방향(오른쪽)으로는 실선이며 B를 지나 계속 이어진다."
+  },
+  {
+   "kind": "도형",
+   "caption": "선분 AB",
+   "labels": "점 A, 점 B, 말풍선 '선분 AB'",
+   "desc": "A와 B 사이는 실선이고 A의 왼쪽과 B의 오른쪽은 점선으로 표시되어 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "두 점 A, B를 잇는 여러 선",
+   "labels": "점 A, 점 B",
+   "desc": "A와 B를 잇는 여러 곡선·꺾인 선·구불구불한 선이 있고, 그중 A와 B를 곧게 잇는 선분 AB가 분홍색(붉은색)으로 그려져 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "선분 AB의 중점 M",
+   "labels": "점 A, 점 M, 점 B",
+   "desc": "선분 AB 위에 점 M이 있고, AM과 MB 위쪽에 점선 호가 있으며 각 호에 같은 길이를 뜻하는 같은 표시(||)가 있다."
+  }
+ ],
+ "incomplete": "",
+ "_page": 150,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4088,
+  "out": 3424,
+  "sec": 21.4,
+  "stop": "end_turn"
+ }
+}

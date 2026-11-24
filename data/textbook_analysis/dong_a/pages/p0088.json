@@ -1,0 +1,175 @@
+{
+ "printedPage": "88",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.5 일차방정식과 그 해",
+  "area": "단원 도입 및 생각1 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "등식",
+   "role": "정의",
+   "definition": "등호 '='를 사용하여 나타낸 식",
+   "notation": "="
+  },
+  {
+   "term": "좌변",
+   "role": "정의",
+   "definition": "등식에서 등호의 왼쪽 부분",
+   "notation": ""
+  },
+  {
+   "term": "우변",
+   "role": "정의",
+   "definition": "등식에서 등호의 오른쪽 부분",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "정의",
+   "definition": "좌변과 우변을 통틀어 이르는 말",
+   "notation": ""
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해(근)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "=",
+   "meaning": "등호, 두 식이 같음을 나타내는 기호",
+   "role": "정의"
+  },
+  {
+   "symbol": "x",
+   "meaning": "물 한 컵의 무게를 나타내는 문자(미지수)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "500+2x=750",
+   "plain": "밀가루 500 g과 물 2컵의 무게의 합이 750 g인 상황을 등호를 써서 나타낸 등식",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (1)",
+   "summary": "3+4=7, -2=5x+4는 등호가 있으므로 등식이다",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "2x÷3, 2×4<10은 등호가 없어서 등식이 아니다",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "주어진 식 (1)~(4) 중에서 등식을 모두 찾는다 (3+8=11, 2x-1, 4×6<25, 12x÷3=8)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(1) 어떤 수 x의 2배는 x에 6을 더한 것과 같다, (2) 한 변이 x cm인 정삼각형의 둘레가 12 cm임을 등식으로 나타낸다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "수제비 반죽을 만드는 가족 삽화와 저울, 대화 말풍선(밀가루 500 g, 물 2컵, 합 750 g)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "등식 500+2x=750에서 좌변, 우변, 양변을 화살표로 표시한 그림",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "생각해요 QR코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "수제비 반죽 만들기",
+  "밀가루와 물의 무게",
+  "정삼각형의 둘레"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "방정식과 그 해의 뜻을 안다.",
+   "등식의 성질을 설명할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "3.5 소단원 도입 쪽으로, 학습 요소(등식, 방정식, 미지수, 해, 근, 항등식, 이항, 일차방정식) 중 이 쪽에서 정의되는 것은 등식과 좌변·우변·양변뿐이며 나머지는 이후 쪽에서 다룰 용어로 보임. 학습 목표와 학습 요소는 gradeLinks의 current에 목표만 옮김.",
+ "_page": 88,
+ "_profile": "full",
+ "_usage": {
+  "in": 4646,
+  "out": 1432,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

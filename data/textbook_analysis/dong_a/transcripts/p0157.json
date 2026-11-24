@@ -1,0 +1,128 @@
+{
+ "printedPage": "157",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "동위각·맞꼭지각을 이용한 엇각의 성질 설명",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "오른쪽 그림에서 $l /\\!/ m$이면 $\\angle a$와 $\\angle b$는 동위각이므로 $\\angle a=\\angle b$이다.\n또, $\\angle b$와 $\\angle c$는 맞꼭지각이므로 $\\angle b=\\angle c$이다.\n즉, $l /\\!/ m$이면 $\\angle a=\\angle c$이다.\n\n한편, 한 직선 $n$에서 엇각인 $\\angle a$와 $\\angle c$의 크기가 같도록 두 직선 $l$, $m$을 그으면 두 직선 $l$, $m$은 서로 평행하다.\n즉, $\\angle a=\\angle c$이면 $l /\\!/ m$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "평행선과 엇각",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "평행선과 엇각\n서로 다른 두 직선이 한 직선과 만날 때\n1 두 직선이 서로 평행하면 엇각의 크기는 같다.\n2 엇각의 크기가 같으면 두 직선은 서로 평행하다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 그림에서 $l /\\!/ m$일 때, $\\angle a$, $\\angle b$의 크기를 각각 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "그림: $l /\\!/ m$, 한 직선이 두 직선과 만남. 130°, $\\angle a$, $\\angle b$ 표시"
+    },
+    {
+     "label": "(2)",
+     "text": "그림: $l /\\!/ m$, 두 직선이 $l$ 위 한 점에서 만나며 $l$, $m$과 만남. 65°, 55°, $\\angle a$, $\\angle b$ 표시"
+    }
+   ],
+   "conditions": [],
+   "given": "$l /\\!/ m$, (1) 130°, (2) 65°, 55°",
+   "steps": [],
+   "answerFormat": "∠a, ∠b의 크기를 각각 구하여 쓴다"
+  },
+  {
+   "kind": "활동",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [
+    "추론",
+    "연결"
+   ],
+   "level": "활동",
+   "text": "오른쪽 그림에서 가로의 선들이 서로 평행한지, 평행하지 않은지 판단하는 방법을 동위각과 엇각을 이용하여 설명하시오.\n(말풍선) 다른 한 선을 그어 동위각이나 엇각의 크기를 확인해 볼까요?",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "서술"
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "평행선과 동위각\n$l /\\!/ m$일 때,\n$\\angle a=\\angle\\,\\boxed{b}$\n\n평행선과 엇각\n$l /\\!/ m$일 때,\n$\\angle c=\\angle\\,\\boxed{d}$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "네모 칸에 들어갈 각 이름(b, d는 연하게 인쇄되어 있음)"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "본문 설명 그림",
+   "labels": "직선 $l$, $m$(가로, 평행), 직선 $n$(비스듬히 두 직선과 만남), $\\angle a$, $\\angle b$, $\\angle c$ 표시",
+   "desc": "$n$이 $l$과 만나는 점에서 $\\angle a$(분홍색 표시), $m$과 만나는 점에서 $\\angle c$와 $\\angle b$(분홍색 표시)"
+  },
+  {
+   "kind": "도형",
+   "caption": "문제 3 (1)",
+   "labels": "$l$, $m$, 130°, $a$, $b$",
+   "desc": "평행한 $l$, $m$을 한 직선이 가로지름. $m$과 만나는 점에서 130°가 표시되고, $l$과 만나는 점에서 $b$는 $l$ 위쪽, $a$는 $l$ 아래쪽에 표시됨"
+  },
+  {
+   "kind": "도형",
+   "caption": "문제 3 (2)",
+   "labels": "$l$, $m$, 65°, 55°, $a$, $b$",
+   "desc": "평행한 $l$, $m$ 사이에서 두 직선이 $l$ 위 한 점에서 교차하여 $m$까지 뻗음. 65°와 55°는 교차점 부근에 표시되고, $a$, $b$는 $m$과 만나는 두 점 부근에 표시됨"
+  },
+  {
+   "kind": "기타",
+   "caption": "생각 넓히기 그림",
+   "labels": "",
+   "desc": "검은색과 흰색 직사각형이 어긋나게 배열된 가로줄 무늬. 줄 사이에 분홍색 가로선이 있음"
+  },
+  {
+   "kind": "도형",
+   "caption": "수학 집 짓기 그림",
+   "labels": "$l$, $m$, $a$, $b$, $c$, $d$",
+   "desc": "평행한 가로선 $l$, $m$과 평행한 비스듬한 두 직선. $a$, $c$는 $l$ 근처, $b$, $d$는 $m$ 근처에 분홍색·하늘색 각 표시. 두 직선 사이에 곰과 토끼 캐릭터가 있음"
+  }
+ ],
+ "incomplete": "문제 3 (2)와 본문 그림에서 각 기호가 가리키는 정확한 위치(어느 쪽 각인지)는 그림이 작아 확정하지 못함.",
+ "_page": 157,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3917,
+  "out": 3269,
+  "sec": 25.6,
+  "stop": "end_turn"
+ }
+}

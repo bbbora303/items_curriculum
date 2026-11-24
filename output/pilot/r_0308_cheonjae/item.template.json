@@ -1,0 +1,483 @@
+{
+  "schemaVersion": "math-0.1",
+  "id": "r_0308_cheonjae",
+  "level": "중학교",
+  "grade": 1,
+  "domain": "도형과 측정",
+  "standardCodes": [
+    "9수03-08"
+  ],
+  "assessmentContext": "수행평가",
+  "responseType": "서술형",
+  "taskPattern": "reading_modeling",
+  "competencies": [
+    "추론",
+    "문제해결",
+    "의사소통"
+  ],
+  "maxScore": 10,
+  "unitPolicy": "평가하지 않음",
+  "intent": "1-1은 구의 겉넓이와 부피 공식을 정확히 적용하는 기본 계산 능력을 확인한다(D·E·C 수준 겨냥). 1-2는 밑면과 높이가 같은 원기둥과 비교해 원뿔의 부피를 구하는 과정을 논리적으로 설명하는 능력을 본다(C·B 수준 겨냥). 1-3은 기둥과 뿔이 결합된 조형물의 겉넓이와 부피를 구하는 친구의 방법이 타당한지 판단하고, 겹치는 면을 고려해 근거를 서술하는 추론과 의사소통 능력을 평가한다(A·B 수준 겨냥).",
+  "stimulus": {
+    "text": "서윤이네 미술 동아리는 학교 축제에 전시할 입체도형 모양의 조형물을 만들고 있다. 구 모양 장식의 반지름은 {{s}} cm이고, 원뿔 모양 장식은 밑면의 반지름이 {{rc}} cm, 높이가 {{hc}} cm이다. 동아리는 원뿔 모양 장식과 밑면의 반지름, 높이가 각각 같은 원기둥 모양의 통도 하나 준비하였다. 또 한 변의 길이가 {{a}} cm인 정사각형을 밑면으로 하고 높이가 {{h}} cm인 사각기둥 모양의 상자 위에, 밑면이 상자의 윗면과 꼭 맞게 겹치는 사각뿔 모양의 지붕을 얹은 조형물도 만들었다. 이 지붕의 옆면은 모두 합동인 이등변삼각형이고, 옆면 삼각형의 밑변에 대한 높이는 {{l}} cm이다.",
+    "figures": [],
+    "tables": []
+  },
+  "subQuestions": [
+    {
+      "no": "1-1",
+      "prompt": "구 모양 장식의 겉넓이와 부피를 각각 구하시오.",
+      "answerType": "값",
+      "conditions": [],
+      "maxScore": 2,
+      "targetLevels": [
+        "D",
+        "E",
+        "C"
+      ],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "구의 겉넓이와 부피를 구하는 과정을 이용하여 값 구하기",
+          "standardCodes": [
+            "9수03-08"
+          ],
+          "scoringElements": [
+            {
+              "text": "구의 겉넓이와 부피를 정확하게 구하기",
+              "maxScore": 2,
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "구의 겉넓이와 부피를 모두 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "구의 겉넓이와 부피 중 한 가지만 정확하게 구하거나, 두 값 모두 식은 바르게 세웠으나 계산에 오류가 있음."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-2",
+      "prompt": "원뿔 모양 장식의 부피를 구하는 과정을, 밑면의 반지름과 높이가 같은 원기둥 모양의 통과 비교하여 〈조건〉에 맞게 설명하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {
+          "id": "C1",
+          "text": "원뿔의 밑넓이와 높이를 이용한 식을 쓸 것"
+        },
+        {
+          "id": "C2",
+          "text": "원뿔과 원기둥의 밑면과 높이를 비교하는 문장을 쓸 것"
+        }
+      ],
+      "maxScore": 4,
+      "targetLevels": [
+        "C",
+        "B"
+      ],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "뿔의 부피를 구하는 과정 설명하기",
+          "standardCodes": [
+            "9수03-08"
+          ],
+          "scoringElements": [
+            {
+              "text": "원뿔과 원기둥의 부피 사이의 관계를 밑면과 높이를 비교하여 설명하기",
+              "maxScore": 2,
+              "conditionRefs": [
+                "C2"
+              ],
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "원뿔과 원기둥의 밑면과 높이를 비교하여 두 부피 사이의 관계를 정확하게 설명함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "두 부피 사이의 관계는 썼으나 밑면과 높이를 비교한 문장이 없거나 관계에 오류가 있음."
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "밑넓이와 높이를 이용한 식으로 원뿔의 부피 구하기",
+              "maxScore": 2,
+              "conditionRefs": [
+                "C1"
+              ],
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "밑넓이와 높이를 이용한 식을 바르게 세워 원뿔의 부피를 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "식은 세웠으나 계산에 오류가 있거나, 식 없이 값만 구함."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-3",
+      "prompt": "지민이는 조형물의 겉넓이를 다음과 같이 구하였다.\n[지민이의 방법] 상자(사각기둥)의 겉넓이는 (밑넓이)×2+(옆넓이)로, 지붕(사각뿔)의 겉넓이는 (밑넓이)+(옆넓이)로 구하여 두 값을 더하였다. 상자의 겉넓이는 {{boxSurface}} cm$^2$, 지붕의 겉넓이는 {{roofSurface}} cm$^2$이므로 조형물의 겉넓이는 {{boxSurface+roofSurface}} cm$^2$이다.\n지민이의 방법이 옳은지 판단하고, 그 이유를 〈조건〉에 맞게 설명하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {
+          "id": "C1",
+          "text": "조형물의 겉넓이를 구하는 식을 쓸 것"
+        },
+        {
+          "id": "C2",
+          "text": "이유에서 상자의 면과 지붕의 면을 구분하여 언급할 것"
+        }
+      ],
+      "maxScore": 4,
+      "targetLevels": [
+        "A",
+        "B"
+      ],
+      "dependsOn": [
+        "1-2"
+      ],
+      "evaluationElements": [
+        {
+          "text": "여러 입체도형이 결합된 도형의 겉넓이를 구하는 방법 판단하기",
+          "standardCodes": [
+            "9수03-08"
+          ],
+          "scoringElements": [
+            {
+              "text": "친구의 방법이 옳은지 판단하고 이유 설명하기",
+              "maxScore": 2,
+              "conditionRefs": [
+                "C2"
+              ],
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "옳지 않다고 판단하고, 상자의 면과 지붕의 면을 구분하여 겉면에 드러나지 않는 면이 겉넓이에 포함되었음을 정확하게 설명함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "옳지 않다고 판단했으나 상자의 면과 지붕의 면을 구분하지 못하였거나 이유 설명이 불충분함."
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "겉면에 드러나는 면만 고려하여 조형물의 겉넓이 구하기",
+              "maxScore": 2,
+              "conditionRefs": [
+                "C1"
+              ],
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "겉면에 드러나는 면만 고려하여 조형물의 겉넓이를 구하는 식을 바르게 세워 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "겉넓이를 구하는 식을 썼으나 겹치는 면의 처리에 일부 오류가 있거나 계산에 오류가 있음."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "solutionMethods": [
+    {
+      "id": "M1",
+      "name": "원기둥 부피의 1/3 관계 이용",
+      "summary": "밑면과 높이가 같은 원기둥의 부피를 먼저 구한 뒤, 뿔의 부피가 기둥 부피의 $\\frac{1}{3}$임을 이용하여 원뿔의 부피를 구한다.",
+      "tier": "기본",
+      "textbookItems": [
+        6,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "M2",
+      "name": "원뿔 부피 공식에 직접 대입",
+      "summary": "뿔의 부피가 기둥 부피의 $\\frac{1}{3}$이므로 (뿔의 부피)=$\\frac{1}{3}\\times$(밑넓이)$\\times$(높이)임을 밝히고, 밑넓이와 높이를 직접 대입한다.",
+      "tier": "기본",
+      "textbookItems": [
+        13
+      ]
+    },
+    {
+      "id": "M3",
+      "name": "입체도형을 기둥과 뿔로 나누어 겉넓이를 구한 뒤 겹치는 면 제외",
+      "summary": "상자의 겉넓이와 지붕의 겉넓이를 각각 구하여 더한 뒤, 맞닿아 겉면에 드러나지 않는 두 면(상자의 윗면, 지붕의 밑면)의 넓이를 뺀다.",
+      "tier": "기본",
+      "textbookItems": [
+        2,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "M4",
+      "name": "조형물에서 겉면에 드러나는 면만 모아 합산",
+      "summary": "상자의 아랫면, 상자의 옆면 4개, 지붕의 옆면 4개만 모아 넓이를 더한다.",
+      "tier": "기본",
+      "textbookItems": [
+        1,
+        2,
+        7,
+        11
+      ]
+    },
+    {
+      "id": "M5",
+      "name": "구의 겉넓이와 부피 공식에 대입",
+      "summary": "반지름이 $r$인 구의 겉넓이 $4\\pi r^2$과 부피 $\\frac{4}{3}\\pi r^3$에 반지름을 대입한다.",
+      "tier": "기본",
+      "textbookItems": [
+        15
+      ]
+    }
+  ],
+  "modelAnswers": [
+    {
+      "subNo": "1-1",
+      "methods": [
+        {
+          "methodId": "M5",
+          "text": "구의 반지름은 {{s}} cm이다.\n(겉넓이)=$4\\pi\\times {{s}}^2={{sphereSurface|latex}}$ (cm$^2$)\n(부피)=$\\frac{4}{3}\\pi\\times {{s}}^3={{sphereVolume|latex}}$ (cm$^3$)\n따라서 겉넓이는 ${{sphereSurface|latex}}$ cm$^2$, 부피는 ${{sphereVolume|latex}}$ cm$^3$이다.",
+          "checks": [
+            {
+              "label": "구의 겉넓이",
+              "expr": "4*pi*s**2",
+              "expected": "sphereSurface"
+            },
+            {
+              "label": "구의 부피",
+              "expr": "4*pi*s**3/3",
+              "expected": "sphereVolume"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subNo": "1-2",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "원뿔과 원기둥은 밑면의 반지름이 {{rc}} cm, 높이가 {{hc}} cm로 서로 같다.\n(원기둥의 부피)=(밑넓이)$\\times$(높이)=$\\pi\\times {{rc}}^2\\times {{hc}}={{cylVol|latex}}$ (cm$^3$)\n뿔의 부피는 밑면이 합동이고 높이가 같은 기둥의 부피의 $\\frac{1}{3}$이므로 (원뿔의 부피)=$\\frac{1}{3}\\times {{cylVol|latex}}={{coneVol|latex}}$ (cm$^3$)\n원기둥의 부피는 원뿔의 부피의 {{volRatio}}배이다.\n따라서 원뿔 모양 장식의 부피는 ${{coneVol|latex}}$ cm$^3$이다.",
+          "checks": [
+            {
+              "label": "원기둥의 부피",
+              "expr": "pi*rc**2*hc",
+              "expected": "cylVol"
+            },
+            {
+              "label": "원뿔의 부피",
+              "expr": "cylVol/3",
+              "expected": "coneVol"
+            },
+            {
+              "label": "원기둥과 원뿔의 부피 비",
+              "expr": "cylVol/coneVol",
+              "expected": "volRatio"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "원뿔과 원기둥은 밑면과 높이가 각각 같고, 뿔의 부피는 같은 밑면과 높이를 가진 기둥의 부피의 $\\frac{1}{3}$이다. 따라서 (원뿔의 부피)=$\\frac{1}{3}\\times$(밑넓이)$\\times$(높이)이다.\n밑넓이는 $\\pi\\times {{rc}}^2={{cylBase|latex}}$ (cm$^2$)이고 높이는 {{hc}} cm이므로\n(원뿔의 부피)=$\\frac{1}{3}\\times {{cylBase|latex}}\\times {{hc}}={{coneVol|latex}}$ (cm$^3$)\n따라서 원뿔 모양 장식의 부피는 ${{coneVol|latex}}$ cm$^3$이다.",
+          "checks": [
+            {
+              "label": "원뿔의 밑넓이",
+              "expr": "pi*rc**2",
+              "expected": "cylBase"
+            },
+            {
+              "label": "원뿔의 부피",
+              "expr": "cylBase*hc/3",
+              "expected": "coneVol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subNo": "1-3",
+      "methods": [
+        {
+          "methodId": "M3",
+          "text": "지민이의 방법은 옳지 않다.\n상자의 겉넓이는 $2\\times {{a}}^2+4\\times {{a}}\\times {{h}}={{boxBase2}}+{{boxSide}}={{boxSurface}}$ (cm$^2$)이고, 지붕의 겉넓이는 $\\{{a}}$ 대신 다음과 같다. (밑넓이)+(옆넓이)=${{a}}^2+4\\times\\frac{1}{2}\\times {{a}}\\times {{l}}={{roofBase}}+{{roofLateral}}={{roofSurface}}$ (cm$^2$)이다.\n그런데 상자의 겉넓이에는 윗면이, 지붕의 겉넓이에는 밑면이 포함되어 있다. 이 두 면은 서로 꼭 맞게 맞닿아 있어 조형물의 겉면에 드러나지 않으므로, 두 면의 넓이를 모두 빼야 한다. 두 면은 각각 넓이가 {{roofBase}} cm$^2$이다.\n(조형물의 겉넓이)=${{boxSurface}}+{{roofSurface}}-2\\times {{roofBase}}={{boxSurface+roofSurface}}-{{2*roofBase}}={{roofBase+boxSide+roofLateral}}$ (cm$^2$)\n따라서 겉넓이는 ${{roofBase+boxSide+roofLateral}}$ cm$^2$이므로 지민이가 구한 {{boxSurface+roofSurface}} cm$^2$는 맞지 않다.",
+          "checks": [
+            {
+              "label": "상자의 겉넓이",
+              "expr": "2*a**2+4*a*h",
+              "expected": "boxSurface"
+            },
+            {
+              "label": "지붕의 옆넓이",
+              "expr": "4*(a*l/2)",
+              "expected": "roofLateral"
+            },
+            {
+              "label": "지붕의 겉넓이",
+              "expr": "a**2+roofLateral",
+              "expected": "roofSurface"
+            },
+            {
+              "label": "지민이가 구한 값",
+              "expr": "boxSurface+roofSurface",
+              "expected": "boxBase2+boxSide+roofBase+roofLateral"
+            },
+            {
+              "label": "빼야 할 두 면의 넓이",
+              "expr": "2*roofBase",
+              "expected": "boxBase2"
+            },
+            {
+              "label": "조형물의 겉넓이",
+              "expr": "boxSurface+roofSurface-2*roofBase",
+              "expected": "roofBase+boxSide+roofLateral"
+            }
+          ]
+        },
+        {
+          "methodId": "M4",
+          "text": "지민이의 방법은 옳지 않다.\n상자의 윗면과 지붕의 밑면은 서로 꼭 맞게 맞닿아 있어 겉면에 드러나지 않는다. 그런데 지민이는 상자의 겉넓이에 윗면을, 지붕의 겉넓이에 밑면을 각각 포함하여 겉면에 드러나지 않는 두 면을 더하였다.\n겉면에 드러나는 면은 다음과 같다.\n· 상자의 아랫면 1개: ${{a}}^2={{roofBase}}$ (cm$^2$)\n· 상자의 옆면 4개: $4\\times {{a}}\\times {{h}}={{boxSide}}$ (cm$^2$)\n· 지붕의 옆면 4개: $4\\times\\frac{1}{2}\\times {{a}}\\times {{l}}={{roofLateral}}$ (cm$^2$)\n(조형물의 겉넓이)=${{roofBase}}+{{boxSide}}+{{roofLateral}}={{roofBase+boxSide+roofLateral}}$ (cm$^2$)\n따라서 겉넓이는 ${{roofBase+boxSide+roofLateral}}$ cm$^2$이므로 지민이가 구한 {{boxSurface+roofSurface}} cm$^2$와 다르다.",
+          "checks": [
+            {
+              "label": "상자의 아랫면",
+              "expr": "a**2",
+              "expected": "roofBase"
+            },
+            {
+              "label": "상자의 옆면",
+              "expr": "4*a*h",
+              "expected": "boxSide"
+            },
+            {
+              "label": "지붕의 옆면",
+              "expr": "4*(a*l/2)",
+              "expected": "roofLateral"
+            },
+            {
+              "label": "조형물의 겉넓이",
+              "expr": "a**2+4*a*h+4*(a*l/2)",
+              "expected": "roofBase+boxSide+roofLateral"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scoringNotes": [
+    "수와 식으로 표현한 문제해결 과정이 수학적으로 논리적이면 예시답안과 달라도 정답으로 인정한다.",
+    "성취기준이 값을 구하는 것이므로 단위 표기는 평가하지 않는다.",
+    "1-3에서 겉넓이 계산에 오류가 있더라도 겉면에 드러나지 않는 면을 중복해 더했다는 판단과 이유가 타당하면 '판단하고 이유 설명하기' 요소는 해당 수준을 부여한다.",
+    "표현 방식이 달라도 이유가 충분히 설명되었으면 정답으로 인정한다."
+  ],
+  "teacherChecks": [
+    {
+      "id": "T1",
+      "text": "π를 3.14 등 근삿값으로 계산한 답을 인정할지 사전에 협의한다.",
+      "subNos": [
+        "1-1",
+        "1-2"
+      ]
+    },
+    {
+      "id": "T2",
+      "text": "1-3에서 겹치는 면을 한 번만 뺀 경우와 계산 실수로 값이 틀린 경우를 구분하여, 개념 이해 오류와 계산 실수의 배점 기준을 협의한다.",
+      "subNos": [
+        "1-3"
+      ]
+    }
+  ],
+  "feedbackNotes": [
+    "원뿔의 부피를 원기둥 부피와 같다고 보거나 절반으로 보는 학생에게는, 밑면과 높이가 같은 원뿔 모양 그릇에 모래를 담아 원기둥 모양 그릇에 부으면 3번 부어야 가득 참을 확인하게 하여 부피의 비가 1:3임을 이해하게 한다.",
+    "구의 겉넓이 $4\\pi r^2$과 부피 $\\frac{4}{3}\\pi r^3$을 혼동하거나 반지름을 제곱·세제곱하는 곳을 바꾸는 학생에게는, 겉넓이는 넓이이므로 길이를 두 번 곱하고 부피는 길이를 세 번 곱한다는 점으로 두 식을 구별하게 한다.",
+    "두 입체도형의 겉넓이를 단순히 더하는 학생에게는, 조형물의 전개 모습이나 겉면에 색칠하기로 실제 겉면에 드러나는 면이 어느 것인지 찾게 하여 맞닿은 면이 겉넓이에서 제외됨을 확인하게 한다."
+  ],
+  "review": {
+    "status": "unreviewed",
+    "reviewedBy": null
+  },
+  "generationMeta": {
+    "model": "claude-sonnet-5-5",
+    "difficulty": "medium",
+    "seed": 1,
+    "guides": "A1B1",
+    "textbook": "cheonjae_kim_dongjae",
+    "theme": "입체도형 모양의 조형물",
+    "textbookBasis": [
+      "기둥의 전개도는 합동인 밑면 2개와 직사각형 옆면으로 되어 있다.",
+      "기둥의 겉넓이는 밑넓이의 두 배에 옆넓이를 더해서 구한다.",
+      "모든 기둥의 부피는 밑넓이와 높이의 곱이다.",
+      "뿔의 겉넓이는 밑넓이와 옆넓이를 더해서 구한다.",
+      "뿔의 겉넓이는 밑넓이와 옆넓이를 더한 것이다.",
+      "사각뿔의 옆면은 합동인 삼각형 4개이므로 삼각형 넓이에 4를 곱한다.",
+      "뿔의 부피는 밑면이 합동이고 높이가 같은 기둥 부피의 3분의 1이다.",
+      "뿔과 기둥의 부피의 비는 1:3이다.",
+      "구를 각뿔 모양으로 잘게 나누면 밑넓이의 합은 구의 겉넓이, 높이는 반지름이므로 각뿔의 부피 공식을 적용한다."
+    ],
+    "textbookBasisOffered": true,
+    "textbookBasisList": [
+      "기둥의 전개도는 합동인 밑면 2개와 직사각형 옆면으로 되어 있다.",
+      "기둥의 겉넓이는 밑넓이의 두 배에 옆넓이를 더해서 구한다.",
+      "삼각기둥의 부피는 직육면체 부피의 절반이고, 밑넓이×높이와 같다.",
+      "각기둥은 삼각기둥 여러 개로 나누어 합하면 밑넓이×높이이다.",
+      "정다각형 밑면 각기둥의 변 수를 한없이 늘리면 원기둥에 가까워지므로 같은 공식이 성립한다.",
+      "모든 기둥의 부피는 밑넓이와 높이의 곱이다.",
+      "뿔의 겉넓이는 밑넓이와 옆넓이를 더해서 구한다.",
+      "각뿔의 전개도는 밑면 한 개와 삼각형 모양의 옆면들로 이루어진다.",
+      "원뿔의 전개도는 원 모양의 밑면과 부채꼴 모양의 옆면으로 이루어진다.",
+      "뿔의 겉넓이는 밑넓이와 옆넓이를 더한 것이다.",
+      "사각뿔의 옆면은 합동인 삼각형 4개이므로 삼각형 넓이에 4를 곱한다.",
+      "원뿔의 옆면은 부채꼴이므로 (1/2)×반지름×호의 길이로 구한다.",
+      "뿔의 부피는 밑면이 합동이고 높이가 같은 기둥 부피의 3분의 1이다.",
+      "뿔과 기둥의 부피의 비는 1:3이다.",
+      "구를 각뿔 모양으로 잘게 나누면 밑넓이의 합은 구의 겉넓이, 높이는 반지름이므로 각뿔의 부피 공식을 적용한다.",
+      "다면체를 평면으로 자르면 그 단면은 다각형이 된다.",
+      "3차원 기하 창에서 평면을 움직여 축을 맞추고, 빨간색 축을 회전축으로 평면도형을 그린 뒤 회전면 도구로 한 바퀴 돌려 회전체를 그린다.",
+      "통계는 자료의 특징을 파악하고 두 집단을 비교하며 자료의 관계를 탐구하는 데 활용된다.",
+      "자료를 이용해 통계적 문제해결 과정을 실천하고 생활 속 가능성을 탐구하는 것은 미래를 예측하고 합리적으로 의사 결정을 하는 기반이 된다."
+    ],
+    "textbookGoals": [
+      "입체도형의 겉넓이와 부피를 구할 수 있다",
+      "기둥의 겉넓이와 부피를 구할 수 있다",
+      "뿔의 겉넓이와 부피를 구할 수 있다",
+      "구의 겉넓이와 부피를 구할 수 있다"
+    ]
+  }
+}

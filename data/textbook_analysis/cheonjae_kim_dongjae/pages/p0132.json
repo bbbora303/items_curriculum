@@ -1,0 +1,143 @@
+{
+ "printedPage": "132",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "쌓은 계단의 단 수 / 변수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y$",
+   "meaning": "도형의 둘레의 길이(cm) / 변수",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "이야기해 보자",
+   "summary": "태오와 리아의 글에서 정비례·반비례 용어가 바르게 쓰였는지 친구와 이야기한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-❶",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "계단을 $x$단 쌓았을 때 둘레의 길이 $y$cm를 표로 완성한다($x=1$일 때 $y=4$).",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❷",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "$x$와 $y$ 사이의 관계를 식으로 나타낸다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2-❸",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "둘레의 길이가 80 cm일 때 계단을 몇 단까지 쌓았는지 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "태오와 리아가 정비례·반비례에 대해 쓴 글 상자",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "1 cm 정사각형으로 1단, 2단, 3단, 4단 계단 모양을 쌓은 도형 (뒤는 …으로 계속)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x(단) 1~5에 대한 y(cm) 표, x=1일 때 y=4만 채워져 있고 나머지는 빈칸",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "나이와 형의 나이",
+  "산의 높이와 기온",
+  "정사각형으로 만든 계단 모양의 둘레"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결",
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "'수학 역량 쑥쑥 더하기' 코너로 단원 마무리 부근의 역량 활동 쪽이다. 소단원 번호는 보이지 않는다. 활동 1의 글에서 정비례·반비례 설명은 일부러 틀리게 쓰였을 가능성이 있다(x가 커질 때 y도 커진다는 것만으로는 정비례라 할 수 없음). 새 정의는 없고 앞에서 배운 정비례·반비례를 사용한다. 활동 2 계단의 둘레는 x단일 때 4x cm로 보이나, 이 쪽에는 풀이가 없다.",
+ "_page": 132,
+ "_usage": {
+  "in": 4453,
+  "out": 1245,
+  "sec": 7.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

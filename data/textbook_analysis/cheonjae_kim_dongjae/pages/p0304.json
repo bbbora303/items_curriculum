@@ -1,0 +1,200 @@
+{
+ "printedPage": "304",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "02 기둥의 겉넓이와 부피 / 03 뿔의 겉넓이와 부피",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정다면체의 전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "기둥의 겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "기둥의 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "뿔의 겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^2$",
+   "meaning": "넓이 단위",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^3$",
+   "meaning": "부피 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "기둥의 겉넓이 = 2×(밑면의 넓이) + (옆면 전체의 넓이)",
+   "plain": "기둥의 겉넓이는 두 밑면의 넓이와 옆넓이를 더해 구한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "뿔의 겉넓이 = (밑면의 넓이) + (옆면 전체의 넓이)",
+   "plain": "뿔의 겉넓이는 밑면의 넓이와 옆넓이의 합이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "삼각기둥의 부피 = \\frac{1}{2} × 사각기둥의 부피",
+   "plain": "사각기둥을 반으로 나눈 삼각기둥의 부피는 사각기둥의 절반이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1~2 (회전체)",
+   "level": "기본",
+   "verb": "",
+   "summary": "회전체와 회전축에 수직인 평면으로 자른 단면 관련 답(원뿔대, 원, 사다리꼴 등)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "기타"
+  },
+  {
+   "label": "1~2⁺ (기둥의 겉넓이)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "기둥의 겉넓이 답: 150, 272, 200, 144π, 96π, 78π cm²",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1~2⁺ (기둥의 부피)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "기둥의 부피 답: 36, 108, 20 cm, 112π, 72π, 80π cm³",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1~2⁺ (뿔의 겉넓이)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "뿔의 겉넓이 답: 132, 56π cm², 8, 45π, 90π cm²",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "정사면체, 정팔면체, 정십이면체, 정이십면체의 전개도 화면 캡처",
+   "_raw": "도형",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥 모양의 회전체 그림과 원뿔대 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각기둥 전개도(직사각형 두 개와 마름모 모양의 밑면)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "사각기둥을 둘로 나눈 삼각기둥 그림 <그림 3>, <그림 4>",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "교과서 본문이 아니라 '정답과 해설' 쪽이다. 문제 발문은 없고 답만 있어 problems는 답 묶음 단위로 정리했다. 일부 답(그림 안의 도형 등)은 읽기 어렵다. 인쇄된 소단원은 02 기둥의 겉넓이와 부피, 03 뿔의 겉넓이와 부피이고, 회전체 해설은 앞 소단원 01에 속한다.",
+ "_page": 304,
+ "_usage": {
+  "in": 4938,
+  "out": 1710,
+  "sec": 10.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

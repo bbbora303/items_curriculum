@@ -1,0 +1,174 @@
+{
+ "printedPage": "148",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "01 점, 선, 면, 각",
+  "area": "생각 열기 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선",
+   "role": "정의",
+   "definition": "점이 연속하여 움직인 자리",
+   "notation": ""
+  },
+  {
+   "term": "면",
+   "role": "정의",
+   "definition": "선이 연속하여 움직인 자리",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곡선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곡면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평면도형",
+   "role": "정의",
+   "definition": "사각형, 원과 같이 한 평면 위에 있는 도형",
+   "notation": ""
+  },
+  {
+   "term": "입체도형",
+   "role": "정의",
+   "definition": "사각기둥, 원뿔과 같이 한 평면 위에 있지 않은 도형",
+   "notation": ""
+  },
+  {
+   "term": "도형을 구성하는 기본 요소",
+   "role": "정의",
+   "definition": "도형을 이루는 점, 선, 면",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "정의",
+   "definition": "선과 선 또는 선과 면이 만나서 생기는 점",
+   "notation": ""
+  },
+  {
+   "term": "교선",
+   "role": "정의",
+   "definition": "면과 면이 만나서 생기는 선",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "점 → 선 → 면",
+   "plain": "점이 연속하여 움직인 자리는 선이 되고, 선이 연속하여 움직인 자리는 면이 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "선 위에는 무수히 많은 점, 면 위에는 무수히 많은 선과 점",
+   "plain": "선 위에는 무수히 많은 점이, 면 위에는 무수히 많은 선과 점이 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "선: 직선·곡선, 면: 평면·곡면",
+   "plain": "선에는 직선과 곡선이 있고, 면에는 평면과 곡면이 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "점, 선, 면",
+   "plain": "평면도형과 입체도형은 모두 점, 선, 면으로 이루어져 있어 점, 선, 면이 도형의 기본 요소이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "이안이처럼 크레파스를 움직이면 어떤 도형이 그려지는지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "리아처럼 붓을 움직이면 어떤 도형이 그려지는지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "이안이와 리아가 시골 마을 벽에 크레파스와 붓으로 벽화를 그리는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점이 움직여 선이 되고 선이 움직여 면이 되는 과정을 나타낸 그림(직선·곡선·평면·곡면)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 직선의 교점, 직선과 평면의 교점, 두 평면의 교선, 원기둥과 평면의 교선을 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "시골 마을 벽화 그리기 봉사 활동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "점, 선, 면, 각을 이해한다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입 쪽(01 점, 선, 면, 각). 점·선·면은 초등에서 이미 접했으나 이 쪽에서 점→선→면 관계와 교점·교선이 정의됨. 직선·곡선·평면·곡면은 참고에서 가볍게 언급. 쪽 아래 'Ⅳ. 도형의 기초'는 교과서 표기이며 제시된 대단원 목록의 '기본 도형'으로 매핑함.",
+ "_page": 148,
+ "_usage": {
+  "in": 4465,
+  "out": 1540,
+  "sec": 8.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

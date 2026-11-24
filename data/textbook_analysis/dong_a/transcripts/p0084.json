@@ -1,0 +1,190 @@
+{
+ "printedPage": "84",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "해결해요 안내",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "3.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요! / 문제를 더 풀어 볼 수 있어요.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요",
+   "icons": [
+    "해당하는 곳에 색칠해요. (우수 / 보통 / 분발 표정 아이콘)"
+   ],
+   "level": "기본",
+   "text": "다항식 $-2x^2+7x+6$에서 $x^2$의 계수를 $a$, $x$의 계수를 $b$, 상수항을 $c$라고 할 때, $a+b+c$의 값을 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "다항식 $-2x^2+7x+6$",
+   "steps": [],
+   "answerFormat": "값 구하기"
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요",
+   "icons": [
+    "표정 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "다음 갈림길에서 일차식이면 ○→ (오른쪽 화살표), 일차식이 아니면 ⊗ (아래쪽 화살표) 방향으로 이동한다. 갈림길을 따라 이동하면 만나는 동물은 무엇인지 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "갈림길 그림(figures 참고)",
+   "steps": [],
+   "answerFormat": "동물 이름"
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요",
+   "icons": [
+    "표정 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "다음 식을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$4\\times 5a$"
+    },
+    {
+     "label": "(2)",
+     "text": "$8x\\times\\left(-\\frac{5}{4}\\right)$"
+    },
+    {
+     "label": "(3)",
+     "text": "$(-7a)\\div\\frac{7}{2}$"
+    },
+    {
+     "label": "(4)",
+     "text": "$\\left(-\\frac{1}{4}x\\right)\\div\\left(-\\frac{3}{2}\\right)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산 결과"
+  },
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "해결해요",
+   "icons": [
+    "표정 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "다음 식을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\frac{1}{3}(6x-15)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-2y+6)\\times(-3)$"
+    },
+    {
+     "label": "(3)",
+     "text": "$(15x+25)\\div 5$"
+    },
+    {
+     "label": "(4)",
+     "text": "$(6y-3)\\div\\left(-\\frac{2}{3}\\right)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산 결과"
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "해결해요",
+   "icons": [
+    "표정 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "오른쪽 그림과 같은 삼각형의 넓이를 $x$를 사용한 식으로 나타내시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "밑변 $4x-8$, 높이 5인 삼각형(figures 참고)",
+   "steps": [],
+   "answerFormat": "x를 사용한 식"
+  },
+  {
+   "kind": "문제",
+   "label": "6",
+   "corner": "해결해요",
+   "icons": [
+    "서술형",
+    "문제해결",
+    "표정 아이콘 3개"
+   ],
+   "level": "서술형",
+   "text": "다음 보기에서 일차식과 수를 하나씩 골라 주어진 조건에 맞는 식을 만들고, 그 식을 계산하시오. 보기: $12x$, $-4$, $-y^2+\\frac{1}{3}$, $\\frac{3}{2}$, $\\frac{1}{5}x^2+1$, $y-6$",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "(일차식)×(수)"
+    },
+    {
+     "label": "(2)",
+     "text": "(일차식)÷(수)"
+    }
+   ],
+   "conditions": [
+    "(1) (일차식)×(수)",
+    "(2) (일차식)÷(수)"
+   ],
+   "given": "보기: $12x$, $-4$, $-y^2+\\frac{1}{3}$, $\\frac{3}{2}$, $\\frac{1}{5}x^2+1$, $y-6$",
+   "steps": [],
+   "answerFormat": "(1), (2) 각각 빈 메모 칸에 식을 만들고 계산하여 서술"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "2번 갈림길 그림",
+   "labels": "3×3 칸. 첫째 줄: 출발 $-2x+4$ → $\\frac{a^2}{5}$ → $6b$ → 토끼. 둘째 줄: $x^3-1$ → $-\\frac{1}{2}b+7$ → $\\frac{y}{3}+\\frac{1}{5}$ → 펭귄. 셋째 줄: $\\frac{a+3}{2}$ → $3y^2$ → $-\\frac{x}{4}$ → 오리. 각 칸의 오른쪽에는 ○ 화살표(→), 아래쪽에는 ⊗ 화살표(↓). 셋째 줄 아래 ⊗ 화살표 끝: 왼쪽 열 개, 가운데 열 고양이, 오른쪽 열 다람쥐.",
+   "desc": "출발은 왼쪽 위 칸. 동물 그림: 토끼, 펭귄, 오리, 개, 고양이, 다람쥐."
+  },
+  {
+   "kind": "도형",
+   "caption": "5번 삼각형",
+   "labels": "밑변 길이 $4x-8$, 꼭짓점에서 밑변에 내린 높이 5, 직각 표시",
+   "desc": "밑변에 수선을 내린 삼각형(수선의 발에 직각 표시)."
+  },
+  {
+   "kind": "기타",
+   "caption": "QR 코드",
+   "labels": "",
+   "desc": "오른쪽 위 '문제를 더 풀어 볼 수 있어요.' QR 코드"
+  }
+ ],
+ "incomplete": "",
+ "_page": 84,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 4024,
+  "out": 3464,
+  "sec": 22.0,
+  "stop": "end_turn"
+ }
+}

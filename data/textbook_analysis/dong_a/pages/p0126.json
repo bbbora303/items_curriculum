@@ -1,0 +1,146 @@
+{
+ "printedPage": "126",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.4 반비례와 그 그래프 - 생각1 반비례 관계는 무엇인가요?",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "반비례",
+   "role": "정의",
+   "definition": "두 변수 x, y에서 x의 값이 2배, 3배, 4배, …로 변함에 따라 y의 값이 1/2배, 1/3배, 1/4배, …로 변할 때 x와 y는 반비례한다고 한다.",
+   "notation": "$y=\\frac{a}{x}\\ (a\\neq 0)$"
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": "$x, y$"
+  },
+  {
+   "term": "속력",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=\\frac{a}{x}\\ (a\\neq 0)$",
+   "meaning": "x와 y가 반비례할 때의 관계식",
+   "role": "정의"
+  },
+  {
+   "symbol": "$x, y$",
+   "meaning": "변하는 두 변수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a\\neq 0$",
+   "meaning": "반비례 관계식의 상수 a는 0이 아님",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "x가 2배, 3배, 4배, …가 될 때 y가 $\\frac{1}{2}$배, $\\frac{1}{3}$배, $\\frac{1}{4}$배, …가 되면 x와 y는 반비례",
+   "plain": "한 값이 커지는 배수만큼 다른 값은 그 역수 배로 변하면 반비례이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$y=\\frac{12}{x}$",
+   "plain": "12 km를 시속 x km로 걸을 때 걸린 시간 y는 12를 x로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$y=\\frac{a}{x}\\ (a\\neq 0)$",
+   "plain": "x와 y가 반비례하면 이 꼴의 식으로 나타내고, 이 꼴의 식이 성립하면 x와 y는 반비례한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각해요: 12 km 걷기",
+   "summary": "12 km의 거리를 시속 1, 2, 3 km로 걸을 때 걸린 시간을 각각 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "[표 1]",
+   "summary": "속력 x와 걸린 시간 y의 관계를 표로 나타내고 x가 2~5배일 때 y가 1/2~1/5배가 됨을 확인해 반비례와 식 y=12/x를 도입한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "12 km를 시속 1 km, 2 km, 3 km로 걸을 때 걸린 시간을 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "x(km/h)=1~5일 때 y(시간)=12, 6, 4, 3, 2.4를 나타낸 [표 1]과 x가 2~5배일 때 y가 1/2~1/5배가 됨을 보여 주는 화살표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "걷기 연습을 하는 학생, 스마트워치 화면(거리 12 km, 속력 시속 2 km, 걸린 시간 6시간), 말풍선",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "영상/활동 연결 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "걷기 대회",
+  "속력과 걸린 시간",
+  "스마트워치"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "반비례 관계를 이해하고, 그 관계를 표, 식, 그래프로 나타낼 수 있다.",
+   "반비례"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입(4.4 반비례와 그 그래프)과 생각1의 개념 설명이 한 쪽에 함께 있다. 배운 내용/배울 내용 표시는 보이지 않는다. 쪽 하단에는 '4. 좌표평면과 그래프'라고 인쇄되어 있다. 생각해요의 구체적인 문제 풀이 값은 쪽에 제시되지 않았다.",
+ "_page": 126,
+ "_profile": "full",
+ "_usage": {
+  "in": 4740,
+  "out": 1622,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

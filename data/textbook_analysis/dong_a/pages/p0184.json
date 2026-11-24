@@ -1,0 +1,142 @@
+{
+ "printedPage": "184",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "삼각형의 내각과 외각 사이의 관계",
+   "role": "정의",
+   "definition": "삼각형의 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같다.",
+   "notation": "$\\angle ACD=\\angle A+\\angle B$"
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle ACD$",
+   "meaning": "점 C에서의 삼각형 ABC의 외각",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\angle A+\\angle B+\\angle C=180^\\circ$",
+   "plain": "삼각형의 세 내각의 크기의 합은 180°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle ACD+\\angle C=180^\\circ$",
+   "plain": "한 꼭짓점에서 내각과 외각의 크기의 합은 180°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle ACD=\\angle A+\\angle B$",
+   "plain": "삼각형의 한 외각의 크기는 이웃하지 않는 두 내각의 크기의 합과 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형에서 내각 60°, 75°가 주어졌을 때 외각 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형에서 내각 110°, 외각 145°가 주어졌을 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "사각형 ABCD에서 ∠C의 외각의 크기가 ∠A+∠B+∠D와 같다는 예원이의 생각이 맞는지 판단하기",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "삼각형 ABC와 변 BC의 연장선 위의 점 D, 점 C에서의 외각 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2의 두 삼각형(각의 크기와 x 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "칠판에 그려진 사각형 ABCD와 예원이의 말풍선",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "수학 집 짓기: 삼각형을 오려 접어 ∠c의 외각이 ∠a+∠b임을 보이는 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "칠판과 학생(예원)의 대화"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 이 쪽에 보이지 않음. 하단에 '수학 집 짓기' 코너가 있으며 삼각형의 외각 성질을 오려 붙이는 활동으로 보이나 자세한 지시문은 없음.",
+ "_page": 184,
+ "_profile": "full",
+ "_usage": {
+  "in": 4327,
+  "out": 1263,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

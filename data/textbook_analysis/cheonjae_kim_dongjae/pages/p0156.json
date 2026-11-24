@@ -1,0 +1,182 @@
+{
+ "printedPage": "156",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "직교와 수선 (소단원 번호는 이 쪽에 보이지 않음)",
+  "area": "생각 열기 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "직교",
+   "role": "정의",
+   "definition": "두 직선 AB와 CD의 교각이 직각일 때 두 직선은 직교한다고 한다.",
+   "notation": "$\\overleftrightarrow{AB}\\perp\\overleftrightarrow{CD}$"
+  },
+  {
+   "term": "수직",
+   "role": "정의",
+   "definition": "직교하는 두 직선은 서로 수직이다.",
+   "notation": ""
+  },
+  {
+   "term": "수선",
+   "role": "정의",
+   "definition": "서로 수직인 두 직선에서 한 직선을 다른 직선의 수선이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "수직이등분선",
+   "role": "정의",
+   "definition": "선분 AB의 중점 M을 지나면서 선분 AB에 수직인 직선 $l$을 선분 AB의 수직이등분선이라고 한다.",
+   "notation": "$\\overline{AB}\\perp l,\\ \\overline{AM}=\\overline{BM}$"
+  },
+  {
+   "term": "수선의 발",
+   "role": "정의",
+   "definition": "직선 $l$ 위에 있지 않은 점 P에서 직선 $l$에 그은 수선과 $l$의 교점 H를 점 P에서 $l$에 내린 수선의 발이라고 한다.",
+   "notation": "H"
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "정의",
+   "definition": "점 P에서 직선 $l$에 내린 수선의 발 H에 대하여 선분 PH의 길이를 점 P와 직선 $l$ 사이의 거리라고 한다.",
+   "notation": "$\\overline{PH}$"
+  },
+  {
+   "term": "교각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직 또는 직교",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\overleftrightarrow{AB}\\perp\\overleftrightarrow{CD}$",
+   "plain": "두 직선이 만나 이루는 각이 직각이면 두 직선은 직교한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$\\overline{AB}\\perp l,\\ \\overline{AM}=\\overline{BM}$",
+   "plain": "선분의 중점을 지나면서 그 선분에 수직인 직선이 수직이등분선이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "점 P와 직선 $l$ 위의 점을 잇는 선분 중 $\\overline{PH}$가 가장 짧다.",
+   "plain": "점에서 직선에 내린 수선의 발까지의 선분이 가장 짧은 선분이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "직선 $l$ 밖의 점 P에서 $l$ 위 세 점 A, B, C로 그은 세 선분 중 가장 짧은 것을 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "❶에서 구한 선분과 직선 $l$이 이루는 각의 크기를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "제자리멀리뛰기 착지 장면 사진과 기준선 $l$ 위의 점 A, B, C에서 점 P로 연결한 선분을 나타낸 그림",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선 AB와 CD가 직각으로 만나는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "선분 AB, 중점 M, 수직이등분선 $l$ 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점 P, 직선 $l$, 수선의 발 H, 점과 직선 사이의 거리를 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "제자리멀리뛰기 기록 측정"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 추정해 적음. 쪽 아래에 'Ⅳ. 도형의 기초'로 표시되어 있음. 이 교과서의 대단원 목록에서는 '기본 도형'에 해당하는 것으로 판단함. 글자층의 직선 위 화살표 기호는 이미지에서 확인함.",
+ "_page": 156,
+ "_usage": {
+  "in": 4588,
+  "out": 1869,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

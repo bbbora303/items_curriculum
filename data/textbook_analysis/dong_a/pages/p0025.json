@@ -1,0 +1,146 @@
+{
+ "printedPage": "25",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.4 최소공배수",
+  "area": "단원 도입 / 생각 열기 / 함께해요"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "공배수",
+   "role": "사용",
+   "definition": "두 수의 공통인 배수",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "공배수 중에서 가장 작은 수",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "$2^2$, $3^3$"
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2\\times 3^3\\times 5$",
+   "meaning": "60과 108의 최소공배수를 소인수분해 꼴로 나타낸 것",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "공통인 소인수는 지수가 큰 것을, 공통이 아닌 소인수는 그대로 택하여 모두 곱한다",
+   "plain": "소인수분해를 이용해 최소공배수를 구하려면 각 소인수의 거듭제곱 중 지수가 큰 것을 골라 곱한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "함께해요 1",
+   "summary": "60과 108을 소인수분해하고 지수를 비교하여 최소공배수를 구한다(60=2^2×3×5, 108=2^2×3^3).",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "함께해요 1-➊",
+   "level": "활동",
+   "verb": "소인수분해 한다",
+   "summary": "60과 108을 각각 소인수분해한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 1-➋",
+   "level": "활동",
+   "verb": "택한다(큰/작은 고르기)",
+   "summary": "공통인 소인수의 지수가 다를 때 큰 쪽과 작은 쪽 중 고르고, 거듭제곱을 택한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "함께해요 1-➌",
+   "level": "활동",
+   "verb": "곱한다(빈칸 채우기)",
+   "summary": "택한 거듭제곱을 모두 곱해 최소공배수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "학생들이 60의 배수와 108의 배수를 칠판에 나열하고 대화하는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "60과 108을 소인수분해하고 지수를 비교하는 식 정리",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "초등에서 배운 공통 나눗셈(세로셈)으로 최소공배수 540을 구하는 방법",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "초등: 두 수의 공통인 배수를 공배수라 하고, 공배수 중 가장 작은 수를 최소공배수라고 한다"
+  ],
+  "current": [
+   "소인수분해를 이용하여 최소공배수를 구할 수 있다"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "1.4 최소공배수 소단원의 첫 쪽(학습 목표, 생각해요, 생각1, 함께해요). 빈칸(□)에 들어갈 지수와 답(540)은 이미지에 일부만 보여 정확한 값은 초등 세로셈 풀이에서 확인된다. 소단원 번호는 '1.4'로 표기되어 있다.",
+ "_page": 25,
+ "_profile": "full",
+ "_usage": {
+  "in": 4764,
+  "out": 1339,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

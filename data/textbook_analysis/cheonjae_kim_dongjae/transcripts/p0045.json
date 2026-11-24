@@ -1,0 +1,212 @@
+{
+ "printedPage": "45",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "음의 정수 × 양의 정수",
+   "corner": "본문",
+   "icons": [],
+   "level": "",
+   "text": "한편 $(-3)\\times(+3)=(-3)\\times3=(-3)+(-3)+(-3)=-9=-(3\\times3)$\n$(-3)\\times(+2)=(-3)\\times2=(-3)+(-3)=-6=-(3\\times2)$\n$(-3)\\times(+1)=(-3)\\times1=-3=-(3\\times1)$\n이므로\n(음의 정수)$\\times$(양의 정수)$=-$(두 수의 절댓값의 곱)\n임을 알 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "음의 정수 × 음의 정수",
+   "corner": "본문",
+   "icons": [],
+   "level": "",
+   "text": "또 음의 정수 $-3$에 정수를 곱할 때, 곱하는 수가 1씩 작아지면 두 수의 곱은 3씩 커짐을 알 수 있다.\n$(-3)\\times(-1)=+3=+(3\\times1)$\n$(-3)\\times(-2)=+6=+(3\\times2)$\n$(-3)\\times(-3)=+9=+(3\\times3)$\n이므로\n(음의 정수)$\\times$(음의 정수)$=+$(두 수의 절댓값의 곱)\n임을 알 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "어떤 정수와 0의 곱",
+   "corner": "본문",
+   "icons": [],
+   "level": "",
+   "text": "$(+3)\\times0=0,\\ (-3)\\times0=0$과 같이 어떤 정수와 0의 곱은 항상 0이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (정수)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "$(-5)\\times(+4)=$ ○ $(5\\times4)=$ ○ $20$"
+    },
+    {
+     "label": "❷",
+     "text": "$(-7)\\times(-2)=$ ○ $(7\\times2)=$ ○ $14$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "○ 안에 알맞은 부호를 써넣기"
+  },
+  {
+   "kind": "기타",
+   "label": "유리수의 곱셈 도입",
+   "corner": "본문",
+   "icons": [],
+   "level": "",
+   "text": "유리수의 곱셈도 정수의 곱셈과 같은 방법으로 계산한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "유리수의 곱셈",
+   "corner": "유리수의 곱셈",
+   "icons": [],
+   "level": "",
+   "text": "유리수의 곱셈\n❶ 부호가 같은 두 수의 곱셈은 두 수의 절댓값의 곱에 양의 부호 +를 붙여서 계산한다.\n❷ 부호가 다른 두 수의 곱셈은 두 수의 절댓값의 곱에 음의 부호 −를 붙여서 계산한다.",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "부호가 같은 두 수의 곱셈은 두 수의 절댓값의 곱에 양의 부호 +를 붙여서 계산한다."
+    },
+    {
+     "label": "❷",
+     "text": "부호가 다른 두 수의 곱셈은 두 수의 절댓값의 곱에 음의 부호 −를 붙여서 계산한다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 메모",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "어떤 수와 0의 곱은 항상 0이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (유리수)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "$\\left(+\\frac{5}{6}\\right)\\times\\left(+\\frac{3}{2}\\right)=$ ○ $\\left(\\frac{5}{6}\\ \\bigcirc\\ \\frac{3}{2}\\right)=$ ○ $\\frac{5}{4}$"
+    },
+    {
+     "label": "❷",
+     "text": "$\\left(+\\frac{7}{5}\\right)\\times\\left(-\\frac{10}{3}\\right)=$ ○ $\\left(\\frac{7}{5}\\ \\bigcirc\\ \\frac{10}{3}\\right)=$ ○ $\\frac{14}{3}$"
+    },
+    {
+     "label": "❸",
+     "text": "$\\left(-\\frac{2}{3}\\right)\\times\\left(+\\frac{9}{8}\\right)=$ ○ $\\left(\\frac{2}{3}\\ \\bigcirc\\ \\frac{9}{8}\\right)=$ ○ $\\frac{3}{4}$"
+    },
+    {
+     "label": "❹",
+     "text": "$(-0.6)\\times(-1.5)=$ ○ $(0.6\\ \\bigcirc\\ 1.5)=$ ○ $0.9$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "○ 안에 알맞은 부호나 곱셈 기호를 써넣기"
+  }
+ ],
+ "tables": [
+  {
+   "caption": "(−3)에 정수를 곱하는 규칙 (오른쪽 노란 상자)",
+   "unit": "",
+   "headers": [
+    "곱셈식",
+    "결과"
+   ],
+   "rows": [
+    [
+     "(−3)×(+3)",
+     "−9"
+    ],
+    [
+     "(−3)×(+2)",
+     "−6"
+    ],
+    [
+     "(−3)×(+1)",
+     "−3"
+    ],
+    [
+     "(−3)×0",
+     "0"
+    ],
+    [
+     "(−3)×(−1)",
+     "+3"
+    ],
+    [
+     "(−3)×(−2)",
+     "+6"
+    ],
+    [
+     "(−3)×(−3)",
+     "+9"
+    ]
+   ],
+   "source": "곱하는 수 열 옆의 주황색 아래 화살표에 '1씩 작아진다.', 결과 열 옆의 파란색 아래 화살표에 '3씩 커진다.'"
+  }
+ ],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "모형",
+   "caption": "부호 곱셈 그림 (왼쪽 칸)",
+   "labels": "⊕×⊕→⊕ ; ⊖×⊖→⊕ ; ⊖×⊕→⊖ ; ⊕×⊖→⊖ (분홍색 ⊕, 파란색 ⊖, 초록 화살표)",
+   "desc": "네 줄로 부호 곱의 결과를 보여 주는 그림"
+  },
+  {
+   "kind": "기타",
+   "caption": "곱하는 수가 1씩 작아지면 곱은 3씩 커진다는 화살표",
+   "labels": "왼쪽 주황 화살표: 1씩 작아진다. / 오른쪽 파란 화살표: 3씩 커진다.",
+   "desc": "노란 상자 안 표 옆의 아래 방향 화살표 두 개"
+  }
+ ],
+ "incomplete": "○ 안은 모두 빈칸으로 보이며, 따로 적힌 값이 없음.",
+ "_page": 45,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4355,
+  "out": 3382,
+  "sec": 19.6,
+  "stop": "end_turn"
+ }
+}

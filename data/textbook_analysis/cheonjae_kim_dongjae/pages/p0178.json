@@ -1,0 +1,132 @@
+{
+ "printedPage": "178",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "삼각형의 작도 (2. 두 변의 길이와 그 끼인각의 크기가 주어질 때 / 3. 한 변의 길이와 그 양 끝 각의 크기가 주어질 때)",
+  "area": "개념 설명(작도 활동)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{BC}$",
+   "meaning": "선분 BC",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "두 변의 길이와 그 끼인각의 크기가 주어지면 삼각형을 하나로 작도할 수 있다.",
+   "plain": "두 변의 길이와 그 사이 각의 크기를 알면 삼각형이 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 변의 길이와 그 양 끝 각의 크기가 주어지면 삼각형을 하나로 작도할 수 있다.",
+   "plain": "한 변의 길이와 양 끝 각의 크기를 알면 삼각형이 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "∠A 작도 → 컴퍼스로 반지름 c, b인 원을 그려 변과의 교점 B, C → B와 C를 이음",
+   "plain": "두 변과 끼인각이 주어진 삼각형의 작도 순서.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "길이 a인 $\\overline{BC}$ 작도 → ∠B 작도 → ∠C 작도 → 두 반직선의 교점 A",
+   "plain": "한 변과 양 끝 각이 주어진 삼각형의 작도 순서.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "2 두 변의 길이와 그 끼인각의 크기가 주어질 때",
+   "summary": "길이 b, c인 두 변과 그 끼인각이 주어진 삼각형 ABC를 3단계로 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "3 한 변의 길이와 그 양 끝 각의 크기가 주어질 때",
+   "summary": "길이 a인 변과 그 양 끝 각이 주어진 삼각형 ABC를 3단계로 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "주어진 선분 b, c와 각을 이용해 컴퍼스로 삼각형 ABC를 작도하는 3단계 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "주어진 선분 a와 두 각을 이용해 삼각형 ABC를 작도하는 3단계 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "컴퍼스와 연필 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드 2개",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 표시는 쪽 아래 'Ⅳ. 도형의 기초'만 보이며 소단원 번호·제목은 이 쪽에 인쇄되어 있지 않다. 앞쪽에서 이어지는 삼각형의 작도 소단원으로 추정되며, 대단원은 목록 중 '작도와 합동'으로 판단했다. 이 쪽의 1번 활동(세 변의 길이가 주어질 때)은 앞쪽에 있는 것으로 보인다.",
+ "_page": 178,
+ "_usage": {
+  "in": 4569,
+  "out": 1394,
+  "sec": 8.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

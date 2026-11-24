@@ -1,0 +1,217 @@
+{
+ "printedPage": "83",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.3 일차식과 수의 곱셈, 나눗셈",
+  "area": "생각 3 / 함께해요 / 문제 / 수학 집 짓기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "분배법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": "a(b+c)=ab+ac, (a+b)c=ac+bc"
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상수항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "일차식 \\times 수: 분배법칙으로 각 항에 수를 곱한다",
+   "plain": "일차식에 수를 곱할 때는 분배법칙을 써서 각 항에 그 수를 곱한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "일차식 \\div 수 = 일차식 \\times (그 수의 역수)",
+   "plain": "일차식을 수로 나눌 때는 나누는 수의 역수를 곱해서 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "함께해요 1",
+   "summary": "$-2(x+3)$을 분배법칙으로 전개하여 빈칸을 채운다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "함께해요 2",
+   "summary": "$(-9x+6)\\div 3$을 $\\times\\frac{1}{3}$으로 바꾸어 각 항에 곱하는 과정의 빈칸을 채운다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$2x\\times 5$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$10a\\times\\left(-\\frac{3}{2}\\right)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-8y)\\div 4$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-12b)\\div\\left(-\\frac{2}{5}\\right)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$3(a+4)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(4-2b)\\times\\left(-\\frac{1}{4}\\right)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-10x+5)\\div(-5)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(6y-12)\\div\\frac{3}{2}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "빈칸을 채우시오",
+   "summary": "$-2(x+3)$을 분배법칙으로 전개하는 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 2",
+   "level": "활동",
+   "verb": "빈칸을 채우시오",
+   "summary": "$(-9x+6)\\div 3$을 역수의 곱셈으로 바꾸어 계산하는 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "'수학 집 짓기' 코너에서 $3x-5$가 일차식임을 항($3x$, $-5$), $x$의 계수(3), 상수항($-5$)으로 정리한 말풍선 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "여우와 곰 캐릭터 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "분배법칙 (중1) $a(b+c)=ab+ac$, $(a+b)c=ac+bc$"
+  ],
+  "current": [
+   "일차식과 수의 곱셈, 나눗셈"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기'는 항, 계수, 상수항, 일차식 개념을 되짚는 정리 코너로 보이며, 이 쪽에서 새로 정의하는 용어는 없다. 함께해요 빈칸은 비어 있어 답은 보이지 않는다.",
+ "_page": 83,
+ "_profile": "full",
+ "_usage": {
+  "in": 4416,
+  "out": 1873,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

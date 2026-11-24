@@ -1,0 +1,178 @@
+{
+ "printedPage": "255",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.4 히스토그램과 도수분포다각형",
+  "area": "개념 설명 / 함께해요 / 문제"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "도수분포다각형",
+   "role": "정의",
+   "definition": "히스토그램의 각 직사각형 윗변의 중앙에 점을 찍고, 양 끝에 도수가 0인 계급을 하나씩 더 생각해 그 중앙에 점을 찍어 선분으로 연결한 그래프이다.",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "히스토그램 → 각 윗변의 중앙에 점 → 양 끝에 도수 0인 계급의 중앙에 점 → 선분으로 연결",
+   "plain": "히스토그램에서 점을 찍고 이어서 도수분포다각형을 그린다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "도수분포다각형은 자료의 분포 상태를 한눈에 알아보기 쉽다.",
+   "plain": "히스토그램처럼 분포 상태를 쉽게 볼 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "도수분포다각형은 히스토그램 없이 도수분포표로부터 바로 그릴 수 있다.",
+   "plain": "도수분포표만으로도 도수분포다각형을 그릴 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "[그림 2] 음식 가격",
+   "summary": "음식 가격 히스토그램 위에 도수분포다각형을 겹쳐 그린 예이다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "앞에서 그린 히스토그램을 도수분포다각형으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "함께해요 2-1",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "주어진 3단계 순서에 따라 자동차 충전 시간 히스토그램 위에 도수분포다각형을 완성하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "함께해요 2-2(1)",
+   "level": "활동",
+   "verb": "알아보자",
+   "summary": "도수가 가장 큰 계급이 어떤 계급인지 빈칸에 쓰기(분 이상 분 미만)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "함께해요 2-2(2)",
+   "level": "활동",
+   "verb": "알아보자",
+   "summary": "충전 시간이 25분 이상인 자동차 수를 빈칸에 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "학생 30명의 휴대 전화 요금 도수분포표(계급 5개, 도수 4·15·8·2·1)를 히스토그램과 도수분포다각형으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "[그림 2] 음식 가격 히스토그램과 그 위에 그린 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "자동차 충전 시간 히스토그램(계급 10~35분)에 점 일부만 찍힌 상태",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "휴대 전화 요금 도수분포표(0~5만 원, 합계 30명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "휴대 전화 요금을 그릴 빈 좌표 격자, 첫 계급의 직사각형과 점 일부만 그려져 있음",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "전기 자동차와 충전기 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "음식 가격",
+  "자동차 충전 시간(전기 자동차)",
+  "휴대 전화 요금"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "오른쪽 중앙의 '8 단원' 표시는 8단원 탭이다. 문제 1의 그래프에는 첫 계급의 직사각형과 점 일부만 그려져 있고 나머지는 학생이 완성하는 형태로 보인다. 함께해요 2의 번호는 1(순서에 따라 완성), 2(분포 상태 알아보기)로 구성되어 있어 함께해요 2-1, 2-2로 표기했다.",
+ "_page": 255,
+ "_profile": "full",
+ "_usage": {
+  "in": 4838,
+  "out": 1773,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

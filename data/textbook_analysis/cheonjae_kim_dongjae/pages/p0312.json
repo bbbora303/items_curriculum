@@ -1,0 +1,88 @@
+{
+ "printedPage": "312",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "찾아보기"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [
+  {
+   "symbol": "$|\\\\ \\\\ |$",
+   "meaning": "절댓값 기호(색인 32쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\geq$",
+   "meaning": "크거나 같다(색인 34쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\leq$",
+   "meaning": "작거나 같다(색인 34쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overleftrightarrow{AB}$, $\\\\overrightarrow{AB}$, $\\\\overline{AB}$",
+   "meaning": "직선 AB, 반직선 AB, 선분 AB(색인 150쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\angle AOB$",
+   "meaning": "각 AOB(색인 152쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\perp$",
+   "meaning": "수직 또는 직교(색인 156쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$/\\\\!/$",
+   "meaning": "평행(색인 158쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\triangle ABC$",
+   "meaning": "삼각형 ABC(색인 176쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\equiv$",
+   "meaning": "합동(색인 181쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overset{\\\\frown}{AB}$",
+   "meaning": "호 AB(색인 202쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\pi$",
+   "meaning": "원주율(색인 206쪽)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "교과서 맨 뒤 찾아보기(색인) 쪽이다. ㄱ~ㅎ 순서의 용어와 쪽 번호, 그리고 기호 목록으로 구성된다. 새로 정의되는 내용은 없다. 색인에 나온 용어는 이 교과서 11개 대단원에 걸쳐 있다. 예: 소인수분해(14쪽), 정수·유리수(26~28쪽), 일차방정식(88쪽), 좌표평면(108쪽), 정비례·반비례(120·126쪽), 작도·합동(172·180쪽), 다면체·회전체(214~218쪽), 도수분포표·히스토그램(248·250쪽). 기호의 일부(직선·반직선·선분 표기, 평행 기호 등)는 이미지에서 줄과 화살표가 흐려 위 LaTeX는 추정이다. 이 쪽은 용어가 어느 쪽에 나오는지 확인하는 용도로 쓸 수 있다.",
+ "_page": 312,
+ "_usage": {
+  "in": 4861,
+  "out": 1045,
+  "sec": 7.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

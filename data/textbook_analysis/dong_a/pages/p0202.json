@@ -1,0 +1,240 @@
+{
+ "printedPage": "202",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등분선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정팔각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\angle B$",
+   "meaning": "각 B",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overline{AB}$",
+   "meaning": "선분(현) AB의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\stackrel{\\\\frown}{AB}$",
+   "meaning": "호 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "한 내각의 크기가 한 외각의 크기보다 36° 더 큰 정다각형의 이름을 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "원 O에서 $\\\\overline{AB}=\\\\overline{CD}=\\\\overline{DE}$일 때 보기 ㄱ~ㄹ(호의 길이, 현의 길이, 부채꼴의 넓이 관계) 중 옳은 것을 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반원 안에 원이 있는 그림(4 cm)에서 색칠한 부분의 둘레의 길이와 넓이를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 12 cm, 호의 길이 $7\\\\pi$ cm인 부채꼴의 중심각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "08",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "∠B=76°, ∠D=120°인 사각형 ABCD에서 ∠A와 ∠C의 이등분선의 교점 O에 대해 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "육각형 안에 그려진 별 모양 그림에서 색칠한 각의 크기의 합을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "한 변의 길이가 같은 정육각형과 정팔각형의 한 변을 맞붙이고 두 변을 연장해 만든 사각형에서 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "11",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "반원 O에서 ∠CAB=36°, 호 BC=8π cm일 때 호 AC의 길이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원 O 위의 점 A~E와 중심 O에서 그은 선분들(05번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반원 안에 원이 있고 색칠된 부분과 4 cm 표시(06번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "사각형 ABCD와 두 각의 이등분선 교점 O, 각 x(08번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "육각형 내부에 대각선으로 별 모양이 그려지고 꼭짓점 각이 색칠된 그림(09번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육각형과 정팔각형을 맞붙이고 변을 연장한 그림, 각 x(10번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반원 O에서 점 C와 ∠CAB=36°, 호 BC=8π cm 표시(11번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 마무리 쪽의 문제 04~11번. 08~11번에는 '발전' 표시가 있다(표시는 08번 위쪽에 있음). 소단원 번호는 보이지 않아 section은 비워 둠. 보기 ㄱ~ㄹ은 05번 문제의 선택지.",
+ "_page": 202,
+ "_profile": "full",
+ "_usage": {
+  "in": 4584,
+  "out": 1995,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

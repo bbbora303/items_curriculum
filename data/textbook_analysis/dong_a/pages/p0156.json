@@ -1,0 +1,152 @@
+{
+ "printedPage": "156",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "생각 2 평행선에는 어떤 성질이 있나요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l /\\!/ m$"
+  },
+  {
+   "term": "평행선과 동위각의 성질",
+   "role": "정의",
+   "definition": "서로 다른 두 직선이 한 직선과 만날 때, 두 직선이 평행하면 동위각의 크기가 같고, 동위각의 크기가 같으면 두 직선은 평행하다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l /\\!/ m$",
+   "meaning": "직선 l과 m이 서로 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a (각의 크기를 나타냄)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l /\\!/ m \\Rightarrow \\angle a=\\angle c$",
+   "plain": "두 직선이 평행하면 동위각의 크기는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a=\\angle c \\Rightarrow l /\\!/ m$",
+   "plain": "동위각의 크기가 같으면 두 직선은 서로 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$l /\\!/ m$일 때 60° 각이 주어진 그림에서 ∠a, ∠b의 크기를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$l /\\!/ m$일 때 35° 각과 직각 표시가 주어진 그림에서 ∠a, ∠b의 크기를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "고르시오(같다, 다르다)",
+   "summary": "투명 필름에 본뜬 ∠c를 ∠a에 포개어 두 각의 크기가 같은지 다른지 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "함께해요 2",
+   "level": "활동",
+   "verb": "고르시오(같다, 다르다)",
+   "summary": "투명 필름에 본뜬 ∠d를 ∠b에 포개어 두 각의 크기가 같은지 다른지 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "평행한 두 직선 l, m과 이를 가로지르는 직선 n, 종이와 투명 필름에 각 a, b, c, d를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 개의 삼각자로 평행선과 동위각의 성질을 확인하는 모습",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선 n이 두 직선 l, m과 만나 동위각 a, c를 이루는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2 (1), (2)의 평행선과 한 직선이 만나는 그림(60°, 35°, 직각 표시 포함)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "투명 필름과 종이를 이용한 활동",
+  "삼각자"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 2 (2)의 그림에서 직각 표시가 있는 직선의 위치와 각 a, b의 위치는 이미지가 작아 정확히 읽기 어려움. 소단원 번호는 '생각 2'로 표시되어 있음.",
+ "_page": 156,
+ "_profile": "full",
+ "_usage": {
+  "in": 4614,
+  "out": 1459,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

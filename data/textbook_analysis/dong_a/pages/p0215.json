@@ -1,0 +1,163 @@
+{
+ "printedPage": "215",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.2 회전체",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각 1, 문제 1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "회전체",
+   "role": "정의",
+   "definition": "평면도형을 한 직선을 축으로 하여 1회전 시킬 때 생기는 입체도형",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "정의",
+   "definition": "회전체를 만들 때 축으로 사용하는 직선",
+   "notation": "$l$"
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직각삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l$",
+   "meaning": "회전축으로 쓰는 직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "평면도형을 한 직선을 축으로 하여 1회전 시킬 때 생기는 입체도형 = 회전체, 그 직선 = 회전축",
+   "plain": "평면도형을 한 직선 둘레로 한 바퀴 돌려서 만든 입체도형이 회전체이고, 도는 기준 직선이 회전축이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "직사각형 → 원기둥, 직각삼각형 → 원뿔, 반원 → 구",
+   "plain": "직선 $l$을 축으로 1회전시키면 직사각형은 원기둥, 직각삼각형은 원뿔, 반원은 구가 생긴다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 1",
+   "summary": "직사각형, 직각삼각형, 반원을 직선 l을 축으로 1회전시켜 각각 원기둥, 원뿔, 구가 생김을 확인한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "주어진 세 평면도형(⑴⑵⑶)을 직선 l을 회전축으로 1회전 시킬 때 생기는 회전체를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "공학 도구로 각 도형을 직선 l을 축으로 1회전 시킬 때 생기는 입체도형을 말한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "공학 도구 화면에 직사각형, 직각삼각형, 반원이 각각 직선 l과 함께 제시된 모습",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "회전축 l을 중심으로 만들어진 원기둥, 원뿔, 구",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 l 옆에 놓인 사다리꼴 모양 등 세 평면도형 ⑴⑵⑶",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "회전체의 뜻을 안다",
+   "회전체의 성질을 탐구하고 설명한다"
+  ],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "학습 요소에 원뿔대가 제시되나 이 쪽에서는 정의되지 않으며 다음 쪽에서 다룰 것으로 보인다. 문제 1의 세 도형은 직각이 있는 사다리꼴·부채꼴 모양 등으로 보이나 정확한 모양은 이미지로 간략히만 확인했다.",
+ "_page": 215,
+ "_profile": "full",
+ "_usage": {
+  "in": 4405,
+  "out": 1427,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

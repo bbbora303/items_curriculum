@@ -1,0 +1,194 @@
+{
+ "printedPage": "214",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "01 다면체와 회전체 - 다면체란 무엇일까?",
+  "area": "단원 도입"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "정의",
+   "definition": "다각형인 면으로만 둘러싸인 입체도형",
+   "notation": ""
+  },
+  {
+   "term": "면(다면체의 면)",
+   "role": "정의",
+   "definition": "다면체를 둘러싸고 있는 다각형",
+   "notation": ""
+  },
+  {
+   "term": "모서리",
+   "role": "정의",
+   "definition": "다면체의 면인 다각형의 변",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점(다면체의 꼭짓점)",
+   "role": "정의",
+   "definition": "다면체의 면인 다각형의 꼭짓점",
+   "notation": ""
+  },
+  {
+   "term": "사면체, 오면체, 육면체, 칠면체",
+   "role": "정의",
+   "definition": "다면체를 둘러싼 면의 개수에 따라 붙이는 이름",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대",
+   "role": "정의",
+   "definition": "각뿔을 밑면에 평행한 평면으로 잘라 생기는 두 다면체 중 각뿔이 아닌 쪽의 입체도형",
+   "notation": ""
+  },
+  {
+   "term": "밑면(각뿔대)",
+   "role": "정의",
+   "definition": "각뿔대에서 서로 평행한 두 면",
+   "notation": ""
+  },
+  {
+   "term": "옆면(각뿔대)",
+   "role": "정의",
+   "definition": "각뿔대에서 밑면이 아닌 면",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대의 높이",
+   "role": "정의",
+   "definition": "각뿔대의 두 밑면에 수직인 선분의 길이",
+   "notation": ""
+  },
+  {
+   "term": "삼각뿔대, 사각뿔대, 오각뿔대",
+   "role": "정의",
+   "definition": "각뿔대를 밑면의 모양에 따라 붙이는 이름",
+   "notation": ""
+  },
+  {
+   "term": "각기둥, 각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사다리꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥, 원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행, 수직",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "다각형인 면으로만 둘러싸인 입체도형 = 다면체",
+   "plain": "다각형 면으로만 둘러싸인 입체도형을 다면체라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "면의 개수에 따라 사면체, 오면체, 육면체, 칠면체, …",
+   "plain": "다면체는 면의 개수로 이름을 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "각뿔대의 옆면은 모두 사다리꼴",
+   "plain": "각뿔대의 옆면은 항상 사다리꼴이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "원기둥, 원뿔은 다면체가 아니다",
+   "plain": "곡면이 있는 입체도형은 다면체가 아니다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "밑면의 모양에 따라 삼각뿔대, 사각뿔대, 오각뿔대, …",
+   "plain": "각뿔대는 밑면의 모양에 따라 이름을 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 (1)~(3)",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "입체도형 모양 조형물 중 겉면이 다각형으로 이루어진 작품을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "정십이면체형, 구형(눈사람 모양), 접힌 다각형 아치 모양의 조형물 사진 3장",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직육면체에 면, 모서리, 꼭짓점을 표시한 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "사면체, 오면체, 육면체, 칠면체의 예 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "각뿔을 평면으로 잘라 얻은 각뿔대와 밑면, 옆면, 높이를 표시한 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [
+  "입체도형 모양의 조형물"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "구체적인 모형이나 공학 도구를 이용하여 다면체와 회전체의 성질을 탐구하고, 이를 설명할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 이름은 목록(입체도형의 성질)에서 가져옴. 쪽 아래에는 'V. 도형의 성질'로 인쇄됨. 중단원 01 도입 쪽이라 pageType은 개념설명으로 분류했으나 단원 도입 성격도 있음. 사면체~칠면체 그림의 용어는 그림 아래 라벨이 근거. 사진 속 작품은 이미지로 판별하기 어려워 정답은 적지 않음.",
+ "_page": 214,
+ "_usage": {
+  "in": 4667,
+  "out": 1832,
+  "sec": 11.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

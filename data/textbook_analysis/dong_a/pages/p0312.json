@@ -1,0 +1,34 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "판권(간기) 쪽"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 판권 쪽이다. 검정심의회(심의위원장, 간사, 연구위원, 검정위원)와 한국과학창의재단 명단, '중학교 수학 1', 2025. 3. 1. 초판 발행, 발행인·인쇄인, 문의처 안내가 실려 있다. 쪽 번호는 인쇄되어 있지 않다. 개인 이름과 소속은 옮기지 않았다.",
+ "_page": 312,
+ "_profile": "full",
+ "_usage": {
+  "in": 4686,
+  "out": 300,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,55 @@
+{
+  "id": "m1_9s01-04_judge_claim_v1__w_9s01-04_1023_141915",
+  "description": "해수면 아래 터널 안 두 지점의 높이를 수직선에서 읽고 대소를 비교하며, 0에서 멀수록 크다는 잘못된 주장을 반박하기 위한 음수 두 개의 수치 후보",
+  "variables": {
+    "a": {
+      "range": [
+        1,
+        13
+      ],
+      "unit": "",
+      "meaning": "지점 A의 해수면 아래 깊이를 0.5m 단위로 센 값(실제 깊이는 이 값의 절반)"
+    },
+    "b": {
+      "range": [
+        1,
+        13
+      ],
+      "unit": "",
+      "meaning": "지점 B의 해수면 아래 깊이를 0.5m 단위로 센 값(실제 깊이는 이 값의 절반)"
+    }
+  },
+  "derived": {
+    "p": "-a / 2",
+    "q": "-b / 2",
+    "higher": "max(p, q)",
+    "lower": "min(p, q)",
+    "diff": "higher - lower",
+    "dist_higher": "abs(higher)",
+    "dist_lower": "abs(lower)",
+    "claim_gap": "dist_lower - dist_higher"
+  },
+  "constraints": [
+    "a != b",
+    "p < 0",
+    "q < 0",
+    "diff >= 1",
+    "diff <= 6",
+    "dist_lower > dist_higher",
+    "claim_gap == diff"
+  ],
+  "difficulty": {
+    "easy": "a % 2 == 0 and b % 2 == 0 and diff >= 2",
+    "medium": "(a % 2) + (b % 2) == 1",
+    "hard": "a % 2 == 1 and b % 2 == 1 and diff <= 3"
+  },
+  "standards": [
+    "9수01-04"
+  ],
+  "taskPatterns": [
+    "judge_claim"
+  ],
+  "status": "provisional",
+  "plainSummary": "해수면 아래 두 지점의 깊이를 반 칸 단위로 바꿔 가며 정합니다. 두 지점은 서로 다른 깊이이고 너무 멀리 떨어지지 않게 합니다. 쉬움은 둘 다 정수, 보통은 하나만 분수, 어려움은 둘 다 분수입니다.",
+  "baseId": "m1_9s01-04_judge_claim_v1"
+}

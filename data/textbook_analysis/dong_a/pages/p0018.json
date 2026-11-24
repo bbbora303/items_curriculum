@@ -1,0 +1,161 @@
+{
+ "printedPage": "18",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "01 소인수분해",
+  "area": "배우고 익히기 / 함께해요"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^3\\times 5$",
+   "meaning": "거듭제곱을 사용한 소인수분해 결과",
+   "role": "사용"
+  },
+  {
+   "symbol": "$5^2$",
+   "meaning": "5를 두 번 곱한 거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "소인수분해 결과는 작은 소인수부터 차례대로 쓰고, 같은 소인수의 곱은 거듭제곱으로 나타낸다.",
+   "plain": "소인수분해 결과는 작은 소인수부터 쓰고 같은 수의 곱은 거듭제곱으로 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$50=2\\times 5^2$의 약수 = (2의 약수) × ($5^2$의 약수)",
+   "plain": "소인수분해를 이용하면 2의 약수와 $5^2$의 약수를 곱해 50의 약수를 모두 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "40을 소인수분해하고 거듭제곱으로 나타낸다. 방법 1(곱셈식 전개), 방법 2(가지 그림), 방법 3(나눗셈 연속)으로 풀어 $40=2^3\\times 5$를 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "$7\\times7\\times7\\times7\\times7$을 거듭제곱으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "$2\\times2\\times11\\times11\\times11$을 거듭제곱으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (1)~(4)",
+   "level": "기본",
+   "verb": "소인수분해 하시오",
+   "summary": "24, 25, 63, 180을 각각 소인수분해하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "2의 약수와 $5^2$의 약수를 각각 곱하여 표를 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "함께해요 2",
+   "level": "활동",
+   "verb": "써 보자(빈칸 채우기)",
+   "summary": "표를 이용해 50의 약수 6개를 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "40을 가지 모양으로 2, 2, 2, 5로 나누는 소인수분해 그림(방법 2)",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "40을 2로 계속 나누는 나눗셈 형태(방법 3)",
+   "_raw": "기타",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "2의 약수(1, 2)와 $5^2$의 약수(1, 5, $5^2$)를 곱해 50의 약수를 구하는 곱셈표(일부 채워짐)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "함께해요 표의 일부 칸은 비어 있음. 이 쪽은 소인수분해 절의 중간 쪽이며 소단원 번호는 쪽에 직접 보이지 않아 추정함(하단에는 '1. 소인수분해'만 표시). 함께해요는 소인수분해를 이용한 약수 구하기의 도입 활동임.",
+ "_page": 18,
+ "_profile": "full",
+ "_usage": {
+  "in": 4441,
+  "out": 1529,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

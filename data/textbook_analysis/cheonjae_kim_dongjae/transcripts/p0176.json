@@ -1,0 +1,160 @@
+{
+ "printedPage": "176",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "02 삼각형의 작도",
+   "corner": "단원 제목",
+   "icons": [],
+   "level": "",
+   "text": "02 삼각형의 작도\n• 삼각형을 작도하고, 그 과정을 설명할 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "삼각형은 어떻게 작도할까?",
+   "corner": "삼각형은 어떻게 작도할까?",
+   "icons": [],
+   "level": "",
+   "text": "삼각형 ABC를 기호로\n$\\triangle ABC$\n와 같이 나타낸다. 이때 $\\angle A$와 마주 보는 변 BC를 $\\angle A$의 대변이라 하고 $\\angle A$를 변 BC의 대각이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "$\\triangle ABC$에서 $\\angle A$, $\\angle B$, $\\angle C$의 대변의 길이를 각각 $a$, $b$, $c$로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "본문",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "삼각형을 작도할 때, 세 변의 길이와 세 각의 크기를 모두 알 필요는 없다. 이 중에서 특정한 세 가지만 알면 삼각형을 작도할 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "1 세 변의 길이가 주어질 때",
+   "corner": "세 변의 길이가 주어질 때",
+   "icons": [
+    "활동 영상"
+   ],
+   "level": "활동",
+   "text": "세 변의 길이가 오른쪽 그림과 같은 삼각형 ABC를 다음 순서에 따라 작도해 보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "세 선분의 길이 $a$, $b$, $c$ (오른쪽 그림의 세 선분)",
+   "steps": [
+    "1 직선을 그리고, 그 위에 길이가 $a$인 $\\overline{BC}$를 작도한다.",
+    "2 점 B를 중심으로 반지름의 길이가 $c$인 원과 점 C를 중심으로 반지름의 길이가 $b$인 원을 각각 그려 교점을 A라고 한다.",
+    "3 두 점 A와 B, 두 점 A와 C를 각각 이어서 만든 $\\triangle ABC$가 작도하고자 하는 삼각형이다."
+   ],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "결론",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "따라서 삼각형의 세 변의 길이가 주어질 때, 삼각형을 하나로 작도할 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "오른쪽 그림과 같이 두 선분의 길이의 합이 다른 한 선분의 길이보다 작거나 같으면 그 세 선분을 세 변으로 하는 삼각형을 만들 수 없다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "삼각형 ABC와 대변·대각 설명 그림",
+   "labels": "꼭짓점 A(위), B(왼쪽 아래), C(오른쪽 아래). 변 AB의 길이 c, 변 AC의 길이 b, 변 BC의 길이 a. 꼭짓점 A의 각이 색칠되어 있고 '변 BC의 대각' 표시(분홍 말풍선). 변 BC에 '∠A의 대변' 표시(파란 말풍선). 삼각형 바깥에 점선 호가 있음.",
+   "desc": "삼각형 ABC의 외곽을 따라 점선 호가 있고, 변 BC는 파란색으로 강조되어 있음."
+  },
+  {
+   "kind": "도형",
+   "caption": "세 변의 길이 a, b, c가 주어진 세 선분",
+   "labels": "위에서부터 길이 a인 선분, 길이 b인 선분, 길이 c인 선분. 선분 a가 가장 길고 b가 가장 짧음(그림상 길이).",
+   "desc": "각 선분 위에 점선 호 모양으로 a, b, c가 표시됨."
+  },
+  {
+   "kind": "도형",
+   "caption": "작도 순서 1",
+   "labels": "직선 위에 점 B, 점 C, 선분 BC의 길이 a. 컴퍼스로 점 C 위치에 주황색 호를 그린 모습.",
+   "desc": "컴퍼스가 B에서 길이 a만큼 벌려져 직선과 만나는 점에 호를 표시함."
+  },
+  {
+   "kind": "도형",
+   "caption": "작도 순서 2",
+   "labels": "점 B, C, A, 선분 BC의 길이 a. 컴퍼스로 B를 중심으로 한 호와 C를 중심으로 한 호(주황색)가 점 A에서 만남.",
+   "desc": "컴퍼스 두 개의 그림이 위쪽에 있고 두 호의 교점이 A."
+  },
+  {
+   "kind": "도형",
+   "caption": "작도 순서 3",
+   "labels": "점 A(위), B(왼쪽 아래), C(오른쪽 아래). 변 AB의 길이 c, 변 AC의 길이 b, 변 BC의 길이 a. 점선 호가 점 A를 지남.",
+   "desc": "A와 B, A와 C를 선분으로 이은 삼각형 ABC."
+  },
+  {
+   "kind": "도형",
+   "caption": "참고 그림: 삼각형을 만들 수 없는 경우(두 개)",
+   "labels": "각각 밑변 선분 위에 두 호(주황색)가 그려진 그림. 왼쪽 그림은 두 호가 선분 위쪽에서 교차하는 모양, 오른쪽 그림은 호가 밑변 위에서 한 점 가까이 만나는 모양. 문자·수치 표시는 없음.",
+   "desc": "두 선분의 길이의 합이 나머지 한 선분의 길이보다 작거나 같아 삼각형이 만들어지지 않는 예."
+  },
+  {
+   "kind": "기타",
+   "caption": "활동 영상 QR 코드",
+   "labels": "'활동 영상' 표시와 QR 코드",
+   "desc": "왼쪽 여백에 위치."
+  }
+ ],
+ "incomplete": "작도 순서 그림 속 컴퍼스의 세부 모양과 참고 그림의 호 모양은 정확한 형태를 확인하기 어려워 대략만 적음.",
+ "_page": 176,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4041,
+  "out": 3479,
+  "sec": 24.0,
+  "stop": "end_turn"
+ }
+}

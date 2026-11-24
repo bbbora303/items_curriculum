@@ -1,0 +1,214 @@
+{
+ "printedPage": "233",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": "l"
+  },
+  {
+   "term": "회전체(평면도형을 한 바퀴 돌려 생기는 입체도형)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정팔면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선의 교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "l",
+   "meaning": "회전축으로 쓰는 직선",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\frac{1}{4}",
+   "meaning": "구의 4분의 1을 잘라 냄",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\text{cm}",
+   "meaning": "길이 단위(센티미터)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직각삼각형과 직사각형을 합친 평면도형(5 cm, 6 cm, 3 cm)을 직선 l을 축으로 한 바퀴 돌려 생긴 입체도형의 부피 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 9 cm인 구 모양 쇠구슬을 녹여 반지름 3 cm인 구 모양 쇠구슬을 몇 개 만들 수 있는지 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 8 cm인 구의 1/4을 잘라 내고 남은 입체도형의 겉넓이 구하기(문제 만들기: 밑줄 친 수를 바꿔 문제 만들기)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "윗면 반지름 2 cm, 아랫면 반지름 4 cm, 모선 6 cm인 원뿔대의 겉넓이 구하기(큰 원뿔의 모선 12 cm, 작은 원뿔의 모선 6 cm 표시)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "한 모서리 길이가 10 cm인 정육면체의 각 면의 대각선 교점을 꼭짓점으로 하는 정팔면체의 부피 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "직각삼각형과 직사각형을 합친 평면도형과 회전축 l (5 cm, 6 cm, 3 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "큰 구(반지름 9 cm)와 작은 구슬들(반지름 3 cm)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "구의 1/4을 잘라 낸 입체도형(반지름 8 cm)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원뿔대와 원뿔대를 만든 원뿔(6 cm, 6 cm, 2 cm, 4 cm)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육면체 안에 내접한 정팔면체(모서리 10 cm)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Heart 자기점검용 휴대폰·하트 그림과 웃는 얼굴",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "쇠구슬 녹여 다시 만들기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Heart: 회전체의 부피",
+   "problemNos": [
+    "5 → 215쪽 1, 2"
+   ]
+  },
+  {
+   "concept": "Math Heart",
+   "problemNos": [
+    "1 → 215쪽 1, 2",
+    "2 → 217쪽 1",
+    "3 → 219쪽 2",
+    "4 → 221쪽 1, 223쪽 1",
+    "5 → 219쪽 2, 223쪽 2, 227쪽 1",
+    "6 → 229쪽 1",
+    "7 → 229쪽 2",
+    "8 → 225쪽 2",
+    "9 → 227쪽 1"
+   ]
+  }
+ ],
+ "notes": "Math Heart 표는 1~9번 문항별로 복습할 교과서 쪽을 안내함(개념 이름 대신 쪽 번호). 위 selfAssessment의 첫 항목은 중복이므로 두 번째 항목을 기준으로 볼 것. 소단원 번호는 보이지 않아 비워 둠. 8번은 '발전' 표시. 입체도형의 성질 단원 마무리로 판단함. 5번 그림에서 치수 배치(5 cm, 6 cm, 3 cm)의 정확한 위치는 불확실함.",
+ "_page": 233,
+ "_usage": {
+  "in": 4577,
+  "out": 1953,
+  "sec": 11.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

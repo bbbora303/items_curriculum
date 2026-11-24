@@ -1,0 +1,210 @@
+{
+ "printedPage": "87",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.4 일차식의 덧셈과 뺄셈",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "문자(변수)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$2A-B$",
+   "meaning": "문자식 A, B로 만든 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "달력의 □ 모양 규칙 예시",
+   "summary": "달력에서 가로로 이웃한 두 수 중 왼쪽 수를 x라 하면 다른 수는 x+8이고 합은 2x+8이다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "보기에서 두 항이 동류항인 것을 모두 고른다(2x,2y / 3,-2 / -3a,a/3 / 5y,5y²).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2(1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-2x+1)+(2x-2)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(11-2y)-(-y-3)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$2(2x-4)+3(-x+1)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$\\frac{1}{2}(-2x-4)-\\frac{2}{5}(10x+15)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$\\frac{x-1}{2}+\\frac{2x+1}{5}$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$\\frac{-x-2}{3}-\\frac{x-3}{9}$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "$A=x+5$, $B=7-2x$일 때 $2A-B$를 x로 간단히 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "변의 길이가 $10a+1$, $-a+8$, $7a-5$ 등 일차식으로 주어진 ㄴ자 도형의 둘레의 길이를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6(1)",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "달력에서 X자 모양의 가운데 수를 x라 할 때 나머지 네 수를 x로 나타낸다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "6(2)",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "(1)에서 찾을 수 있는 규칙을 말한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "변의 길이가 문자식으로 표시된 ㄴ자 모양 도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "일~토 요일이 표시된 달력에 □ 모양과 X자 모양 표시",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "달력에서 두 수 x, x+8을 직사각형으로 표시한 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "달력"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 6에 '도전' 표시가 있음. 1번에 '해당하는 곳에 색칠해요(우수/보통/분발)' 자기점검 표시가 있음. 상단에 부록 1 붙임딱지 8쪽 안내와 QR 코드가 있음. 단원 표시 3단원.",
+ "_page": 87,
+ "_profile": "full",
+ "_usage": {
+  "in": 4738,
+  "out": 1748,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

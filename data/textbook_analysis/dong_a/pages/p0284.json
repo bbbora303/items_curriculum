@@ -1,0 +1,262 @@
+{
+ "printedPage": "284",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.6 일차방정식의 풀이",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식의 해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "구하려는 미지수(문자)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "양변에 같은 수를 곱하거나 같은 수로 나누어 $x=(\\text{수})$ 꼴로 만든다",
+   "plain": "등식의 성질을 이용해 일차방정식의 해를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "항을 이항하여 $ax=b$ 꼴로 정리한다",
+   "plain": "문자가 있는 항은 한쪽, 상수항은 다른 쪽으로 옮겨 정리한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "구한 해를 문제 상황에 대입하여 적합한지 확인한다",
+   "plain": "방정식을 풀고 나서 해가 문제 조건에 맞는지 검토한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "분수가 있는 방정식은 양변에 분모의 최소공배수 $6$을 곱한다",
+   "plain": "계수를 정수로 바꿔 푼다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기 예시 (이항 불가)",
+   "summary": "$-7$은 항이 아니므로 이항할 수 없고, 양변을 $-7$로 나누어 $x=-2$를 얻는다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 넓히기 예시 (방법 1, 방법 2)",
+   "summary": "분수가 있는 일차방정식을 이항하여 푸는 방법과 양변에 6을 곱해 푸는 방법으로 모두 $x=-2$를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각해요 예시",
+   "summary": "해가 정수이면 대입으로 구하기 쉽지만 정수가 아니면 구하기 어렵다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 7",
+   "level": "기본",
+   "verb": "(답) ⑴, ⑶, ⑷",
+   "summary": "정답만 제시됨",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "93쪽 1",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "(1) $4x-3=x-2$ (2) $20000-3x=5000$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "93쪽 2~5",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "2 ⑴,⑷ / 3 ㄴ,ㄷ / 4 ㄴ,ㄹ / 5 ○×× ○",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "93쪽 6",
+   "level": "서술형",
+   "verb": "(풀이)",
+   "summary": "하진이가 생각한 수를 $x$로 놓고 식을 정리하면 $x$가 되어 항등식이므로 친구가 맞힐 수 있음을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문제 1~3 (생각해요)",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "일차방정식의 해: $x=1,-3$ / $x=-2,\\frac{1}{2}$ / $x=-12,\\frac{1}{3}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "연속하는 세 자연수의 합이 63이 되도록 방정식 $(x-1)+x+(x+1)=63$을 세워 20, 21, 22를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 5",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "아버지 나이가 이안이 나이의 2배가 되는 때를 $48+x=2(13+x)$로 세워 22년 후를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "99쪽 1",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "(1) $x=4$ (2) $x=-1$ (3) $x=22$ (4) $x=-\\frac{5}{2}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "99쪽 2",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "(1) $x=9$ (2) $x=5$ (3) $x=-7$ (4) $x=3$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "99쪽 3",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "답 20",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "99쪽 4",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "꽃밭의 넓이가 같도록 $9(12+x)=144$를 세워 $x=4$를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "99쪽 5",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "학생 수를 $x$로 놓고 $3000x-2500=2000x+6500$을 풀어 9명을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "99쪽 6",
+   "level": "서술형",
+   "verb": "(풀이)",
+   "summary": "거꾸로 생각하기로 $\\left(\\frac{2}{3}+\\frac{5}{6}\\right)\\times 4$를 세워 $x=6$을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "93쪽 6번 서술형 채점 기준과 배점 비율(50%, 20%, 30%) 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "99쪽 6번 채점 기준과 배점 비율(60%, 40%) 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "나이",
+  "연속하는 자연수",
+  "꽃밭 넓이",
+  "학생 수와 사진 비용",
+  "수 맞히기 놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이어서 개념 도입보다 풀이·답이 주된 내용이다. 소단원 '3.6 일차방정식의 풀이'(94쪽~98쪽) 표지 및 '해결해요' 93쪽, 99쪽 풀이가 섞여 있다. 문제 7, 1~3의 원 발문은 이 쪽에 없다. 문제 4, 5의 '함께해요 1' 답도 함께 있다.",
+ "_page": 284,
+ "_profile": "full",
+ "_usage": {
+  "in": 5715,
+  "out": 2608,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

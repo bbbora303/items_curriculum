@@ -1,0 +1,155 @@
+{
+ "printedPage": "85",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.4 일차식의 덧셈과 뺄셈",
+  "area": "생각해요 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "동류항",
+   "role": "정의",
+   "definition": "다항식에서 문자가 같고 그 문자에 대한 차수도 같은 항",
+   "notation": ""
+  },
+  {
+   "term": "상수항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다항식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "차수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분배법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "6x,\\ 8x",
+   "plain": "문자와 그 문자의 차수가 같은 항을 동류항이라 하며, 상수항끼리는 모두 동류항이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "6x+8x=(6+8)x=14x,\\quad 6x-8x=(6-8)x=-2x",
+   "plain": "동류항이 있는 다항식은 분배법칙을 이용해 계수끼리 더하거나 빼서 간단히 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "a+5-3a+2=a-3a+5+2=(1-3)a+(5+2)=-2a+7",
+   "plain": "동류항끼리 모은 뒤 분배법칙을 이용해 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "2x+1+x-3의 동류항",
+   "summary": "2x와 x, 1과 -3이 각각 동류항임을 보인다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요: a+5-3a+2 계산",
+   "summary": "동류항끼리 모으고 분배법칙을 이용해 -2a+7로 간단히 한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각1",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "낮 벽화의 넓이(6x m²)와 밤 벽화의 넓이(8x m²)의 합을 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "찾아 쓰시오",
+   "summary": "2x+4+8x-1에서 동류항을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "찾아 쓰시오",
+   "summary": "-\\frac{1}{3}a+b+9b-a에서 동류항을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "직사각형 모양의 낮 벽화(가로 6m)와 밤 벽화(가로 8m), 세로 x m인 벽화 마을 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "2x+1+x-3에서 동류항끼리 표시한 도식",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "분배법칙을 이용한 동류항 계산 과정을 색과 괄호로 표시한 식",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "벽화 마을",
+  "벽화 넓이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "동류항",
+   "일차식의 덧셈과 뺄셈"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "3.4 소단원 도입 쪽으로, 학습 목표는 일차식의 덧셈과 뺄셈의 원리 이해 및 계산이고 학습 요소는 동류항이다. 오른쪽 QR코드가 있다. 일차식 자체의 정의는 이 쪽에 나오지 않는다.",
+ "_page": 85,
+ "_profile": "full",
+ "_usage": {
+  "in": 4560,
+  "out": 1381,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

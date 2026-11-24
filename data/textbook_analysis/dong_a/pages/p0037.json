@@ -1,0 +1,94 @@
+{
+ "printedPage": "37",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.0 여행을 떠나 볼까요",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "3 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "자연수의 덧셈 3+4",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "자연수의 나눗셈 12÷6",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수의 뺄셈 $\\frac{3}{4}-\\frac{3}{5}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수의 곱셈 $\\frac{2}{5}\\times\\frac{5}{6}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "에펠탑 사진과 여행 소재의 일러스트(비행기, 가족 사진, 책을 든 학생, 고양이)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "학습 계획 세우기 상자: 목표와 다짐을 적는 줄 칸",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "여행",
+  "파리 에펠탑"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등 | 자연수의 사칙계산",
+   "초등 | 분수의 사칙계산"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "2단원 도입 쪽(2.0 여행을 떠나 볼까요). 대단원 목록상 2단원은 '정수와 유리수'이며 쪽에는 단원 이름이 직접 적혀 있지 않아 추정함. 문제 번호가 3, 4번부터 시작하며 1, 2번은 이전 쪽에 있는 것으로 보임. 학습 계획 세우기 칸의 예시 문구는 '서두르지 않고 꼼꼼하게 문제를 풀겠다.'",
+ "_page": 37,
+ "_profile": "full",
+ "_usage": {
+  "in": 4091,
+  "out": 847,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

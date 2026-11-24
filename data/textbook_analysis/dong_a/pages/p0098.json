@@ -1,0 +1,154 @@
+{
+ "printedPage": "98",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "예제 / 문제 / 수학 집 짓기"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "속력",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "시간",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "구하려는 거리를 나타내는 미지수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$ax=b\\ (a\\neq0)$",
+   "meaning": "일차방정식을 정리한 꼴",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(거리)=(속력)\\times(시간),\\ (시간)=\\frac{(거리)}{(속력)}",
+   "plain": "거리, 속력, 시간 사이의 관계",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "문제 이해하고 미지수 정하기 → 일차방정식 세우기 → 일차방정식 풀기 → 확인하기",
+   "plain": "일차방정식으로 문제를 푸는 4단계 순서",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "일차방정식의 풀이: $ax=b\\ (a\\neq0)$ 꼴로 정리 → $x=(수)$ 꼴로 나타내기 → 해가 맞는지 확인",
+   "plain": "일차방정식 풀이 순서를 수학 집 짓기로 정리",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 4",
+   "summary": "갈 때 시속 2 km, 올 때 시속 3 km로 걸어 총 5시간 걸렸을 때, 출발점에서 반환점까지의 거리를 일차방정식 $\\frac{x}{2}+\\frac{x}{3}=5$로 세워 구하면 6 km이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "연속하는 세 자연수의 합이 63일 때 세 자연수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "아버지 48살, 이안이 13살일 때 아버지 나이가 이안이 나이의 2배가 되는 때는 몇 년 후인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "갈 때(시속 2 km)와 올 때(시속 3 km)의 걸린 시간 $\\frac{x}{2}$, $\\frac{x}{3}$를 길 그림 위에 나타내고 총 5시간으로 묶은 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "건강 걷기 대회에서 걷는 사람들의 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 닭, 병아리 그림과 함께 일차방정식 풀이 3단계를 정리한 코너",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "건강 걷기 대회",
+  "시속(속력)",
+  "나이",
+  "연속하는 자연수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 표시가 없어 소단원 번호·제목은 쪽에서 확인되지 않아 비워 둠. 예제 4는 일차방정식의 활용에서 거리·속력·시간 문제를 다루는 예제로 보임.",
+ "_page": 98,
+ "_profile": "full",
+ "_usage": {
+  "in": 4615,
+  "out": 1373,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

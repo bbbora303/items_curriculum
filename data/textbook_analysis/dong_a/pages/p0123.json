@@ -1,0 +1,193 @@
+{
+ "printedPage": "123",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.3 정비례와 그 그래프",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정비례 관계 y=ax(a≠0)의 그래프",
+   "role": "정의",
+   "definition": "x의 값이 수 전체일 때, 식 y=ax(a≠0)의 그래프는 원점을 지나는 직선이다.",
+   "notation": "$y=ax\\ (a\\neq 0)$"
+  },
+  {
+   "term": "제1사분면, 제3사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제2사분면, 제4사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "알지오매스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=ax\\ (a\\neq 0)$",
+   "meaning": "정비례 관계를 나타내는 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a>0$",
+   "meaning": "a가 양수일 때",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a<0$",
+   "meaning": "a가 음수일 때",
+   "role": "사용"
+  },
+  {
+   "symbol": "$O$",
+   "meaning": "원점",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$y=ax\\ (a\\neq 0)$의 그래프는 원점을 지나는 직선이다.",
+   "plain": "x의 값이 수 전체일 때 정비례 관계 그래프는 원점을 지나는 직선이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a>0$이면 제1사분면과 제3사분면을 지난다.",
+   "plain": "a가 양수이면 그래프는 오른쪽 위로 향하며 1, 3사분면을 지난다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a<0$이면 제2사분면과 제4사분면을 지난다.",
+   "plain": "a가 음수이면 그래프는 오른쪽 아래로 향하며 2, 4사분면을 지난다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$x$의 값이 구체적으로 주어지지 않으면 $x$의 값을 수 전체로 생각한다.",
+   "plain": "x의 범위가 없으면 수 전체로 본다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "y=2x의 그래프",
+   "summary": "x의 값이 수 전체일 때 y=2x의 그래프는 원점을 지나는 직선이다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "a>0일 때, a<0일 때 y=ax(a≠0)의 그래프가 어떻게 그려지는지 말하기",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "질문",
+   "level": "활동",
+   "verb": "",
+   "summary": "y=ax(a≠0)의 그래프는 왜 항상 원점을 지나는지 생각해 보기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "y=2x의 그래프가 원점을 지나는 직선으로 그려진 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 화면에서 a=3, 1, 1/3일 때 a>0인 직선들을 관찰하는 모습",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 화면에서 a=-1, -3, -1/3일 때 a<0인 직선들을 관찰하는 모습",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "a>0일 때 제1·3사분면을 지나는 y=ax 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "a<0일 때 제2·4사분면을 지나는 y=ax 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 연결용 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 번호 4(좌표평면과 그래프)는 오른쪽 탭에서 확인함. 알지오매스 화면 속 작은 글자는 일부만 읽힘. 알지오매스 화면 a 값은 a=3, 1, 1/3 및 a=-1, -3, -1/3으로 읽음.",
+ "_page": 123,
+ "_profile": "full",
+ "_usage": {
+  "in": 4816,
+  "out": 1668,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

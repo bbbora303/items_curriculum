@@ -1,0 +1,163 @@
+{
+ "printedPage": "143",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.1 점, 선, 면",
+  "area": "생각2 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "직선 AB",
+   "role": "정의",
+   "definition": "서로 다른 두 점 A, B를 지나는 직선",
+   "notation": "$\\overleftrightarrow{AB}$"
+  },
+  {
+   "term": "반직선 AB",
+   "role": "정의",
+   "definition": "직선 AB 위의 점 A에서 시작하여 점 B의 방향으로 한없이 연장한 선",
+   "notation": "$\\overrightarrow{AB}$"
+  },
+  {
+   "term": "선분 AB",
+   "role": "정의",
+   "definition": "직선 AB 위의 점 A에서 점 B까지의 부분",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "두 점 A, B 사이의 거리",
+   "role": "정의",
+   "definition": "두 점 A, B를 잇는 선 중 가장 짧은 선분 AB의 길이",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": "A, B, C"
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l, m, n$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$",
+   "meaning": "반직선 AB",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{AB}=\\overline{CD}$",
+   "meaning": "선분 AB와 선분 CD의 길이가 같음",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{AB}=10\\text{ cm}$",
+   "meaning": "선분 AB의 길이가 10 cm",
+   "role": "정의"
+  },
+  {
+   "symbol": "$l, m, n$",
+   "meaning": "직선을 소문자로 나타냄",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 점을 지나는 직선은 무수히 많고, 서로 다른 두 점을 지나는 직선은 오직 하나",
+   "plain": "서로 다른 두 점을 지나는 직선은 하나뿐이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 점을 잇는 선 중 선분의 길이가 가장 짧다",
+   "plain": "두 점 사이의 최단 거리는 선분의 길이이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "짝 지으시오",
+   "summary": "한 직선 위의 세 점 A, B, C에 대해 직선·반직선·선분 기호 중 같은 것끼리 짝 짓기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "점 A를 지나는 여러 직선 중 A, B를 지나는 직선이 하나뿐임을 보여 주는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선 AB 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "반직선 AB 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "선분 AB 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "한 직선 위에 있는 세 점 A, B, C",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 점 A, B를 잇는 여러 선과 가장 짧은 선분 AB",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "곁글: 직선 AB를 직선 l로 나타내기도 함, $\\overline{AB}$는 선분 또는 길이를 나타냄. 질문: $\\overrightarrow{AB}$와 $\\overrightarrow{BA}$는 서로 같을까요? 5단원 시작 부분 쪽.",
+ "_page": 143,
+ "_profile": "full",
+ "_usage": {
+  "in": 4694,
+  "out": 1452,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

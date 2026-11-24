@@ -1,0 +1,226 @@
+{
+ "printedPage": "297",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.4 다각형의 외각의 크기의 합",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}=\\overline{AC}$",
+   "meaning": "변 AB와 변 AC의 길이가 같다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  },
+  {
+   "symbol": "$n$",
+   "meaning": "정다각형의 변(각)의 개수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$180^\\circ\\times(n-2)$",
+   "plain": "n각형의 내각의 크기의 합",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$\\frac{180^\\circ\\times(n-2)}{n}$",
+   "plain": "정n각형의 한 내각의 크기",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$\\frac{360^\\circ}{n}$",
+   "plain": "정n각형의 한 외각의 크기",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "다각형의 외각의 크기의 합은 $360^\\circ$",
+   "plain": "다각형의 외각의 크기의 합은 항상 360°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(한 내각)+(한 외각)$=180^\\circ$",
+   "plain": "한 꼭짓점에서 내각과 외각의 크기의 합은 180°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\frac{180^\\circ\\times(n-2)}{n}=150^\\circ$",
+   "plain": "정n각형이라 놓고 한 내각의 크기로 식을 세워 n을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기 예시",
+   "summary": "삼각형 6개의 내각의 합 180°×6에서 가운데 각의 합 360°를 빼서 육각형의 내각의 합 720°를 구한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "함께해요 1 표",
+   "summary": "오각형·육각형에서 (모든 내각과 외각의 합)−(내각의 합)=360°임을 표로 확인한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각해요 예시",
+   "summary": "삼각형, 사각형처럼 오각형의 외각의 합도 360°일 것이라고 추측한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "188쪽 4",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "이등변삼각형의 성질로 한 내각이 150°인 정다각형을 구한다(정십이각형).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "188쪽 5(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "한 꼭짓점에서 그을 수 있는 대각선의 개수가 10인 다각형의 내각의 합을 구하는 문제를 만든다(예시 답 1980°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "188쪽 6",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "오각형의 내각의 합 540°를 이용해 ∠x=45°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "188쪽 7",
+   "level": "서술형",
+   "verb": "풀이",
+   "summary": "한 내각이 160°인 정다각형(정십팔각형)의 내각의 합 2880°를 구한다. 채점 기준 60%·40%.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "191쪽 4",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "한 내각과 한 외각의 합이 180°임을 이용해 정십이각형과 한 외각 30°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "191쪽 5",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "거북이 회전한 각의 합이 외각의 합 360°와 같음을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "191쪽 6",
+   "level": "서술형",
+   "verb": "풀이",
+   "summary": "한 내각과 한 외각의 크기의 비가 4:1인 정다각형(정십각형)을 구한다. 풀이 2가지, 채점 기준 포함.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "오각형과 육각형의 모든 내각과 외각의 합, 내각의 합, 두 값의 차를 비교한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "188쪽 6번 풀이용 오각형과 대각선 그림(각 105°, 110°, 140°, 76°, 30°, 34° 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "서술형 문제의 채점 기준과 배점 비율 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "거북이 회전(5번)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이다. 6.4 소단원은 '생각해요'와 '함께해요'의 일부만 보이며 새 개념을 정의하는 쪽은 아니다. 세로로 놓인 두 단 구성이며, 188쪽·191쪽 해결해요 풀이가 함께 실려 있다.",
+ "_page": 297,
+ "_profile": "full",
+ "_usage": {
+  "in": 5707,
+  "out": 2089,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

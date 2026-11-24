@@ -1,0 +1,85 @@
+{
+ "printedPage": "118",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "역사와 수학 사이(수군수군) - 그래프로 알아보는 필즈상 이야기"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "필즈상",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "빈 물통에 일정한 속력으로 물을 넣을 때 시간과 물의 높이의 관계를 나타낸 그래프를 보기에서 찾아, 그 옆의 수학자 이름을 빈칸에 적어 필즈상 이야기를 완성한다(물통 3개: 위로 갈수록 넓어지는 컵, 원기둥, 위가 좁은 삼각플라스크 모양).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "가로축 시간, 세로축 높이인 그래프 3개: 아래로 볼록하게 증가하는 곡선, 위로 볼록하게 증가하는 곡선, 원점을 지나는 직선.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "물통 3개: 위로 갈수록 넓어지는 컵 모양, 원기둥 모양, 위가 좁은 삼각플라스크 모양.",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "장식",
+   "desc": "필즈 메달 앞면과 뒷면 사진.",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "아르키메데스, 존 찰스 필즈, 마리암 미르자카니의 초상화.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "필즈상",
+  "수학자(아르키메데스, 존 찰스 필즈, 마리암 미르자카니)",
+  "물통에 물 넣기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "새로 정의되는 개념은 없고, 앞서 배운 그래프(시간에 따른 변화 해석)를 활용하는 읽기·활동 쪽이다. 소단원 번호는 보이지 않아 section은 비워 둠. 짝짓기 정답은 이미지에 없어 적지 않음.",
+ "_page": 118,
+ "_usage": {
+  "in": 4406,
+  "out": 862,
+  "sec": 6.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,183 @@
+{
+ "printedPage": "80",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.2 식의 값 (붙임딱지 안내 기준)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "식의 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균 자책점",
+   "role": "정의",
+   "definition": "투수가 한 경기 동안 상대편에 준 점수인 자책점의 평균을 평균 자책점이라 한다.",
+   "notation": "(평균 자책점)=\\frac{(총자책점)\\times 9}{(투구 이닝 수)}"
+  },
+  {
+   "term": "사다리꼴의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대류권",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "a, b, h, t, x, y",
+   "meaning": "문자로 나타낸 수와 양",
+   "role": "사용"
+  },
+  {
+   "symbol": "a^2, a^3",
+   "meaning": "문자의 거듭제곱",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\frac{xy}{x^2+y^2}",
+   "meaning": "분수 꼴의 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(평균 자책점)=\\frac{(총자책점)\\times 9}{(투구 이닝 수)}",
+   "plain": "총자책점에 9를 곱해 투구 이닝 수로 나누면 평균 자책점이 된다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "a=2일 때 (1) a+3, (2) -3a+1, (3) a^2+1, (4) -3a^2-4a의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "x=3, y=-4일 때 x+y, -2x-3y, 2(x^2-y), xy/(x^2+y^2)의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "평균 자책점 공식에 투구 이닝 수 33, 총자책점 11점을 대입해 평균 자책점 구하기",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "a=1/2일 때 a, 2(a-1), 1/a, -a^2, a^3 중 식의 값이 가장 큰 것 고르기",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "나타내시오 / 구하시오",
+   "summary": "1 km 높아질 때마다 기온이 6℃씩 낮아질 때 (1) 지표면 온도 t℃일 때 10 km 높이의 기온을 식으로 나타내기, (2) 지표면 온도 10℃일 때 기온 구하기",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "나타내시오 / 쓰시오",
+   "summary": "윗변 a cm, 아랫변 b cm, 높이 h cm인 사다리꼴의 넓이를 식으로 나타내고, a=4, b=12, h=8일 때 넓이를 구하는 풀이 과정 쓰기",
+   "competencyIcons": [
+    "서술형"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "4번 문제에서 비교할 다섯 개의 식 a, 2(a-1), 1/a, -a^2, a^3을 상자 안에 제시",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "3번 문제에서 평균 자책점 공식 상자와 투수 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "윗변 a cm, 아랫변 b cm, 높이 h cm가 표시된 사다리꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어볼 수 있는 QR 코드와 자기 평가용 표정 아이콘",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "야구 평균 자책점",
+  "대류권 높이에 따른 기온 변화",
+  "사다리꼴 넓이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 소제목은 쪽 위의 '3.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요!' 문구를 근거로 3.2(식의 값)로 추정했다. 1번 문항 옆의 '해당하는 곳에 색칠해요'는 우수·보통·분발 자기 점검 표시이다. 5번 문제의 기호 ℃는 글자층에서 깨져 이미지를 따랐다.",
+ "_page": 80,
+ "_profile": "full",
+ "_usage": {
+  "in": 4812,
+  "out": 1799,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

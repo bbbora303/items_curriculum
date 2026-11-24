@@ -1,0 +1,164 @@
+{
+ "printedPage": "218",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.1 다면체와 회전체 / 7.2 (회전체)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "단면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l$",
+   "meaning": "회전축으로 쓰는 직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "(1) 평면도형을 한 직선을 축으로 1회전 시켜 생기는 입체도형의 이름, (2) 원뿔을 밑면에 평행한 평면으로 자를 때 원뿔이 아닌 쪽 입체도형의 이름을 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구분하시오",
+   "summary": "보기의 8개 입체도형(사각뿔, 원기둥, 육각기둥, 정팔면체, 원뿔대, 오각뿔대, 원뿔, 구)을 다면체와 회전체로 구분한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "주어진 회전체(볼링핀, 도자기 병 사진)를 만드는 평면도형을 회전축 l 옆에 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "그리시오 / 쓰시오",
+   "summary": "(1) 사다리꼴(지호, 유나)을 직선 l로 1회전 시켜 생기는 회전체를 각각 그린다. (2) 원뿔대를 만든 친구의 이름을 쓴다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "5",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "밑변 2 cm인 직사각형을 직선 l로 1회전 시킨 회전체에서 회전축에 수직인 단면과 회전축을 포함하는 단면의 넓이가 같을 때, 회전체의 높이를 구하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 4의 직선 l 옆에 놓인 사다리꼴 두 개(지호, 유나)와 답을 그릴 빈 칸",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 볼링핀과 청자 병 사진, 회전축 l이 그어진 빈 칸",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 5의 직선 l 옆에 놓인 직사각형(가로 2 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2의 보기 상자(ㄱ~ㅇ 입체도형 목록)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "볼링핀",
+  "도자기 병",
+  "사다리꼴 사다리꼴 종이 회전"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "해결해요(문제 풀이) 쪽이며 새로 정의되는 용어는 없고 7.1·7.2에서 배운 개념을 사용한다. 각 문제 옆 우수/보통/분발 자기 점검 표정 아이콘이 있다. 문제 2에는 7.1+7.2 표시가 있다. 상단 안내: 7.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이기. contexts의 '사다리꼴 사다리꼴 종이 회전'은 불필요한 항목으로 사다리 모양 도형 소재 정도로만 본다(사다리꼴은 원문에 '사다리꼴'로 표기).",
+ "_page": 218,
+ "_profile": "full",
+ "_usage": {
+  "in": 4725,
+  "out": 1609,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

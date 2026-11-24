@@ -1,0 +1,161 @@
+{
+ "printedPage": "253",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "1. 자료의 정리와 해석 (도수분포다각형 배우고 익히기)",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "나이팅게일의 장미 도표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "^\\circ\\mathrm{C}",
+   "meaning": "섭씨 온도 단위(연평균 기온)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "1학년 학생 28명의 50 m 달리기 기록 히스토그램을 도수분포다각형으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "완성하시오",
+   "summary": "무게 180 g 미만 토마토 40개의 도수분포다각형 일부를 보고 도수분포다각형을 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세계 여러 도시의 연평균 기온 도수분포다각형에서 계급의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "연평균 기온이 15 ℃ 이상인 도시 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "2의 도수분포다각형에서 알 수 있는 분포의 특징을 말한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "50 m 달리기 기록 히스토그램(계급 6~11초, 도수 3,6,9,6,3 정도)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "토마토의 무게 도수분포다각형 일부(120~180 g)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "세계 여러 도시 연평균 기온 도수분포다각형(0~25 ℃)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "나이팅게일의 장미 도표: 1854~1856년 월별 사망 원인별 부채꼴 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "나이팅게일 캐릭터 그림과 QR코드(누리집)",
+   "_raw": "사진",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "50 m 달리기 기록",
+  "토마토 무게",
+  "세계 도시 연평균 기온",
+  "나이팅게일과 사망 통계 그래프"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "히스토그램 값은 이미지에서 읽은 대략적 값이다. 도수분포다각형과 히스토그램은 앞 쪽에서 배운 것을 전제로 사용한다. 하단 '와글와글 수학 이야기'는 읽기자료 성격이다.",
+ "_page": 253,
+ "_usage": {
+  "in": 4786,
+  "out": 1336,
+  "sec": 8.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

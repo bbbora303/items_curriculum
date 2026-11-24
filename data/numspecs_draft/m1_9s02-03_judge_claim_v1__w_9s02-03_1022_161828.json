@@ -1,0 +1,78 @@
+{
+  "id": "m1_9s02-03_judge_claim_v1__w_9s02-03_1022_161828",
+  "description": "ax+b=c 꼴 방정식의 해 판별, 등식의 성질을 이용한 풀이, 좌변에서만 b를 뺀 현우의 잘못된 주장을 반박하기 위한 수치 후보",
+  "variables": {
+    "a": {
+      "range": [
+        2,
+        7
+      ],
+      "unit": "",
+      "meaning": "x의 계수",
+      "step": 1
+    },
+    "k": {
+      "range": [
+        2,
+        4
+      ],
+      "unit": "",
+      "meaning": "상수항 b가 a의 몇 배인지를 정하는 수"
+    },
+    "s": {
+      "range": [
+        3,
+        9
+      ],
+      "unit": "",
+      "meaning": "방정식의 해(정수)"
+    }
+  },
+  "derived": {
+    "b": "a * k",
+    "c": "a * s + b",
+    "cand_low": "s - 1",
+    "cand_sol": "s",
+    "cand_high": "s + 1",
+    "friendX": "c / a",
+    "cand_friend": "s + k",
+    "lhs_low": "a * cand_low + b",
+    "lhs_sol": "a * cand_sol + b",
+    "lhs_high": "a * cand_high + b",
+    "lhs_friend": "a * cand_friend + b",
+    "step1_rhs": "c - b",
+    "step2_x": "step1_rhs / a",
+    "friend_rhs_wrong": "c",
+    "friend_check_lhs": "a * friendX + b"
+  },
+  "constraints": [
+    "is_int(friendX)",
+    "is_int(step2_x)",
+    "step2_x == s",
+    "friendX == s + k",
+    "friendX != s",
+    "lhs_sol == c",
+    "lhs_low != c",
+    "lhs_high != c",
+    "lhs_friend != c",
+    "friend_check_lhs != c",
+    "s != k",
+    "s != a",
+    "cand_low >= 2",
+    "c <= 70"
+  ],
+  "difficulty": {
+    "easy": "a in (2, 3) and k == 2 and s <= 6",
+    "medium": "a in (3, 4) and k == 3 and s >= 4 and s <= 7",
+    "hard": "a in (4, 5) and k == 4 and s >= 6"
+  },
+  "standards": [
+    "9수02-03"
+  ],
+  "taskPatterns": [
+    "judge_claim"
+  ],
+  "status": "provisional",
+  "plainSummary": "방정식 $ax+b=c$ 꼴의 일차방정식 하나를 세 소문항이 함께 씁니다. 바꾸는 숫자는 x의 계수 a, 상수항을 계수의 몇 배로 할지 정하는 k(b=a×k), 해 s입니다. 해 s는 정수이고 c=a×s+b이므로 1-2의 풀이 과정이 모두 정수로 떨어집니다. 상수항 b가 a의 배수이므로 현우가 좌변에서만 b를 빼면 ax=c가 되고, 여기서 얻는 x=c÷a=s+k도 정수입니다. 이 값은 해가 아니므로 대입하면 거짓이 되어 1-3에서 반례로 쓸 수 있습니다. 1-1의 후보 수는 s−1, s, s+1, s+k 네 개이고 이 중 해는 s뿐이며, 현우의 값 s+k가 오답 후보로 함께 들어갑니다. 쉬운 수준은 a가 작고 k=2이며 s가 작은 경우, 보통 수준은 a가 3~4이고 k=3인 경우, 어려운 수준은 a가 4~5이고 k=4이며 s가 큰 경우입니다. 수준이 오를수록 계수와 상수항, 대입값의 계산량이 늘어납니다.",
+  "baseId": "m1_9s02-03_judge_claim_v1"
+}

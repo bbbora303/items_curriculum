@@ -1,0 +1,139 @@
+{
+  "_note": "수학 문항 JSON 예시(중1 부채꼴). 자료의 문항을 옮기지 않고 구조만 참고해 새로 만든 예시이며, 수치는 numspecs/sector_arc_area.json 후보에서 선택함.",
+  "schemaVersion": "math-0.1",
+  "id": "ex-m1-sector-001",
+  "level": "중학교",
+  "grade": 1,
+  "domain": "도형과 측정",
+  "standardCodes": ["9수03-06"],
+  "assessmentContext": "수행평가",
+  "responseType": "서술형",
+  "taskPattern": "context_compute_judge",
+  "competencies": ["추론", "문제해결"],
+  "maxScore": 10,
+  "unitPolicy": "평가하지 않음",
+  "intent": "부채꼴의 호의 길이와 넓이를 구하는 과정을 이해하고, 반지름이 달라질 때 넓이가 어떻게 변하는지 수학적 근거로 판단하는지 평가한다. 1-1은 C~E 수준, 1-2는 A~B 수준을 겨냥한다.",
+  "numberBinding": {
+    "specId": "sector_arc_area_v1",
+    "values": {"r": 6, "theta": 120}
+  },
+  "stimulus": {
+    "text": "학교 축제에서 반지름이 6 cm인 원 모양의 케이크를 중심각이 120°인 부채꼴 모양 조각으로 나누어 판매하려고 한다. 조각 A는 이 케이크에서 잘라낸 한 조각이고, 조각 B는 반지름이 12 cm인 케이크에서 같은 중심각으로 잘라낸 조각이다.",
+    "figures": [
+      {"id": "F1", "type": "circle_sector", "params": {"radius": 6, "angle": 120, "labels": ["O", "A", "B"], "show": ["radius", "angle"]}, "caption": "조각 A"}
+    ],
+    "tables": []
+  },
+  "subQuestions": [
+    {
+      "no": "1-1",
+      "prompt": "조각 A의 호의 길이와 넓이를 구하시오. 풀이 과정을 함께 쓰시오.",
+      "answerType": "값",
+      "conditions": [],
+      "maxScore": 4,
+      "targetLevels": ["D", "E", "C"],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "부채꼴의 호의 길이 구하기",
+          "standardCodes": ["9수03-06"],
+          "scoringElements": [
+            {"text": "호의 길이를 식과 함께 구하기", "maxScore": 2, "levels": [
+              {"score": 2, "descriptors": ["중심각에 비례하는 관계를 이용해 호의 길이를 식과 함께 정확하게 구함."]},
+              {"score": 1, "descriptors": ["호의 길이를 구하는 식은 세웠으나 계산에 오류가 있거나 식을 쓰지 않음."]}
+            ]}
+          ]
+        },
+        {
+          "text": "부채꼴의 넓이 구하기",
+          "standardCodes": ["9수03-06"],
+          "scoringElements": [
+            {"text": "넓이를 식과 함께 구하기", "maxScore": 2, "levels": [
+              {"score": 2, "descriptors": ["중심각에 비례하는 관계를 이용해 넓이를 식과 함께 정확하게 구함."]},
+              {"score": 1, "descriptors": ["넓이를 구하는 식은 세웠으나 계산에 오류가 있거나 식을 쓰지 않음."]}
+            ]}
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-2",
+      "prompt": "지민이는 \"조각 B의 반지름이 조각 A의 2배이므로, 조각 B의 넓이도 조각 A의 넓이의 2배이다.\"라고 말했다. 지민이의 말이 옳은지 판단하고, 〈조건〉에 맞게 그 이유를 설명하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {"id": "C1", "text": "조각 A와 조각 B의 넓이를 각각 구하여 비교할 것"}
+      ],
+      "maxScore": 6,
+      "targetLevels": ["A", "B"],
+      "dependsOn": ["1-1"],
+      "evaluationElements": [
+        {
+          "text": "반지름이 다른 부채꼴의 넓이 비교하여 판단하기",
+          "standardCodes": ["9수03-06"],
+          "scoringElements": [
+            {"text": "조각 B의 넓이 구하기", "maxScore": 2, "levels": [
+              {"score": 2, "descriptors": ["조각 B의 넓이를 식과 함께 정확하게 구함."]},
+              {"score": 1, "descriptors": ["조각 B의 넓이를 구하는 식은 세웠으나 계산에 오류가 있음."]}
+            ]},
+            {"text": "주장 판단과 근거 설명하기", "maxScore": 4, "levels": [
+              {"score": 4, "descriptors": ["두 조각의 넓이를 비교해 지민이의 말이 옳지 않음을 판단하고, 반지름이 2배이면 넓이가 4배가 되는 이유를 수학적으로 설명함."]},
+              {"score": 3, "descriptors": ["지민이의 말이 옳지 않음을 판단하고 넓이를 비교했으나 4배가 되는 이유 설명이 일부 부족함."]},
+              {"score": 2, "descriptors": ["지민이의 말이 옳지 않다고만 판단하거나, 앞에서 구한 값을 근거로 비교는 했으나 판단과 이유가 일부 어긋남."]},
+              {"score": 1, "descriptors": ["판단을 하지 못했거나 근거 없이 판단함."]}
+            ], "conditionRefs": ["C1"]}
+          ]
+        }
+      ]
+    }
+  ],
+  "solutionMethods": [
+    {"id": "M1", "name": "공식 이용", "summary": "호의 길이 l = 2πr·(x/360), 넓이 S = πr²·(x/360)에 수를 대입한다."},
+    {"id": "M2", "name": "비례식 이용", "summary": "부채꼴의 호의 길이와 넓이는 중심각에 정비례하므로 원 전체와의 비례식을 세워 구한다."}
+  ],
+  "modelAnswers": [
+    {
+      "subNo": "1-1",
+      "methods": [
+        {"methodId": "M1", "text": "호의 길이는 2π×6×(120/360) = 4π (cm), 넓이는 π×6²×(120/360) = 12π (cm²)이다.",
+         "checks": [
+           {"label": "호의 길이", "expr": "2*pi*r*theta/360", "vars": {"r": 6, "theta": 120}, "expected": "4*pi"},
+           {"label": "넓이", "expr": "pi*r**2*theta/360", "vars": {"r": 6, "theta": 120}, "expected": "12*pi"}
+         ]},
+        {"methodId": "M2", "text": "호의 길이를 l이라 하면 l : 2π×6 = 120 : 360이므로 l = 4π (cm). 넓이를 S라 하면 S : π×6² = 120 : 360이므로 S = 12π (cm²)이다.",
+         "checks": [
+           {"label": "호의 길이(비례식)", "expr": "2*pi*r*(theta/360)", "vars": {"r": 6, "theta": 120}, "expected": "4*pi"}
+         ]}
+      ]
+    },
+    {
+      "subNo": "1-2",
+      "methods": [
+        {"methodId": "M1", "text": "조각 B의 넓이는 π×12²×(120/360) = 48π (cm²)이다. 조각 A의 넓이 12π (cm²)의 2배는 24π (cm²)인데 조각 B의 넓이는 48π (cm²)이므로 지민이의 말은 옳지 않다. 넓이는 반지름의 제곱에 비례하므로 반지름이 2배이면 넓이는 4배가 된다.",
+         "checks": [
+           {"label": "조각 B의 넓이", "expr": "pi*(2*r)**2*theta/360", "vars": {"r": 6, "theta": 120}, "expected": "48*pi"},
+           {"label": "넓이의 비", "expr": "(pi*(2*r)**2*theta/360) / (pi*r**2*theta/360)", "vars": {"r": 6, "theta": 120}, "expected": "4"}
+         ]},
+        {"methodId": "M2", "text": "중심각이 같은 두 부채꼴의 넓이는 각각의 원의 넓이에 같은 비율(120/360 = 1/3)을 곱한 것이다. 조각 A가 속한 원의 넓이는 36π (cm²), 조각 B가 속한 원의 넓이는 144π (cm²)이므로 조각 A의 넓이는 12π (cm²), 조각 B의 넓이는 48π (cm²)이다. 48π는 12π의 4배이므로 지민이의 말은 옳지 않다.",
+         "checks": [
+           {"label": "조각 B가 속한 원의 넓이", "expr": "pi*(2*r)**2", "vars": {"r": 6}, "expected": "144*pi"},
+           {"label": "조각 B의 넓이(비율 이용)", "expr": "pi*(2*r)**2*(theta/360)", "vars": {"r": 6, "theta": 120}, "expected": "48*pi"}
+         ]}
+      ]
+    }
+  ],
+  "scoringNotes": [
+    "수와 식으로 표현한 문제해결 과정이 수학적으로 논리적이면 예시답안과 달라도 정답으로 인정한다.",
+    "성취기준이 호의 길이와 넓이를 구하는 것이므로 단위 표기는 평가하지 않는다.",
+    "1-1의 값이 틀렸더라도 그 값을 바탕으로 1-2의 비교와 판단이 논리적이면 1-2의 해당 수준 점수를 부여한다."
+  ],
+  "teacherChecks": [
+    {"id": "T1", "text": "π를 3.14 등 근삿값으로 계산한 답을 인정할지 사전에 협의한다.", "subNos": ["1-1", "1-2"]},
+    {"id": "T2", "text": "1-2에서 '반지름이 2배이면 넓이가 4배'라는 결론만 쓰고 계산 근거가 없는 경우의 점수(수준 2)를 교사 간 협의한다.", "subNos": ["1-2"]}
+  ],
+  "feedbackNotes": [
+    "호의 길이와 넓이가 중심각에 비례하는 이유를 원 전체와의 비율로 다시 설명해 보게 한다.",
+    "반지름이 달라질 때 길이와 넓이가 각각 어떻게 변하는지 표로 정리해 비교해 보게 한다."
+  ],
+  "review": {"status": "unreviewed", "reviewedBy": null},
+  "generationMeta": {"model": null, "createdAt": null, "note": "손으로 작성한 구조 예시"}
+}

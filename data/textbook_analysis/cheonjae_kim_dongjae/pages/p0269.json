@@ -1,0 +1,170 @@
+{
+ "printedPage": "269",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$150^{\\text{이상}} \\sim 200^{\\text{미만}}$",
+   "meaning": "계급의 범위 표기(이상~미만)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x$",
+   "meaning": "자료에서 값을 모르는 변량",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 자료 A, B(각 6개 값)의 중앙값과 최빈값을 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "9명의 여행 횟수 자료(1, 8, 4, 2, x, 4, 2, 1, 9)에서 최빈값이 4회일 때 중앙값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "대출한 책 수의 줄기와 잎 그림을 읽고 보기 ①~⑤ 중 옳지 않은 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "300 L 이상인 가구가 전체의 45 %임을 이용해 전체 가구 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사용량이 250 L 이상 300 L 미만인 가구 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사용량이 6번째로 많은 가구가 속하는 계급을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "자료 A, B의 변량이 각각 3행×2열로 적힌 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "여행 횟수 9개 변량(x 포함)을 나열한 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "대출한 책의 수를 나타낸 줄기와 잎 그림(0|2는 2권)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "수돗물 사용량 도수분포표(250~300 계급과 합계의 가구 수는 비어 있음)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "여행 횟수",
+  "학교 도서관 대출 책 수",
+  "수돗물 사용량"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 문제 쪽이며 새로 정의되는 용어는 없다. 소단원 번호는 보이지 않는다. 문항 번호는 이미지 기준 1~6이다(글자층에서는 순서가 뒤섞여 있음). 4~6번은 공통 자료로 묶인 문제이고, 문항별 역량 아이콘은 보이지 않는다(와이파이 모양 표시만 있음).",
+ "_page": 269,
+ "_usage": {
+  "in": 4770,
+  "out": 1410,
+  "sec": 9.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

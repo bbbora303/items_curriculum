@@ -1,0 +1,133 @@
+{
+ "printedPage": "234",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "창의 융합 컴퓨팅 - 회전체 그리기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평면도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "",
+   "plain": "3차원 기하 창에서 평면을 움직여 축을 맞추고, 빨간색 축을 회전축으로 평면도형을 그린 뒤 회전면 도구로 한 바퀴 돌려 회전체를 그린다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "회전체 그리기 따라하기 ➊~➌",
+   "summary": "컴퓨터 프로그램(기하 창)에서 평면도형을 그리고 회전면 도구로 회전체를 만드는 3단계 절차를 화면 그림과 함께 보여 준다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "(1)",
+   "level": "활동",
+   "verb": "그려 보자",
+   "summary": "회전축 옆에 있는 원을 회전축을 중심으로 한 바퀴 돌릴 때 생기는 회전체를 컴퓨터 프로그램으로 그린다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "(2)",
+   "level": "활동",
+   "verb": "그려 보자",
+   "summary": "회전축에 걸쳐 기울어진 직사각형을 회전축을 중심으로 한 바퀴 돌릴 때 생기는 회전체를 컴퓨터 프로그램으로 그린다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "3차원 기하 창 화면에서 빨간색·초록색 축과 격자 평면이 보이는 캡처",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "기하 창에 빨간 축 기준으로 그려진 직사각형 평면도형의 캡처",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원기둥 모양의 회전체가 그려진 화면과 이를 비스듬히 본 화면",
+   "_raw": "기타",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "(1) 회전축 왼쪽에 떨어져 있는 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "(2) 회전축과 겹쳐 기울어진 직사각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "컴퓨터 프로그램(3차원 기하 소프트웨어)",
+  "QR 활동 영상"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "창의 융합 컴퓨팅 코너. 새 용어 정의는 없고 앞에서 배운 회전체 개념을 사용한다. 도구 이름(대수, 도구, 다각형, 회전면, 이동)은 소프트웨어 메뉴. 역량 아이콘은 쪽에 명확히 보이지 않아 문제 성격으로 추정했다. 대단원은 쪽 하단 'V. 도형의 성질'과 회전체 내용을 근거로 '입체도형의 성질'로 판단했다.",
+ "_page": 234,
+ "_usage": {
+  "in": 4301,
+  "out": 1261,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

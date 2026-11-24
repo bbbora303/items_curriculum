@@ -1,0 +1,157 @@
+{
+ "printedPage": "151",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.3 위치 관계",
+  "area": "개념 설명 / 생각2 함께해요"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "평행",
+   "role": "정의",
+   "definition": "한 평면 위에 있는 두 직선이 만나지 않을 때 두 직선은 서로 평행하다고 한다.",
+   "notation": "$l \\\\parallel m$"
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "정의",
+   "definition": "공간에서 두 직선이 만나지도 않고 평행하지도 않을 때 두 직선은 꼬인 위치에 있다고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "한 평면에서 두 직선의 위치 관계",
+   "role": "정의",
+   "definition": "한 평면에서 두 직선의 위치 관계는 한 점에서 만난다, 일치한다, 평행하다의 세 가지이다.",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l \\\\parallel m$",
+   "meaning": "직선 l과 m이 서로 평행하다",
+   "role": "정의"
+  },
+  {
+   "symbol": "$l, m, n, p$",
+   "meaning": "직선의 이름",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 평면 위의 두 직선 $l, m$이 만나지 않으면 $l \\\\parallel m$",
+   "plain": "같은 평면 위에서 만나지 않는 두 직선은 평행하다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "한 평면에서 두 직선: 한 점에서 만난다 / 일치한다 / 평행하다",
+   "plain": "한 평면 위의 두 직선의 위치 관계는 세 가지뿐이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 평면 위에서 두 직선이 만난다 = 한 점에서 만나거나 일치한다",
+   "plain": "한 평면 위에서 만나는 경우는 한 점에서 만나거나 일치하는 경우이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "꼬인 위치: 만나지도 않고 평행하지도 않음",
+   "plain": "공간에서 만나지도 평행하지도 않은 두 직선은 꼬인 위치에 있다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "꼬인 위치에 있는 두 직선은 한 평면 위에 있지 않다.",
+   "plain": "꼬인 위치의 두 직선은 같은 평면에 놓일 수 없다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "꼬인 위치의 예",
+   "summary": "함께해요의 정류장 그림에서 직선 l과 직선 p는 꼬인 위치에 있다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "쓰시오(빈칸 채우기)",
+   "summary": "정류장 그림에서 직선 l과 만나는 직선은 n이고, 직선 l과 평행한 직선을 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "함께해요 2",
+   "level": "활동",
+   "verb": "쓰시오(빈칸 채우기)",
+   "summary": "직선 l과 만나지도 않고 평행하지도 않은 직선을 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "한 평면에서 두 직선의 위치 관계(한 점에서 만난다, 일치한다, 평행하다)를 보여 주는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정류장 기둥을 따라 직선 l, m, n, p가 그려진 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "평행한 두 직선을 화살표로 나타낸 옆단 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "버스 정류장"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 윗부분은 앞 쪽에서 이어지는 평행 정의 부분이다. 중단원 '생각2' 도입 활동이 이 쪽에서 시작된다. 평행 기호는 이미지에서 $l \\\\parallel m$으로 읽었다(글자층에는 l|m으로 나옴).",
+ "_page": 151,
+ "_profile": "full",
+ "_usage": {
+  "in": 4571,
+  "out": 1592,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

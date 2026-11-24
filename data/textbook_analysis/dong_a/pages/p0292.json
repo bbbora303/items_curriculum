@@ -1,0 +1,236 @@
+{
+ "printedPage": "292",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.3 위치 관계 / 5.4 평행선의 성질 / 5.5 삼각형의 작도 (정답 및 풀이)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l \\parallel m$",
+   "meaning": "두 직선 l, m이 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$m \\perp P$",
+   "meaning": "직선 m과 평면 P가 수직이다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l \\parallel m \\Rightarrow$ 동위각의 크기가 같다, 엇각의 크기가 같다",
+   "plain": "두 직선이 평행하면 동위각과 엇각의 크기가 각각 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle x=\\angle a+\\angle b$",
+   "plain": "꺾인 점을 지나 두 직선에 평행한 직선을 그어 엇각을 이용해 각의 크기를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "",
+   "plain": "가로의 선들과 만나는 직선을 긋고 동위각 또는 엇각의 크기를 비교해 평행을 확인한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기 5.3 (1) 예시",
+   "summary": "한 직선에 수직인 두 직선이 평행하지 않을 수도 있는 예시 그림",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 넓히기 5.3 (2) 예시",
+   "summary": "한 평면에 평행한 두 직선이 평행하지 않을 수도 있는 예시 그림",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 넓히기 5.4 예시",
+   "summary": "동위각의 크기가 모두 같아 가로의 선들이 서로 평행함을 확인",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "해결해요 6 풀이",
+   "summary": "평행선을 그어 엇각으로 ∠a=35°, ∠b=25°, ∠x=60°을 구함",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "5.3 문제 1",
+   "level": "기본",
+   "verb": "답",
+   "summary": "직육면체 모서리와의 위치 관계에 해당하는 모서리 나열 (정답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "5.3 문제 2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "면·모서리의 위치 관계에 해당하는 면과 모서리 (정답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "5.3 해결해요 1~5",
+   "level": "기본",
+   "verb": "답",
+   "summary": "점·직선·평면의 위치 관계 정답과 풀이(꼬인 위치 모서리 조건 찾기 포함)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "5.4 문제 1~3",
+   "level": "기본",
+   "verb": "답",
+   "summary": "동위각·엇각 지목 및 평행선에서 각의 크기 (∠a=60°, ∠b=120° 등)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "5.4 해결해요 1~6",
+   "level": "기본",
+   "verb": "답",
+   "summary": "동위각·엇각, 평행 판단(○×), 꺾인 선에서 각 구하기 정답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "5.5 함께해요 1, 2 / 문제 1",
+   "level": "활동",
+   "verb": "답",
+   "summary": "선분 옮기기와 각 옮기기 작도 순서 번호 표시",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "직육면체와 평면 위 두 직선의 예시 그림(5.3 생각 넓히기)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "가로 선들과 비스듬한 직선이 만나는 동위각 표시 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "35°, 25°가 표시된 꺾인 선과 두 평행선 l, m",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "선분 AB를 옮기는 작도와 각 XOY를 옮기는 작도 순서 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "서술형 채점 기준표(맞꼭지각의 뜻 30%, 맞꼭지각이 아님 설명 70%)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "케이블카 선",
+  "산책로"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 새로운 개념 도입은 없음. 5.3, 5.4, 5.5 소단원의 정답이 섞여 있고 쪽 맨 위의 채점 기준표는 이전 쪽에서 이어짐. 쪽 번호 292는 '정답 및 풀이' 부록의 일부.",
+ "_page": 292,
+ "_profile": "full",
+ "_usage": {
+  "in": 5385,
+  "out": 2081,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

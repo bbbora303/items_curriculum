@@ -1,0 +1,172 @@
+{
+ "printedPage": "149",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "1. 기본 도형",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점묘법",
+   "role": "정의",
+   "definition": "선과 면이 아닌 무수히 많은 작은 색점을 찍어서 표현하는 화법이다.",
+   "notation": ""
+  },
+  {
+   "term": "픽셀(화소)",
+   "role": "정의",
+   "definition": "디지털 이미지를 이루는 작은 점이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "찾아보고, 비교하시오",
+   "summary": "그림 (1) 축구장, (2) 육각기둥 모양 물체에서 점, 선, 면으로 볼 수 있는 것을 찾아 친구들과 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "찾아보시오",
+   "summary": "교실에서 점, 선, 면으로 볼 수 있는 것을 각각 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "오각별 모양 그림에서 교점의 개수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "삼각뿔에서 교점과 교선의 개수를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "점으로만 이루어진 미술 작품 찾기",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "점으로만 이루어진 미술 작품을 찾아본다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "초록색 축구장 그림",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "나무 바닥 위에 놓인 육각기둥 모양의 흰색 물체",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분으로 그려진 오각별",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각뿔 입체도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점묘화 '즐거운 우리집'과 돋보기",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "강아지 사진을 확대해 픽셀로 보여 주는 스마트폰 화면",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "축구장",
+  "점묘화",
+  "디지털 이미지(픽셀)",
+  "미술 작품"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 '기본 도형' 단원 안의 배우고 익히기(탐구형 문제)와 와글와글 수학 이야기(읽기자료)가 한 쪽에 함께 있다. 쪽 아래에 '1. 기본 도형'이 인쇄되어 있다. 점·선·면·교점·교선은 이 쪽에서 정의되지 않고 사용만 되므로 role을 사용으로 둔다. 문제 1+, 2+의 '+' 표시는 심화 문항으로 해석했다.",
+ "_page": 149,
+ "_usage": {
+  "in": 4486,
+  "out": 1383,
+  "sec": 9.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

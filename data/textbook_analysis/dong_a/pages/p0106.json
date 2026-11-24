@@ -1,0 +1,99 @@
+{
+ "printedPage": "106",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "나의 미래(진로 읽기 자료)"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "작업 치료사",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "운동 강도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "목표 심장 박동 수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a$",
+   "meaning": "나이(세)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$b$",
+   "meaning": "안정 상태에서의 1분당 심장 박동 수(회)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$c\\\\%$",
+   "meaning": "운동 강도",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\\\frac{c}{100}(220-a-b)+b$ (회)",
+   "plain": "나이 a세, 안정 시 심장 박동 수 b회, 운동 강도 c%일 때 1분당 목표 심장 박동 수를 문자를 사용한 식으로 나타낸 것이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "작업 치료사와 환자가 운동 기구로 재활 운동을 하는 모습의 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "젓가락을 쥔 손과 퍼즐 조각을 쥔 손의 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "1분당 목표 심장 박동 수를 구하는 식이 적힌 판",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "작업 치료사 직업",
+  "재활 운동",
+  "운동 강도와 목표 심장 박동 수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 내용 학습 쪽이 아니라 문자를 사용한 식이 실제 직업에서 쓰이는 사례를 소개하는 진로 연계 쪽이다. 새로 정의하는 수학 용어는 없고, 문자를 사용한 식(분수 꼴 계수, 괄호가 있는 식)이 이미 배운 것처럼 쓰인다. 소단원 번호는 보이지 않는다. 쪽 아래에 '3. 문자의 사용과 식'이 표시되어 있다.",
+ "_page": 106,
+ "_profile": "full",
+ "_usage": {
+  "in": 4476,
+  "out": 858,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,76 @@
+{
+ "printedPage": "238",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "나의 미래(진로 읽기자료)"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "에코 제품 디자이너",
+   "role": "정의",
+   "definition": "아름다움과 기능성뿐만 아니라 친환경적인 요소를 고려하여 제품을 디자인하는 사람이다.",
+   "notation": ""
+  },
+  {
+   "term": "평면도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "입체도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "여러 손이 둘러싼 가운데 재활용 표시, 나무, 옷감을 자르고 재는 사람들, 곰 인형, 의자가 있는 에코 제품 제작 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "에코 제품 디자이너",
+  "친환경 재료(옥수수 플라스틱, 나무, 재활용 종이)",
+  "제품 제작과 폐기물 줄이기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 학습 내용이 아닌 진로 소개 쪽이다. 수학 용어는 정의 없이 사용만 되었다. 소단원 번호와 제목은 보이지 않는다. 쪽 아래에 '7. 입체도형의 성질'이 표시되어 있다.",
+ "_page": 238,
+ "_profile": "full",
+ "_usage": {
+  "in": 4650,
+  "out": 595,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

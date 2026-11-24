@@ -1,0 +1,176 @@
+{
+ "printedPage": "48",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "예제, 문제, 생각 2, 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "덧셈의 교환법칙",
+   "role": "정의",
+   "definition": "두 수의 순서를 바꾸어 더해도 그 결과는 같다는 법칙이다.",
+   "notation": "$a+b=b+a$"
+  },
+  {
+   "term": "덧셈의 결합법칙",
+   "role": "정의",
+   "definition": "세 수의 덧셈에서 어느 두 수를 먼저 더해도 그 결과는 같다는 법칙이다.",
+   "notation": "$(a+b)+c=a+(b+c)$"
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(a+b)+c$",
+   "meaning": "a와 b를 먼저 더한 뒤 c를 더함",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a+(b+c)$",
+   "meaning": "b와 c를 먼저 더한 뒤 a를 더함",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a+b+c$",
+   "meaning": "결합법칙이 성립하므로 괄호 없이 나타낸 세 수의 합",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a+b=b+a$",
+   "plain": "두 수를 더할 때 순서를 바꾸어도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$(a+b)+c=a+(b+c)$",
+   "plain": "세 수를 더할 때 어느 두 수를 먼저 더해도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "같은 부호의 두 수의 합: 부호는 그대로, 절댓값의 합",
+   "plain": "예제 1 풀이에서 같은 부호의 두 수는 절댓값의 합에 공통 부호를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "다른 부호의 두 수의 합: 절댓값의 차에 절댓값이 큰 수의 부호",
+   "plain": "예제 1(2) 풀이에서 부호가 다른 두 수는 절댓값의 차에 절댓값이 큰 수의 부호를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "분수와 소수로 된 유리수 두 수의 덧셈을 계산한다: (1) $(-\\frac{5}{4})+(-\\frac{3}{2})$, (2) $(+1.6)+(-4.3)$",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각 2 (+4와 -1의 덧셈)",
+   "summary": "(+4)+(-1)과 (-1)+(+4)가 모두 +3이므로 교환법칙이 성립함을 확인한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 2 (-3, +2, +5의 덧셈)",
+   "summary": "괄호를 묶는 방법을 달리해도 결과가 +4로 같으므로 결합법칙이 성립함을 확인한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(+\\frac{1}{3})+(+\\frac{2}{7})$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-1.2)+(-0.4)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-2.7)+(+1.5)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(+\\frac{7}{15})+(-\\frac{3}{5})$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "덧셈의 계산 법칙(교환법칙, 결합법칙)을 정리한 박스",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "예제 풀이에서 부호와 절댓값의 합·차를 색 동그라미와 화살표 주석으로 표시함",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 예제 1의 풀이는 '절댓값의 합'과 '절댓값의 차' 주석이 있음. 옆 설명 상자에서 괄호 없이 a+b+c로 나타낼 수 있다고 안내함.",
+ "_page": 48,
+ "_profile": "full",
+ "_usage": {
+  "in": 4651,
+  "out": 1763,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

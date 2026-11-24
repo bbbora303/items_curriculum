@@ -1,0 +1,63 @@
+{
+  "note": "교과서 반영도 측정 세트 v1 (2026-10-22). 같은 성취기준·난이도(보통)·시드로 미선택·천재·동아 문항을 비교한다. 문항은 생성 시점의 코드 버전이 달라(소재 지정·풀이 판정 도입 전후) 소재 일치는 y_ 이후 문항만 의미가 있다. 회귀 시험은 같은 조건으로 다시 생성한 문항 폴더 이름을 이 목록에 새 세트로 추가해 비교한다.",
+  "items": [
+    {
+      "label": "none_check"
+    },
+    {
+      "label": "cheonjae_v2"
+    },
+    {
+      "label": "dong_a_v2"
+    },
+    {
+      "label": "x90204_none"
+    },
+    {
+      "label": "x90204_cheonjae_kim_dongjae"
+    },
+    {
+      "label": "x90204_dong_a"
+    },
+    {
+      "label": "x90308_none"
+    },
+    {
+      "label": "x90308_cheonjae_kim_dongjae"
+    },
+    {
+      "label": "x90308_dong_a"
+    },
+    {
+      "label": "z_0305_none"
+    },
+    {
+      "label": "z_0305_dong_a"
+    },
+    {
+      "label": "w_0308_none"
+    },
+    {
+      "label": "w_0308_cheonjae"
+    }
+  ],
+  "repeats": [
+    [
+      "dong_a_check",
+      "dong_a_v2"
+    ],
+    [
+      "dong_a_v2",
+      "z_0305_dong_a"
+    ],
+    [
+      "y_0305_dong_a",
+      "z_0305_dong_a"
+    ],
+    [
+      "none_check",
+      "z_0305_none"
+    ]
+  ],
+  "repeatsNote": "같은 성취기준·책·시드로 다시 생성한 문항 쌍. 책이 같아도 생성할 때마다 달라지는 정도(잡음 바닥)를 잰다. 책 사이 차이가 이보다 확실히 낮아야 '책에 따라 달라졌다'고 말할 수 있다."
+}

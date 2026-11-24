@@ -1,0 +1,188 @@
+{
+ "printedPage": "119",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.2 그래프의 뜻과 표현",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "속력",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이동 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "자동차의 시간에 따른 속력 그래프(보기 ㄱ~ㄷ) 중 (1) 속력을 늦추다가 일정하게 달림, (2) 일정하게 달리다 서서히 멈춤, (3) 일정한 속력으로 달림에 알맞은 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "현서가 자전거를 타고 달린 시간에 따른 이동 거리 그래프의 구간 ①~⑤에 대한 설명 중 옳은 것을 보기 ㄱ~ㅁ에서 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3-(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "회전목마의 시간에 따른 높이 그래프에서 가장 높이 올라갔을 때의 높이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3-(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "운행 시작 4초 후의 높이를 그래프에서 읽는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3-(3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "10초 동안 높이가 1.5 m인 경우가 몇 번인지 그래프에서 센다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4-(1)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "서현이와 지원이의 이동 거리 그래프에서 출발 후 처음 다시 만나는 시각을 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4-(2)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "10 km 결승점에 누가 먼저 도착했는지 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4-(3)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "출발 30분 후 두 사람의 거리 차이를 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "보기 ㄱ~ㄷ: 시간에 따른 속력 그래프 세 개(일정, 감소 후 일정, 일정 후 감소)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "현서의 시간에 따른 이동 거리 그래프(구간 ①~⑤로 나뉨)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "회전목마의 시간에 따른 높이 변화를 나타낸 물결 모양 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "서현과 지원의 시간에 따른 이동 거리 그래프 두 개",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "회전목마에 탄 아이 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "자동차 속력",
+  "자전거 이동 거리",
+  "회전목마 높이",
+  "10 km 달리기 대회"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "4.2 '해결해요' 쪽(단원 4 좌표평면과 그래프). 1번에는 우수/보통/분발 자기 점검 표시가 있고, 4번에는 서술형·문제해결·연결 아이콘이 있다. 상단 안내: 4.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙인다. 1~3번에는 역량 아이콘이 없다.",
+ "_page": 119,
+ "_profile": "full",
+ "_usage": {
+  "in": 5017,
+  "out": 1666,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

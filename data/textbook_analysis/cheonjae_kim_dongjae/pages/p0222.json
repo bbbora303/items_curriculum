@@ -1,0 +1,172 @@
+{
+ "printedPage": "222",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "기둥의 부피는 어떻게 구할까?",
+  "area": "생각 열기 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "기둥의 부피",
+   "role": "정의",
+   "definition": "기둥의 부피는 밑넓이와 높이의 곱으로 구한다.",
+   "notation": "(기둥의 부피)=(밑넓이)\\times(높이)"
+  },
+  {
+   "term": "삼각기둥의 부피",
+   "role": "정의",
+   "definition": "삼각기둥의 부피는 같은 크기의 직육면체 부피의 $\\frac{1}{2}$이며, 밑넓이와 높이의 곱과 같다.",
+   "notation": ""
+  },
+  {
+   "term": "각기둥의 부피",
+   "role": "정의",
+   "definition": "각기둥을 여러 개의 삼각기둥으로 나누어 그 부피를 합하면 밑넓이와 높이의 곱이 된다.",
+   "notation": ""
+  },
+  {
+   "term": "원기둥의 부피",
+   "role": "정의",
+   "definition": "각기둥의 변의 개수를 한없이 늘리면 원기둥에 가까워지므로 같은 방법으로 밑넓이와 높이의 곱이다.",
+   "notation": ""
+  },
+  {
+   "term": "직육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(삼각기둥의 부피)=\\frac{1}{2}\\times(직육면체의 부피)=(삼각기둥의 밑넓이)\\times(높이)",
+   "plain": "삼각기둥의 부피는 직육면체 부피의 절반이고, 밑넓이×높이와 같다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(각기둥의 부피)=(밑넓이)\\times(높이)",
+   "plain": "각기둥은 삼각기둥 여러 개로 나누어 합하면 밑넓이×높이이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(원기둥의 부피)=(밑넓이)\\times(높이)",
+   "plain": "정다각형 밑면 각기둥의 변 수를 한없이 늘리면 원기둥에 가까워지므로 같은 공식이 성립한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(기둥의 부피)=(밑넓이)\\times(높이)",
+   "plain": "모든 기둥의 부피는 밑넓이와 높이의 곱이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "구하시오(몇 배인가?)",
+   "summary": "〈그림 1〉의 삼각기둥의 부피는 직육면체 부피의 몇 배인지 답한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "〈그림 1〉과 〈그림 2〉의 삼각기둥의 부피가 같은지 판단하고 까닭을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "모양과 크기가 같은 두 직육면체와 그 안에 삼각기둥을 나타낸 〈그림 1〉, 〈그림 2〉",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "사각기둥 등 각기둥을 여러 개의 삼각기둥으로 나누는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원기둥 안에 꼭 맞는 정다각형 밑면의 각기둥 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "장식",
+   "desc": "딸기·체리 등이 올려진 케이크 조각 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "케이크(장식 사진)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이 아니라 소단원 내부의 개념 설명 쪽이다. 쪽 아래 'V. 도형의 성질'은 이 교과서 대단원 목록('입체도형의 성질')과 이름이 다르며, 내용상 입체도형의 성질 단원으로 판단했다. 소단원 번호는 보이지 않아 소제목만 적었다.",
+ "_page": 222,
+ "_usage": {
+  "in": 4729,
+  "out": 1692,
+  "sec": 9.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

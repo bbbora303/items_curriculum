@@ -1,0 +1,182 @@
+{
+ "printedPage": "299",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "정답과 해설 (역량 쑥쑥 수학 더하기 182~183쪽, 중단원 마무리 184~185쪽, 창의 융합 컴퓨팅 186쪽의 해설)"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "삼각형이 하나로 작도되지 않는 경우",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "ASA 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC\\equiv\\triangle DEF$",
+   "meaning": "두 삼각형이 합동임",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}/\\!/\\overline{ED}$",
+   "meaning": "두 선분이 평행함",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle B=\\angle E$",
+   "meaning": "두 각의 크기가 같음",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "세 각의 크기만 주어지면 삼각형이 하나로 작도되지 않는다",
+   "plain": "세 각의 크기가 같아도 변의 길이가 다른 삼각형이 여러 개 가능하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 변의 길이와 그 끼인각이 아닌 한 각이 주어지면 삼각형이 하나로 작도되지 않는다",
+   "plain": "끼인각이 아닌 각이 주어지면 모양이 다른 삼각형이 가능하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 변의 길이와 그 양 끝 각이 아닌 두 각이 주어지면 삼각형이 하나로 작도되지 않는다",
+   "plain": "양 끝 각이 아닌 각이 주어지면 삼각형이 하나로 정해지지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle ABC=\\angle DEF$, $\\angle ACB=\\angle DFE$(엇각), $\\overline{BC}=\\overline{EF}$ → ASA 합동",
+   "plain": "평행선의 엇각과 한 변의 길이가 같음을 이용해 ASA 합동을 보인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시 (1번 해설)",
+   "summary": "세 각, 끼인각이 아닌 각, 양 끝 각이 아닌 각이 주어진 경우 삼각형이 하나로 작도되지 않음을 그림으로 보임",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "예시 (활동 3, 3번 해설)",
+   "summary": "작도 순서를 번호로 표시한 작도 결과 그림",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "예시 (중단원 마무리 3번 해설)",
+   "summary": "작도 순서(❶~❸)를 번호로 표시한 삼각형 작도 그림",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "예시 (8번 해설)",
+   "summary": "엇각과 변의 길이가 같음으로 ASA 합동을 설명함",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "각의 크기만 같고 크기가 다른 삼각형들, 30°·70°·80° 각을 가진 삼각형 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 변과 끼인각이 아닌 각(30°)이 주어진 삼각형 세 가지 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "한 변 3 cm와 양 끝 각이 아닌 두 각이 주어진 삼각형 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "활동 3 작도 해설: 선분과 호로 표시한 작도 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형 ABC와 DEF 그림 (6번 문제의 해설용)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "7번 해설: 각의 작도 순서를 번호로 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "중단원 마무리 3번 해설 작도 그림(길이 a, a, b)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로 새로 정의되는 개념은 없고 이전 쪽 문제의 답과 풀이만 있다. 1~3번(역량 쑥쑥 수학 더하기), 7~9번 해설, 창의 융합 컴퓨팅(활동 1 방법 1·2, 활동 2)의 해설, 중단원 마무리 1~6번 정답과 '문제 만들기' 문제 하나가 섞여 있다. 일부 답(예: 2번 ❶ △ACD≡△BCE)은 글자층이 깨져 이미지 기준으로 옮겼으며, 확실하지 않을 수 있다. 창의 융합 컴퓨팅 해설에는 컴퓨터 소프트웨어(기하 창, 도구)를 이용한 작도 절차가 나온다.",
+ "_page": 299,
+ "_usage": {
+  "in": 5434,
+  "out": 1966,
+  "sec": 13.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

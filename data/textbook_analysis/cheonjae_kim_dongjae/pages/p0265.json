@@ -1,0 +1,157 @@
+{
+ "printedPage": "265",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "3 우리 반을 대표하는 캐릭터",
+  "area": "역량 쑥쑥 수학 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "인포그래픽",
+   "role": "정의",
+   "definition": "정보(Information)와 그래픽(Graphic)의 합성어로, 통계 등의 정보를 시각화한 것이다.",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "인포그래픽 = 정보(Information) + 그래픽(Graphic)",
+   "plain": "인포그래픽은 통계 등의 정보를 시각화한 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시: 우리 반 대표 캐릭터",
+   "summary": "수면 시간 8시간(평균), 좋아하는 운동 축구(최빈값), 도서관 대출 권수 5권(평균), 등하교 시간 10분(중앙값)을 캐릭터 그림에 담은 인포그래픽이다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "조사해 보자",
+   "summary": "우리 반 학생들을 대상으로 좋아하는 운동·급식 메뉴·과목, 수면 시간, 등하교 시간, 태어난 달, 도서관 대출 권수 등을 함께 조사한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "수집한 자료에서 캐릭터에 필요한 항목을 선택해 대푯값을 구하고, 우리 반 대표 캐릭터를 인포그래픽으로 만든다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 3",
+   "level": "활동",
+   "verb": "토론해 보자",
+   "summary": "모둠별 캐릭터를 소개하고 적절한 대푯값을 이용했는지 토론한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "도넛 모양 그래프와 '하루 중 앉아서 보내는 시간 평균 7.5시간' 인포그래픽 예(출처: 국가데이터처, 2016년).",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "조사 항목(좋아하는 운동, 급식 메뉴, 과목, 수면 시간, 등하교 시간, 태어난 달, 도서관 대출 권수)을 적은 상자.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "'우리 반 대표 캐릭터' 예시 인포그래픽과 학생이 직접 만들 빈 칸.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "학생들이 모둠별로 앉아 토론하는 교실 삽화와 계단 모양 그림.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "우리 반 대표 캐릭터",
+  "수면 시간",
+  "등하교 시간",
+  "도서관 대출 권수",
+  "좋아하는 운동",
+  "하루 중 앉아서 보내는 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 역량 쑥쑥 수학 더하기 코너의 프로젝트 활동 쪽이다. 대푯값(평균, 중앙값, 최빈값)은 이 쪽에서 정의되지 않고 이미 배운 것으로 전제하며, 예시 그림의 작은 글씨로 읽었다.",
+ "_page": 265,
+ "_usage": {
+  "in": 4427,
+  "out": 1455,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

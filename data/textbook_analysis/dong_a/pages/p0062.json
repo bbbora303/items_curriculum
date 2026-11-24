@@ -1,0 +1,125 @@
+{
+ "printedPage": "62",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2. 정수와 유리수 (정수와 유리수의 나눗셈, 사칙계산)",
+  "area": "개념 설명 / 예제 / 문제 / 생각"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "정수와 유리수의 나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\div$"
+  },
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소괄호, 중괄호, 대괄호",
+   "role": "사용",
+   "definition": "",
+   "notation": "( ), \\{ \\}, [ ]"
+  },
+  {
+   "term": "사칙계산(덧셈, 뺄셈, 곱셈, 나눗셈이 섞인 계산)의 순서",
+   "role": "정의",
+   "definition": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식은 괄호 안, 곱셈·나눗셈, 덧셈·뺄셈의 순서로 계산한다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$( \\ ),\\ \\{ \\ \\},\\ [ \\ ]$",
+   "meaning": "소괄호, 중괄호, 대괄호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$(+)\\div(+)=+,\\ (-)\\div(-)=+,\\ (+)\\div(-)=-,\\ (-)\\div(+)=-$",
+   "plain": "두 수의 나눗셈의 부호는 곱셈과 마찬가지로 같은 부호면 +, 다른 부호면 -이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "나눗셈은 나누는 수의 역수를 곱하여 계산한다",
+   "plain": "예제 풀이에서 나눗셈을 역수의 곱셈으로 바꾸어 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "괄호 안 → 곱셈, 나눗셈 → 덧셈, 뺄셈",
+   "plain": "사칙계산이 섞인 식은 괄호 안을 먼저(소괄호, 중괄호, 대괄호 순), 그다음 곱셈·나눗셈, 마지막으로 덧셈·뺄셈을 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "(+6)÷(-15)와 (-5/6)÷(-10/9)를 역수의 곱셈으로 바꾸어 부호를 정하고 계산한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)~(4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "정수, 분수가 섞인 두 수의 나눗셈: (+12)÷(-4), (-6)÷(-8), (+6)÷(-3/2), (-4/5)÷(-2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (1)~(4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수와 소수의 나눗셈: (+5/9)÷(-4/9), (-9/14)÷(+3/7), (+9/8)÷(+6/5), (-1.2)÷(-5/2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "나눗셈의 부호 규칙을 +, - 원 기호와 화살표로 나타낸 그림",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "예제 1 풀이의 약분 표시(작은 숫자)는 일부만 확인했다. '생각 2'는 제목과 계산 순서 안내만 보이고 문제는 없다. 쪽 번호는 인쇄된 62쪽이다.",
+ "_page": 62,
+ "_profile": "full",
+ "_usage": {
+  "in": 4626,
+  "out": 1412,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

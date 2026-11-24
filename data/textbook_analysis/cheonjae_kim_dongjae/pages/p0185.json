@@ -1,0 +1,212 @@
+{
+ "printedPage": "185",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\equiv$",
+   "meaning": "두 도형이 합동임을 나타내는 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\parallel$",
+   "meaning": "두 직선이 평행함",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "세 조건 ㉠(두 변과 끼인각이 아닌 각)·㉡(한 변과 두 각)·㉢(세 변) 중 삼각형 ABC를 하나로 작도할 수 있는 것 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "AE=CE, BE=DE인 그림에서 합동인 두 삼각형을 기호로 나타내고 합동 조건 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "AB=DE, BC=EF일 때 △ABC≡△DEF이기 위해 필요한 조건 한 가지를 모두 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 만들기",
+   "level": "활동",
+   "verb": "만들고 풀어 보자",
+   "summary": "6번에서 밑줄 친 조건을 바꾸어 문제를 만들고 친구와 바꾸어 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "7",
+   "level": "심화(+표시)",
+   "verb": "작도하시오",
+   "summary": "주어진 ∠A, ∠B를 이용하여 ∠A+∠B와 크기가 같은 각 작도하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "AB∥ED, AC∥FD, BF=EC일 때 △ABC≡△DEF인 까닭 설명하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "9",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "정사각형 ABCD에서 BE=CF이고 AE와 BF의 교점이 P일 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "5번: 두 삼각형이 점 E에서 맞닿은 나비 모양 도형(AE=CE, BE=DE 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "6번: 삼각형 ABC와 삼각형 DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "7번: 꼭짓점 A, B를 갖는 두 각",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "8번: 평행선과 같은 길이 표시가 있는 두 삼각형 ABC, DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "9번: 정사각형 ABCD와 선분 AE, BF 및 교점 P, ∠x",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Heart 자기 점검 휴대폰·하트 아이콘 1~9번과 복습 쪽 안내",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Heart: 문항별 복습 쪽 안내",
+   "problemNos": [
+    "1: 173쪽 1",
+    "2: 175쪽 1",
+    "3: 177쪽 2",
+    "4: 177쪽 2, 179쪽 1, 2",
+    "5: 181쪽 1",
+    "6: 181쪽 1",
+    "7: 175쪽 1",
+    "8: 181쪽 1",
+    "9: 181쪽 2"
+   ]
+  }
+ ],
+ "notes": "중단원 마무리 쪽의 일부(4~9번)이며 1~3번은 이 쪽에 없음. 7~9번은 '발전' 표시. 7번 끝에 역량 아이콘(A 모양)이 있으나 정확한 라벨은 읽기 어려움. 5번 합동 기호는 글자층에서 깨져 이미지를 따름. 소단원 번호·제목은 보이지 않음.",
+ "_page": 185,
+ "_usage": {
+  "in": 4659,
+  "out": 1880,
+  "sec": 11.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,254 @@
+{
+ "printedPage": "133",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  },
+  {
+   "term": "x축, y축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x좌표, y좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "여러 상황이나 자료의 변화나 상태를 한눈에 알 수 있도록 좌표평면 위에 점, 직선, 곡선 등으로 나타낸 그림",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "x의 값이 2배, 3배, 4배, …로 변할 때 y의 값도 2배, 3배, 4배, …로 변하는 관계",
+   "notation": "y=ax"
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "x의 값이 2배, 3배, 4배, …로 변할 때 y의 값이 1/2배, 1/3배, 1/4배, …로 변하는 관계",
+   "notation": "y=\\frac{a}{x}"
+  },
+  {
+   "term": "변수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "P(-3,-1)",
+   "meaning": "x좌표가 -3, y좌표가 -1인 점 P",
+   "role": "사용"
+  },
+  {
+   "symbol": "O",
+   "meaning": "원점",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=ax",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{8}{x}",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "좌표평면의 제1~4사분면: (+,+), (-,+), (-,-), (+,-)",
+   "plain": "좌표의 부호에 따라 사분면이 정해진다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "그래프: 변화나 상태를 좌표평면 위에 점, 직선, 곡선으로 나타낸 그림",
+   "plain": "그래프는 변화를 한눈에 보여 주는 그림이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "정비례: x가 2배, 3배, …이면 y도 2배, 3배, …",
+   "plain": "x가 커지는 배수만큼 y도 커지면 정비례이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "반비례: x가 2배, 3배, …이면 y는 \\frac{1}{2}배, \\frac{1}{3}배, …",
+   "plain": "x가 커지는 배수만큼 y가 작아지면 반비례이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "확인 1",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "두 순서쌍 (2,3)과 (3,2)가 서로 같은지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 2",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "원점의 좌표가 (0,0)인지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 3",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "변하는 값을 나타내는 문자를 변수라 하는지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 4",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "y=ax에서 a<0일 때 제1·3사분면을 지나는지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 5",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "x와 y가 반비례할 때 xy의 값이 일정한지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 6",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "y=8/x의 그래프가 점 (2,4)를 지나는지 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "01",
+   "level": "기본",
+   "verb": "모두 고르시오",
+   "summary": "보기 ㄱ~ㄹ 중 좌표축과 사분면에 대한 옳은 설명 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "02",
+   "level": "기본",
+   "verb": "모두 고르면",
+   "summary": "다섯 개의 식 중 점 (2,-1)을 지나는 그래프 2개 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "03",
+   "level": "심화(+표시)",
+   "verb": "옳지 않은 것은",
+   "summary": "집과 도서관 사이 거리-시간 그래프에 대한 설명 중 옳지 않은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "원점, x축, y축, 점 P(-3,-1)와 좌표를 나타낸 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "제1~4사분면과 각 사분면의 좌표 부호를 나타낸 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "시간(분)에 따른 집으로부터의 거리(km)를 나타낸 꺾은선 그래프, 도서관 구간 포함",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "집과 도서관 왕복",
+  "거리와 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 마무리 첫 쪽으로 핵심 개념 정리, 확인 문제, 기본(01~02)·표준(03) 문제가 실려 있다. 소단원 번호는 없다. 03번 그래프의 세부 값은 이미지 해상도상 일부만 읽었다.",
+ "_page": 133,
+ "_profile": "full",
+ "_usage": {
+  "in": 5118,
+  "out": 2249,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

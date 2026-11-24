@@ -1,0 +1,143 @@
+{
+ "printedPage": "31",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "대단원 마무리(서·논술형, 자기 평가)"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "기약분수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "13",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "두 분수 35/12, 56/15의 어느 것에 곱해도 항상 자연수가 되게 하는 가장 작은 기약분수를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "14-(1)",
+   "level": "서술형",
+   "verb": "소인수분해 하시오",
+   "summary": "36, 60, 6, 180을 각각 소인수분해한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "14-(2)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "서로 다른 세 자연수 36, 60, □의 최대공약수가 6, 최소공배수가 180일 때, (1)을 이용하여 □가 될 수 있는 수를 모두 구한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "풀이를 쓰는 빈 답안 칸(연필 표시)이 문제마다 있다.",
+   "_raw": "기타",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "'문제를 더 풀어 볼 수 있어요' QR 코드.",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "소수와 합성수의 뜻을 알고, 소수의 유용성에 관심을 갖기",
+   "problemNos": []
+  },
+  {
+   "concept": "소인수분해의 뜻을 알고, 자연수를 소인수분해 하기",
+   "problemNos": []
+  },
+  {
+   "concept": "소인수분해를 이용하여 최대공약수와 최소공배수 구하기",
+   "problemNos": []
+  }
+ ],
+ "notes": "자기 평가표는 문항 번호 대신 0~100% 색칠 막대로 되어 있어 problemNos를 비웠다. 오른쪽에 기억에 남는 것을 적는 칸과 '부록 1의 붙임딱지를 붙여요' 안내가 있다. 14번 □는 글자층에서 빠져 이미지로 확인했다.",
+ "_page": 31,
+ "_profile": "full",
+ "_usage": {
+  "in": 4347,
+  "out": 1064,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

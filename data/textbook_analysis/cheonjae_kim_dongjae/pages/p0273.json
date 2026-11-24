@@ -1,0 +1,151 @@
+{
+ "printedPage": "273",
+ "unit": {
+  "chapter": "",
+  "section": "몬드리안처럼",
+  "area": "2학기 말 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\overleftrightarrow{AB}"
+  },
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선(수직인 직선)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형(사각형)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\overleftrightarrow{AB}",
+   "meaning": "두 점 A, B를 지나는 직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "그린다",
+   "summary": "기하 창에서 직선 도구와 점 도구로 직선 AB와 점 4개를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "그린다",
+   "summary": "각 점을 지나고 AB에 수직인 직선과 평행한 직선을 수직선·평행선 도구로 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "그리고 색칠한다",
+   "summary": "다각형 도구로 교점들을 연결해 사각형을 그리고 색칠한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "4",
+   "level": "활동",
+   "verb": "완성한다",
+   "summary": "3의 과정을 반복해 점·선·면으로 몬드리안풍 미술 작품을 완성하고 느낌을 친구들과 발표한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "기하 프로그램 화면: 직선 AB와 점 C, D, E, F가 찍힌 모습",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "각 점을 지나는 수직선·평행선이 격자처럼 그려진 화면",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "교점을 연결해 빨간 사각형을 색칠한 화면",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "빨강·파랑·노랑·검정 사각형으로 완성한 몬드리안풍 작품 화면",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "몬드리안 인물 삽화, 붓, 몬드리안풍 배경과 활동 영상 QR코드",
+   "_raw": "사진",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "몬드리안의 미술 작품",
+  "컴퓨터 기하 프로그램(동적 기하 소프트웨어)",
+  "미술과 수학 융합"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "2학기 말 활동 쪽으로 특정 대단원·소단원은 없음. 용어는 새로 정의되지 않고 기하 프로그램 도구로 사용됨. 기하 도구 아이콘 이름(직선, 점, 수직선, 평행선, 다각형)은 작은 글씨로 읽음. 역량 아이콘은 보이지 않음.",
+ "_page": 273,
+ "_usage": {
+  "in": 4442,
+  "out": 1231,
+  "sec": 8.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,222 @@
+{
+ "printedPage": "24",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "쪽 상단 안내",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "해결해요 / 문제를 더 풀어 볼 수 있어요. / 1.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요!",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요",
+   "icons": [
+    "해당하는 곳에 색칠해요(우수·보통·분발 표정 3개)"
+   ],
+   "level": "기본",
+   "text": "다음 두 수의 최대공약수를 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2^2\\times 3$, $3^3\\times 7$"
+    },
+    {
+     "label": "(2)",
+     "text": "$2^2\\times 3^3$, $2\\times 3^2\\times 5$"
+    },
+    {
+     "label": "(3)",
+     "text": "36, 60"
+    },
+    {
+     "label": "(4)",
+     "text": "80, 220"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "각 소문항의 최대공약수를 구하여 쓴다."
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "다음 세 수의 최대공약수를 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$3^2\\times 5$, $3\\times 5^2$, $2\\times 3^2\\times 5$"
+    },
+    {
+     "label": "(2)",
+     "text": "$2^2\\times 3^3$, $2^3\\times 3\\times 5$, $2\\times 3^2\\times 11$"
+    },
+    {
+     "label": "(3)",
+     "text": "38, 57, 95"
+    },
+    {
+     "label": "(4)",
+     "text": "96, 104, 144"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "각 소문항의 최대공약수를 구하여 쓴다."
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "다음 <보기>에서 두 수가 서로소인 것을 모두 고르시오.",
+   "subItems": [
+    {
+     "label": "ㄱ",
+     "text": "3, 7"
+    },
+    {
+     "label": "ㄴ",
+     "text": "10, 20"
+    },
+    {
+     "label": "ㄷ",
+     "text": "12, 22"
+    },
+    {
+     "label": "ㄹ",
+     "text": "13, 21"
+    },
+    {
+     "label": "ㅁ",
+     "text": "$2^3\\times 7$, $5^2$"
+    },
+    {
+     "label": "ㅂ",
+     "text": "$2\\times 3^2\\times 5$, $2\\times 7$"
+    }
+   ],
+   "conditions": [],
+   "given": "보기 ㄱ~ㅂ",
+   "steps": [],
+   "answerFormat": "해당하는 기호를 모두 고른다."
+  },
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "20 이하의 자연수 중에서 9와 서로소인 자연수는 모두 몇 개인지 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "20 이하의 자연수, 9",
+   "steps": [],
+   "answerFormat": "개수를 구하여 쓴다."
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "해결해요",
+   "icons": [
+    "문제해결",
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "두 수 120, $2^2\\times 3^2\\times 7$의 공약수를 잘못 적은 친구를 찾아 이름을 쓰시오.",
+   "subItems": [
+    {
+     "label": "하진",
+     "text": "$2\\times 3$"
+    },
+    {
+     "label": "이안",
+     "text": "$2^2$"
+    },
+    {
+     "label": "건우",
+     "text": "$2^2\\times 3$"
+    },
+    {
+     "label": "현서",
+     "text": "$2\\times 3^2$"
+    }
+   ],
+   "conditions": [],
+   "given": "두 수 120, $2^2\\times 3^2\\times 7$; 하진 $2\\times 3$, 이안 $2^2$, 건우 $2^2\\times 3$, 현서 $2\\times 3^2$",
+   "steps": [],
+   "answerFormat": "친구의 이름을 쓴다."
+  },
+  {
+   "kind": "서술형문제",
+   "label": "6",
+   "corner": "해결해요",
+   "icons": [
+    "서술형",
+    "문제해결",
+    "추론",
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "서술형",
+   "text": "두 수 $\\frac{80}{\\square}$, $\\frac{96}{\\square}$이 모두 자연수가 되게 하는 자연수 $\\square$ 중에서 가장 큰 자연수를 구하고, 그 풀이 과정을 쓰시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$\\frac{80}{\\square}$, $\\frac{96}{\\square}$ (분모의 □는 같은 자연수)",
+   "steps": [],
+   "answerFormat": "가장 큰 자연수와 풀이 과정을 서술한다."
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "QR 코드",
+   "labels": "문제를 더 풀어 볼 수 있어요.",
+   "desc": "쪽 오른쪽 위의 초록색 상자 안에 QR 코드가 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "문제 3 보기 상자",
+   "labels": "보기: ㄱ. 3, 7 / ㄴ. 10, 20 / ㄷ. 12, 22 / ㄹ. 13, 21 / ㅁ. $2^3\\times 7$, $5^2$ / ㅂ. $2\\times 3^2\\times 5$, $2\\times 7$",
+   "desc": "둥근 모서리 상자 안에 2열 3행으로 배열되어 있다."
+  },
+  {
+   "kind": "기타",
+   "caption": "문제 5 친구들의 말 상자",
+   "labels": "하진: $2\\times 3$ / 이안: $2^2$ / 건우: $2^2\\times 3$ / 현서: $2\\times 3^2$",
+   "desc": "네 친구의 얼굴 그림이 있고 옆의 분홍색 상자에 각자 적은 공약수가 쓰여 있다. 2행 2열로 배치되어 있고 위 줄은 하진(왼쪽)과 이안(오른쪽), 아래 줄은 건우(왼쪽)와 현서(오른쪽)이다."
+  }
+ ],
+ "incomplete": "",
+ "_page": 24,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 3984,
+  "out": 3272,
+  "sec": 19.9,
+  "stop": "end_turn"
+ }
+}

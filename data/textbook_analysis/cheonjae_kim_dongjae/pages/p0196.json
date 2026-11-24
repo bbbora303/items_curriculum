@@ -1,0 +1,153 @@
+{
+ "printedPage": "196",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "다각형의 내각의 크기의 합",
+  "area": "개념 설명 (생각 열기, 채워 넣기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다각형의 내각의 크기의 합",
+   "role": "정의",
+   "definition": "다각형의 각 꼭짓점에서 안쪽에 있는 내각들의 크기를 모두 더한 값이다.",
+   "notation": "180^\\circ\\times(n-2)"
+  },
+  {
+   "term": "n각형",
+   "role": "정의",
+   "definition": "변의 개수가 n개인 다각형이다.",
+   "notation": "n각형"
+  },
+  {
+   "term": "삼각형, 사각형, 오각형",
+   "role": "정의",
+   "definition": "변의 개수가 3개, 4개, 5개인 다각형을 각각 삼각형, 사각형, 오각형이라 한다.",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 내각의 크기의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": "180^\\circ"
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "n",
+   "meaning": "다각형의 변의 개수(문자)",
+   "role": "사용"
+  },
+  {
+   "symbol": "180^\\circ\\times(n-2)",
+   "meaning": "n각형의 내각의 크기의 합",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 꼭짓점에서 모든 대각선을 그어 다각형을 삼각형으로 나눈다",
+   "plain": "사각형, 오각형, 육각형은 각각 2개, 3개, 4개의 삼각형으로 나뉜다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "n각형은 (n-2)개의 삼각형으로 나뉜다",
+   "plain": "n각형의 한 꼭짓점에서 모든 대각선을 그으면 (n-2)개의 삼각형이 생긴다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "180^\\circ\\times(n-2)",
+   "plain": "n각형의 내각의 크기의 합은 180°에 (n-2)를 곱한 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "사각형, 오각형, 육각형의 내각의 크기의 합",
+   "summary": "삼각형의 개수에 180°를 곱해 360°, 540°, 720°를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "채워 보자",
+   "summary": "사각형, 오각형, 육각형에서 삼각형의 개수와 색칠한 각의 크기의 합을 표의 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "빈칸을 채우시오(구각형의 내각의 크기의 합)",
+   "summary": "구각형의 내각의 크기의 합을 180°×(□−2)=180°×□=□°에서 빈칸을 채워 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "사각형, 오각형, 육각형에서 한 꼭짓점에서 모든 대각선을 그어 삼각형으로 나눈 그림이다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "다각형별 삼각형의 개수와 색칠한 각의 크기의 합을 쓰는 표이다. 사각형 칸은 채워져 있다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형으로 나눈 도형을 조각내어 각 내각의 합을 나타낸 그림과 180°×2=360° 등의 식이다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "n각형을 한 꼭짓점에서 대각선으로 나눈 삼각형에 1, 2, 3, 4, …, n−2 번호를 붙인 그림이다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 이름은 목록의 '평면도형의 성질'로 정했다. 쪽 아래에는 'V. 도형의 성질'이라고 인쇄되어 있다. 소단원 번호는 보이지 않는다. 역량 아이콘은 보이지 않는다.",
+ "_page": 196,
+ "_usage": {
+  "in": 4514,
+  "out": 1581,
+  "sec": 9.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

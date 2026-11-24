@@ -1,0 +1,183 @@
+{
+ "printedPage": "307",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "01 대푯값 / 02 줄기와 잎 그림과 도수분포표",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "극단적인 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "극단적인 값이 있으면 중앙값이 대푯값으로 적절하다",
+   "plain": "극단적인 값이 있거나 최빈값이 평균과 차이가 크면 평균·최빈값보다 중앙값을 대푯값으로 쓰는 것이 적절하다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "같은 값이 많은 자료에서는 최빈값이 대푯값으로 적절하다",
+   "plain": "같은 값이 많이 나타나는 자료에서는 최빈값을 대푯값으로 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "와글와글 수학 활동 (1)",
+   "summary": "이지통계로 구한 평균 48.5건, 중앙값 40.5건, 최빈값 33·34·81건 중 극단값 96건이 있어 중앙값이 대푯값으로 적절함을 설명한다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "와글와글 수학 활동 (2)",
+   "summary": "우리 반 운동 시간 자료(20개)를 이지통계에 입력해 평균 38분, 중앙값 31.5분, 최빈값 11분을 구하고 중앙값이 적절함을 설명한다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "01 대푯값 생각 열기 ❶❷ 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "6개 자료의 평균 242, 크기순 가운데 값 241 또는 243이라는 답과 평균·가운데 값이 자료를 대표한다는 설명",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "01 채워 넣기 ❶❷ 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "채워 넣기 정답: 8 / 8, 12, 10 및 6 / 13",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 1, 1⁺, 2, 2⁺, 3, 3⁺ 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "1: 7회, 1⁺: 8점, 2: 4월, 2⁺: 두 자료의 중앙값 같음·최빈값 비교, 3: 평균 20시간·중앙값 17시간·최빈값 12시간과 중앙값이 적절한 이유, 3⁺: 최빈값 100호가 적절",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "02 생각 열기 ❶❷ 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "79세, 6명",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "02 배우고 익히기 1, 1⁺ 정답",
+   "level": "기본",
+   "verb": "",
+   "summary": "1: 맥박 수 줄기와 잎 그림 / 1⁺: (1) 65회, 94회 (2) 7명 (3) 8",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "우리 반 학생들의 일주일 운동 시간 자료(단위: 분) 20개 값을 나열한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "이지통계 프로그램 화면에 자료를 입력해 평균 38, 중앙값 31.5, 최빈값 11이 나온 모습",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "맥박 수 줄기와 잎 그림(6|5는 65회)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "운동 시간",
+  "맥박 수",
+  "통계 프로그램(이지통계)"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "나의 학습 준비 상태: 평균, 비율, 띠그래프·그래프 읽기 등 정답(240쪽)"
+  ],
+  "current": [
+   "중앙값, 최빈값",
+   "도수분포표, 히스토그램",
+   "상대도수"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로, 이 쪽에서 새로 정의되는 용어는 없음. 앞부분 '나의 학습 준비 상태'와 '이 단원의 학습 목표'는 240쪽 내용으로 같은 쪽에 인쇄되어 있음. 통계 단원 번호 VI와 제목 '통계'도 보임. 일부 소제목(예: 예시 표시)은 글자층 기호가 깨져 있음.",
+ "_page": 307,
+ "_usage": {
+  "in": 5334,
+  "out": 1871,
+  "sec": 12.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

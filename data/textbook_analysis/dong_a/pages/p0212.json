@@ -1,0 +1,162 @@
+{
+ "printedPage": "212",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "생각 2 정다면체는 무엇인가요?",
+  "area": "개념 설명 / 함께해요"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정다면체",
+   "role": "정의",
+   "definition": "모든 면이 합동인 정다각형이고 각 꼭짓점에 모인 면의 개수가 모두 같은 다면체이다.",
+   "notation": ""
+  },
+  {
+   "term": "정사면체",
+   "role": "정의",
+   "definition": "정다면체 다섯 가지 중 하나로 소개된다. 면의 모양은 활동에서 직접 관찰한다.",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "정의",
+   "definition": "정다면체 다섯 가지 중 하나로 소개된다. 면의 모양은 활동에서 직접 관찰한다.",
+   "notation": ""
+  },
+  {
+   "term": "정팔면체",
+   "role": "정의",
+   "definition": "정다면체 다섯 가지 중 하나로 소개된다. 면의 모양은 활동에서 직접 관찰한다.",
+   "notation": ""
+  },
+  {
+   "term": "정십이면체",
+   "role": "정의",
+   "definition": "정다면체 다섯 가지 중 하나로 소개된다. 면의 모양은 활동에서 직접 관찰한다.",
+   "notation": ""
+  },
+  {
+   "term": "정이십면체",
+   "role": "정의",
+   "definition": "정다면체 다섯 가지 중 하나로 소개된다. 면의 모양은 활동에서 직접 관찰한다.",
+   "notation": ""
+  },
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "정다면체: 모든 면이 합동인 정다각형, 각 꼭짓점에 모인 면의 개수가 모두 같은 다면체",
+   "plain": "면이 모두 같은 정다각형이고 꼭짓점마다 모이는 면의 수가 같은 다면체를 정다면체라 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "정다면체는 정사면체, 정육면체, 정팔면체, 정십이면체, 정이십면체의 다섯 가지뿐이다.",
+   "plain": "정다면체는 다섯 종류밖에 없다고 알려져 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "관찰해 보자",
+   "summary": "정다면체의 전개도를 뜯어 만들어 보고 각 면의 모양과 한 꼭짓점에 모인 면의 개수를 관찰한다. 면의 모양은 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "정사면체 전개도(정삼각형 4개), 정삼각형 면의 모양을 쓰는 빈칸이 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "정육면체 전개도(십자형, 정사각형 6개)와 면의 모양 빈칸이 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "정팔면체 전개도(정삼각형 8개)와 면의 모양 빈칸이 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "정십이면체 전개도(정오각형 12개)와 면의 모양 빈칸이 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "정이십면체 전개도(정삼각형 20개)와 면의 모양 빈칸이 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "알지오매스 QR코드와 링크, 말풍선 캐릭터가 있다.",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "전개도는 뜯어서 접는 부록형 활동이다. 각 전개도의 면 개수는 그림으로 확인한 것이다. 한 꼭짓점에 모인 면의 개수를 적는 칸은 이 쪽에 보이지 않는다. 말풍선에는 '이 외에도 정다면체의 전개도는 여러 가지 모양이 있어요.'라고 적혀 있다. QR 링크 글자는 이미지와 글자층이 조금 다르다(이미지는 125.kr/dbep, 글자층은 t25.kr/dbep).",
+ "_page": 212,
+ "_profile": "full",
+ "_usage": {
+  "in": 4258,
+  "out": 1636,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

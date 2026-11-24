@@ -1,0 +1,259 @@
+{
+ "printedPage": "233",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "정의",
+   "definition": "다각형인 면으로만 둘러싸인 입체도형",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "정의",
+   "definition": "평면도형을 한 직선을 축으로 하여 1회전 시킬 때 생기는 입체도형",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "단면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "모서리와 꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$r$",
+   "meaning": "구의 반지름의 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(기둥의 겉넓이)=(밑넓이)\\times 2+(옆넓이)",
+   "plain": "기둥의 겉넓이는 밑넓이의 2배에 옆넓이를 더한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(뿔의 겉넓이)=(밑넓이)+(옆넓이)",
+   "plain": "뿔의 겉넓이는 밑넓이와 옆넓이의 합이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(기둥의 부피)=(밑넓이)\\times(높이)",
+   "plain": "기둥의 부피는 밑넓이와 높이의 곱이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(뿔의 부피)=\\frac{1}{3}\\times(밑넓이)\\times(높이)",
+   "plain": "뿔의 부피는 밑넓이와 높이의 곱의 3분의 1이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(구의 겉넓이)=4\\pi r^2",
+   "plain": "반지름이 r인 구의 겉넓이는 4πr²이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(구의 부피)=\\frac{4}{3}\\pi r^3",
+   "plain": "반지름이 r인 구의 부피는 4/3πr³이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "확인 1",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "각뿔대의 두 밑면은 서로 평행하고 합동이다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 2",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "정다면체의 종류는 여섯 가지이다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 3",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "원기둥을 회전축에 수직인 평면으로 자른 단면은 원이다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 4",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "밑넓이와 높이가 같은 뿔의 부피는 기둥의 부피의 1/3배이다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 5",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "반지름 1 cm인 구의 겉넓이는 4/3π cm²이다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "01",
+   "level": "기본",
+   "verb": "모두 고르면? (정답 2개)",
+   "summary": "다면체와 정다면체에 대한 설명 중 옳은 것 2개를 고른다(오각기둥, 모서리 개수, 정다면체 면의 모양 등).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "02",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "겉넓이가 324π cm²인 구의 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "03",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "면이 7개인 각뿔의 모서리 수 a, 꼭짓점 수 b에 대해 a+b를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "잘못 짝 지은 것은?",
+   "summary": "회전체와 회전축을 포함하는 평면으로 자른 단면의 모양을 짝 지은 것 중 틀린 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "다면체 예시: 육면체(직육면체), 오면체(사각뿔), 육면체(사각뿔대) 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "회전체 예시: 원기둥, 원뿔, 원뿔대, 구와 회전축 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 01~04에는 난이도 표시(기본/표준)가 있고, 01·02는 기본, 03·04는 표준 표시 아래에 있는 것으로 보임. 01~04의 level은 '기본'으로 일괄 적었으나 03·04는 '표준'일 수 있음. 왼쪽 아래 1~5번은 ○×표 확인 문제로 번호는 임의로 '확인'을 붙임.",
+ "_page": 233,
+ "_profile": "full",
+ "_usage": {
+  "in": 4887,
+  "out": 2212,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

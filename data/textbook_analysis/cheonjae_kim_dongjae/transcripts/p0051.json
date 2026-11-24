@@ -1,0 +1,89 @@
+{
+ "printedPage": "51",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 열기",
+   "corner": "생각 열기",
+   "icons": [],
+   "level": "활동",
+   "text": "다음을 읽고 두 학생의 계산 결과가 서로 다르게 나온 까닭을 설명해 보자.\n선생님 말풍선: $2-3\\times(-4)$를 계산하면 얼마일까요?\n칠판: $2-3\\times(-4)$\n여학생 말풍선: 4 입니다.\n여학생 판: $2-3\\times(-4)$ $=(-1)\\times(-4)$ $=4$\n남학생 말풍선: 14 입니다.\n남학생 판: $2-3\\times(-4)$ $=2-(-12)$ $=14$",
+   "subItems": [],
+   "conditions": [],
+   "given": "선생님의 질문 $2-3\\times(-4)$를 계산하면 얼마일까요? 여학생의 답 4, 남학생의 답 14",
+   "steps": [],
+   "answerFormat": "서술(두 학생의 계산 결과가 다르게 나온 까닭 설명)"
+  },
+  {
+   "kind": "기타",
+   "label": "계산 순서",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있을 때는 다음과 같은 순서로 계산한다.\n❶ 거듭제곱이 있으면 거듭제곱을 먼저 계산한다.\n❷ 괄호가 있는 식은 괄호 안을 먼저 계산한다.\n이때 괄호는 소괄호 ( ), 중괄호 { }, 대괄호 [ ]의 순으로 계산한다.\n❸ 곱셈과 나눗셈을 계산한다.\n❹ 덧셈과 뺄셈을 계산한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "❶ 거듭제곱이 있으면 거듭제곱을 먼저 계산한다.",
+    "❷ 괄호가 있는 식은 괄호 안을 먼저 계산한다. 이때 괄호는 소괄호 ( ), 중괄호 { }, 대괄호 [ ]의 순으로 계산한다.",
+    "❸ 곱셈과 나눗셈을 계산한다.",
+    "❹ 덧셈과 뺄셈을 계산한다."
+   ],
+   "answerFormat": ""
+  },
+  {
+   "kind": "예제",
+   "label": "예제 3",
+   "corner": "예제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 계산하시오.\n풀이\n(1) $(-4)^2-(5-8)\\times(-2)=16-(-3)\\times(-2)$\n$=16-6$\n$=10$\n(2) $(-3)^3\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-9+0.7\\times10)\\right\\}\\right]=(-27)\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-9+7)\\right\\}\\right]$\n$=(-27)\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-2)\\right\\}\\right]$\n$=(-27)\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\times\\left(-\\frac{1}{2}\\right)\\right\\}\\right]$\n$=(-27)\\times\\left\\{\\frac{5}{6}+\\left(-\\frac{1}{6}\\right)\\right\\}$\n$=(-27)\\times\\frac{2}{3}=-18$\n답 (1) 10 (2) $-18$",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$(-4)^2-(5-8)\\times(-2)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-3)^3\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-9+0.7\\times10)\\right\\}\\right]$"
+    }
+   ],
+   "conditions": [],
+   "given": "(1) $(-4)^2-(5-8)\\times(-2)$ (2) $(-3)^3\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-9+0.7\\times10)\\right\\}\\right]$",
+   "steps": [
+    "(1) $(-4)^2-(5-8)\\times(-2)=16-(-3)\\times(-2)$",
+    "$=16-6$",
+    "$=10$",
+    "(2) $(-3)^3\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-9+0.7\\times10)\\right\\}\\right]=(-27)\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-9+7)\\right\\}\\right]$",
+    "$=(-27)\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\div(-2)\\right\\}\\right]$",
+    "$=(-27)\\times\\left[\\frac{5}{6}+\\left\\{\\frac{1}{3}\\times\\left(-\\frac{1}{2}\\right)\\right\\}\\right]$",
+    "$=(-27)\\times\\left\\{\\frac{5}{6}+\\left(-\\frac{1}{6}\\right)\\right\\}$",
+    "$=(-27)\\times\\frac{2}{3}=-18$"
+   ],
+   "answerFormat": "계산 과정과 답. 답: (1) 10 (2) $-18$"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "생각 열기 삽화: 교실 장면",
+   "labels": "칠판에 $2-3\\times(-4)$가 적혀 있음. 선생님이 주황색 책을 들고 있고 말풍선에 '$2-3\\times(-4)$를 계산하면 얼마일까요?'. 여학생 말풍선 '4 입니다.', 여학생 판 '$2-3\\times(-4)$ $=(-1)\\times(-4)$ $=4$'. 남학생 말풍선 '14 입니다.', 남학생 판 '$2-3\\times(-4)$ $=2-(-12)$ $=14$'.",
+   "desc": "칠판 앞에서 선생님이 질문하고, 책상에 앉은 두 학생이 각자 계산 과정을 쓴 판을 들고 있는 그림"
+  }
+ ],
+ "incomplete": "",
+ "_page": 51,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4031,
+  "out": 3235,
+  "sec": 19.1,
+  "stop": "end_turn"
+ }
+}

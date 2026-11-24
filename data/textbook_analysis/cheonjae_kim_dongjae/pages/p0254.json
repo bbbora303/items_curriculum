@@ -1,0 +1,155 @@
+{
+ "printedPage": "254",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "04 상대도수",
+  "area": "단원 도입 및 개념 설명(상대도수란 무엇일까?)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수의 총합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "정의",
+   "definition": "전체 도수에 대한 각 계급의 도수의 비율",
+   "notation": "(어떤 계급의 상대도수)=\\frac{(그 계급의 도수)}{(도수의 총합)}"
+  },
+  {
+   "term": "상대도수의 분포표",
+   "role": "정의",
+   "definition": "도수분포표에서 각 계급의 상대도수를 구하여 나타낸 표",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(어떤 계급의 상대도수)=\\frac{(그 계급의 도수)}{(도수의 총합)}",
+   "plain": "상대도수는 계급의 도수를 도수의 총합으로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "0\\le(상대도수)\\le 1,\\ (상대도수의 합)=1",
+   "plain": "각 계급의 상대도수는 0 이상 1 이하이고, 상대도수의 총합은 자료와 관계없이 항상 1이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "세로축에 도수 대신 상대도수를 적는다",
+   "plain": "상대도수의 분포표도 히스토그램이나 도수분포다각형 모양으로 그릴 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "20세 이상 30세 미만 관람객의 비율",
+   "summary": "20세 이상 30세 미만 계급의 상대도수를 $\\frac{60}{150}=0.4$로 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "<표 3> 상대도수의 분포표와 그래프",
+   "summary": "관람객 나이의 도수분포표를 상대도수 분포표로 바꾸고 히스토그램과 도수분포다각형으로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "얼마인가?",
+   "summary": "관람객 150명의 나이 도수분포표에서 20세 이상 30세 미만 관람객이 전체에서 차지하는 비율을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "전시회에서 관람객들이 그림을 보고 있는 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "관람객의 나이 도수분포표(합계 150명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "<표 3> 관람객의 나이 상대도수의 분포표(합계 1)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "상대도수를 세로축으로 하는 히스토그램과 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "전시회 관람객의 나이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "상대도수를 구하고, 상대도수의 분포를 표나 그래프로 나타내고 해석할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 이름은 목록의 '자료의 정리와 해석'으로 판단함(쪽 하단 표시는 'Ⅵ. 통계'). 상대도수 단원의 첫 쪽이다. 그래프 눈금은 작아 일부 값을 읽기 어렵다.",
+ "_page": 254,
+ "_usage": {
+  "in": 4873,
+  "out": 1419,
+  "sec": 8.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

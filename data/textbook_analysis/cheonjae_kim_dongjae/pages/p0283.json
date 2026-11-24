@@ -1,0 +1,78 @@
+{
+ "printedPage": "283",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "03 일차식 / 04 일차식의 계산",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [
+  {
+   "title": "와글와글 수학 활동 예시 답(산 정상의 기온)",
+   "summary": "지면 기온이 a℃일 때 높이 x m의 기온은 $a-\\frac{3}{500}x$이므로, 지면 22℃, 산 정상 500 m에서는 $22-\\frac{3}{500}\\times500=19$(℃)이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "일차식과 수의 곱셈 예시 답 2⁺(1)",
+   "summary": "$(-3x)\\times(-6)=18x$",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "일차식과 수의 나눗셈 예시 답 2⁺(2)",
+   "summary": "$(12x+1)\\div\\frac{1}{2}=(12x+1)\\times2=24x+2$",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "와글와글 수학 활동 예시 답(명언 완성)",
+   "summary": "갈릴레이 명언의 빈칸이 자연, 책은, 수학이며, 자연은 수학으로 이해하고 설명할 수 있고 수학은 과학 연구의 언어라는 예시 답이다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "글자판에서 '일차식', '다항식', '상수항', '계수' 등의 낱말을 빨간 동그라미로 찾아 표시한 답안",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "숲속 길 미로 그림에 식이 적혀 있고 정답 경로가 빨간 선으로 표시된 와글와글 수학 활동 답",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "산 정상의 기온",
+  "갈릴레이 명언(자연과 수학)",
+  "미로 찾기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽이라 새로 정의되는 용어는 없다. 03 일차식(72~77쪽)과 04 일차식의 계산(74~77쪽) 정답이 함께 실려 있다. 항, 상수항, 계수를 구하는 답이 나오지만 이 쪽에서 정의하지는 않는다. 쪽 왼쪽 위 2⁺(1) 10 (2) 2 (3) -3/2는 앞 쪽에서 이어지는 답이다. 오른쪽 아래 미로 그림의 식은 작아서 일부만 읽힌다.",
+ "_page": 283,
+ "_usage": {
+  "in": 5198,
+  "out": 986,
+  "sec": 7.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

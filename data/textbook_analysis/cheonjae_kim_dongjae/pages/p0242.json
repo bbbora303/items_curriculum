@@ -1,0 +1,142 @@
+{
+ "printedPage": "242",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "01 대푯값",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "변량",
+   "role": "정의",
+   "definition": "자료를 수량으로 나타낸 것",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "정의",
+   "definition": "자료 전체의 특징이나 중심적인 경향을 나타낸 값",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "정의",
+   "definition": "자료를 작은 값부터 크기순으로 나열할 때 한가운데 있는 값",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(평균)=\\frac{239+240+241+245+243+244}{6}=\\frac{1452}{6}=242\\,(\\text{mm})",
+   "plain": "변량을 모두 더해 변량의 개수로 나누어 평균을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "자료 수가 홀수이면 한가운데 값, 짝수이면 한가운데 두 값의 평균",
+   "plain": "자료의 개수에 따라 중앙값을 정하는 방법이 다르다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 열기: 발 길이 평균",
+   "summary": "중학생 6명의 발 길이 자료의 평균을 구하여 242 mm를 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "6명의 발 길이를 하나의 수로 나타내면 얼마라고 할 수 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "❶과 같이 생각한 까닭을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "채워 넣기 ❶",
+   "level": "기본",
+   "verb": "구하시오(빈칸 채우기)",
+   "summary": "자료 4, 6, 6, 8, 12, 13, 15(7개)의 중앙값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❷",
+   "level": "기본",
+   "verb": "구하시오(빈칸 채우기)",
+   "summary": "자료 4, 6, 6, 8, 12, 13, 15, 16(8개)의 중앙값을 두 값의 평균으로 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "중학생 6명의 발 길이(239, 240, 241, 245, 243, 244 mm)를 나타낸 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "운동화 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "중학생의 발 길이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "중앙값, 최빈값의 뜻을 알고, 자료의 특성에 따라 적절한 대푯값을 선택하여 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 성격의 목표 문장이 있으나 배운 내용/배울 내용 표시는 없음. 최빈값은 학습 목표에만 언급되고 이 쪽에서 정의되지 않음. 평균은 이미 배운 것으로 사용하나 정식 정의는 없음.",
+ "_page": 242,
+ "_usage": {
+  "in": 4681,
+  "out": 1311,
+  "sec": 8.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

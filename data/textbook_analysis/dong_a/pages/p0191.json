@@ -1,0 +1,165 @@
+{
+ "printedPage": "191",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.4 다각형의 외각의 크기의 합",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "다각형의 외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형의 내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형의 외각의 크기의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x의 크기를 구할 대상",
+   "role": "사용"
+  },
+  {
+   "symbol": "$^\\circ$",
+   "meaning": "각도의 단위(도)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "그림에서 (1) 사각형, (2) 오각형 모양의 도형에서 주어진 각을 이용해 $\\angle x$의 크기를 구한다(110°, 105°, 85° / 55°, 70°, 60°, 80°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "오각형 그림에서 64°, 2x, 128°, 105°, 40°와 x가 주어졌을 때 $\\angle x$의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "한 외각의 크기가 (1) 40°, (2) 24°인 정다각형의 이름을 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "모든 내각과 외각의 크기의 합이 2160°인 정다각형의 한 외각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "거북이 한 점 A에서 출발해 아홉 번 회전하여 A로 되돌아올 때, 회전한 각의 크기의 합을 구한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "말하고, 쓰시오",
+   "summary": "한 내각과 한 외각의 크기의 비가 4:1인 정다각형의 이름을 말하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "1번 (1) 사각형과 변의 연장선에 내각·외각이 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "1번 (2) 오각형의 각 꼭짓점에서 변을 연장하여 각이 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2번 오각형 모양에 각이 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "5번 거북이가 정구각형 모양 경로를 따라 점 A에서 출발해 회전하는 컴퓨터 화면 형태의 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "거북이 이동 경로(프로그래밍/화면 속 거북)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "각 문제에 우수/보통/분발 자기평가 표정 아이콘이 있고, 1번에 '해당하는 곳에 색칠해요' 안내가 있음. 쪽 상단에 '6.4를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요!'와 QR코드(문제를 더 풀어볼 수 있음) 안내가 있음. 5번은 '연결', 6번은 '서술형'·'추론' 표시가 있음. 오른쪽 6단원 표시로 대단원을 '평면도형의 성질'로 판단함.",
+ "_page": 191,
+ "_profile": "full",
+ "_usage": {
+  "in": 4415,
+  "out": 1533,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,185 @@
+{
+ "printedPage": "203",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "1. 평면도형의 성질 (원과 부채꼴 단원의 배우고 익히기)",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overset{\\frown}{AB}$"
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{CD}$"
+  },
+  {
+   "term": "할선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overleftrightarrow{EF}$"
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "활꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle AOB$"
+  },
+  {
+   "term": "정폭도형",
+   "role": "정의",
+   "definition": "어느 점에서 폭을 재어도 그 값이 일정한 도형",
+   "notation": ""
+  },
+  {
+   "term": "뢸로 삼각형",
+   "role": "정의",
+   "definition": "정삼각형의 한 꼭짓점에서 나머지 두 꼭짓점을 지나는 호를 그려 부채꼴을 만들고, 이를 다른 두 꼭짓점에서 되풀이하여 그린 도형",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overset{\\frown}{AB}$",
+   "meaning": "점 A, B를 양 끝으로 하는 호 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle AOD$",
+   "meaning": "각 AOD (중심각)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "원 O의 그림에서 (1) 호 AB, (2) 현 CD, (3) 할선 EF를 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "원 O의 그림에서 (1) 부채꼴 POQ, (2) 현 RS와 호 RS로 이루어진 활꼴을 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "원 O에서 (1) 부채꼴 AOB의 중심각, (2) ∠AOD에 대한 호, (3) 호 CD에 대한 중심각을 기호로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오, 구하시오",
+   "summary": "한 원에서 활꼴과 부채꼴의 차이점, 활꼴도 되고 부채꼴도 되는 경우와 그때의 중심각 크기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "와글와글 수학 이야기",
+   "level": "활동",
+   "verb": "발표해 보자",
+   "summary": "실생활에서 다양한 정폭도형이 이용된 사례를 조사하여 발표하기",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원 O 위에 점 A~F가 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 O 위에 점 P, Q, R, S가 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 O에서 반지름 OA, OB, OC, OD가 그려진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "정삼각형·뢸로 삼각형 모양 바퀴를 단 자전거 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정삼각형에 호를 그려 만든 뢸로 삼각형 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "정폭도형 바퀴 자전거",
+  "뢸로 삼각형"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 보이지 않아 쪽 하단의 대단원 표시만 옮김. 이 쪽은 원과 부채꼴 용어를 사용하는 문제 쪽이며 새 용어의 정의는 읽기 자료의 정폭도형·뢸로 삼각형뿐임. 문항 2+의 아이콘은 '의사소통'으로 보임.",
+ "_page": 203,
+ "_usage": {
+  "in": 4646,
+  "out": 1670,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,133 @@
+{
+ "printedPage": "65",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "식의 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식의 계산",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "섭씨온도를 나타내는 문자",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(1.8x+32)\\,^\\circ\\text{F}$",
+   "meaning": "섭씨온도 $x\\,^\\circ\\text{C}$를 화씨온도로 나타낸 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "도입 질문 1",
+   "level": "활동",
+   "verb": "나타낼까?",
+   "summary": "인공위성이 이동한 거리를 문자를 사용한 식으로 나타내기 (66쪽)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "도입 질문 2",
+   "level": "활동",
+   "verb": "말해 볼까?",
+   "summary": "식 $(1.8x+32)$에서 수와 문자의 곱으로 이루어진 부분 말하기 (72쪽)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "도입 질문 3",
+   "level": "활동",
+   "verb": "나타내어 볼까?",
+   "summary": "그림 4개를 이어 붙인 협동화의 넓이를 문자를 사용한 식으로 나타내기 (74쪽)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "지구 궤도를 도는 인공위성 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "섭씨와 화씨 눈금이 함께 있는 온도계 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "학생들이 책상에 모여 협동화를 그리는 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "전시관에서 그림을 보며 이야기하는 사람들 일러스트와 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "인공위성의 이동 거리",
+  "섭씨온도와 화씨온도",
+  "협동화의 넓이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "01 문자를 사용한 식",
+   "02 식의 값",
+   "03 일차식",
+   "04 일차식의 계산"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로 배운 내용/배울 내용 표시는 없다. 소단원 4개의 제목과 말풍선 질문 3개(66, 72, 74쪽 연결)만 있다. 새로 정의되는 용어는 없고 소단원 제목의 용어를 사용 항목에 적었다.",
+ "_page": 65,
+ "_usage": {
+  "in": 4150,
+  "out": 1082,
+  "sec": 7.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

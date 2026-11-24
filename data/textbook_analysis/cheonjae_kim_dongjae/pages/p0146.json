@@ -1,0 +1,198 @@
+{
+ "printedPage": "146",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "단원 도입(학습 준비 상태·학습 목표)"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\\\overleftrightarrow{AB}$"
+  },
+  {
+   "term": "예각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "둔각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\\\triangle ABC$"
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\overline{AB}$",
+   "meaning": "선분 AB (용어 구름 그림에 제시)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\angle ABC$",
+   "meaning": "각 ABC (용어 구름 그림에 제시)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\triangle ABC$",
+   "meaning": "삼각형 ABC (용어 구름 그림에 제시)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "읽어 보시오",
+   "summary": "선분·직선·반직선 모양의 그림 (1)~(3)을 점 이름(ㄱㄴ, ㄷㄹ, ㅁㅂ)을 이용해 읽기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "기타"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "세 각 (1)~(3)이 예각, 직각, 둔각 중 어느 것인지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "그림에서 서로 수직인 두 직선을 모두 찾고, 서로 평행한 두 직선을 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "합동인 두 삼각형 ㄱㄴㄷ과 ㄹㅁㅂ에서 (1) 각 ㄹㅂㅁ의 크기 (2) 변 ㄴㄷ의 길이 구하기 (70°, 60°, 4 cm 제시)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "선분/직선/반직선 모양의 세 선과 점 이름 (문제 1)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직각, 예각, 둔각 모양의 세 각 (문제 2)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 가·나·다·라가 교차하는 그림, 직각 표시 포함 (문제 3)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각의 크기 70°, 60°와 변의 길이 4 cm가 표시된 합동인 두 삼각형 (문제 4)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "핵심 용어(AB, 엇각, 동위각, 삼각형의합동조건 등)가 담긴 단어 구름과 로봇 손 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "점, 선, 면, 각과 점·직선·평면의 위치 관계",
+   "평행선에서 동위각과 엇각의 성질",
+   "삼각형의 작도",
+   "삼각형의 합동 조건과 합동 판별"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "기본 도형 단원 앞 '나의 학습 준비 상태'(초등 기초 진단 4문항)와 '이 단원의 학습 목표'가 있는 쪽. 쪽 아래에는 'Ⅳ. 도형의 기초'로 표시되어 있어 주어진 단원 목록과 이름이 다름. 목표 2~4의 초성은 ㄷㅇㄱ(동위각), ㅇㄱ(엇각), ㅈㄷ(작도), ㅅㄱㅎㅇㅎㄷㅈㄱ(삼각형의 합동 조건)으로 추정. 단원 도입 쪽이라 학습 목표 2~4의 용어는 새로 정의되지 않고 초성 빈칸 퀴즈로만 제시됨. 소단원 번호는 없음.",
+ "_page": 146,
+ "_usage": {
+  "in": 4634,
+  "out": 1799,
+  "sec": 11.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

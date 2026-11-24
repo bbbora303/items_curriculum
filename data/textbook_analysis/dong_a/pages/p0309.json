@@ -1,0 +1,102 @@
+{
+ "printedPage": "309",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "찾아보기"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [
+  {
+   "symbol": "$|\\ |$",
+   "meaning": "절댓값 기호(찾아보기 항목, 42쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\geq, \\leq$",
+   "meaning": "부등호(찾아보기 항목, 44쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB(143쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$",
+   "meaning": "반직선 AB(143쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB(143쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "각 AOB(146쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직(148쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$/\\!/$",
+   "meaning": "평행(151쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC(161쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\equiv$",
+   "meaning": "합동(166쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overset{\\frown}{AB}$",
+   "meaning": "호 AB(192쪽)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율(197쪽)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "ㄱ~ㅎ 자음 순서와 기호 항목으로 용어와 쪽수를 나열한 3단 찾아보기 목록",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "교재 끝의 찾아보기 쪽이며 새로 정의되는 내용은 없음. 용어와 해당 쪽수만 나열됨(예: 소인수분해 17, 정수 39, 좌표평면 111, 작도 159, 회전체 215, 상대도수 258). 기호 항목의 수식 모양은 이미지 기준으로 옮겼으며 일부는 글자층이 깨져 있음.",
+ "_page": 309,
+ "_profile": "full",
+ "_usage": {
+  "in": 4828,
+  "out": 875,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

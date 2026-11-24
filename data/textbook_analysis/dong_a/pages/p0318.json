@@ -1,0 +1,62 @@
+{
+ "printedPage": "1",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "부록 붙임딱지(1단원 활동, 자기 평가)"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1단원 활동",
+   "level": "활동",
+   "verb": "표현해 보세요",
+   "summary": "붙임딱지(얼굴, 옷, 소품 등)를 붙여 나와, 처음 만난 친구를 표현한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "얼굴, 옷, 소품(노트북, 팝콘, 책, 축구공, 동물 모자) 캐릭터 붙임딱지 18개가 놓인 판",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "자기 평가용 노란 캐릭터 붙임딱지 18개(칭찬·격려 문구 포함)와 소감 적는 메모 예시",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "친구 소개",
+  "학교생활",
+  "수학 책 읽기(소인수분해와 암호)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 부록 쪽이다. 붙임딱지는 1단원 8쪽에서 쓰고, 자기 평가 붙임딱지는 31, 67, 103, 135, 173, 203, 235, 272쪽에서 쓴다. 오른쪽 가장자리에 '점선을 따라 접어서 뜯으면 잘 뜯어져요.'라는 안내가 있다. 메모 예시는 '소인수분해와 암호가 관련이 있다는 책을 읽고 수학에 대한 흥미를 느끼게 되었다.'이다.",
+ "_page": 318,
+ "_profile": "full",
+ "_usage": {
+  "in": 4096,
+  "out": 660,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

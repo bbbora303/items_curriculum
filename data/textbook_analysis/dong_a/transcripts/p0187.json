@@ -1,0 +1,158 @@
+{
+ "printedPage": "187",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "본문 설명",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "일반적으로 $n$각형의 한 꼭짓점에서 대각선을 모두 그으면 $(n-2)$개의 삼각형으로 나누어진다. 이때 삼각형의 내각의 크기의 합은 $180^\\circ$이므로 $n$각형의 내각의 크기의 합은 $180^\\circ\\times(n-2)$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "다각형의 내각의 크기의 합",
+   "corner": "개념 정리 상자",
+   "icons": [],
+   "level": "",
+   "text": "다각형의 내각의 크기의 합\n$n$각형의 내각의 크기의 합은 $180^\\circ\\times(n-2)$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 다각형의 내각의 크기의 합을 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "육각형"
+    },
+    {
+     "label": "(2)",
+     "text": "팔각형"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "각 다각형의 내각의 크기의 합을 구하여 쓴다."
+  },
+  {
+   "kind": "기타",
+   "label": "정다각형의 한 내각의 크기",
+   "corner": "본문 설명",
+   "icons": [],
+   "level": "",
+   "text": "정다각형은 내각의 크기가 모두 같으므로 정$n$각형의 한 내각의 크기는 다음과 같다.\n(정$n$각형의 한 내각의 크기)$=\\frac{180^\\circ\\times(n-2)}{n}$\n말풍선: 내각의 크기의 합을 꼭짓점의 개수로 나눠요.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명",
+   "corner": "여백 주석",
+   "icons": [],
+   "level": "",
+   "text": "• 변의 개수가 $n$인 정다각형을 정$n$각형이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 정다각형의 한 내각의 크기를 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "정오각형"
+    },
+    {
+     "label": "(2)",
+     "text": "정십각형"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "각 정다각형의 한 내각의 크기를 구하여 쓴다."
+  },
+  {
+   "kind": "활동",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [
+    "추론",
+    "의사소통"
+   ],
+   "level": "활동",
+   "text": "오른쪽 그림은 육각형을 내부의 한 점을 이용하여 6개의 삼각형으로 나눈 것이다. 그림을 보고 육각형의 내각의 크기의 합을 아래와 같이 구하였다.\n$180^\\circ\\times6-360^\\circ=720^\\circ$\n구한 방법을 설명하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$180^\\circ\\times6-360^\\circ=720^\\circ$",
+   "steps": [],
+   "answerFormat": "구한 방법을 말이나 글로 설명한다."
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "수학 집 짓기\n그릇 안 글: $n$각형의 한 꼭짓점에서 대각선을 모두 그었을 때 나누어지는 삼각형의 개수 / $n-\\boxed{2}$\n컵케이크 위 글: $n$각형의 내각의 크기의 합 / $180^\\circ\\times(n-\\boxed{2})$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "생각 넓히기의 그림: 육각형을 내부의 한 점을 이용하여 6개의 삼각형으로 나눈 그림",
+   "labels": "육각형 내부에 한 점(연두색 점)이 있고, 이 점에서 여섯 꼭짓점으로 선분을 그었다. 꼭짓점마다 파란색 부채꼴 모양의 각 표시가 있다. 길이·각도 수치는 없음.",
+   "desc": "육각형의 여섯 꼭짓점과 내부의 한 점을 이은 모양으로 6개의 삼각형이 만들어진다."
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 삽화",
+   "labels": "왼쪽에 요리사 모자를 쓴 병아리와 오븐, 가운데에 거품기가 있는 초록색 그릇, 오른쪽에 컵케이크. 그릇에서 컵케이크로 향하는 화살표.",
+   "desc": "그릇 글 $n-2$에서 컵케이크 글 $180^\\circ\\times(n-2)$로 이어지는 흐름을 나타낸다."
+  }
+ ],
+ "incomplete": "",
+ "_page": 187,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3978,
+  "out": 2467,
+  "sec": 17.5,
+  "stop": "end_turn"
+ }
+}

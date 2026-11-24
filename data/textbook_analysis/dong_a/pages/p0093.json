@@ -1,0 +1,171 @@
+{
+ "printedPage": "93",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.5 일차방정식과 그 해",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식의 해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$=$",
+   "meaning": "등호(등식)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x^2$",
+   "meaning": "x의 제곱(일차방정식 판별용 항)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(1) x의 4배에서 3을 뺀 값이 x에서 2를 뺀 값과 같다, (2) 한 장에 x원인 입장권 3장을 사고 20000원을 냈을 때 거스름돈이 5000원이라는 문장을 등식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "[ ] 안의 수가 주어진 방정식의 해인 것을 모두 찾기 (4문항: 5x=0 [0], x+2=2-x [2], 2x+3=-(x+9) [3], -3x=5(x+2)+6 [-2])",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "보기 ㄱ~ㄹ의 식 중 항등식을 모두 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "a=2b일 때 보기의 등식 중 옳은 것을 모두 고르기(등식의 성질 활용)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "하시오",
+   "summary": "주어진 4개의 식이 일차방정식이면 ○, 아니면 ×표 하기 (x=3, 2x²-1=2x+5, 3(2x-1)=6x-3, x²+3x-1=x²-3x+1)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "설명하시오",
+   "summary": "수를 생각해 2를 곱하고 4를 더한 뒤 3을 곱하고 12를 빼고 6으로 나누면 처음 수가 되는 이유를 설명하기",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "3번 보기 상자: 항등식 판별용 식 ㄱ~ㄹ",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "4번 보기 상자: 등식 ㄱ~ㄹ",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "6번 하진이와의 대화 형식 수 맞히기 카드",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "입장권 구입과 거스름돈",
+  "수 맞히기 게임"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "문항 옆 우수/보통/분발 자기 표시 얼굴 아이콘이 있음. 상단에 3.5를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내가 있음. 이 쪽에서 새로 정의되는 용어는 없고 3.5 개념을 사용하는 문제 쪽임.",
+ "_page": 93,
+ "_profile": "full",
+ "_usage": {
+  "in": 4775,
+  "out": 1478,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

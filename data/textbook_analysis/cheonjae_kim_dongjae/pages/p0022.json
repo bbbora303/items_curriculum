@@ -1,0 +1,172 @@
+{
+ "printedPage": "22",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "2^3",
+   "meaning": "거듭제곱 (밑 2, 지수 3)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "36=2^2\\times 3^2,\\ 60=2^2\\times 3\\times 5 \\Rightarrow \\text{최대공약수}=2^2\\times 3",
+   "plain": "공통인 소인수만 골라 지수가 같으면 그대로, 다르면 작은 쪽을 택해 곱한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "18=2\\times 3^2,\\ 30=2\\times 3\\times 5 \\Rightarrow \\text{최소공배수}=2\\times 3^2\\times 5",
+   "plain": "지수가 같으면 그대로, 다르면 큰 쪽을 택하고 공통이 아닌 소인수도 추가해 곱한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "12=2\\times 6=2\\times 2\\times 3=2^2\\times 3",
+   "plain": "소수만 남을 때까지 분해하여 소인수분해한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "2,3,5,7,11,\\dots \\text{(소수: 약수 2개)}",
+   "plain": "소수는 약수가 2개, 합성수는 약수가 3개 이상이며 1은 둘 다 아니다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "하시오",
+   "summary": "거듭제곱 표현이 옳은지 ○, ×로 판단 (4²=16, 7+7+7=7³, 3×3×11=3²×11)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "84, 112를 소인수분해하고 소인수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용해 2³×5², 135의 약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 수 2³×5×7, 2²×5²×11, 2²×3²×5³의 공약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "소수·합성수·거듭제곱·소인수분해·최대공약수·최소공배수를 캐릭터와 빈칸으로 정리한 단원 요약 도식",
+   "_raw": "기타",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "36과 60의 최대공약수, 18과 30의 최소공배수를 소인수분해로 구하는 과정 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 정리 빈칸(합성수의 약수 개수, 거듭제곱 지수, 소인수분해 빈칸 등)은 비어 있다. 소단원 번호는 없다. QR 코드(단원 정리)가 있다.",
+ "_page": 22,
+ "_usage": {
+  "in": 4243,
+  "out": 1447,
+  "sec": 8.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

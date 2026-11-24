@@ -1,0 +1,110 @@
+{
+ "printedPage": "241",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "통계적 탐구 문제",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "나란히 앉아 발을 내밀고 있는 학생들의 신발 사진(발 길이 질문과 연결)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "여러 종류의 과자 사진(나트륨 함량 질문과 연결)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "전시회장에서 관람하는 사람들의 사진(관람객 연령대 비율 질문과 연결)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "바닷속 산호, 해초, 물고기, 불가사리 등의 배경 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "학생들의 발 길이",
+  "과자의 나트륨 함량",
+  "전시회 관람객의 연령대별 비율"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "01 대푯값",
+   "02 줄기와 잎 그림과 도수분포표",
+   "03 히스토그램과 도수분포다각형",
+   "04 상대도수",
+   "05 통계적 탐구 문제의 설정과 해결"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 제목과 소단원 목차만 있는 도입 쪽. '배운 내용/배울 내용' 표시는 없음. 세 개의 질문 풍선은 각각 242쪽, 248쪽, 254쪽으로 연결되며, 이는 각각 대푯값, 도수분포표(또는 히스토그램), 상대도수 소단원과 대응하는 것으로 보이나 쪽에 명시되지는 않음.",
+ "_page": 241,
+ "_usage": {
+  "in": 4134,
+  "out": 838,
+  "sec": 6.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

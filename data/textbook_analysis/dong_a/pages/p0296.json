@@ -1,0 +1,266 @@
+{
+ "printedPage": "296",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.2 삼각형의 내각과 외각 / 6.3 다각형의 내각의 크기의 합",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등변삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "n각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "n"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\frac{n(n-3)}{2}$",
+   "meaning": "n각형의 대각선의 개수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\angle$",
+   "meaning": "각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\triangle$",
+   "meaning": "삼각형",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overline{AB}$",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\\\frac{n(n-3)}{2}$",
+   "plain": "n각형의 대각선의 개수를 구하는 식이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "삼각형의 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같다",
+   "plain": "삼각형의 외각은 이웃하지 않는 두 내각의 합과 같다(풀이에서 사용).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "삼각형의 세 내각의 크기의 합은 $180^\\\\circ$",
+   "plain": "삼각형 내각의 합이 180°임을 풀이에서 사용한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(n-2)$개",
+   "plain": "n각형은 (n-2)개의 삼각형으로 나누어진다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "사각형의 내각의 크기의 합은 $360^\\\\circ$",
+   "plain": "오각형 풀이에서 사각형 내각의 합 360°를 사용한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기 예시",
+   "summary": "사각형에서는 삼각형의 내각과 외각 사이의 관계가 성립하지 않음을 식으로 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각해요 예시(6.3)",
+   "summary": "오각형을 삼각형과 사각형으로 나누어 내각의 합이 180°+360°=540°임을 구한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "4 (대각선 풀이)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "대각선의 개수가 65인 다각형을 구한다(십삼각형).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "11명이 악수하는 횟수를 십일각형의 변과 대각선의 개수로 풀이한다(55번).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "서로 이웃하지 않는 두 꼭짓점에서 그은 대각선의 개수 조건으로 다각형을 찾는다(칠각형, 대각선 14개).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6.3 함께해요 1",
+   "level": "활동",
+   "verb": "채우시오",
+   "summary": "육각형, 칠각형의 꼭짓점 수와 나누어지는 삼각형의 개수를 표로 정리한다(4, 5개).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "6.3 문제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 720° (2) 1080°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6.3 문제 2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 108° (2) 144°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6.2 해결해요 3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "그림에서 ∠x를 구한다(⑴ 25°, ⑵ 54°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6.2 해결해요 4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형 안의 각들로 ∠x=125°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6.2 해결해요 5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "이등변삼각형의 성질로 ∠x=105°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6.2 해결해요 6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "별 모양 도형에서 ∠A+∠B+∠D+∠E=110°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "사각형 ABCD에서 ∠B=80°, ∠C 외각 100°를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "육각형·칠각형의 꼭짓점 개수와 나누어지는 삼각형 개수 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각형들이 겹친 풀이용 그림 (3번 (1), (2))",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각 a, b, x와 80°, 20°, 25°가 표시된 삼각형 그림 (4번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "별 모양 오각형 ABCDE와 교점 F, G (6번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "악수하는 횟수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 앞 단원(다각형의 대각선) 풀이 끝부분과 6.2, 6.3의 정답·풀이가 함께 있다. 쪽 맨 위 ㄴ, ㄷ 풀이는 앞 문항의 풀이 일부이며 문항 번호는 보이지 않는다. 새로 정의되는 용어는 없다.",
+ "_page": 296,
+ "_profile": "full",
+ "_usage": {
+  "in": 5682,
+  "out": 2384,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

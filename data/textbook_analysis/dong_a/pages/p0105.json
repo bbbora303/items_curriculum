@@ -1,0 +1,133 @@
+{
+ "printedPage": "105",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "프로젝트"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "스토리보드",
+   "role": "정의",
+   "definition": "이야기의 주요 장면을 그림으로 그려 정리한 판",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식의 해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "써 보자",
+   "summary": "일차방정식을 세울 수 있는 이야기를 쓰고 제목, 이야기, 방정식과 그 해를 표에 적는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "작성해 보자",
+   "summary": "1의 이야기로 장면 1~4와 각 장면의 시간(초)을 적은 스토리보드를 작성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "발표해 보자",
+   "summary": "2의 스토리보드로 짧은 동영상을 만들고 발표한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "4",
+   "level": "활동",
+   "verb": "확인해 보자",
+   "summary": "다른 모둠의 방정식 동영상에 나온 일차방정식의 해를 구하고, 그 해가 문제 상황에 적합한지 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "5",
+   "level": "활동",
+   "verb": "이야기해 보자",
+   "summary": "다른 모둠의 방정식 동영상을 감상한 소감을 이야기한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "제목, 이야기, 방정식과 그 해를 적는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "장면 1~4와 시간(초)을 적는 스토리보드 칸",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "스마트폰 화면에 선풍기 앞에서 음식을 먹는 사람이 나온 동영상 예시 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "프로젝트 평가 3문항에 대해 친구 이름을 적는 평가표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "동영상 제작",
+  "스토리보드",
+  "모둠 발표와 상호 평가"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽이 90도 회전되어 있다. 프로젝트 평가 항목은 수학적 표현을 사용한 설명, 창의적 아이디어, 해가 이야기에 적합한지 논리적으로 설명하기이다. 소단원 번호는 보이지 않는다. 오른쪽 단원 표시 '3단원'과 일차방정식 내용을 근거로 대단원을 '문자의 사용과 식'으로 정했다.",
+ "_page": 105,
+ "_profile": "full",
+ "_usage": {
+  "in": 4363,
+  "out": 1151,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,209 @@
+{
+ "printedPage": "205",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "부채꼴의 호의 길이와 넓이(중심각의 크기와 호의 길이·넓이의 관계)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$O$",
+   "meaning": "원의 중심",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x^\\circ$",
+   "meaning": "중심각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$5:12=50:x$",
+   "meaning": "비례식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\text{cm}^2$",
+   "meaning": "넓이 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 원에서 부채꼴의 호의 길이는 중심각의 크기에 정비례한다",
+   "plain": "같은 원에서 중심각이 커지는 비율만큼 호의 길이도 커진다(문제 1의 풀이 예시에서 사용).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 원에서 부채꼴의 넓이는 중심각의 크기에 정비례한다",
+   "plain": "같은 원에서 중심각 크기의 비로 부채꼴 넓이가 정해진다(문제 2에서 사용).",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "문제 1의 풀이 예시(상자 안)",
+   "summary": "호의 길이가 중심각의 크기에 정비례함을 이용해 5:12=50:x로 비례식을 세워 x를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "호의 길이와 중심각의 비례식 5:12=50:x에서 x의 값을 구해 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "중심각 40°, 80°, 부채꼴 넓이 14 cm²가 주어질 때 x, y의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "중심각 y°, 200°, 부채꼴 넓이 6 cm², 24 cm²가 주어질 때 x, y의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1⁺",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "중심각 20°, 140°, 호의 길이 2 cm, 8 cm가 주어질 때 x, y의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2⁺",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "중심각 60°, 넓이 15 cm²인 부채꼴로 원 O의 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "수호는 현의 길이가 중심각에 정비례할 것 같다고 하고 지유는 정비례하지 않을 것 같다고 할 때, 지유의 설명을 빈칸에 완성한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "중심각 50°와 호의 길이 5 cm, 12 cm가 표시된 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2(1), (2)의 부채꼴 넓이와 중심각이 표시된 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "1⁺의 중심각 20°, 140°와 호의 길이가 표시된 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2⁺의 중심각 60°, 넓이 15 cm²인 부채꼴이 있는 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "원 O 위의 세 점 A, B, C와 현 AB, AC, 반지름 OA, OB가 그려진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목이 쪽에 보이지 않아 내용을 보고 추정했다. 쪽 아래에는 '1. 평면도형의 성질'만 인쇄되어 있다. 활동에서 현의 길이와 중심각이 정비례하지 않는다는 결론은 쪽에 나오지 않아 적지 않았다. 일부 작은 수치는 이미지가 작아 읽기 어려웠다.",
+ "_page": 205,
+ "_usage": {
+  "in": 4327,
+  "out": 1925,
+  "sec": 11.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

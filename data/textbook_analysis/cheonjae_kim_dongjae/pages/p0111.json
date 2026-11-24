@@ -1,0 +1,149 @@
+{
+ "printedPage": "111",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "1. 좌표평면과 그래프",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": "(x, y)"
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "(x, y)",
+   "meaning": "순서쌍",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "추의 개수 x와 용수철의 늘어난 길이 y(cm)를 나타낸 표(x=1,2,3,4일 때 y=4,8,12,16)의 순서쌍 (x, y)를 그래프로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "합이 9인 두 자연수 x, y의 순서쌍 (x, y)를 그래프로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "드론이 4초 동안 15 m까지 상승하고, 15 m에서 10초간 머무르고, 2초 동안 착륙하는 상황에서 시간 x초와 높이 y m의 관계를 그래프로 나타낸다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "완성하시오",
+   "summary": "아래는 작은 원기둥, 위는 큰 원기둥인 물통에 물을 일정하게 넣을 때 시간 x초와 물의 높이 y cm의 관계 그래프에서, 작은 원기둥 부분을 채운 이후의 나머지 부분을 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "추의 개수 x와 용수철의 늘어난 길이 y의 대응표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x 1~4, y 4~16 범위의 빈 격자 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x, y 모두 2~8 범위의 빈 격자 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "드론의 이륙, 정지, 착륙 3단계 상황을 나타낸 만화 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x 2~18, y 3~15 범위의 빈 격자 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "작은 원기둥 위에 큰 원기둥이 이어진 물통 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원점에서 시작해 우상향하는 선분이 일부 그려진 미완성 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "용수철과 추",
+  "드론의 이륙·정지·착륙",
+  "물통에 물 넣기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "오른쪽 위의 '오늘 나의 기분을 그래프로 나타내면?'은 FUN 코너 안내이며 이 쪽의 문제는 아니다. 1+, 2+ 번호는 이미지에서 숫자 옆의 + 표시로 판단했다. 새로 정의되는 용어는 없고 앞에서 배운 순서쌍과 좌표평면을 이용해 그래프를 그리는 문제 쪽이다.",
+ "_page": 111,
+ "_usage": {
+  "in": 4529,
+  "out": 1415,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

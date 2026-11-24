@@ -1,0 +1,163 @@
+{
+ "printedPage": "44",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "부등호",
+   "role": "정의",
+   "definition": "수의 크기를 비교하는 기호 >, <, ≥, ≤를 부등호라고 한다.",
+   "notation": "$>, <, \\ge, \\le$"
+  },
+  {
+   "term": "이상",
+   "role": "사용",
+   "definition": "크거나 같다(작지 않다).",
+   "notation": ""
+  },
+  {
+   "term": "이하",
+   "role": "사용",
+   "definition": "작거나 같다(크지 않다).",
+   "notation": ""
+  },
+  {
+   "term": "초과",
+   "role": "사용",
+   "definition": "크다.",
+   "notation": ""
+  },
+  {
+   "term": "미만",
+   "role": "사용",
+   "definition": "작다.",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\ge$",
+   "meaning": "> 또는 =, 크거나 같다(이상)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\le$",
+   "meaning": "< 또는 =, 작거나 같다(이하)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$>, <$",
+   "meaning": "수의 크기 비교 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-2\\le a<3$",
+   "meaning": "a는 -2 이상 3 미만",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "a\\ge 2",
+   "plain": "a는 2보다 크거나 같다(2 이상이다)를 기호로 나타낸 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "a\\le 2",
+   "plain": "a는 2보다 작거나 같다(2 이하이다)를 기호로 나타낸 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "-2\\le a<3",
+   "plain": "a는 -2 이상 3 미만임을 한 번에 나타낸 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 3",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "두 수 사이 ○ 안에 <, > 중 알맞은 것을 쓴다: (1) +8, +5 (2) +1/3, -3/5 (3) -2, 0 (4) -1.5, -3.4",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "두 유리수 중 큰 수의 절댓값이 작은 수의 절댓값보다 항상 큰지 말한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문제 4",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "주어진 말을 부등호로 나타낸다: a는 3 이상, b는 -1보다 크지 않다, c는 -5 이상 1 미만, d는 -4 초과 7 이하",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "수직선 위에 -5부터 +5까지 표시하고 오른쪽에 있을수록 수가 더 크다는 것을 화살표와 말풍선으로 나타낸 그림(수학 집 짓기)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "장식",
+   "desc": "고양이 캐릭터가 말풍선으로 설명하는 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "초등: 이상, 이하, 초과, 미만의 뜻"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠(수의 대소 관계 이어지는 쪽으로 추정). 문제 3(2)의 분수는 글자층이 깨져 이미지 기준으로 +1/3, -3/5로 읽음. '수학 집 짓기'는 수직선으로 수의 대소를 정리하는 코너.",
+ "_page": 44,
+ "_profile": "full",
+ "_usage": {
+  "in": 4609,
+  "out": 1424,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,166 @@
+{
+ "printedPage": "14",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "소인수분해란 무엇일까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "인수",
+   "role": "정의",
+   "definition": "어떤 수의 약수를 그 수의 인수라고도 한다.",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "정의",
+   "definition": "소수인 인수를 그 수의 소인수라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "정의",
+   "definition": "1보다 큰 자연수를 소인수들만의 곱으로 나타내는 것.",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "2^2"
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "2^2\\times 3",
+   "meaning": "같은 소인수의 곱을 거듭제곱으로 나타낸 소인수분해 결과",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "12=2\\times2\\times3=2^2\\times3",
+   "plain": "12를 소인수들만의 곱으로 나타내는 것이 소인수분해이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "12=2\\times2\\times3=3\\times2\\times2=2^2\\times3",
+   "plain": "소인수분해를 어떤 순서로 해도 결과는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "1보다 큰 자연수를 소인수분해한 결과는 곱하는 순서를 생각하지 않으면 오직 한 가지뿐이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "소인수분해한 결과는 보통 크기가 작은 소인수부터 차례대로 쓰고, 같은 소인수의 곱은 거듭제곱으로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "90을 소인수분해하고 소인수를 모두 구한다. 나뭇가지 모양, 나눗셈 방법으로 풀이한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "42를 자연수의 곱으로 나타낸 그림의 빈칸에 알맞은 소수를 써넣는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "42를 소수들만의 곱으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "예제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "90을 소인수분해하고 소인수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "나무 뿌리 모양에 42를 21과 7 등으로 나눈 가지 그림(빈칸에 소수를 넣는다).",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "12를 나뭇가지 모양으로 두 가지 순서(2,2,3 / 3,2,2)로 소인수분해하는 그림.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "90을 나뭇가지 모양과 나눗셈(2, 3, 3으로 나누기) 방법으로 소인수분해하는 그림.",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "나무 뿌리 그림"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 쪽에 보이지 않는다. 쪽 아래 'I. 수와 연산'은 영역명이다. 소단원 제목은 '소인수분해란 무엇일까?'로 적었다.",
+ "_page": 14,
+ "_usage": {
+  "in": 4740,
+  "out": 1447,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

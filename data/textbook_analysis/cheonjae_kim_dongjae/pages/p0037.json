@@ -1,0 +1,192 @@
+{
+ "printedPage": "37",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "정수와 유리수의 덧셈 (부호가 다른 두 정수의 덧셈, 유리수의 덧셈)",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "유리수의 덧셈",
+   "role": "정의",
+   "definition": "유리수의 덧셈은 정수의 덧셈과 같은 방법으로, 부호가 같은지 다른지에 따라 절댓값의 합 또는 차를 이용해 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(+3)+(-2)$",
+   "meaning": "양의 정수와 음의 정수의 덧셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(-3)+(+2)$",
+   "meaning": "음의 정수와 양의 정수의 덧셈",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(+3)+(-2)=+(3-2)=+1",
+   "plain": "수직선에서 오른쪽으로 3, 왼쪽으로 2 이동하면 +1이며, 절댓값의 차에 절댓값이 큰 수의 부호를 붙인 것과 같다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-3)+(+2)=-(3-2)=-1",
+   "plain": "수직선에서 왼쪽으로 3, 오른쪽으로 2 이동하면 -1이며, 절댓값의 차에 절댓값이 큰 수의 부호(-)를 붙인 것과 같다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "부호가 같은 두 수의 덧셈: 절댓값의 합에 공통인 부호",
+   "plain": "부호가 같은 두 수를 더할 때는 절댓값의 합에 공통인 부호를 붙인다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "부호가 다른 두 수의 덧셈: 절댓값의 차에 절댓값이 큰 수의 부호",
+   "plain": "부호가 다른 두 수를 더할 때는 절댓값의 차에 절댓값이 큰 수의 부호를 붙인다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "절댓값이 같고 부호가 다른 두 수의 합은 $0$",
+   "plain": "절댓값이 같고 부호가 반대인 두 수의 합은 0이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "어떤 수와 $0$의 합은 그 수 자신",
+   "plain": "어떤 수에 0을 더해도 그 수 그대로이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "3 (양의 정수)+(음의 정수)",
+   "summary": "수직선에서 (+3)+(-2)를 화살표 이동으로 계산해 +1을 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "4 (음의 정수)+(양의 정수)",
+   "summary": "수직선에서 (-3)+(+2)를 화살표 이동으로 계산해 -1을 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "채워 넣기 ❶ (정수)",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "(+4)+(-3)을 절댓값의 차를 이용해 계산하는 과정의 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❷ (정수)",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "(-8)+(+6)을 절댓값의 차를 이용해 계산하는 과정의 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❶ (유리수)",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "$(-\\frac{3}{2})+(-\\frac{1}{2})$를 부호가 같은 두 수의 덧셈으로 계산하는 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❷ (유리수)",
+   "level": "기본",
+   "verb": "빈칸을 채우시오",
+   "summary": "(-2.1)+(+1.6)을 부호가 다른 두 수의 덧셈으로 계산하는 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "(+3)+(-2)를 분홍·파랑·노랑 화살표로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(-3)+(+2)를 화살표로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부호가 다른 두 정수의 덧셈 결과가 '절댓값의 차'에 '절댓값이 큰 수의 부호'를 붙인 것과 같음을 보여주는 도식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 위쪽은 앞 쪽에서 이어지는 활동(수직선 위 덧셈)이며 소단원 번호·제목은 이 쪽에 보이지 않아 내용으로 추정함. 사이드 메모: '어떤 수와 0의 합은 그 수 자신이다.'",
+ "_page": 37,
+ "_usage": {
+  "in": 4628,
+  "out": 2064,
+  "sec": 11.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

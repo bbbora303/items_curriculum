@@ -1,0 +1,145 @@
+{
+ "printedPage": "256",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "도수의 총합이 다른 두 자료의 분포는 어떻게 비교할까?",
+  "area": "생각 열기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수의 분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "도수의 총합이 다를 때 → 상대도수를 비교",
+   "plain": "도수의 총합이 다른 두 자료는 도수보다 상대도수로 비교하는 것이 적절할 때가 많다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "상대도수의 분포를 그래프(도수분포다각형 모양)로 나타내어 비교",
+   "plain": "도수의 총합이 다른 두 집단의 분포는 상대도수의 분포표보다 그래프로 나타내면 더 쉽게 비교할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "A, B 두 학교의 만족도 상대도수 분포표와 그래프",
+   "summary": "생각 열기의 도수분포표를 상대도수의 분포표와 도수분포다각형 모양의 그래프로 나타낸 것을 보여 준다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "만족도가 60점 이상 80점 미만인 계급의 학생 수와 상대도수를 A, B 학교별로 표에 써넣는다(A: 24명/80명, B: 18명/50명).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "60점 이상 80점 미만 계급의 학생이 전체에서 차지하는 비율이 어느 학교가 더 높은지 말하고 그 까닭을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "캠핑과 탐험을 하는 학생들이 있는 일러스트.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A, B 두 학교의 만족도별 학생 수 도수분포표(합계 A 80명, B 50명).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "60점 이상 80점 미만 계급의 학생 수와 상대도수를 써넣을 빈 표.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "A, B 두 학교의 만족도별 상대도수 분포표(합계 각각 1).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "A, B 두 학교의 상대도수를 나타낸 도수분포다각형 모양의 그래프 두 개를 한 좌표평면에 겹쳐 그림.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "체험학습 프로그램 만족도 조사",
+  "두 학교 1학년 학생"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 보이지 않아 질문 제목을 section에 적었다. 상대도수 표와 그래프에서 일부 그래프 점의 정확한 위치는 읽기 어렵다. 이 쪽에서 상대도수는 새 용어로 도입되는 것이 아니라 이미 배운 것으로 사용되며, 정의는 보이지 않는다.",
+ "_page": 256,
+ "_usage": {
+  "in": 4707,
+  "out": 1384,
+  "sec": 10.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

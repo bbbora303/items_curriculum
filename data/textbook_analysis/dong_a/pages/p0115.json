@@ -1,0 +1,119 @@
+{
+ "printedPage": "115",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.2 그래프의 뜻과 표현",
+  "area": "함께해요 1, 문제 1"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "시간",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "시간에 따른 높이 변화를 그래프로 나타내기",
+   "plain": "시간이 지남에 따라 드론이나 물의 높이가 높아지는지, 변함없는지, 낮아지는지를 그래프의 모양으로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "함께해요 1-1",
+   "level": "활동",
+   "verb": "( ) 중에서 고르시오(빈칸 채우기)",
+   "summary": "그래프의 ➊, ➋, ➌ 구간에서 드론의 높이가 높아지는지, 변함없는지, 낮아지는지 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "함께해요 1-2",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "➋ 구간과 ➌ 구간에서 시간에 따른 드론의 높이를 그래프로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "모양이 다른 빈 물통 4개에 일정한 양의 물을 넣을 때, 시간에 따른 물의 높이 변화를 나타내는 그래프를 찾아 연결하고 그 이유를 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "드론의 시간에 따른 높이 그래프로, ➊ 구간만 오르는 직선이 그려져 있고 ➋, ➌ 구간은 비어 있으며 구간별 설명 말풍선이 있다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "드론과 조종기를 든 학생 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥 모양 물통 (1)~(4): 넓고 낮은 원기둥, 좁고 높은 원기둥, 위가 좁은 2단 물통, 위가 넓고 아래가 좁은 2단 물통",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "㉠~㉣ 시간-높이 그래프 4개: 직선 하나, 꺾인 선(기울기 감소), 꺾인 선(기울기 증가), 완만한 직선",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "드론 비행",
+  "물통에 물 넣기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 4.2 소단원 도입부에 해당하는 쪽이다. QR 코드(영상 보기) 표시가 있다. 문제 1에서 (1)~(4)와 ㉠~㉣을 잇는 점이 있다. 역량 아이콘은 보이지 않는다.",
+ "_page": 115,
+ "_profile": "full",
+ "_usage": {
+  "in": 4506,
+  "out": 1195,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

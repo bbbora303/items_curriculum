@@ -1,0 +1,114 @@
+{
+ "printedPage": "68",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "프로젝트"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "환율",
+   "role": "정의",
+   "definition": "원/유로 환율은 1유로를 사는 데 필요한 우리나라의 돈이다.",
+   "notation": ""
+  },
+  {
+   "term": "유로(EUR)",
+   "role": "사용",
+   "definition": "",
+   "notation": "EUR"
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "10\\times 1400=14000(\\text{원})",
+   "plain": "원/유로 환율이 1400원일 때 10유로는 우리나라 돈으로 14000원이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예 하루 비용 정하기",
+   "summary": "3일 동안 1인당 예산 30만 원을 하루 10만 원씩 나누어 정한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "예 프랑스에서 사용하는 돈",
+   "summary": "프랑스에서 쓰는 돈은 유로(EUR)이다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  },
+  {
+   "title": "예 환율을 이용한 계산",
+   "summary": "환율이 1400원일 때 10유로는 10×1400=14000원이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "프로젝트",
+   "level": "활동",
+   "verb": "세워 보세요",
+   "summary": "모둠원과 3일 동안 1인당 30만 원 예산의 여행 계획을 세우고, 현지 돈으로 비용을 조사한 뒤 환율로 우리나라 돈으로 계산한다.",
+   "competencyIcons": [
+    "추론",
+    "연결",
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "여행 계획을 세우는 학생 세 명과 비행기, 에펠탑 사진, 여행 가방 등이 그려진 삽화(쪽이 90도 회전되어 있음)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "메모지 형태의 여행 계획 안내와 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "해외 여행",
+  "여행 예산",
+  "환율",
+  "유로(EUR)",
+  "프랑스"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "이미지가 옆으로 회전되어 있다. 프로젝트 쪽이라 개념 정의는 없고 환율 개념만 간단히 소개한다. 주제 표시는 수학과 경제의 융합이다. 곱셈 기호는 글자층에서 '_'로 깨져 있어 이미지에 따라 ×로 옮겼다.",
+ "_page": 68,
+ "_profile": "full",
+ "_usage": {
+  "in": 4446,
+  "out": 966,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

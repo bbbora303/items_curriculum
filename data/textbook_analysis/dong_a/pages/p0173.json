@@ -1,0 +1,165 @@
+{
+ "printedPage": "173",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "대단원 마무리(서·논술형, 자기 평가)"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{FG}$",
+   "meaning": "선분 FG",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^2$",
+   "meaning": "넓이의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "12",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "직사각형 모양의 종이테이프를 선분 FG를 접는 선으로 하여 접었을 때, 접힌 도형에서 70°가 주어졌을 때 ∠x의 크기를 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "13",
+   "level": "서술형",
+   "verb": "설명하시오",
+   "summary": "밑변 6 cm, 높이 4 cm인 두 직각삼각형에 대해, 두 변의 길이가 각각 같고 끼인각이 90°로 같아서 합동이라는 지호의 주장이 맞는지 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "직사각형 종이테이프 ABCD를 선분 FG를 접는 선으로 접은 그림으로, 각 x와 70° 표시가 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "밑변 6 cm, 높이 4 cm인 두 직각삼각형으로, 높이의 위치가 서로 다르다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "주장을 말하는 학생 지호의 일러스트와 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어 볼 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "실생활에서 점, 직선, 평면의 위치 관계에 관심을 갖기",
+   "problemNos": []
+  },
+  {
+   "concept": "평행선에서 동위각과 엇각의 성질 설명하기",
+   "problemNos": []
+  },
+  {
+   "concept": "삼각형의 작도와 작도 과정 설명하기",
+   "problemNos": []
+  },
+  {
+   "concept": "두 삼각형의 합동을 논리적으로 설명하기",
+   "problemNos": []
+  }
+ ],
+ "notes": "문제 12, 13은 '서·논술형' 문제로 풀이를 쓰는 빈 칸이 있다. 자기 평가는 막대 4개를 색칠하는 형식이며 문항 번호는 없다. 부록 1의 붙임딱지 칸이 있다. 문제 12의 그림에서 접힌 각 표시가 작아 정확한 각 구조는 확인이 어려우며, 소단원 번호는 보이지 않는다. 문제 13의 지호 주장은 삼각형의 합동 조건(SAS)에 대한 판단이며, 두 삼각형에서 4 cm와 6 cm가 끼인각을 이루지 않는다는 점을 판별하는 문제로 보인다.",
+ "_page": 173,
+ "_profile": "full",
+ "_usage": {
+  "in": 4412,
+  "out": 1400,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

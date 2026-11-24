@@ -1,0 +1,203 @@
+{
+ "printedPage": "153",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "예각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "둔각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선 AB, 반직선 AB, 선분 AB",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overleftrightarrow{AB}$, $\\overrightarrow{AB}$, $\\overline{AB}$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "점 O를 꼭짓점으로 하는 각 AOB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "문자로 나타낸 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle O$",
+   "meaning": "꼭짓점 O만으로 나타낸 각 표기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}=2\\overline{AM}$",
+   "meaning": "점 M이 선분 AB의 중점임을 나타내는 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$180^\\circ$",
+   "meaning": "평각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$, $\\overrightarrow{BA}$",
+   "meaning": "반직선 AB, 반직선 BA",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "사진 속 크레인에서 ∠a, ∠b를 점 A~E를 사용해 기호로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "∠a를 ∠O로 나타내는 것이 적절한지 판단하고 그 까닭을 설명하기(점 O에서 각이 여러 개라 구별 불가)",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "∠AOB가 평각이고 직각과 65°가 주어질 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "∠AOB가 평각, ∠COD=50°, ∠EOB=30°일 때 ∠a+∠b의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "5×5 표에서 가로·세로·대각선으로 이웃한 같은 의미의 그림·기호·용어를 2~3개씩 짝지을 때 마지막에 남는 하나 찾기",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "타워크레인 사진 위에 ∠a, ∠b와 점 A~E 표시",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 AC 위의 점 O에서 반직선 OB를 그린 각 a",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평각 AOB 위에 직각과 65°, ∠x가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평각 AOB 위에 반직선 OC, OD, OE와 50°, 30°, ∠a, ∠b 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "선분·중점·각·평각·직선·반직선 등의 그림, 기호, 용어가 들어 있는 5×5 빙고판",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "손으로 빙고판에 빨간 펜으로 동그라미 치는 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "타워크레인"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 보이지 않아 비워 둠. 이 쪽은 새 개념 정의 없이 앞서 배운 각·선분·반직선·직선의 기호와 용어를 복습하는 쪽. 빙고판의 일부 칸 그림은 작아서 정확히 판독하기 어려움.",
+ "_page": 153,
+ "_usage": {
+  "in": 4436,
+  "out": 1778,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

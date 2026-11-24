@@ -1,0 +1,104 @@
+{
+ "printedPage": "206",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "부채꼴의 호의 길이와 넓이는 어떻게 구할까?",
+   "corner": "부채꼴의 호의 길이와 넓이는 어떻게 구할까?",
+   "icons": [],
+   "level": "",
+   "text": "원의 크기에 관계없이 지름의 길이에 대한 원주의 비는 일정하다. 이 비의 값을 원주율이라고 한다. 원주율을 소수로 나타내면 3.14159265358979…와 같이 한없이 계속된다. 이 원주율을 그리스 문자 $\\pi$ 로 나타내고 ‘파이’라고 읽는다. 이때 반지름의 길이가 $r$인 원에서 원주 $l$과 원의 넓이 $S$를 $\\pi$를 사용하여 나타내면 $l=2\\pi r$, $S=\\pi r^2$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (1)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "반지름의 길이가 5 cm인 원에서 원주 $l$과 넓이 $S$는 $l=2\\pi\\times\\square=\\square$ (cm), $S=\\pi\\times\\square^2=\\square$ (cm$^2$)",
+   "subItems": [],
+   "conditions": [],
+   "given": "반지름의 길이 5 cm",
+   "steps": [],
+   "answerFormat": "빈칸 4개 채우기 ($l$ 식의 반지름 값, $l$의 값, $S$ 식의 반지름 값, $S$의 값)"
+  },
+  {
+   "kind": "기타",
+   "label": "부채꼴의 호의 길이와 넓이의 비례",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "한편 부채꼴의 호의 길이와 넓이는 각각 중심각의 크기에 정비례하므로 반지름의 길이가 $r$이고 중심각의 크기가 $a^\\circ$인 부채꼴의 호의 길이 $l$과 넓이 $S$는 다음과 같이 구할 수 있다.\n[상자 1] $l : 2\\pi r = a : 360$에서 $l=2\\pi r\\times\\frac{a}{360}$ ······①\n[상자 2] $S : \\pi r^2 = a : 360$에서 $S=\\pi r^2\\times\\frac{a}{360}$ ······②",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (2)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림과 같이 반지름의 길이가 6 cm이고 중심각의 크기가 $60^\\circ$인 부채꼴에서 호의 길이 $l$, 넓이 $S$는 $l=2\\pi\\times6\\times\\frac{\\square}{360}=\\square$ (cm), $S=\\pi\\times\\square^2\\times\\frac{60}{360}=\\square$ (cm$^2$)",
+   "subItems": [],
+   "conditions": [],
+   "given": "반지름 6 cm, 중심각 $60^\\circ$",
+   "steps": [],
+   "answerFormat": "빈칸 4개 채우기 ($l$ 식의 분자, $l$의 값, $S$ 식의 반지름 값, $S$의 값)"
+  },
+  {
+   "kind": "기타",
+   "label": "부채꼴의 넓이",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "이제 반지름의 길이와 호의 길이를 이용하여 부채꼴의 넓이를 구해 보자. 위의 두 식 ①, ②에서 $S=\\pi r^2\\times\\frac{a}{360}=\\frac{1}{2}\\times r\\times\\left(2\\pi r\\times\\frac{a}{360}\\right)=\\frac{1}{2}rl$ 이다. 즉 반지름의 길이가 $r$이고 호의 길이가 $l$인 부채꼴의 넓이 $S$는 오른쪽과 같다.\n[상자] $S=\\frac{1}{2}rl$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "원과 부채꼴",
+   "labels": "원의 중심에서 중심각 $a^\\circ$, 반지름 $r$, 호의 길이 $l$, 부채꼴의 넓이 $S$ (부채꼴 부분은 연두색으로 칠해져 있음)",
+   "desc": "원 안에 중심각 $a^\\circ$인 부채꼴이 색칠되어 있고, 호 위쪽에 $l$, 반지름 옆에 $r$이 표시됨"
+  },
+  {
+   "kind": "도형",
+   "caption": "중심각 60°인 부채꼴",
+   "labels": "중심각 $60^\\circ$, 반지름 6 cm",
+   "desc": "연한 주황색으로 칠한 부채꼴, 아래쪽 반지름에 6 cm 표시"
+  },
+  {
+   "kind": "모형",
+   "caption": "부채꼴을 잘게 잘라 이어 붙인 그림",
+   "labels": "위: 부채꼴 (반지름 $r$, 호의 길이 $l$), 아래 화살표, 아래: 이어 붙인 직사각형에 가까운 도형 (세로 $r$, 가로 $\\frac{1}{2}l$)",
+   "desc": "부채꼴을 여러 조각으로 나누어 엇갈리게 이어 붙여 직사각형 모양으로 만든 그림"
+  }
+ ],
+ "incomplete": "",
+ "_page": 206,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4122,
+  "out": 2416,
+  "sec": 18.5,
+  "stop": "end_turn"
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "printedPage": "84",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "01 방정식과 그 해",
+  "area": "단원 도입 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "등식",
+   "role": "정의",
+   "definition": "등호를 사용하여 수량 사이의 관계를 나타낸 식",
+   "notation": "4+3=7,\\; x-3=9"
+  },
+  {
+   "term": "좌변",
+   "role": "정의",
+   "definition": "등식에서 등호의 왼쪽 부분",
+   "notation": ""
+  },
+  {
+   "term": "우변",
+   "role": "정의",
+   "definition": "등식에서 등호의 오른쪽 부분",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "정의",
+   "definition": "좌변과 우변을 통틀어 이르는 말",
+   "notation": ""
+  },
+  {
+   "term": "방정식",
+   "role": "정의",
+   "definition": "x의 값에 따라 참이 되기도 하고 거짓이 되기도 하는 등식",
+   "notation": "x+5=7"
+  },
+  {
+   "term": "미지수",
+   "role": "정의",
+   "definition": "방정식에서 값을 모르는 문자",
+   "notation": "x"
+  },
+  {
+   "term": "해(근)",
+   "role": "정의",
+   "definition": "방정식을 참이 되게 하는 미지수의 값",
+   "notation": ""
+  },
+  {
+   "term": "방정식을 푼다",
+   "role": "정의",
+   "definition": "방정식의 해를 구하는 것",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "정의",
+   "definition": "모든 x의 값에 대하여 항상 참이 되는 등식",
+   "notation": "4x-2=2(2x-1)"
+  },
+  {
+   "term": "대입",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "=",
+   "meaning": "등호, 양쪽의 값이 같음을 나타냄",
+   "role": "사용"
+  },
+  {
+   "symbol": "x",
+   "meaning": "방정식의 미지수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "4+3=7,\\; x-3=9",
+   "plain": "등호로 수량 사이의 관계를 나타낸 식이 등식이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "x+5=7",
+   "plain": "x의 값에 따라 참/거짓이 달라지는 등식이 방정식이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "4x-2=2(2x-1)",
+   "plain": "양변을 각각 간단히 정리했을 때 같은 식이면 항등식이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "x+5=7에 x=1,2,3 대입",
+   "summary": "x에 1, 2, 3을 대입해 표로 참/거짓을 확인하면 x=2일 때만 참이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "채워 넣기: 2x-3=5",
+   "summary": "x=4를 대입하면 2×4-3=5로 참이므로 x=4는 해이다.",
+   "solutionShown": false,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "한 병에 800원인 생수 x병과 2000원인 생수 한 병의 합이 6000원임을 등호를 사용한 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "채우시오(빈칸)",
+   "summary": "x=4가 방정식 2x-3=5의 무엇인지 빈칸 채우기(해)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "x=1,2,3일 때 x+5=7의 좌변의 값, 우변의 값, 참/거짓을 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "저탄소 인증 생수병과 돋보기 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "x+5=7에서 좌변, 우변, 양변을 표시한 작은 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "저탄소 제품 인증 생수 가격",
+  "환경"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "방정식과 그 해의 뜻을 알고, 등식의 성질을 설명할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "일차방정식 단원의 첫 소단원 도입 쪽이다. 이 쪽에서는 등식의 성질 자체는 아직 나오지 않고 학습 목표에만 언급된다. 쪽 아래 표시는 'Ⅱ. 문자와 식'이다.",
+ "_page": 84,
+ "_usage": {
+  "in": 4757,
+  "out": 1615,
+  "sec": 9.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

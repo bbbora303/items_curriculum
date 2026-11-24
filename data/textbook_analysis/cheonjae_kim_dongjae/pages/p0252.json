@@ -1,0 +1,123 @@
+{
+ "printedPage": "252",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "도수분포다각형이란 무엇일까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "도수분포다각형",
+   "role": "정의",
+   "definition": "히스토그램의 각 직사각형 윗변의 중앙과 양 끝에 도수가 0인 계급의 중앙에 점을 찍어 선분으로 연결한 그래프이다.",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 가운데 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "히스토그램 → 윗변 중앙에 점 → 양 끝에 도수 0인 계급 하나씩 추가해 중앙에 점 → 선분으로 연결",
+   "plain": "히스토그램을 이용해 도수분포다각형을 그리는 3단계 순서이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "도수분포다각형과 가로축으로 둘러싸인 부분의 넓이 = 히스토그램의 직사각형 넓이의 합",
+   "plain": "두 그래프가 만드는 넓이는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "도수분포다각형은 각 계급의 가운데 값에 도수를 대응시켜 만든 그래프",
+   "plain": "히스토그램처럼 자료의 분포 상태를 한눈에 알아보기 쉽다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "OECD 38개 회원국 고용률의 도수분포다각형에서 알 수 있는 분포의 특징을 말한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "예제 1",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "고용률 도수분포다각형에서 알 수 있는 분포의 특징을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "도수분포다각형을 만드는 3단계 순서를 설명하는 말풍선 도식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "생활 폐기물 발생량 히스토그램 위에 도수분포다각형을 겹쳐 그린 그래프(계급 0.5~1.7 kg)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "OECD 38개 회원국의 고용률 도수분포다각형(계급 50~82 %, 4 % 간격)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "생활 폐기물 발생량",
+  "OECD 회원국 고용률"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 이름은 목록에서 '자료의 정리와 해석'으로 추정했다(쪽 아래에는 'Ⅵ. 통계'로 표시). 소단원 번호는 보이지 않아 소제목만 적었다. 예제 풀이는 고용률 74 % 이상 78 % 미만이 9개로 가장 많고, 대부분 66 % 이상 78 % 미만이며, M자 모양으로 오른쪽으로 치우쳤다는 내용이다.",
+ "_page": 252,
+ "_usage": {
+  "in": 4730,
+  "out": 1230,
+  "sec": 7.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

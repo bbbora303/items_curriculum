@@ -1,0 +1,161 @@
+{
+ "printedPage": "49",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "유리수의 나눗셈(역수와 나눗셈)",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "역수",
+   "role": "정의",
+   "definition": "어떤 두 수의 곱이 1일 때, 한 수를 다른 수의 역수라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈 기호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\left(+\\frac{3}{5}\\right)\\times\\left(+\\frac{5}{3}\\right)=1$",
+   "plain": "곱이 1인 두 수는 서로 역수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "0의 역수는 없다",
+   "plain": "0에 어떤 수를 곱해도 1이 될 수 없으므로 0의 역수는 없다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(+4)\\div\\left(-\\frac{2}{5}\\right)=(+4)\\times\\left(-\\frac{5}{2}\\right)=-10$",
+   "plain": "유리수의 나눗셈은 나누는 수의 역수를 곱하여 계산한다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$\\left(-\\frac{2}{3}\\right)\\div\\left(-\\frac{7}{6}\\right)\\times\\frac{3}{7}=\\left(-\\frac{2}{3}\\right)\\times\\left(-\\frac{6}{7}\\right)\\times\\frac{3}{7}=+\\frac{1}{3}$",
+   "plain": "곱셈과 나눗셈이 섞여 있으면 나눗셈을 곱셈으로 바꾸어 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "역수의 예",
+   "summary": "(+3/5)×(+5/3)=1이므로 서로 역수임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "4÷(2/5)",
+   "summary": "4÷2/5=4×5/2=10이므로 나누는 것은 역수를 곱하는 것과 같음을 보인다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "(+4)÷(-2/5)",
+   "summary": "나눗셈을 곱셈으로, 나누는 수를 역수로 바꾸어 -10을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "예제 2",
+   "summary": "두 유리수의 나눗셈을 역수를 곱하여 계산한다. (1) (+1/6)÷(-4/9), (2) (-5/3)÷(-10/9)",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "곱셈과 나눗셈이 섞인 계산",
+   "summary": "나눗셈을 곱셈으로 바꾸어 (-2/3)÷(-7/6)×3/7=+1/3을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "(-7/4)×(-4/7)의 값을 구하고 -7/4와 -4/7의 역수를 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "예제 2 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(+1/6)÷(-4/9)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "예제 2 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(-5/3)÷(-10/9)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "나눗셈을 곱셈으로, 나누는 수를 역수로 바꾸는 과정을 화살표와 색 표시로 보여 주는 식",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "예제 2의 풀이와 답이 제시됨. 쪽 옆 설명(0의 역수는 없다)은 여백 보충 설명.",
+ "_page": 49,
+ "_usage": {
+  "in": 4691,
+  "out": 1603,
+  "sec": 9.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

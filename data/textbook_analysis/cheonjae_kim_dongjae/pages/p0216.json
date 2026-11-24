@@ -1,0 +1,162 @@
+{
+ "printedPage": "216",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "정다면체",
+  "area": "생각 열기 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정다면체",
+   "role": "정의",
+   "definition": "각 면이 모두 합동인 정다각형이고, 각 꼭짓점에 모인 면의 개수가 모두 같은 다면체",
+   "notation": ""
+  },
+  {
+   "term": "정사면체",
+   "role": "정의",
+   "definition": "면이 정삼각형이고 한 꼭짓점에 모인 면이 3개인 정다면체",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "정의",
+   "definition": "면이 정사각형이고 한 꼭짓점에 모인 면이 3개인 정다면체",
+   "notation": ""
+  },
+  {
+   "term": "정팔면체",
+   "role": "정의",
+   "definition": "면이 정삼각형이고 한 꼭짓점에 모인 면이 4개인 정다면체",
+   "notation": ""
+  },
+  {
+   "term": "정십이면체",
+   "role": "정의",
+   "definition": "면이 정오각형이고 한 꼭짓점에 모인 면이 3개인 정다면체",
+   "notation": ""
+  },
+  {
+   "term": "정이십면체",
+   "role": "정의",
+   "definition": "면이 정삼각형이고 한 꼭짓점에 모인 면이 5개인 정다면체",
+   "notation": ""
+  },
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "정다면체: 각 면이 모두 합동인 정다각형, 각 꼭짓점에 모인 면의 개수가 모두 같은 다면체",
+   "plain": "면이 모두 같은 정다각형이고 꼭짓점마다 모인 면의 수가 같은 다면체이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "정다면체는 정사면체, 정육면체, 정팔면체, 정십이면체, 정이십면체의 다섯 가지뿐이다",
+   "plain": "정다면체는 다섯 종류만 있다고 알려져 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "면의 모양이 정삼각형: 정사면체(3개), 정팔면체(4개), 정이십면체(5개) / 정사각형: 정육면체(3개) / 정오각형: 정십이면체(3개)",
+   "plain": "면의 모양과 한 꼭짓점에 모인 면의 개수에 따라 정다면체를 분류한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 1",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "그림 속 입체도형에서 각 면이 모두 합동인 다면체를 말해 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 2",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "1번에서 말한 다면체에서 한 꼭짓점에 모인 면의 개수를 말해 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "루카 파치올리의 초상화 속 두 입체도형 ㉠, ㉡을 확대한 그림과 정십이면체 주사위 사진",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정사면체, 정팔면체, 정이십면체 입체와 한 꼭짓점에 모인 면의 개수(3, 4, 5개)를 보여 주는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정육면체와 정십이면체 입체와 한 꼭짓점에 모인 면의 개수(3개)를 보여 주는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "장식",
+   "desc": "이 단원의 수학자 플라톤 캐릭터 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "루카 파치올리의 초상화",
+  "주사위",
+  "플라톤이 정다면체를 불·흙·공기·물·우주와 연결"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "차례상 대단원이 '입체도형의 성질'로 추정됨(쪽 아래에는 'V. 도형의 성질'로 인쇄). 소단원 번호는 보이지 않아 제목을 '정다면체'로 추정함. 생각 열기 그림의 ㉠은 정십이면체와 비슷하나 확실하지 않음.",
+ "_page": 216,
+ "_usage": {
+  "in": 4462,
+  "out": 1635,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

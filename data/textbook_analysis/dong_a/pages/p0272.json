@@ -1,0 +1,128 @@
+{
+ "printedPage": "272",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "서·논술형 문제 / 자기 평가"
+ },
+ "pageType": "서술형문제",
+ "terms": [
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "10",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "학생들이 적당하다고 생각하는 떡볶이 1인분 가격의 히스토그램을 근거로 판매 가격을 정하는 글을 쓴다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "11-(1)",
+   "level": "서술형",
+   "verb": "설명하시오",
+   "summary": "학생 20명이 자리에 앉아 있지 않았던 횟수 자료에서, 대푯값을 이용해 학급 규칙의 기준 횟수를 설명한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "11-(2)",
+   "level": "서술형",
+   "verb": "정하시오",
+   "summary": "'○회 초과하여 자리에 앉아 있지 않았던 학생은 ○○을 하기로 함.' 형식의 학급 규칙을 정한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "기타"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "떡볶이 1인분의 가격(천 원)에 따른 학생 수(명)를 나타낸 히스토그램. 계급은 1~5(천 원) 범위이고 세로축은 0~30명이다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "학생 20명이 자리에 앉아 있지 않았던 횟수(단위: 회)를 나열한 자료표.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "풀이를 쓰는 빈 답안 칸.",
+   "_raw": "기타",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어 볼 수 있는 QR 코드.",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "학교 바자회 떡볶이 가격",
+  "학급 규칙 정하기(자리에 앉아 있지 않았던 횟수)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "각 대푯값을 어떤 상황에서 유용하게 사용할 수 있는지 알기",
+   "problemNos": []
+  },
+  {
+   "concept": "자료를 수집·분석·해석하는 과정에서 체계적으로 사고하고 합리적으로 의사 결정하기",
+   "problemNos": []
+  },
+  {
+   "concept": "삶과 연계된 통계에 관심을 갖고 더 알아보고 싶어 하기",
+   "problemNos": []
+  }
+ ],
+ "notes": "자기 평가는 Math Pizza가 아니라 0~100% 막대 칠하기 방식이며 문항 번호 연결은 없다. 히스토그램의 막대 높이는 눈금으로 정확히 읽기 어려워 수치를 적지 않았다. 오른쪽 아래에 '기억에 남는 것이나 새롭게 알게 된 것' 적기 칸과 부록 1 붙임딱지 붙이는 자리가 있다.",
+ "_page": 272,
+ "_profile": "full",
+ "_usage": {
+  "in": 4659,
+  "out": 1204,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,188 @@
+{
+ "printedPage": "210",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.1 다면체",
+  "area": "단원 도입 및 개념 설명 (생각해요, 생각 1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "정의",
+   "definition": "다각형인 면으로만 둘러싸인 입체도형",
+   "notation": ""
+  },
+  {
+   "term": "사면체",
+   "role": "정의",
+   "definition": "면이 4개인 다면체",
+   "notation": ""
+  },
+  {
+   "term": "오면체",
+   "role": "정의",
+   "definition": "면이 5개인 다면체",
+   "notation": ""
+  },
+  {
+   "term": "육면체",
+   "role": "정의",
+   "definition": "면이 6개인 다면체",
+   "notation": ""
+  },
+  {
+   "term": "면 (다면체의 면)",
+   "role": "정의",
+   "definition": "다면체를 둘러싸고 있는 다각형",
+   "notation": ""
+  },
+  {
+   "term": "모서리 (다면체의 모서리)",
+   "role": "정의",
+   "definition": "다면체에서 다각형의 변",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점 (다면체의 꼭짓점)",
+   "role": "정의",
+   "definition": "다면체에서 다각형의 꼭짓점",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "다면체: 다각형인 면으로만 둘러싸인 입체도형",
+   "plain": "다각형 모양의 면으로만 둘러싸인 입체도형을 다면체라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "면의 개수가 4, 5, 6, … 이면 사면체, 오면체, 육면체, …",
+   "plain": "면의 개수에 따라 다면체의 이름이 정해진다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "면, 모서리, 꼭짓점",
+   "plain": "다면체의 면은 다각형, 모서리는 다각형의 변, 꼭짓점은 다각형의 꼭짓점이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 두 다면체((1) 각기둥 모양, (2) 각뿔 모양)가 몇 면체인지 쓰고 모서리와 꼭짓점의 개수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 1",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "그림의 고체 샴푸 중 다각형인 면으로만 둘러싸인 입체도형 모양을 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "질문",
+   "level": "활동",
+   "verb": "원기둥, 원뿔은 다면체일까요?",
+   "summary": "원기둥과 원뿔이 다면체인지 생각해 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "여러 가지 모양의 고체 샴푸(각기둥, 각뿔, 원뿔, 원기둥, 구 등)를 보는 아이들 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각기둥에 면, 모서리, 꼭짓점을 표시한 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "(1) 오각기둥 모양의 다면체, (2) 사각뿔 모양의 다면체(점선으로 보이지 않는 모서리 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "고체 샴푸"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "다면체의 뜻을 안다.",
+   "다면체의 성질을 탐구하고, 이를 설명할 수 있다.",
+   "다면체, 각뿔대, 정다면체"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 목표와 학습 요소가 있는 7.1 소단원 도입 쪽이다. 각기둥과 각뿔은 이미 알고 있다고 전제하고 쓰였다. 각뿔대와 정다면체는 학습 요소로만 나오고 이 쪽에서 정의되지 않는다. 역량 아이콘은 보이지 않는다. 오른쪽 위 QR 코드는 내용 확인이 불가능하다.",
+ "_page": 210,
+ "_profile": "full",
+ "_usage": {
+  "in": 4399,
+  "out": 1649,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

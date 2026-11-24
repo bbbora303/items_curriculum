@@ -1,0 +1,185 @@
+{
+ "printedPage": "88",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "02 일차방정식과 그 풀이",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "정의",
+   "definition": "우변의 모든 항을 좌변으로 이항하여 정리했을 때 (x에 대한 일차식)=0의 꼴이 되는 방정식",
+   "notation": "(x에 대한 일차식)=0"
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "차수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상수항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "x",
+   "meaning": "구하려는 미지수",
+   "role": "사용"
+  },
+  {
+   "symbol": "x=(수)",
+   "meaning": "방정식을 풀어 해를 나타내는 꼴",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(x\\text{에 대한 일차식})=0",
+   "plain": "우변의 모든 항을 좌변으로 이항해 정리했을 때 좌변이 x에 대한 일차식이 되는 방정식을 일차방정식이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "x=(\\text{수})",
+   "plain": "미지수를 포함한 항은 좌변으로, 상수항은 우변으로 이항해 정리한 뒤 등식의 성질로 x=(수)의 꼴로 만들어 해를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "일차방정식 (1) 3x-10=2, (2) 6x-1=4x+5를 이항과 양변 나누기로 풀고, 해를 대입하여 확인한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각열기 ❶",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "2점 슛의 개수를 x개라 할 때 총 19점이 되는 상황을 방정식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "생각열기 ❷",
+   "level": "활동",
+   "verb": "정리하여 보자",
+   "summary": "❶의 방정식에서 우변의 모든 항을 좌변으로 이항하여 정리한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각열기 ❸",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "❷에서 정리한 식의 좌변의 차수를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "예제 1 (1)",
+   "level": "기본",
+   "verb": "푸시오",
+   "summary": "3x-10=2를 푼다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "예제 1 (2)",
+   "level": "기본",
+   "verb": "푸시오",
+   "summary": "6x-1=4x+5를 푼다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "농구 골대 앞에서 슛을 하는 두 학생의 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "'이 단원의 수학자' 알콰리즈미의 캐리커처",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "농구 시합 득점(3점 슛, 2점 슛)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이지만 '배운 내용/배울 내용' 표시는 이 쪽에 없다. 쪽 안에 정의(일차방정식)와 예제 1이 함께 있다. 이항과 방정식의 해는 앞 단원에서 배운 것으로 전제하고 쓴다. 알콰리즈미(780?~850?)는 방정식을 푸는 방법을 연구한 수학자로 소개된다.",
+ "_page": 88,
+ "_usage": {
+  "in": 4864,
+  "out": 1549,
+  "sec": 9.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

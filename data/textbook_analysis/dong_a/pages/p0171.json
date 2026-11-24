@@ -1,0 +1,291 @@
+{
+ "printedPage": "171",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SSS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "ASA 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l /\\!/ m$",
+   "meaning": "두 직선 l, m이 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\angle a=\\angle c,\\ \\angle b=\\angle d$",
+   "plain": "맞꼭지각의 크기는 서로 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l /\\!/ m$일 때 $\\angle a=\\angle c$ (동위각), $\\angle b=\\angle d$ (엇각)",
+   "plain": "평행한 두 직선에서 동위각과 엇각의 크기는 각각 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "작도: 눈금 없는 자와 컴퍼스만으로 도형을 그리는 것",
+   "plain": "작도는 눈금 없는 자와 컴퍼스만 사용해 도형을 그리는 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "SSS, SAS, ASA 합동",
+   "plain": "세 변, 두 변과 끼인각, 한 변과 양 끝 각이 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "확인 1",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "선분은 두 점을 잇는 선 중 길이가 가장 짧다는 설명의 참·거짓 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 2",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "두 직선의 교각이 모두 같은 경우는 수직으로 만날 때라는 설명 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 3",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "공간에서 만나지 않는 두 직선은 평행하다는 설명 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 4",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "작도에서 선분의 길이를 옮길 때 눈금 없는 자를 사용한다는 설명 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 5",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "합동인 두 삼각형에서 대응각의 크기가 각각 같다는 설명 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인 6",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "세 각의 크기가 각각 같으면 두 삼각형이 합동이라는 설명 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "01",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "M이 AC의 중점이고 AB=10 cm, BC=4 cm일 때 MC의 길이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "02",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "∠AOB가 평각이고 한 각이 58°, 직각 표시가 있을 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "03",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 직선이 한 점 O에서 만나고 ∠a:∠b=2:3, 80°가 주어질 때 ∠AOB의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "오각기둥의 모서리를 연장한 직선의 위치 관계에 대해 보기 ㄱ~ㄹ 중 옳은 것 모두 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "맞꼭지각 a, b, c, d를 나타낸 두 직선의 교차 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "평행한 두 직선 l, m과 한 직선이 만나 생기는 동위각·엇각 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A, M, C, B가 놓인 선분과 길이 10 cm, 4 cm 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 AB 위의 점 O에서 반직선과 58° 각, 직각 표시가 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 O에서 만나는 세 직선과 각 a, b, 80°",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~J가 표시된 오각기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 보이지 않아 비워 둠. 왼쪽 위 요약 박스(맞꼭지각, 동위각·엇각, 작도, 삼각형의 합동 조건)와 ○×표 문항 1~6, 오른쪽 문항 01~04(기본·표준 난이도 표시)로 구성됨. 요약 박스의 개념은 모두 이미 배운 내용을 정리한 것이므로 role을 '사용'으로 분류함.",
+ "_page": 171,
+ "_profile": "full",
+ "_usage": {
+  "in": 5015,
+  "out": 2519,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

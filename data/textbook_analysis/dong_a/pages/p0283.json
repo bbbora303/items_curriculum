@@ -1,0 +1,214 @@
+{
+ "printedPage": "283",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.4 일차식의 덧셈과 뺄셈 / 3.5 일차방정식과 그 해",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다항식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "차수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌변·우변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "참/거짓",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2x+1=5$",
+   "meaning": "x의 값에 따라 참/거짓이 정해지는 등식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\div$",
+   "meaning": "일차식을 수로 나누는 계산",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "등식의 양변에 같은 수를 더하거나 빼도 등식은 성립한다.",
+   "plain": "양변에 같은 수를 더하거나 빼어도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "등식의 양변에 같은 수를 곱하거나 0이 아닌 같은 수로 나누어도 등식은 성립한다.",
+   "plain": "양변에 같은 수를 곱하거나 0이 아닌 수로 나누어도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$2(10a+1)+2(6a+3)=32a+8$",
+   "plain": "도형의 둘레는 같은 길이의 직사각형 둘레로 바꾸어 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "함께해요 1 (3.5)",
+   "summary": "x=0,1,2,3일 때 2x+1=5의 좌변 값과 우변 값을 비교해 참/거짓을 판별한 표(x=2일 때 참)",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "84쪽 해결해요 6 예시",
+   "summary": "일차식 12x, y-6과 수 -4, 3/2를 곱하는 식과 나누는 식을 만들어 계산",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3~4 (3.3 풀이)",
+   "level": "기본",
+   "verb": "",
+   "summary": "일차식과 수의 곱셈·나눗셈 및 괄호 계산의 정답(예: 10x, -15a, 3a+12)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "해결해요 84쪽 1~6",
+   "level": "기본",
+   "verb": "",
+   "summary": "일차식 판별 갈림길, 일차식과 수의 곱셈·나눗셈, 보기에서 식 만들어 계산하는 서술형 풀이와 채점 기준",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3.4 생각해요, 문제 1~3",
+   "level": "기본",
+   "verb": "",
+   "summary": "동류항 찾기와 일차식의 덧셈·뺄셈 정답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "해결해요 87쪽 1~6",
+   "level": "기본",
+   "verb": "",
+   "summary": "일차식의 덧셈·뺄셈, 2A-B 계산, 도형 둘레의 식, 다섯 수의 합 규칙 설명(예시 답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3.5 생각해요, 문제 1~6",
+   "level": "기본",
+   "verb": "",
+   "summary": "등식 판별, 문장을 등식으로 나타내기, 등식의 성질 설명, 이항 형태의 식 정답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "2x+1=5에서 x=0~3의 좌변·우변 값과 참/거짓을 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x를 가운데로 하여 x-8, x-6, x+6, x+8이 X자 모양으로 배치된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "채점 기준과 배점 비율(50%, 50%) 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "갈림길 이동 그림(일차식이면 한쪽, 아니면 다른 쪽 방향)",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "갈림길 따라 만나는 동물(펭귄)",
+  "직사각형 둘레",
+  "수 배열(X자 모양 다섯 수의 합)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새 개념을 정의하지 않고 앞서 배운 내용을 사용하는 풀이만 있어 모든 용어를 role=사용으로 표시했다. 소단원 3.4는 시작 부분만 보이고 3.5는 정답이 이어진다. 84쪽 해결해요 2의 갈림길 아이콘은 방향 그림이라 글로만 옮겼다. 함께해요 2의 답은 2이다.",
+ "_page": 283,
+ "_profile": "full",
+ "_usage": {
+  "in": 5602,
+  "out": 1975,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

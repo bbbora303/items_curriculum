@@ -1,0 +1,164 @@
+{
+ "printedPage": "172",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "01 간단한 도형의 작도",
+  "area": "탐구 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "정의",
+   "definition": "눈금 없는 자와 컴퍼스만을 사용하여 도형을 그리는 것",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자",
+   "role": "정의",
+   "definition": "두 점을 연결하는 선분을 그리거나 주어진 선분을 연장하는 데 사용하는 도구",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "정의",
+   "definition": "원을 그리거나 주어진 선분의 길이를 재어서 옮기는 데 사용하는 도구",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l$"
+  },
+  {
+   "term": "원, 반지름, 중심",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "직선 l",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "작도: 눈금 없는 자와 컴퍼스만으로 도형을 그리는 것",
+   "plain": "작도는 눈금 없는 자와 컴퍼스만 써서 도형을 그리는 것이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "눈금 없는 자: 선분 긋기, 선분 연장 / 컴퍼스: 원 그리기, 길이 옮기기",
+   "plain": "자는 선을 긋고 늘이는 데, 컴퍼스는 원을 그리고 길이를 옮기는 데 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$\\overline{AB}$와 길이가 같은 $\\overline{CD}$ 작도: ① 직선 $l$ 위에 점 C ② 컴퍼스로 $\\overline{AB}$ 길이 재기 ③ C를 중심, 반지름 $\\overline{AB}$인 원을 그려 $l$과의 교점을 D",
+   "plain": "주어진 선분과 길이가 같은 선분을 3단계로 작도한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "선분 AB와 길이가 같은 선분 CD 작도",
+   "summary": "직선 위에 점 C를 잡고 컴퍼스로 AB 길이를 옮겨 교점 D를 찾아 CD를 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "탐구 ❶",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "<그림 1>에서 자를 사용해 선분 ㉢과 직선으로 연결되는 선분을 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "탐구 ❷",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "<그림 2>에서 컴퍼스를 사용해 빨간색 두 선분의 길이를 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "<그림 1> 두 평행한 세로선 사이로 가려진 선분 ㉠, ㉡, ㉢이 있는 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "<그림 2> 원근법으로 그려진 방사형 선과 빨간색 두 선분이 있는 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "자로 선을 긋는 손 사진과 컴퍼스로 원을 그리는 손 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "선분 AB, 직선 l 위의 점 C, 컴퍼스로 길이를 재고 옮기는 작도 3단계 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "자와 컴퍼스 사용",
+  "원근법 그림"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "작도의 뜻을 알고, 간단한 도형을 작도할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입과 탐구 활동 쪽으로, 준비물(자, 컴퍼스)과 활동 영상 QR 코드가 있다. 하단에 'Ⅳ. 도형의 기초'가 표시되어 있고, 주어진 대단원 목록상 '작도와 합동'으로 분류했다.",
+ "_page": 172,
+ "_usage": {
+  "in": 4534,
+  "out": 1665,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,265 @@
+{
+ "printedPage": "232",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "2 입체도형의 성질 (중단원 마무리)",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "단면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정사면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정팔면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정십이면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정이십면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi r^2$",
+   "meaning": "구의 겉넓이 공식에 들어가는 식(빈칸 앞의 계수를 채움)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi r^3$",
+   "meaning": "구의 부피 공식에 들어가는 식(빈칸 앞의 계수를 채움)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "정다면체는 다섯 가지뿐이다",
+   "plain": "정다면체는 정사면체, 정육면체, 정팔면체, 정십이면체, 정이십면체의 다섯 가지뿐이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "각 면이 모두 합동인 정다각형이고, 각 꼭짓점에 모인 면의 개수가 모두 같다",
+   "plain": "정다면체의 두 가지 조건(빈칸 채우기).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "회전축에 수직인 평면으로 자른 단면의 경계는 항상 원이다",
+   "plain": "회전체를 회전축에 수직인 평면으로 자르면 단면은 원이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "회전축을 포함하는 평면으로 자른 단면은 모두 합동이다",
+   "plain": "회전체를 회전축을 포함하는 평면으로 자르면 단면은 모두 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(기둥의 겉넓이)=(밑넓이)\\times 2+(옆넓이), (기둥의 부피)=(밑넓이)\\times(높이)",
+   "plain": "기둥의 겉넓이와 부피 공식.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(뿔의 겉넓이)=(밑넓이)+(옆넓이), (뿔의 부피)=\\frac{1}{3}\\times(기둥의 부피)=\\frac{1}{3}\\times(밑넓이)\\times(높이)",
+   "plain": "뿔의 겉넓이와 부피 공식(빈칸 채우기).",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(구의 겉넓이)=4\\pi r^2, (구의 부피)=\\frac{4}{3}\\pi r^3",
+   "plain": "구의 겉넓이와 부피 공식(빈칸 채우기).",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각기둥의 면의 개수 a, 사각뿔의 꼭짓점의 개수 b, 오각뿔대의 모서리의 개수 c일 때 a+b+c의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "고치시오",
+   "summary": "정다면체에 대한 학생 4명의 대화에서 잘못 설명한 학생을 찾아 바르게 고친다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "연결하시오",
+   "summary": "원뿔, 원뿔대, 구를 회전축을 포함하는 평면으로 자른 단면의 모양(원, 사다리꼴, 이등변삼각형)과 연결한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 각기둥(밑면은 사다리꼴 모양, 길이 9, 4, 5, 5, 7, 3 cm)의 겉넓이와 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "다면체(각뿔, 각기둥, 각뿔대)와 정다면체 다섯 가지 그림이 있는 정리 도표",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "회전체(원기둥, 원뿔, 구)와 회전축 평면 단면을 보여 주는 정리 도표",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "기둥, 뿔, 구의 겉넓이와 부피 공식 빈칸 정리 및 캔, 고깔, 공 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "3번 문제의 회전체 이름과 단면 모양을 연결하는 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "4번 문제의 사다리꼴 밑면을 가진 각기둥과 치수",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "음료 캔",
+  "고깔모자",
+  "공"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "중단원 마무리 쪽으로 정리 도표의 빈칸 채우기 활동과 기본 문제 4개로 구성됨. 새로 정의되는 용어는 없고 모두 앞에서 배운 내용을 정리한 것임. 4번 그림의 치수는 밑면 사다리꼴에서 9 cm, 4 cm, 5 cm, 5 cm와 높이 3 cm, 7 cm로 읽었으나 각 치수가 가리키는 변은 확실하지 않음. 빈칸 답은 이미지에 보이지 않아 채우지 않고 일반적인 공식 내용만 적음.",
+ "_page": 232,
+ "_usage": {
+  "in": 4492,
+  "out": 2425,
+  "sec": 15.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

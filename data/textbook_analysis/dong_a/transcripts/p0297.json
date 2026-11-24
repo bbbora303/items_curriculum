@@ -1,0 +1,461 @@
+{
+ "printedPage": "297",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [],
+   "level": "",
+   "text": "예시 6개의 삼각형의 내각의 크기의 합은 $180^\\circ\\times6$이고, 그림에서 가운데 모인 6개의 각의 크기의 합인 $360^\\circ$를 빼면 육각형의 내각의 크기의 합이 된다. 따라서 육각형의 내각의 크기의 합은 $180^\\circ\\times6-360^\\circ=720^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "2, 2",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 188쪽 1",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "",
+   "text": "1",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$1800^\\circ$"
+    },
+    {
+     "label": "(2)",
+     "text": "$156^\\circ$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 188쪽 2",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "",
+   "text": "2 구각형",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 188쪽 3",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "",
+   "text": "3",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$95^\\circ$"
+    },
+    {
+     "label": "(2)",
+     "text": "$50^\\circ$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 188쪽 4",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "",
+   "text": "4 $\\triangle ABC$에서 $\\overline{AB}=\\overline{AC}$이므로 $\\angle C=\\angle B=15^\\circ$ 따라서 $\\angle A=180^\\circ-2\\times15^\\circ=150^\\circ$ 구하는 정다각형을 정$n$각형이라고 하면 한 내각의 크기가 $150^\\circ$이므로 $\\frac{180^\\circ\\times(n-2)}{n}=150^\\circ$, $n=12$ 따라서 구하는 정다각형은 정십이각형이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 188쪽 5",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "",
+   "text": "5",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$1620^\\circ$"
+    },
+    {
+     "label": "(2)",
+     "text": "예시 문제 한 꼭짓점에서 그을 수 있는 대각선의 개수가 10인 다각형의 내각의 크기의 합을 구하시오. 예시 답 $1980^\\circ$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 188쪽 6",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "",
+   "text": "6 오른쪽 그림에서 $\\angle c=\\angle a+\\angle b$, $\\angle c=30^\\circ+34^\\circ=64^\\circ$ 이므로 $\\angle a+\\angle b=64^\\circ$ 오각형의 내각의 크기의 합은 $180^\\circ\\times(5-2)=540^\\circ$이므로 $105^\\circ+(\\angle x+\\angle a)+(\\angle b+76^\\circ)+140^\\circ+110^\\circ=540^\\circ$ $\\angle x+495^\\circ=540^\\circ$, $\\angle x=45^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "서술형문제",
+   "label": "해결해요 188쪽 7",
+   "corner": "해결해요 188쪽",
+   "icons": [],
+   "level": "서술형",
+   "text": "7 한 내각의 크기가 $160^\\circ$인 정다각형을 정$n$각형이라고 하면 $\\frac{180^\\circ\\times(n-2)}{n}=160^\\circ$, $n=18$ 즉, 한 내각의 크기가 $160^\\circ$인 정다각형은 정십팔각형이다. … ➊ 따라서 정십팔각형의 내각의 크기의 합은 $180^\\circ\\times(18-2)=2880^\\circ$ … ➋",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "채점 기준 표 참고(➊ 정다각형 구하기 60 %, ➋ 정다각형의 내각의 크기의 합 구하기 40 %)"
+  },
+  {
+   "kind": "생각열기",
+   "label": "6.4 다각형의 외각의 크기의 합 – 생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "예시 삼각형, 사각형과 마찬가지로 오각형의 외각의 크기의 합도 $360^\\circ$일 것 같다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요 1",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "1 (표 참고)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "표 채우기"
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요 2",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "2 $360^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "문제 1",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$110^\\circ$"
+    },
+    {
+     "label": "(2)",
+     "text": "$75^\\circ$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "문제 2",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$72^\\circ$"
+    },
+    {
+     "label": "(2)",
+     "text": "$45^\\circ$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "$360^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 191쪽 1",
+   "corner": "해결해요 191쪽",
+   "icons": [],
+   "level": "",
+   "text": "1",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$50^\\circ$"
+    },
+    {
+     "label": "(2)",
+     "text": "$85^\\circ$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 191쪽 2",
+   "corner": "해결해요 191쪽",
+   "icons": [],
+   "level": "",
+   "text": "2 $43^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 191쪽 3",
+   "corner": "해결해요 191쪽",
+   "icons": [],
+   "level": "",
+   "text": "3",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "정구각형"
+    },
+    {
+     "label": "(2)",
+     "text": "정십오각형"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 191쪽 4",
+   "corner": "해결해요 191쪽",
+   "icons": [],
+   "level": "",
+   "text": "4 다각형의 한 내각의 크기와 한 외각의 크기의 합이 $180^\\circ$이므로 $\\frac{2160^\\circ}{180^\\circ}=12$ 따라서 구하는 정다각형은 정십이각형이고, 한 외각의 크기는 $\\frac{360^\\circ}{12}=30^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "해결해요 191쪽 5",
+   "corner": "해결해요 191쪽",
+   "icons": [],
+   "level": "",
+   "text": "5 거북이 회전한 각의 크기의 합은 구각형의 외각의 크기의 합과 같으므로 $360^\\circ$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "서술형문제",
+   "label": "해결해요 191쪽 6",
+   "corner": "해결해요 191쪽",
+   "icons": [],
+   "level": "서술형",
+   "text": "6 다각형의 한 내각의 크기와 한 외각의 크기의 합이 $180^\\circ$이므로 구하는 정다각형의 한 외각의 크기는 $180^\\circ\\times\\frac{1}{5}=36^\\circ$ … ➊ 구하는 정다각형을 정$n$각형이라고 하면 $\\frac{360^\\circ}{n}=36^\\circ$, $n=10$ 따라서 구하는 정다각형은 정십각형이다. … ➋",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "채점 기준 표 참고(➊ 한 외각의 크기 구하기 50 %, ➋ 정다각형 구하기 50 %)"
+  },
+  {
+   "kind": "참고",
+   "label": "다른 풀이",
+   "corner": "다른 풀이",
+   "icons": [],
+   "level": "",
+   "text": "구하는 정다각형을 정$n$각형이라고 하면 정$n$각형의 한 내각의 크기는 $\\frac{180^\\circ\\times(n-2)}{n}$이고 한 외각의 크기는 $\\frac{360^\\circ}{n}$이다. 이때 한 내각의 크기와 한 외각의 크기의 비가 $4:1$이므로 $\\frac{180^\\circ\\times(n-2)}{n}:\\frac{360^\\circ}{n}=4:1$ … ➊ $n-2=8$, $n=10$ 따라서 구하는 정다각형은 정십각형이다. … ➋",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "채점 기준 표 참고(➊ 구하는 정다각형을 정$n$각형이라 하고 식 세우기 60 %, ➋ 정다각형 구하기 40 %)"
+  }
+ ],
+ "tables": [
+  {
+   "caption": "함께해요 1",
+   "unit": "",
+   "headers": [
+    "다각형",
+    "오각형",
+    "육각형"
+   ],
+   "rows": [
+    [
+     "모든 내각과 외각의 크기의 합",
+     "$180^\\circ\\times5=900^\\circ$",
+     "$180^\\circ\\times6=1080^\\circ$"
+    ],
+    [
+     "내각의 크기의 합",
+     "$540^\\circ$",
+     "$720^\\circ$"
+    ],
+    [
+     "(모든 내각과 외각의 크기의 합)−(내각의 크기의 합)",
+     "$360^\\circ$",
+     "$360^\\circ$"
+    ]
+   ],
+   "source": ""
+  },
+  {
+   "caption": "채점 기준(188쪽 7번)",
+   "unit": "",
+   "headers": [
+    "채점 기준",
+    "배점 비율"
+   ],
+   "rows": [
+    [
+     "➊ 정다각형 구하기",
+     "60 %"
+    ],
+    [
+     "➋ 정다각형의 내각의 크기의 합 구하기",
+     "40 %"
+    ]
+   ],
+   "source": ""
+  },
+  {
+   "caption": "채점 기준(191쪽 6번)",
+   "unit": "",
+   "headers": [
+    "채점 기준",
+    "배점 비율"
+   ],
+   "rows": [
+    [
+     "➊ 한 외각의 크기 구하기",
+     "50 %"
+    ],
+    [
+     "➋ 정다각형 구하기",
+     "50 %"
+    ]
+   ],
+   "source": ""
+  },
+  {
+   "caption": "채점 기준(191쪽 6번 다른 풀이)",
+   "unit": "",
+   "headers": [
+    "채점 기준",
+    "배점 비율"
+   ],
+   "rows": [
+    [
+     "➊ 구하는 정다각형을 정$n$각형이라 하고 식 세우기",
+     "60 %"
+    ],
+    [
+     "➋ 정다각형 구하기",
+     "40 %"
+    ]
+   ],
+   "source": ""
+  }
+ ],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "188쪽 6번 오각형 그림",
+   "labels": "바깥 오각형의 꼭짓점 쪽 각: $105^\\circ$, $110^\\circ$, $140^\\circ$, $76^\\circ$, $\\angle x$ 표시; 안쪽 대각선들이 만드는 각: $30^\\circ$, $34^\\circ$, $\\angle c$, $\\angle a$, $\\angle b$",
+   "desc": "오각형의 각 꼭짓점을 잇는 대각선(별 모양)이 그려진 그림. 위쪽에 $105^\\circ$, $110^\\circ$, 오른쪽에 $140^\\circ$, 오른쪽 아래에 $76^\\circ$, 왼쪽 아래에 $x$, 안쪽에 $30^\\circ$, $34^\\circ$, $c$, $a$, $b$가 표시되어 있다."
+  }
+ ],
+ "incomplete": "6.4 소단원 제목 오른쪽의 '189쪽~190쪽' 표시 외 세부 위치 관계는 그림에서 정확히 읽기 어려운 부분이 있음. 오각형 그림의 각 기호 위치는 대략적으로만 기술함.",
+ "_page": 297,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 5142,
+  "out": 5351,
+  "sec": 27.8,
+  "stop": "end_turn"
+ }
+}

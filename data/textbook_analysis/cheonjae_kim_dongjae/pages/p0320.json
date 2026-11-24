@@ -1,0 +1,32 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": ""
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이미지가 완전히 빈 흰 페이지이고 PDF 글자층도 비어 있어 읽을 수 있는 내용이 없음. 쪽 번호, 단원 표시, 본문, 그림이 모두 보이지 않음. 의도적인 백지 또는 뒷면 빈 쪽으로 보이며, 내용을 추측해 채우지 않음.",
+ "_page": 320,
+ "_usage": {
+  "in": 3910,
+  "out": 263,
+  "sec": 9.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

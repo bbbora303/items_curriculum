@@ -1,0 +1,172 @@
+{
+ "printedPage": "287",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "01 순서쌍과 좌표",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "A(-3)",
+   "meaning": "수직선 위의 점 A와 그 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "P\\left(-\\frac{3}{2}\\right)",
+   "meaning": "수직선 위 점 P의 좌표(유리수)",
+   "role": "사용"
+  },
+  {
+   "symbol": "A(2,-2)",
+   "meaning": "좌표평면 위 점 A의 좌표(순서쌍 표기)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "18번 풀이(정답과 해설)",
+   "summary": "x에 대한 일차방정식의 해가 자연수가 되도록 하는 자연수 a의 값을 구해 합을 구한다(답 5).",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "19번 풀이(정답과 해설)",
+   "summary": "형과 동생이 만나는 시각을 방정식 60x=40(x+10)으로 세워 풀고 확인한다(답 20분 후).",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "나의 학습 준비 상태 1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "수직선 위 점의 좌표 구하기(A:-2, B:-1/2, C:2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "배우고 익히기 1 (수직선)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "수직선 위에 A(-3), B(-1), C(2)의 점을 나타내거나 읽기, 1+은 분수 좌표 P(-3/2), Q(1/2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "배우고 익히기 2 (수직선)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "수직선 위 점 B, T, S의 좌표 읽기, 2+는 A(-2) 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "배우고 익히기 1 (좌표평면)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "좌표평면에서 점 A, B, C의 좌표 읽기(A(2,-2), B(8,0), C(-3,5))",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "18, 19번 서술형 채점 기준표(구분·평가 요소·배점)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "-4부터 4까지 눈금에 점 B, T, S가 표시된 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "물고기 그림 위에 격자 좌표평면과 점 A, B, C가 표시됨",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  }
+ ],
+ "contexts": [
+  "형과 동생이 만나는 거리·시간",
+  "석바위 시장",
+  "물고기 그림"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "수직선 위의 점의 좌표(-2, -1/2, 2)",
+   "제곱·거듭 계산",
+   "문자를 사용한 식(g=f×5)",
+   "1000x원, 24/x cm"
+  ],
+  "current": [
+   "순서쌍, 좌표",
+   "그래프, 그래프"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "왼쪽은 이전 단원(일차방정식) 서술형 18~19번 풀이와 채점 기준이고 오른쪽은 대단원 III 좌표평면과 그래프의 도입 및 01 순서쌍과 좌표의 열기·배우고 익히기 쪽이다. '이 단원의 학습 목표'는 글자층에 1 순서쌍, 좌표 / 2 그래프, 그래프 / 3 정비례, 반비례로 나오나 이미지에는 3 정비례, 반비례로 보인다. 쪽 하단 '정답과 해설'은 부록 성격이며 pageType은 오른쪽 단원도입 중심으로 분류했다.",
+ "_page": 287,
+ "_usage": {
+  "in": 5233,
+  "out": 1642,
+  "sec": 10.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

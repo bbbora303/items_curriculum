@@ -1,0 +1,192 @@
+{
+ "printedPage": "160",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "직선과 평면 사이에는 어떤 위치 관계가 있을까?",
+  "area": "생각 열기 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "직선과 평면의 위치 관계",
+   "role": "정의",
+   "definition": "공간에서 직선과 평면의 위치 관계는 직선이 평면에 포함되는 경우, 한 점에서 만나는 경우, 평행한 경우의 세 가지이다.",
+   "notation": ""
+  },
+  {
+   "term": "직선이 평면에 포함된다",
+   "role": "정의",
+   "definition": "직선이 평면 위에 완전히 놓여 있어 직선과 평면이 만나는 경우의 하나이다.",
+   "notation": ""
+  },
+  {
+   "term": "직선과 평면이 한 점에서 만난다",
+   "role": "정의",
+   "definition": "직선과 평면이 오직 한 점에서만 만나는 경우이다.",
+   "notation": ""
+  },
+  {
+   "term": "직선과 평면의 평행",
+   "role": "정의",
+   "definition": "직선과 평면이 만나지 않을 때 직선과 평면은 서로 평행하다고 한다.",
+   "notation": "$l \\parallel P$"
+  },
+  {
+   "term": "직교 (서로 수직)",
+   "role": "정의",
+   "definition": "직선 l이 평면 P와 한 점 H에서 만나고 점 H를 지나는 평면 P 위의 모든 직선과 수직일 때 직선 l과 평면 P는 직교한다(서로 수직이다)고 한다.",
+   "notation": "$l \\perp P$"
+  },
+  {
+   "term": "수선",
+   "role": "정의",
+   "definition": "평면 P와 직교하는 직선 l을 평면 P의 수선이라 한다.",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "정의",
+   "definition": "수선 l과 평면 P가 만나는 점 H를 수선의 발이라 한다.",
+   "notation": "H"
+  },
+  {
+   "term": "평면",
+   "role": "사용",
+   "definition": "",
+   "notation": "P, Q, R"
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "l, m, n"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l \\parallel P$",
+   "meaning": "직선 l과 평면 P가 평행하다",
+   "role": "정의"
+  },
+  {
+   "symbol": "$l \\perp P$",
+   "meaning": "직선 l과 평면 P가 직교한다(수직이다)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$P, Q, R, \\dots$",
+   "meaning": "평면을 나타내는 알파벳 대문자",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "공간에서 직선과 평면의 위치 관계: ① 직선이 평면에 포함된다 ② 한 점에서 만난다 ③ 평행하다",
+   "plain": "공간에서 직선과 평면의 위치 관계는 세 가지이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l \\parallel P$",
+   "plain": "직선과 평면이 만나지 않으면 평행하다고 하고 기호로 나타낸다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$l \\perp P$",
+   "plain": "직선이 평면 위의 점 H를 지나는 모든 직선과 수직이면 직선과 평면은 직교한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 1",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "세 직선 l, m, n 중 벤치판에 포함되는 직선을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 열기 2",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "세 직선 중 벤치판과 한 점에서 만나는 직선을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 열기 3",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "세 직선 중 벤치판과 만나지 않는 직선을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "벤치 프레스 벤치판과 역기의 직선 l, m, n을 표시한 그림",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선이 평면에 포함되는 경우의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선이 평면과 한 점에서 만나는 경우의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선과 평면이 평행한 경우의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선 l이 평면 P와 점 H에서 수직으로 만나며 평면 위의 여러 직선과 수직인 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "위치 관계를 '만난다 / 만나지 않는다'로 분류한 도식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "벤치 프레스 운동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 쪽에 보이지 않아 소단원 제목은 상단 질문 문장으로 적었다. 쪽 아래에 'Ⅳ. 도형의 기초'가 표시되어 있으며 주어진 대단원 목록 중 '기본 도형'에 해당한다고 판단했다.",
+ "_page": 160,
+ "_usage": {
+  "in": 4678,
+  "out": 1913,
+  "sec": 11.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

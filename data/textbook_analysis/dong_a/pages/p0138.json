@@ -1,0 +1,61 @@
+{
+ "printedPage": "138",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "나의 미래(진로 읽기자료)"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "풍력 발전기 날개를 든 사람과 돋보기를 든 사람이 지구 그림 옆에 서 있고, 태양광 주택과 오른쪽 위로 증가하는 그래프가 함께 그려진 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "기후 변화 대응 전문가",
+  "지구 온난화",
+  "세계지도",
+  "해수면 높이 변화",
+  "지구 평균 기온 변화",
+  "기상 이변"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 전의 진로 소개 쪽('나의 미래')이다. 기후 변화 대응 전문가의 하는 일과 수학의 활용을 설명한다. 세계지도를 좌표평면에, 기후 자료를 그래프에 연결한다. 새로 정의하는 수학 용어나 기호는 없다. 소단원 번호는 보이지 않아 빈 문자열로 두었다. 쪽 아래에 '4. 좌표평면과 그래프'가 인쇄되어 있다.",
+ "_page": 138,
+ "_profile": "full",
+ "_usage": {
+  "in": 4531,
+  "out": 551,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

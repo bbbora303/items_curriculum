@@ -1,0 +1,153 @@
+{
+ "printedPage": "157",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "5.4 평행선의 성질",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "엇각",
+   "role": "정의",
+   "definition": "한 직선이 두 직선과 만날 때 생기는 각 중 서로 엇갈린 위치에 있는 두 각(이 쪽에서는 평행선과 엇각의 성질을 다룸)",
+   "notation": "$\\angle a, \\angle c$"
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle a, \\angle b$"
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle b, \\angle c$"
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l \\parallel m$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l \\parallel m$",
+   "meaning": "두 직선 l, m이 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l \\parallel m \\Rightarrow \\angle a=\\angle c$ (엇각)",
+   "plain": "두 직선이 평행하면 엇각의 크기는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a=\\angle c \\Rightarrow l \\parallel m$",
+   "plain": "엇각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "동위각 $\\angle a=\\angle b$, 맞꼭지각 $\\angle b=\\angle c$ $\\Rightarrow \\angle a=\\angle c$",
+   "plain": "동위각과 맞꼭지각의 성질로 엇각이 같음을 보인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "l∥m일 때 130°가 주어진 그림에서 ∠a, ∠b의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "l∥m일 때 65°, 55°가 주어진 그림에서 ∠a, ∠b의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "가로의 선들이 평행한지 아닌지 판단하는 방법을 동위각과 엇각을 이용해 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "평행선 l, m과 직선 n이 만나 동위각 a, b와 엇각 a, c가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 (1), (2) 평행선과 두 직선이 만나는 그림(각도 130°, 65°, 55°)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "검은색·흰색 블록이 어긋나게 배열된 가로선 착시 무늬",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 평행선 l, m과 두 사선 및 각 a, b, c, d, 동위각·엇각 카드와 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "착시 무늬(블록 배열)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "수학 집 짓기 코너는 평행선과 동위각(∠a=∠b), 평행선과 엇각(∠c=∠d)을 빈칸으로 정리하는 활동. 맞꼭지각과 동위각은 앞 쪽에서 정의된 것으로 보고 '사용'으로 분류했고, 엇각은 이 쪽에서 평행선과의 관계로 다루지만 용어 정의 자체는 앞 쪽일 수 있음.",
+ "_page": 157,
+ "_profile": "full",
+ "_usage": {
+  "in": 4482,
+  "out": 1508,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

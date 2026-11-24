@@ -1,0 +1,153 @@
+{
+ "printedPage": "92",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "생각4 일차방정식은 무엇인가요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "정의",
+   "definition": "방정식의 우변에 있는 모든 항을 좌변으로 이항하여 정리한 식이 (일차식)=0 꼴이 되는 방정식",
+   "notation": "$ax+b=0$ ($a\\neq0$)"
+  },
+  {
+   "term": "x에 대한 일차방정식",
+   "role": "정의",
+   "definition": "미지수가 x인 일차방정식",
+   "notation": "$ax+b=0$ ($a, b$는 수, $a\\neq0$)"
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌변, 우변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$ax+b=0$",
+   "meaning": "x에 대한 일차방정식의 일반형 ($a\\neq0$)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\neq$",
+   "meaning": "같지 않다",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(일차식)$=0$ 꼴이 되는 방정식",
+   "plain": "우변의 모든 항을 좌변으로 이항해 정리했을 때 좌변이 일차식이고 우변이 0이면 일차방정식이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$ax+b=0\\ (a\\neq0)$",
+   "plain": "x에 대한 일차방정식은 이 꼴로 나타낼 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $a+2=b+2,\\ a-3=b-3,\\ a\\times4=b\\times4,\\ \\frac{a}{5}=\\frac{b}{5}$",
+   "plain": "등식의 양변에 같은 수를 더하거나 빼거나 곱하거나 0이 아닌 수로 나누어도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각4 도입",
+   "summary": "$2x+1=-x$의 $-x$를 좌변으로 이항해 $3x+1=0$으로 정리하여 좌변이 일차식임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "확인해요 (1)",
+   "summary": "$3x-2=x+5$를 이항·정리하면 $2x-7=0$이므로 일차방정식이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "$x^2-x-6=0$은 좌변이 일차식이 아니므로 일차방정식이 아니다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 7",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "주어진 4개의 방정식 중 일차방정식을 모두 찾는다: (1) $x=2x+8$, (2) $3-x=x^2+1$, (3) $2x+4=3x-5$, (4) $2x^2-1=2x^2+x$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "'수학 집 짓기' 코너의 등식의 성질 상자와 돋보기를 든 강아지, 말풍선 속 강아지 그림",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "하단 '수학 집 짓기' 코너는 등식의 성질을 복습하는 요약으로, 새 정의가 아니라 이미 배운 내용의 사용으로 보았다. 문제 7의 (4)는 정리하면 x=1/... 형태가 아니라 $-1=x$ 꼴이 되어 일차방정식이 되는 점이 핵심으로 보인다.",
+ "_page": 92,
+ "_profile": "full",
+ "_usage": {
+  "in": 4564,
+  "out": 1491,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

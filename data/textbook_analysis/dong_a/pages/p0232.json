@@ -1,0 +1,180 @@
+{
+ "printedPage": "232",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "반구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구의 겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구의 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥의 겉넓이와 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔의 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^3$",
+   "meaning": "부피의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 2 cm인 반구의 (1) 겉넓이 (2) 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지름 24 cm인 구 모양 농구공의 (1) 겉넓이 (2) 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 반구와 원기둥(반지름 4 cm, 높이 6 cm)을 붙여 만든 입체도형의 겉넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반구(반지름 3 cm)와 원뿔(높이 4 cm)을 붙여 만든 입체도형의 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "원기둥 안에 구 두 개가 꼭 맞게 들어 있고 구 한 개의 부피가 $36\\pi\\ \\mathrm{cm}^3$일 때 원기둥의 부피를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "반지름 4 cm인 구의 $\\frac{1}{8}$을 잘라 낸 입체도형의 겉넓이를 구하고 풀이 과정을 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "반지름 2 cm인 반구",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "지름 24 cm인 농구공",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "두 반구와 원기둥을 붙인 입체도형(6 cm, 4 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반구와 원뿔을 붙인 입체도형(3 cm, 4 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥 안에 구 두 개가 꼭 맞게 들어 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "구의 1/8을 잘라 낸 입체도형(반지름 4 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "농구공"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "각 문제 옆에 7.3, 7.4, 7.5 소단원 연계 표시가 있고(문제 3은 7.3+7.5, 문제 4·5는 7.4+7.5), 우수/보통/분발 자기 점검 표정 아이콘이 있다. 상단에 '7.5를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요' 안내와 QR 코드가 있다. 문제 1에 '해당하는 곳에 색칠해요' 안내가 있다.",
+ "_page": 232,
+ "_profile": "full",
+ "_usage": {
+  "in": 4497,
+  "out": 1526,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

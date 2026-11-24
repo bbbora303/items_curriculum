@@ -1,0 +1,200 @@
+{
+ "printedPage": "22",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "02 최대공약수와 최소공배수",
+  "area": "개념 설명 및 문제"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "정의",
+   "definition": "최대공약수가 1인 두 자연수를 서로소라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "두 개 이상의 자연수의 공약수는 모두 최대공약수의 약수이다.",
+   "plain": "공약수는 모두 최대공약수의 약수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "최대공약수가 1인 두 자연수 → 서로소",
+   "plain": "두 자연수의 최대공약수가 1이면 서로소이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "5와 8 (서로소 도입)",
+   "summary": "5의 약수 1, 5와 8의 약수 1, 2, 4, 8로 최대공약수가 1임을 보여 서로소를 도입한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "확인해요 (1)",
+   "summary": "2와 7의 최대공약수는 1이므로 서로소이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "6과 10의 최대공약수는 2이므로 서로소가 아니다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해된 두 수 $2^2\\times3^3$, $2^3\\times3$의 최대공약수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$2^2\\times7$, $2\\times3\\times7^2$의 최대공약수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "30, 48의 최대공약수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "80, 92의 최대공약수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최대공약수를 이용하여 $2\\times3^3$, $2\\times3^2\\times5$의 공약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최대공약수를 이용하여 20, 45의 공약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "(1) 3, 9 (2) 1, 6 (3) 4, 25 (4) 15, 20 중 서로소인 것을 모두 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "서로 다른 두 소수는 항상 서로소인지 생각하고 그 이유를 말하기",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "말풍선으로 공약수와 최대공약수의 관계를 알려 주는 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "물음표와 느낌표를 든 캐릭터 두 개",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 흐름에 맞춰 추정한 것이므로 확실하지 않다. 쪽 아래에는 '1. 소인수분해'만 표시되어 있다. 문제 1(1)(2)와 문제 2(1)의 지수는 이미지를 따랐다.",
+ "_page": 22,
+ "_profile": "full",
+ "_usage": {
+  "in": 4423,
+  "out": 1667,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

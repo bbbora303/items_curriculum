@@ -1,0 +1,144 @@
+{
+ "printedPage": "21",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.3 최대공약수",
+  "area": "단원 도입 및 생각해요·함께해요"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "최대공약수",
+   "role": "정의",
+   "definition": "두 수의 공약수 중에서 가장 큰 수를 최대공약수라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "두 수의 공통인 약수를 두 수의 공약수라 한다(초등에서 배운 내용으로 제시).",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "학습 요소로만 제시되어 있고 이 쪽에서는 정의되지 않는다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2\\times3\\times5$",
+   "meaning": "60의 소인수분해",
+   "role": "사용"
+  },
+  {
+   "symbol": "$2^2\\times3^3$",
+   "meaning": "108의 소인수분해",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$60=2^2\\times3\\times5,\\ 108=2^2\\times3^3 \\Rightarrow 2^2\\times3=12$",
+   "plain": "두 수를 각각 소인수분해한 뒤 공통인 소인수의 거듭제곱에서 지수가 같으면 그대로, 다르면 작은 것을 택해 모두 곱하면 최대공약수이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "공통인 소인수의 지수: 같으면 그대로, 다르면 작은 것",
+   "plain": "최대공약수를 구할 때는 공통인 소인수마다 지수가 작은 쪽을 택한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "소인수분해를 이용하여 60과 108의 최대공약수를 구한다. ①두 수를 소인수분해, ②공통 소인수의 지수 선택(같으면 그대로, 다르면 큰/작은 중 고르기), ③택한 것을 곱해 $2^{\\square}\\times3=\\square$ 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "60과 108의 약수를 나열한 판을 든 학생들이 '약수가 많아서 모두 나열하기 어려워', '다른 방법은 없을까?'라고 말하는 장면",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "60과 108을 각각 소인수분해해 공통인 소인수를 색으로 표시한 식",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "배운 내용 옆의 나눗셈 형태(2, 2, 3으로 나누기)로 60과 108의 최대공약수 12를 구하는 그림",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "60과 108의 약수를 나열하는 학생들의 대화"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등: 두 수의 공통인 약수를 공약수라 하고, 공약수 중 가장 큰 수를 최대공약수라고 한다."
+  ],
+  "current": [
+   "소인수분해를 이용하여 최대공약수를 구할 수 있다.",
+   "서로소(학습 요소)"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽에서 '생각해요'와 '생각 1', '함께해요'가 함께 나온다. '서로소'는 학습 요소로만 표시되어 있고 이 쪽에서 정의되지 않는다. 빈칸의 정답(지수 2, 12 등)은 쪽에 인쇄되어 있지 않다. 왼쪽의 나눗셈 형태 그림은 초등에서 배운 방법으로 보인다. 오른쪽 위 '1단원' 표시가 있다.",
+ "_page": 21,
+ "_profile": "full",
+ "_usage": {
+  "in": 4705,
+  "out": 1492,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

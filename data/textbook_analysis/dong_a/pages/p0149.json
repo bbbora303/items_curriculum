@@ -1,0 +1,191 @@
+{
+ "printedPage": "149",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.2 각의 뜻과 성질",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직교",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\perp"
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사다리꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\angle AOB",
+   "meaning": "각 AOB",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\overleftrightarrow{AD}\\perp\\overleftrightarrow{FC}",
+   "meaning": "직선 AD와 직선 FC가 수직",
+   "role": "사용"
+  },
+  {
+   "symbol": "x^\\circ",
+   "meaning": "각도 x도",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "∠AOB가 평각일 때 30°, x, 2x를 이용해 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 직선이 한 점에서 만날 때 x°+15°, x°, 5x°−10°를 이용해 x의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사다리꼴 ABCD에서 (1) 변 AD와 직교하는 변 (2) 점 A에서 BD에 내린 수선의 발 (3) 점 A와 BD 사이의 거리 (4) 점 D와 BC 사이의 거리 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 직선이 점 O에서 만나고 AD⊥FC, ∠BOC=1/2∠EOD일 때 ∠AOE 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "E에서 직선 CD에 내린 수선의 발이 O이고 ∠DOB=35°일 때 ∠AOE 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "∠AOB=∠COD=60°이므로 맞꼭지각이라는 설명이 잘못된 이유 쓰기",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "직선 AB 위의 점 O에서 뻗은 반직선들과 각 30°, x, 2x가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "한 점에서 만나는 세 직선과 x°+15°, x°, 5x°−10°가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "AD와 BC가 직각이고 변 길이 5cm, 3cm, 7cm가 주어진 사다리꼴 ABCD와 대각선 BD, 수선의 발 E",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 O에서 만나는 세 직선 AD, FC, BE 방향과 직각 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 AB, CD가 O에서 만나고 E에서 CD에 내린 수선, ∠DOB=35°",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "O에서 만나는 두 직선과 60° 두 각이 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "'해결해요' 코너로 문항마다 우수/보통/분발 자기 체크 표시가 있음. 5.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내와 QR 코드가 있음. 이 쪽에서 새로 정의되는 용어는 없고 앞에서 배운 내용을 사용함.",
+ "_page": 149,
+ "_profile": "full",
+ "_usage": {
+  "in": 4553,
+  "out": 1675,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

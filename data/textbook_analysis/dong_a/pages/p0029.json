@@ -1,0 +1,265 @@
+{
+ "printedPage": "29",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "1보다 큰 자연수 중에서 1과 자기 자신만을 약수로 가지는 수",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "1보다 큰 자연수 중에서 소수가 아닌 수",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "같은 수를 여러 번 곱한 것을 밑과 지수로 나타낸 것",
+   "notation": "2\\times2\\times2=2^3"
+  },
+  {
+   "term": "밑",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "자연수를 소인수들만의 곱으로 나타내는 것",
+   "notation": "40=2^3\\times5"
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "최대공약수가 1인 두 자연수",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "2^3",
+   "meaning": "2를 3번 곱한 거듭제곱(밑 2, 지수 3)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "소수: 1보다 큰 자연수 중 1과 자기 자신만을 약수로 가지는 수",
+   "plain": "약수가 1과 자기 자신뿐인 1보다 큰 자연수가 소수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "합성수: 1보다 큰 자연수 중 소수가 아닌 수",
+   "plain": "소수가 아닌 1보다 큰 자연수가 합성수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "12=2^2\\times3,\\ 30=2\\times3\\times5,\\ 최대공약수=2\\times3=6",
+   "plain": "공통인 소인수를 작은 지수로 곱해 최대공약수를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "12=2^2\\times3,\\ 30=2\\times3\\times5,\\ 최소공배수=2^2\\times3\\times5=60",
+   "plain": "모든 소인수를 큰 지수로 곱해 최소공배수를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "서로소: 최대공약수가 1인 두 자연수",
+   "plain": "공약수가 1뿐인 두 자연수를 서로소라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "최대공약수 구하기(요약 예)",
+   "summary": "12와 30을 소인수분해해 최대공약수 6을 구하는 과정",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "최소공배수 구하기(요약 예)",
+   "summary": "12와 30을 소인수분해해 최소공배수 60을 구하는 과정",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "개념 확인 1",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "모든 자연수는 소수이거나 합성수이다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "개념 확인 2",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "소수의 약수는 2개이다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "개념 확인 3",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "5^4에서 밑은 5, 지수는 4이다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "개념 확인 4",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "24의 소인수는 2와 3이다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "개념 확인 5",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "20을 소인수분해 하면 4×5이다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "개념 확인 6",
+   "level": "기본",
+   "verb": "○표, ×표를 하시오",
+   "summary": "8과 9는 서로소이다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "01",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 9개의 수 중 소수와 합성수의 개수 구하기(1, 3, 5, 9, 14, 19, 20, 29, 33)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "02",
+   "level": "기본",
+   "verb": "소인수분해 하시오",
+   "summary": "156을 소인수분해",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "03 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "2^3×5와 2^2×7의 최대공약수와 최소공배수",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "03 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "48과 150의 최대공약수와 최소공배수",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "모두 고르면",
+   "summary": "소수, 약수의 개수, 서로소에 관한 설명 5개 중 옳은 것 2개 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "01번 문제의 수 1, 3, 5, 9, 14, 19, 20, 29, 33이 상자 안에 나열되어 있다.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "01~03은 '기본', 04는 '표준' 표시가 있다(01번 문제의 수 목록은 이미지 기준). 소단원 번호는 보이지 않아 비워 두었다. 개념 확인 문제는 번호 1~6으로 인쇄되어 있어 '개념 확인'을 붙여 구분했다. 04번의 '표준'은 level 항목에서 기본으로 분류했다.",
+ "_page": 29,
+ "_profile": "full",
+ "_usage": {
+  "in": 4635,
+  "out": 2329,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

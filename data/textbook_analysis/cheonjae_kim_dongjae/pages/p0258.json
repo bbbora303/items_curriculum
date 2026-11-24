@@ -1,0 +1,115 @@
+{
+ "printedPage": "258",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "05 통계적 탐구 문제의 설정과 해결",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "통계적 탐구 문제",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "통계적 탐구 문제 설정",
+   "role": "정의",
+   "definition": "생활 주변에서 확실하게 정할 수 있고 자료를 쉽게 모을 수 있으며 흥미롭고 결론을 끌어낼 수 있는 주제로 통계적 탐구 문제를 정하는 단계",
+   "notation": ""
+  },
+  {
+   "term": "자료의 수집",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자료의 정리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자료의 해석",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공학 도구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "통계적 탐구 문제 설정 → 자료의 수집 → 자료의 정리 → 자료의 해석",
+   "plain": "통계적 탐구는 문제 설정, 자료 수집, 정리, 해석의 순서로 진행한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "확실하게 정할 수 있고 자료를 쉽게 모을 수 있는 주제 / 흥미롭고 창의적인 주제 / 이해하기 쉽고 명백한 결론을 낼 수 있는 주제",
+   "plain": "통계적 탐구 문제를 설정할 때 고려할 세 가지 사항이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "모둠 대화 만화",
+   "summary": "학생들이 대화하며 '예전과 비교하여 여름 기온이 어떻게 변했는지'라는 탐구 주제를 떠올린다.",
+   "solutionShown": false,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "통계적 탐구 문제 설정부터 자료의 해석까지 이어지는 4단계 흐름도",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "모둠 학생들이 탐구 주제를 정하는 대화를 나누는 만화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "뜨거운 도시 풍경 위의 온도계 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "여름 기온 변화",
+  "온열 질환",
+  "모둠 주제 정하기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "통계적 탐구 문제를 설정하고, 공학 도구를 이용하여 자료를 수집하여 분석하고, 그 결과를 해석할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이 쪽은 '자료의 정리와 해석' 대단원의 소단원 05 도입 쪽이다. 쪽 아래에 'Ⅵ. 통계'라고 인쇄되어 있다. 배운 내용·배울 내용 표시는 없다.",
+ "_page": 258,
+ "_usage": {
+  "in": 4574,
+  "out": 1087,
+  "sec": 6.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,192 @@
+{
+ "printedPage": "116",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "생각2 다양한 상황을 나타낸 그래프를 해석할 수 있나요?",
+  "area": "개념 설명(함께해요, 문제, 생각 넓히기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "그래프 해석",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거리-시간 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "km",
+   "meaning": "거리 단위(킬로미터)",
+   "role": "사용"
+  },
+  {
+   "symbol": "m/s",
+   "meaning": "풍속 단위(초당 미터)",
+   "role": "사용"
+  },
+  {
+   "symbol": "W",
+   "meaning": "발전량 단위(와트)",
+   "role": "사용"
+  },
+  {
+   "symbol": "ppm",
+   "meaning": "농도 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "그래프에서 가로축·세로축 값을 읽어 상황을 해석한다",
+   "plain": "그래프의 모양과 좌표 값을 읽으면 이동 거리, 멈춘 시간, 변화량 등을 알 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "함께해요 2",
+   "summary": "건우가 오솔길을 이동한 거리-시간 그래프를 보고 이동 거리, 멈춘 구간, 100분 동안의 이동 거리를 읽는다.",
+   "solutionShown": false,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "함께해요 2-1",
+   "level": "활동",
+   "verb": "빈칸을 채우시오",
+   "summary": "출발 후 40분 동안 이동한 거리(km)를 그래프에서 읽는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "함께해요 2-2",
+   "level": "활동",
+   "verb": "빈칸을 채우시오",
+   "summary": "출발 후 40분부터 몇 분까지 멈춰 있었는지 읽는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "함께해요 2-3",
+   "level": "활동",
+   "verb": "빈칸을 채우시오",
+   "summary": "출발 후 100분 동안 이동한 거리를 읽는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "풍력 발전기 그래프에서 발전이 시작되는 풍속을 읽는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "풍속이 20 m/s일 때의 발전량(W)을 그래프에서 읽는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기 (1)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "2014년부터 2022년까지 이산화 탄소 농도의 증가량(ppm)을 점 그래프에서 구한다.",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기 (2)",
+   "level": "심화(+표시)",
+   "verb": "조사해 보시오",
+   "summary": "이산화 탄소 농도가 계속 증가한 원인을 조사한다.",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "시간(분)에 따른 이동 거리(km) 그래프로, 중간에 수평 구간(멈춤)이 있고 100분 동안 10 km 이동한다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "풍속(m/s)에 따른 풍력 발전기 발전량(W) 그래프로, 증가 후 600 W로 일정하다가 급격히 0으로 감소한다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2014~2022년 이산화 탄소 연평균 농도(ppm)를 점으로 나타낸 그래프.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "공장과 자동차 일러스트(대기오염 상황).",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "오솔길 이동",
+  "풍력 발전",
+  "이산화 탄소와 지구 온난화"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 번호 4(좌표평면과 그래프)는 쪽 아래 표시에서 확인. 점 그래프의 정확한 값은 눈금 읽기에 의존하며 이미지에서 정확히 확인하기 어려운 부분이 있다. 오른쪽 아래 QR(영상 보기)은 글자층에서만 확인됨.",
+ "_page": 116,
+ "_profile": "full",
+ "_usage": {
+  "in": 4743,
+  "out": 1743,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

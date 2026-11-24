@@ -1,0 +1,155 @@
+{
+ "printedPage": "35",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "부등호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$>, <, \\le, \\ge$"
+  },
+  {
+   "term": "대소 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$>,\\ <$",
+   "meaning": "두 수의 크기 비교 부등호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\le,\\ \\ge$",
+   "meaning": "작거나 같다, 크거나 같다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-1\\le a<2$",
+   "meaning": "a는 -1보다 크거나 같고 2보다 작다 (연립 형태의 범위 표현)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "두 수 사이 ○ 안에 부등호 >, < 중 알맞은 것을 써넣기: (1) -8, +1 (2) 0, -5.2 (3) +3/2, +5/3 (4) -1.5, -3/4",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "문장 조건을 부등호로 나타내기: (1) a는 7 이상 (2) b는 -2/5 이하 (3) c는 -6 이상 6 미만",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "놀이판 1",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "4, -3, 0, -5/2, 2.7을 작은 것부터 차례대로 쓰기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "놀이판 2",
+   "level": "기본",
+   "verb": "비교하시오",
+   "summary": "부등식 -1≤a<2를 문장으로 나타내고 친구들과 비교하기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "-15부터 15까지 정수 제비 31장을 뽑아 놀이판에 작은 수부터 크기순으로 배치해 연속된 수의 개수에 따라 점수를 얻는 정수 대소 관계 놀이",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "놀이판 세로 칸(-16부터 16 사이의 빈 칸)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "연속된 수의 개수(1~20)에 따른 점수표(0, +1, +3 … +300)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "주황색 제비가 담긴 유리 그릇에서 제비를 뽑는 손",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "제비뽑기 놀이",
+  "점수 획득 게임"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "왼쪽은 배우고 익히기 문제, 오른쪽은 놀이판 문제(1, 2)이며 아래는 와글와글 수학 활동. 새 용어 정의는 없고 앞서 배운 수의 대소 비교와 부등호 표현을 사용함. 놀이판 2번의 부등식은 이미지에 -1≤a<2로 보임.",
+ "_page": 35,
+ "_usage": {
+  "in": 4696,
+  "out": 1356,
+  "sec": 8.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

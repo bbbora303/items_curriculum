@@ -1,0 +1,259 @@
+{
+ "printedPage": "278",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.2 정수와 유리수의 대소 관계 / 2.3 정수와 유리수의 덧셈",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": "$|a|$"
+  },
+  {
+   "term": "덧셈의 교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "덧셈의 결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부등호(≥, ≤, <, >)",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\ge, \\le, <, >$"
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$|a|$",
+   "meaning": "a의 절댓값",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\ge$",
+   "meaning": "크거나 같다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\le$",
+   "meaning": "작거나 같다",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "큰 수의 절댓값이 항상 더 큰 것은 아니다. 예: $-4<2$ 이지만 $|-4|>|2|$",
+   "plain": "음수가 섞이면 수의 크기와 절댓값의 크기 순서가 다를 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "절댓값이 0인 수는 0 하나뿐이다",
+   "plain": "절댓값이 같은 수가 항상 2개인 것은 아니다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(+8)+(-12)+(-6)=(+8)+\\{(-12)+(-6)\\}=-10$",
+   "plain": "덧셈의 결합법칙으로 부호가 같은 두 수를 먼저 더한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기(덧셈)",
+   "summary": "$-12$를 $-8$과 $-4$로 가르는 방법과 결합법칙으로 부호가 같은 두 수를 먼저 더하는 방법을 비교한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 넓히기(대소 관계)",
+   "summary": "2와 3, $-4$와 2를 비교하여 큰 수의 절댓값이 항상 큰 것은 아님을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "2.2 문제 1",
+   "level": "기본",
+   "verb": "답",
+   "summary": "절댓값 구하기: $|+3|=3$, $|-5|=5$, $|+\\frac{7}{2}|=\\frac{7}{2}$, $|-4.6|=4.6$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.2 문제 2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "절댓값이 주어진 수 구하기 (예: $-4,+4$ / $+5$ / $-\\frac{2}{3}$)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.2 문제 3",
+   "level": "기본",
+   "verb": "답",
+   "summary": "두 수의 크기 비교 부등호 답: >, >, <, >",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.2 문제 4",
+   "level": "기본",
+   "verb": "답",
+   "summary": "부등호로 표현: $a\\ge3$, $b\\le-1$, $-5\\le c<1$, $-4<d\\le7$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.2 해결해요 1~4",
+   "level": "기본",
+   "verb": "답",
+   "summary": "절댓값, 대소 비교, 부등호 표현, 수를 작은 것부터 나열하는 문제의 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.3 문제 1",
+   "level": "기본",
+   "verb": "답",
+   "summary": "정수·유리수 덧셈 답: $+14, -10, 0, -5$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.3 문제 2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "유리수 덧셈 답: $+\\frac{13}{21}, -1.6, -1.2, -\\frac{2}{15}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.3 문제 3",
+   "level": "기본",
+   "verb": "답",
+   "summary": "덧셈 답: $-11$, $-\\frac{1}{4}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2.3 해결해요 1~4",
+   "level": "기본",
+   "verb": "답",
+   "summary": "덧셈 계산, 연산 법칙 이름(교환·결합), 용돈 합산 문제의 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "5",
+   "level": "서술형",
+   "verb": "풀이",
+   "summary": "절댓값이 $\\frac{12}{2}=6$인 두 수는 $-6, 6$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6 (왼쪽)",
+   "level": "서술형",
+   "verb": "풀이",
+   "summary": "수직선에서 $-\\frac{7}{5}$에 가장 가까운 정수 $-1$, $+\\frac{13}{4}$에 가장 가까운 정수 $+3$을 구하는 풀이와 채점 기준",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6 (오른쪽)",
+   "level": "서술형",
+   "verb": "풀이",
+   "summary": "$-\\frac{12}{5}$와 $\\frac{4}{3}$ 사이의 정수 $-2,-1,0,1$ 중 절댓값이 가장 큰 수는 $-2$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "$-\\frac{7}{5}$을 나타낸 수직선 (눈금 $-2,-1,0$)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "$+\\frac{13}{4}$을 나타낸 수직선 (눈금 $+2,+3,+4$)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "서술형 풀이의 채점 기준과 배점 비율 표 (각 50%)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "분식집·빵집 거리",
+  "최저·최고 기온",
+  "용돈 합산"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 2.2(42~44쪽), 2.3(46~49쪽) 소단원 풀이와 해결해요(45쪽, 50쪽) 답이 함께 있다. 새 개념의 정의는 없고 이미 도입된 내용의 답과 풀이만 있다. 일부 분수와 수직선 눈금은 글자층이 깨져 이미지로 판단했다. 수직선 위 점 위치는 글자층만으로 확인이 어렵다.",
+ "_page": 278,
+ "_profile": "full",
+ "_usage": {
+  "in": 5631,
+  "out": 2579,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

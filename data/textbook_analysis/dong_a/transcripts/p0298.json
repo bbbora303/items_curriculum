@@ -1,0 +1,361 @@
+{
+ "printedPage": "298",
+ "pageType": "기타",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "6.5 원과 부채꼴",
+   "corner": "단원 제목",
+   "icons": [],
+   "level": "",
+   "text": "6.5 원과 부채꼴 (192쪽~195쪽)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "예시 그림의 타일들은 원의 일부를 이용하여 디자인했다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "",
+   "icons": [],
+   "level": "기본",
+   "text": "문제 1 (그림만 있음: 원 O 위에 점 A, D, C, B와 (1), (2), (3) 표시)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "",
+   "icons": [],
+   "level": "기본",
+   "text": "문제 2 (그림만 있음: 원 O 위에 점 A, E, B, C, D와 (1), (2), (3) 표시)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [],
+   "level": "",
+   "text": "예시 부채꼴이면서 활꼴인 도형은 반원이다.\n오른쪽 그림의 반원은 두 반지름 OA, OB와 호 AB로 이루어진 부채꼴이면서,\n현 AB와 호 AB로 이루어진 활꼴이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "함께해요",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "1배, 2배, 3배"
+    },
+    {
+     "label": "2",
+     "text": "1배, 2배, 3배"
+    },
+    {
+     "label": "3",
+     "text": "1배, 2배, 3배"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "",
+   "icons": [],
+   "level": "기본",
+   "text": "문제 3",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "4"
+    },
+    {
+     "label": "(2)",
+     "text": "120"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [],
+   "level": "",
+   "text": "예시 두 부채꼴 AOB와 BOC는 중심각의 크기가 같으므로 $\\overline{AB}=\\overline{BC}$이다.\n이때 현의 길이가 중심각의 크기에 정비례한다면 $\\overline{AC}=2\\overline{AB}$이어야 한다. 그런데 $\\triangle ABC$에서 $\\overline{AC}<\\overline{AB}+\\overline{BC}$이고, $\\overline{AB}+\\overline{BC}=2\\overline{AB}$이므로 $\\overline{AC}<2\\overline{AB}$이다.\n따라서 한 원에서 현의 길이는 중심각의 크기에 정비례하지 않는다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "수학 집 짓기 호, 현",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "해결해요 (196쪽)",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "해결해요 196쪽",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "(1) $\\widehat{AB}$ (또는 $\\widehat{BA}$) (2) $\\widehat{CD}$ (또는 $\\widehat{DC}$) (3) $\\angle AOD$ (또는 $\\angle DOA$)"
+    },
+    {
+     "label": "2",
+     "text": "(1) 6 (2) 10"
+    },
+    {
+     "label": "3",
+     "text": "$\\angle AOB$에 대한 현 AB의 길이는 4 cm이다.\n$\\angle AOB=\\angle BOC=\\angle COD=\\angle DOA=90^\\circ$이고\n한 원에서 중심각의 크기가 같은 현의 길이는 같으므로\n사각형 ABCD의 둘레의 길이는 $4\\times4=16$(cm)이다."
+    },
+    {
+     "label": "4",
+     "text": "$\\angle AOC:\\angle COB=\\widehat{AC}:\\widehat{CB}$이므로\n$140:40=\\widehat{AC}:6$, $\\widehat{AC}=21$ cm"
+    },
+    {
+     "label": "5",
+     "text": "$\\overline{OC}/\\!/\\overline{BD}$이므로 $\\angle OBD=\\angle AOC=45^\\circ$ (동위각)\n$\\triangle OBD$는 이등변삼각형이므로\n$\\angle ODB=\\angle OBD=45^\\circ$, $\\angle BOD=90^\\circ$\n한 원에서 부채꼴의 넓이는 중심각의 크기에 정비례하므로\n$45:90=15:$(부채꼴 BOD의 넓이)\n따라서 부채꼴 BOD의 넓이는 $30\\ \\text{cm}^2$이다."
+    },
+    {
+     "label": "6",
+     "text": "$\\widehat{AB}:\\widehat{ACB}=\\angle AOB:(360^\\circ-\\angle AOB)$이므로\n$\\angle AOB:(360^\\circ-\\angle AOB)=1:5$에서 $\\angle AOB=60^\\circ$\n$\\triangle OAB$는 이등변삼각형이므로 $\\angle OAB=\\angle OBA$\n$\\angle AOB=60^\\circ$이고, 삼각형의 내각의 크기의 합은 $180^\\circ$이므로\n$\\angle OAB=\\angle OBA=60^\\circ$이다.\n즉, $\\triangle OAB$는 정삼각형이다.\n따라서 현 AB의 길이는 3 cm이다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "6.6 부채꼴의 호의 길이와 넓이",
+   "corner": "단원 제목",
+   "icons": [],
+   "level": "",
+   "text": "6.6 부채꼴의 호의 길이와 넓이 (197쪽~199쪽)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "야구장의 넓이는\n$(100\\times100\\times3.14)\\times\\frac{1}{4}=7850(\\text{m}^2)$\n이므로 야구장이 더 넓다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "",
+   "icons": [],
+   "level": "기본",
+   "text": "문제 1 둘레의 길이: $12\\pi$ cm, 넓이: $36\\pi\\ \\text{cm}^2$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "",
+   "icons": [],
+   "level": "기본",
+   "text": "문제 2",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "호의 길이: $\\pi$ cm, 넓이: $2\\pi\\ \\text{cm}^2$"
+    },
+    {
+     "label": "(2)",
+     "text": "호의 길이: $6\\pi$ cm, 넓이: $27\\pi\\ \\text{cm}^2$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "",
+   "icons": [],
+   "level": "기본",
+   "text": "문제 3",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$5\\pi\\ \\text{cm}^2$"
+    },
+    {
+     "label": "(2)",
+     "text": "$108\\pi\\ \\text{cm}^2$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "해결해요 (200쪽)",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "해결해요 200쪽",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "(1) 둘레의 길이: $16\\pi$ cm, 넓이: $64\\pi\\ \\text{cm}^2$\n(2) 둘레의 길이: $10\\pi$ cm, 넓이: $25\\pi\\ \\text{cm}^2$"
+    },
+    {
+     "label": "2",
+     "text": "(1) 호의 길이: $4\\pi$ cm, 넓이: $18\\pi\\ \\text{cm}^2$\n(2) 호의 길이: $5\\pi$ cm, 넓이: $10\\pi\\ \\text{cm}^2$"
+    },
+    {
+     "label": "3",
+     "text": "(1) 4 cm (2) $6\\pi\\ \\text{cm}^2$"
+    },
+    {
+     "label": "4",
+     "text": "(1) $32\\pi\\ \\text{cm}^2$ (2) $(\\pi-2)\\ \\text{cm}^2$"
+    },
+    {
+     "label": "5",
+     "text": "둘레의 길이: $12\\pi$ cm, 넓이: $18\\pi\\ \\text{cm}^2$"
+    },
+    {
+     "label": "6",
+     "text": "부채꼴의 반지름의 길이는 20 cm이고, 부채꼴의 중심각의 크기는 정오각형의 한 내각의 크기와 같다. … ➊\n정오각형의 한 내각의 크기는\n$\\frac{180^\\circ\\times(5-2)}{5}=108^\\circ$ … ➋\n따라서 구하는 부채꼴의 넓이는\n$\\pi\\times20^2\\times\\frac{108}{360}=120\\pi(\\text{cm}^2)$ … ➌"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "6번은 채점 기준(배점 비율) 표가 함께 제시됨"
+  }
+ ],
+ "tables": [
+  {
+   "caption": "채점 기준 (해결해요 200쪽 6번)",
+   "unit": "",
+   "headers": [
+    "채점 기준",
+    "배점 비율"
+   ],
+   "rows": [
+    [
+     "➊ 부채꼴의 반지름의 길이와 중심각의 크기 파악하기",
+     "30 %"
+    ],
+    [
+     "➋ 정오각형의 한 내각의 크기 구하기",
+     "30 %"
+    ],
+    [
+     "➌ 부채꼴의 넓이 구하기",
+     "40 %"
+    ]
+   ],
+   "source": ""
+  }
+ ],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "문제 1 그림",
+   "labels": "원의 중심 O, 원 위의 점 A, D, C, B, 구역 표시 (1), (2), (3)",
+   "desc": "원 O에서 (1)은 A·B 쪽 왼쪽 호, (2)는 D·C 쪽 오른쪽 부분(현 DC), (3)은 아래쪽 현 BC(직선 BC)에 표시됨. 일부 호와 선분은 색으로 구분되어 있음."
+  },
+  {
+   "kind": "도형",
+   "caption": "문제 2 그림",
+   "labels": "원의 중심 O, 원 위의 점 A, E, B, C, D, 구역 표시 (1), (2), (3)",
+   "desc": "중심 O에서 점 A, E, B, C로 반지름이 그어져 있음. (1)은 ∠AOE 부분, (2)는 ∠BOC 부분, (3)은 E에서 D까지의 호 부분에 표시됨."
+  },
+  {
+   "kind": "도형",
+   "caption": "생각 넓히기 반원 그림",
+   "labels": "A, O, B",
+   "desc": "원의 지름 AB가 중심 O를 지나도록 그어진 원. 반원은 두 반지름 OA, OB와 호 AB로 이루어진 부채꼴이자 현 AB와 호 AB로 이루어진 활꼴."
+  }
+ ],
+ "incomplete": "문제 1, 문제 2 그림의 각 구역 (1)~(3)이 가리키는 정확한 위치와 선 색은 이미지가 작아 일부만 확인함. 쪽 아래 '298 정답 및 풀이'는 인쇄 쪽 표시.",
+ "_page": 298,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 5243,
+  "out": 5768,
+  "sec": 35.4,
+  "stop": "end_turn"
+ }
+}

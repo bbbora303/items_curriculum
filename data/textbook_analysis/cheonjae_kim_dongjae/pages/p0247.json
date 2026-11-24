@@ -1,0 +1,181 @@
+{
+ "printedPage": "247",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "1. 자료의 정리와 해석 (줄기와 잎 그림)",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "잎",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$6|5$",
+   "meaning": "줄기가 6, 잎이 5인 자료로 65회를 뜻함(범례)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$16|5$",
+   "meaning": "줄기가 16, 잎이 5인 자료로 165 cm를 뜻함(범례)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "중학교 1학년 학생 24명의 1분 동안 맥박 수 자료를 줄기와 잎 그림으로 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1⁺-(1)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "1의 그림에서 맥박 수가 가장 적은 학생과 가장 많은 학생의 맥박 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1⁺-(2)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "맥박 수가 90회 이상인 학생 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1⁺-(3)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "잎이 가장 많은 줄기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "여자 배구 선수 20명과 농구 선수 20명의 키 자료를 두 집단 비교용 줄기와 잎 그림(줄기 하나, 잎 양쪽)으로 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2⁺-(1)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "키가 180 cm 미만인 배구 선수의 수를 구한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2⁺-(2)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "키가 190 cm 이상인 농구 선수의 수를 구한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2⁺-(3)",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "배구 선수와 농구 선수 중 어느 쪽의 키가 더 크다고 할 수 있는지 두 그림을 비교해 말한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "24명의 맥박 수(회) 원자료 표와 줄기 6, 잎 5만 채워진 빈 줄기와 잎 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "배구 선수와 농구 선수의 키(cm) 원자료 표와 줄기 16, 잎(배구) 7 5만 채워진 양쪽 줄기와 잎 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "통계학자 투키가 책 『탐색적 자료 분석』을 들고 있는 캐리커처",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "맥박 수",
+  "여자 배구 선수와 농구 선수의 키",
+  "통계학자 투키"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "하단 '와글와글 수학 이야기'는 투키(Tukey, J. W., 1915~2000)가 줄기와 잎 그림을 소개한 이야기로, 새 용어를 정의하지 않는 읽기자료이다. 문제 2 계열은 '의사소통' 아이콘이 붙어 있다. 문제 번호 1⁺, 2⁺는 1, 2의 결과를 이용하는 후속 문항이며 '+'는 이미지 표기를 따른 것이다. 쪽 전체의 성격은 문제 활동이 중심이라 연습문제로 분류했다.",
+ "_page": 247,
+ "_usage": {
+  "in": 4860,
+  "out": 1739,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

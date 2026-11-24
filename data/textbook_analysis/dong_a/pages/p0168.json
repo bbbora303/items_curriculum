@@ -1,0 +1,147 @@
+{
+ "printedPage": "168",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "삼각형의 합동 조건",
+  "area": "문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\equiv"
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SSS 합동",
+   "role": "사용",
+   "definition": "세 변의 길이가 각각 같은 두 삼각형은 합동이다.",
+   "notation": "SSS"
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "두 변의 길이가 각각 같고 그 끼인각의 크기가 같은 두 삼각형은 합동이다.",
+   "notation": "SAS"
+  },
+  {
+   "term": "ASA 합동",
+   "role": "사용",
+   "definition": "한 변의 길이가 같고 그 양 끝 각의 크기가 각각 같은 두 삼각형은 합동이다.",
+   "notation": "ASA"
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\equiv",
+   "meaning": "두 도형이 합동임을 나타내는 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\triangle ABC\\equiv\\triangle DEF",
+   "meaning": "삼각형 ABC와 삼각형 DEF가 합동",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "SSS",
+   "plain": "세 변의 길이가 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "SAS",
+   "plain": "두 변의 길이가 각각 같고 그 끼인각의 크기가 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "ASA",
+   "plain": "한 변의 길이가 같고 그 양 끝 각의 크기가 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "삼각형 6개 중 서로 합동인 것을 찾아 기호 ≡로 나타내고 합동 조건을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "△ABC≡△DEF가 되도록 변의 길이 5 cm와 각 45°가 주어진 두 삼각형에 조건 한 개를 추가하고 그 이유를 친구에게 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "변의 길이와 각의 크기가 표시된 삼각형 6개(ABC, DEF, GHI, JKL, MNO, PQR)",
+   "_raw": "도형",
+   "figureType": "QR코드"
+  },
+  {
+   "role": "활동",
+   "desc": "한 변 5 cm와 한 각 45°가 표시된 두 삼각형 ABC, DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "SSS, SAS, ASA 합동 조건을 캐릭터 삼각형 그림과 말풍선으로 정리한 수학 집 짓기",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "삼각형의 합동 조건(SSS, SAS, ASA)을 정리하는 쪽이며 새 정의라기보다 앞에서 배운 것을 요약하는 코너로 보아 role을 사용으로 분류했다. 삼각형 속 일부 숫자(예: GHI의 각 70°와 50°, 변 6 cm)는 이미지 기준으로 옮겼으며 합동인 짝은 판단하지 않았다. 소단원 번호와 제목은 쪽에 보이지 않아 내용으로 추정했다.",
+ "_page": 168,
+ "_profile": "full",
+ "_usage": {
+  "in": 4354,
+  "out": 1432,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

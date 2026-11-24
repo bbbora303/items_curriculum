@@ -1,0 +1,173 @@
+{
+ "printedPage": "60",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.5 (정수와 유리수의 곱셈) 관련 '해결해요' (2.2, 2.5 연계)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "분배법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(-2)^4$",
+   "meaning": "음수의 거듭제곱(괄호 포함)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-5^2$",
+   "meaning": "5의 제곱 앞에 음의 부호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-(-3)^2$",
+   "meaning": "$(-3)^2$ 앞에 음의 부호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "정수·소수·분수의 곱셈 6문항: (+5)×(+7), (+15)×(−4), (−4)×(+6), (−11)×(−8), (−3.2)×(+5), (−3/4)×(−4/9)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나열하시오",
+   "summary": "보기의 거듭제곱 식 6개(ㄱ~ㅂ)를 계산해 결과가 작은 것부터 차례로 나열",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "세 수 이상의 곱셈과 거듭제곱이 섞인 3문항: (−2)×(−11)×(+5), (+2)×(−3)×(−2²)×(−5), (−2/3)³×9/10",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분배법칙을 이용한 계산 3문항: (−7)×95+(−7)×(−85), (5/6−7/9)×18, 27×(−4.53)+73×(−4.53)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "네 유리수(−1/4, +8, +5/6, −12) 중 서로 다른 두 수를 골라 곱한 값 중 가장 큰 수와 가장 작은 수를 구함",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "−1보다 작은 서로 다른 세 음의 정수의 곱이 −70일 때 세 정수의 합을 구함",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "보기 상자에 거듭제곱 식 ㄱ~ㅂ이 제시됨",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 5의 네 유리수가 상자 안에 제시되고 답을 쓰는 빈칸이 있음",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어볼 수 있는 QR코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이 아니라 해결해요 코너라 gradeLinks는 없음. 문제 1에는 우수/보통/분발 자기 표시 칸이 있고, 각 문제에 2.2, 2.5 등 연계 소단원 표시가 있음. 소단원 표시는 문제 2·5의 '2.2+2.5' 연계 표시를 따랐으며 쪽 전체의 소단원은 확실하지 않음. 상단에 '2.5를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요' 안내가 있음. 문제 6에는 '도전', '문제해결' 표시가 있음.",
+ "_page": 60,
+ "_profile": "full",
+ "_usage": {
+  "in": 4619,
+  "out": 1627,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

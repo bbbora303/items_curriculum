@@ -1,0 +1,132 @@
+{
+ "printedPage": "194",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 열기",
+   "corner": "생각 열기",
+   "icons": [],
+   "level": "활동",
+   "text": "오른쪽 그림과 같이 △ABC의 변 BC를 점 C쪽으로 연장한 선 위에 점 D가 있다.",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "∠ACD의 크기를 말해 보자."
+    },
+    {
+     "label": "❷",
+     "text": "∠ACD의 크기를 △ABC의 두 각의 크기의 합으로 나타낼 수 있을지 말해 보자."
+    }
+   ],
+   "conditions": [],
+   "given": "△ABC, 변 BC의 연장선 위의 점 D, 그림에 40° 표시",
+   "steps": [],
+   "answerFormat": "말하기"
+  },
+  {
+   "kind": "기타",
+   "label": "내각과 외각의 뜻",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "오른쪽 그림과 같이 다각형에서 이웃한 두 변으로 이루어진 내부의 각을 그 다각형의 내각이라고 한다. 또 다각형의 각 꼭짓점에서 한 변과 그 변에 이웃한 변의 연장선으로 이루어진 각을 그 내각의 외각이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "다각형에서 한 내각의 외각은 2개이지만 맞꼭지각이므로 그 크기는 서로 같다. 따라서 외각은 2개 중에서 하나만 생각한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "삼각형의 한 외각과 내각의 관계 알아보기",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "이제 삼각형의 한 외각의 크기와 내각의 크기 사이의 관계를 알아보자. 오른쪽 그림과 같이 △ABC에서 변 BC의 연장선 위에 한 점 D를 잡으면 $\\angle A+\\angle B+\\angle C=180^\\circ$, $\\angle ACD+\\angle C=180^\\circ$ 이므로 $\\angle ACD=\\angle A+\\angle B$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "삼각형의 내각과 외각 사이의 관계",
+   "corner": "삼각형의 내각과 외각 사이의 관계",
+   "icons": [],
+   "level": "",
+   "text": "삼각형의 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림의 삼각형에서 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같으므로 $\\angle x=\\square^\\circ+\\square^\\circ=\\square^\\circ$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "삼각형의 두 내각 60°, 70°, 외각 x",
+   "steps": [],
+   "answerFormat": "빈칸 3개 채우기"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "생각 열기 그림",
+   "labels": "삼각형 꼭짓점 A(위), B(왼쪽 아래), C(오른쪽 아래), 변 BC를 C쪽으로 연장한 선 위에 점 D, C 부근에 40° 표시(삼각형 안쪽 ∠C), ∠ACD 부분은 다른 색으로 표시",
+   "desc": "△ABC의 변 BC를 점 C쪽으로 연장하여 점 D를 표시한 그림"
+  },
+  {
+   "kind": "도형",
+   "caption": "내각과 외각",
+   "labels": "삼각형의 한 꼭짓점에서 한 변을 연장한 직선과 다른 변을 연장한 선이 만남, 라벨: 내각, 외각, 외각",
+   "desc": "한 꼭짓점의 내각과 그 내각의 외각 2개(맞꼭지각)를 보여 주는 그림"
+  },
+  {
+   "kind": "도형",
+   "caption": "△ABC와 변 BC의 연장선",
+   "labels": "꼭짓점 A, B, C, 변 BC의 연장선 위의 점 D, ∠A·∠B·∠C 및 ∠ACD에 색 표시(각 크기 수치는 없음)",
+   "desc": "삼각형 ABC에서 변 BC를 C쪽으로 연장한 그림"
+  },
+  {
+   "kind": "도형",
+   "caption": "채워 넣기 그림",
+   "labels": "위쪽 꼭짓점의 내각 60°, 오른쪽 아래 꼭짓점의 내각 70°, 왼쪽 아래 꼭짓점의 외각 x(밑변을 왼쪽으로 연장)",
+   "desc": "삼각형과 한 외각 x를 나타낸 그림"
+  }
+ ],
+ "incomplete": "40° 표시가 가리키는 각의 위치는 그림상 C 부근(삼각형 안쪽)으로 보이나 정확하지 않을 수 있음.",
+ "_page": 194,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4080,
+  "out": 2694,
+  "sec": 19.9,
+  "stop": "end_turn"
+ }
+}

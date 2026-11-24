@@ -1,0 +1,175 @@
+{
+ "printedPage": "185",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.2 삼각형의 내각과 외각",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "삼각형의 내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등변삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "구하려는 각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}=\\overline{AC}=\\overline{CD}$",
+   "meaning": "선분의 길이가 같음",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형 ABC에서 ∠B의 내각(120° 표시 주변)과 ∠C의 외각(45° 표시 주변)의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 삼각형 그림에서 (1) 직각과 35°가 주어진 경우, (2) 130°와 65°가 주어진 경우의 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 삼각형이 겹친 그림에서 (1) 30°, 55°, 60°, (2) 62°, 40°, 24°가 주어졌을 때 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "80°, 20°, 25°가 주어진 삼각형 안의 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "AB=AC=CD이고 ∠B=35°일 때 ∠x의 크기를 구한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "별 모양 그림에서 ∠C=70°일 때 ∠A+∠B+∠D+∠E의 크기를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "각의 크기가 표시된 삼각형 ABC와 변 BC의 연장선",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2의 삼각형 두 개(직각 표시, 외각 표시 포함)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 겹친 삼각형 두 개",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각형 안에 또 다른 삼각형이 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "같은 길이 표시가 있는 삼각형 ABC, ACD와 B, C를 지나는 직선",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A, B, C, D, E를 꼭짓점으로 하는 별 모양 도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "문제 더 풀기용 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "각 문제 옆에 우수/보통/분발 자기 점검 얼굴 아이콘이 있다. 6.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내가 있다. 문제 6에는 '도전' 표시가 있다. 문제 1의 (1), (2)는 글자층에서 기호가 깨져 이미지를 기준으로 읽었다.",
+ "_page": 185,
+ "_profile": "full",
+ "_usage": {
+  "in": 4385,
+  "out": 1529,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

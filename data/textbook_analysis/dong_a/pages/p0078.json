@@ -1,0 +1,158 @@
+{
+ "printedPage": "78",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.2 식의 값",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각1, 확인해요, 문제)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "대입",
+   "role": "정의",
+   "definition": "문자를 사용한 식에서 문자 대신 어떤 수로 바꾸어 넣는 것",
+   "notation": ""
+  },
+  {
+   "term": "식의 값",
+   "role": "정의",
+   "definition": "문자를 사용한 식에서 문자에 수를 대입하여 계산한 결과",
+   "notation": ""
+  },
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": "$3x$"
+  },
+  {
+   "term": "음수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$3x$",
+   "meaning": "3점 슛을 $x$개 넣었을 때 얻은 점수(점)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x^2$",
+   "meaning": "문제 (2)에서 쓰인 거듭제곱 꼴의 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(-2)$",
+   "meaning": "음수를 대입할 때 사용하는 괄호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "식의 값: 문자에 수를 대입하여 계산한 결과",
+   "plain": "식의 문자 자리에 수를 넣어 계산한 결과를 식의 값이라 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "3x \\\\to 3\\\\times 10=30",
+   "plain": "문자 $x$ 자리에 10을 넣어 곱하면 점수를 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x=-2 \\\\Rightarrow -2\\\\times(-2)+3=7",
+   "plain": "음수를 대입할 때는 괄호를 사용한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (1)",
+   "summary": "$a=1$일 때 $3a-1$의 값은 $3\\\\times1-1=2$",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "$x=-2$일 때 $-2x+3$의 값은 $-2\\\\times(-2)+3=7$",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각1",
+   "summary": "3점 슛 10개일 때 점수 $3x$에 $x=10$을 대입하여 30점",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$x=4$일 때 $-3x+2$의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$x=4$일 때 $x^2-7$의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "농구 경기를 보며 점수를 계산하는 아이들과 선수들의 삽화, 말풍선으로 3x점 설명",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "$3x=3\\\\times10=30$에서 $x$ 자리에 10을 대입하는 과정을 화살표로 보여 주는 도식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "농구 3점 슛 점수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 3.2 '식의 값'의 첫 쪽으로 단원 도입(생각해요)과 개념 설명이 함께 있다. 학습 목표: 식의 값을 구할 수 있다. 학습 요소: 대입. 교과 연계 표시: 수학+체육. 이 쪽에는 배운 내용/배울 내용 표시가 없다.",
+ "_page": 78,
+ "_profile": "full",
+ "_usage": {
+  "in": 4480,
+  "out": 1424,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

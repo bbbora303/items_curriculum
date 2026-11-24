@@ -1,0 +1,147 @@
+{
+ "printedPage": "48",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 열기",
+   "corner": "정수와 유리수의 나눗셈은 어떻게 할까?",
+   "icons": [],
+   "level": "활동",
+   "text": "오른쪽과 같이 곱셈을 나눗셈으로 나타낼 수 있다. ❶ 이와 같은 방법으로 다음 □ 안에 알맞은 수를 써넣어 보자. $(-2)\\times(+4)=-8 \\rightarrow (-8)\\div(+4)=\\square$ ❷ 위 ❶의 $(-8)\\div(+4)$의 계산 결과와 $(-8)\\times\\left(+\\frac{1}{4}\\right)$의 계산 결과를 비교해 보자.",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "이와 같은 방법으로 다음 □ 안에 알맞은 수를 써넣어 보자. $(-2)\\times(+4)=-8 \\rightarrow (-8)\\div(+4)=\\square$"
+    },
+    {
+     "label": "❷",
+     "text": "위 ❶의 $(-8)\\div(+4)$의 계산 결과와 $(-8)\\times\\left(+\\frac{1}{4}\\right)$의 계산 결과를 비교해 보자."
+    }
+   ],
+   "conditions": [],
+   "given": "오른쪽 예시: $2\\times4=8 \\rightarrow 8\\div4=2$",
+   "steps": [],
+   "answerFormat": "□ 안에 수 써넣기, 두 계산 결과 비교"
+  },
+  {
+   "kind": "기타",
+   "label": "정수의 곱셈과 나눗셈 관계",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "자연수에서와 같이 정수의 곱셈과 나눗셈에서도 다음이 성립한다. $(+2)\\times(+3)=+6 \\rightarrow (+6)\\div(+3)=+2$ / $(+2)\\times(-3)=-6 \\rightarrow (-6)\\div(-3)=+2$ / $(-2)\\times(+3)=-6 \\rightarrow (-6)\\div(+3)=-2$ / $(-2)\\times(-3)=+6 \\rightarrow (+6)\\div(-3)=-2$ 이와 같이 부호가 같은 두 정수의 나눗셈은 두 수의 절댓값의 나눗셈의 몫에 +를 붙여서 계산하고, 부호가 다른 두 정수의 나눗셈은 두 수의 절댓값의 나눗셈의 몫에 −를 붙여서 계산한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "❶ $(+10)\\div(+2)=\\bigcirc(10\\div2)=\\bigcirc 5$ ❷ $(-36)\\div(+9)=\\bigcirc(36\\div9)=\\bigcirc 4$",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "$(+10)\\div(+2)=\\bigcirc(10\\div2)=\\bigcirc 5$"
+    },
+    {
+     "label": "❷",
+     "text": "$(-36)\\div(+9)=\\bigcirc(36\\div9)=\\bigcirc 4$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "원 안에 부호 써넣기"
+  },
+  {
+   "kind": "기타",
+   "label": "유리수의 나눗셈",
+   "corner": "유리수의 나눗셈",
+   "icons": [],
+   "level": "",
+   "text": "유리수의 나눗셈도 정수의 나눗셈과 같은 방법으로 계산한다. ➊ 부호가 같은 두 수의 나눗셈은 두 수의 절댓값의 나눗셈의 몫에 양의 부호 +를 붙여서 계산한다. ➋ 부호가 다른 두 수의 나눗셈은 두 수의 절댓값의 나눗셈의 몫에 음의 부호 −를 붙여서 계산한다.",
+   "subItems": [
+    {
+     "label": "➊",
+     "text": "부호가 같은 두 수의 나눗셈은 두 수의 절댓값의 나눗셈의 몫에 양의 부호 +를 붙여서 계산한다."
+    },
+    {
+     "label": "➋",
+     "text": "부호가 다른 두 수의 나눗셈은 두 수의 절댓값의 나눗셈의 몫에 음의 부호 −를 붙여서 계산한다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "• 나눗셈에서 0으로 나누는 것은 생각하지 않는다. • 0을 0이 아닌 수로 나눈 몫은 항상 0이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "예제",
+   "label": "예제 1",
+   "corner": "예제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 계산하시오. (1) $(+3.6)\\div(-1.2)$ (2) $(-5.4)\\div(-2.7)$ 풀이 (1) $(+3.6)\\div(-1.2)=-(3.6\\div1.2)=-3$ (2) $(-5.4)\\div(-2.7)=+(5.4\\div2.7)=+2$ 답 (1) $-3$ (2) $+2$",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$(+3.6)\\div(-1.2)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-5.4)\\div(-2.7)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산 결과"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "생각 열기 오른쪽 메모",
+   "labels": "$2\\times4=8 \\rightarrow 8\\div4=2$",
+   "desc": "곱셈식을 나눗셈식으로 나타내는 예시 메모"
+  },
+  {
+   "kind": "모형",
+   "caption": "부호 나눗셈 규칙 그림(왼쪽 메모)",
+   "labels": "첫째 줄: 분홍 ⊕ ÷ 분홍 ⊕ → 분홍 ⊕ / 둘째 줄: 파랑 ⊖ ÷ 파랑 ⊖ → 분홍 ⊕ / 셋째 줄: 파랑 ⊖ ÷ 분홍 ⊕ → 파랑 ⊖ / 넷째 줄: 분홍 ⊕ ÷ 파랑 ⊖ → 파랑 ⊖",
+   "desc": "양의 부호는 분홍 원 안의 +, 음의 부호는 파랑 원 안의 −로 나타내고, 초록색 화살표로 결과를 표시함"
+  }
+ ],
+ "incomplete": "",
+ "_page": 48,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4321,
+  "out": 3135,
+  "sec": 21.0,
+  "stop": "end_turn"
+ }
+}

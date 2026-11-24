@@ -1,0 +1,123 @@
+{
+ "printedPage": "183",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.2 삼각형의 내각과 외각",
+  "area": "단원 도입 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "내각",
+   "role": "정의",
+   "definition": "다각형에서 이웃한 두 변이 이루는 내부의 각",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "정의",
+   "definition": "다각형의 한 내각의 꼭짓점에서 한 변과 이웃한 다른 한 변의 연장선이 이루는 각",
+   "notation": ""
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle B$",
+   "meaning": "꼭짓점 B에서의 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$180^\\circ$",
+   "meaning": "내각과 외각의 크기의 합",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(내각의 크기)+(외각의 크기)=$180^\\circ$",
+   "plain": "다각형의 한 꼭짓점에서 내각과 외각의 크기의 합은 180°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "한 내각의 외각은 2개이고 두 외각은 맞꼭지각이므로 크기가 같아서 하나만 생각한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "그리고, 구하시오",
+   "summary": "사각형 ABCD에서 ∠B의 외각을 그리고 그 크기를 구한다(∠B=80°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "삼각형 종이를 세 조각으로 오려 세 각을 한 꼭짓점에 모으는 과정을 보여 주는 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "삼각형의 한 꼭짓점에서 내각과 외각을 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "∠B=80°인 사각형 ABCD",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "삼각형 종이 오리기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "내각, 외각"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 성격의 '생각해요'와 '생각 1' 개념 설명이 함께 있는 쪽이다. 학습 목표는 삼각형의 내각과 외각 사이의 관계 이해. 대단원명은 목록상 '평면도형의 성질'(6단원)로 추정했다.",
+ "_page": 183,
+ "_profile": "full",
+ "_usage": {
+  "in": 4430,
+  "out": 1005,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

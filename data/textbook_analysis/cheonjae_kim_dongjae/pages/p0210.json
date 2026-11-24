@@ -1,0 +1,228 @@
+{
+ "printedPage": "210",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "1 평면도형의 성질",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "다각형의 내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형의 외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\widehat{AB}$"
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": "CD"
+  },
+  {
+   "term": "할선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\widehat{AB}$",
+   "meaning": "호 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{CD}$",
+   "meaning": "현 CD",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "부채꼴의 호의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$S$",
+   "meaning": "부채꼴의 넓이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$n(n-3)$",
+   "meaning": "n각형의 대각선 개수를 구하는 식의 일부",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "180^\\circ\\times(n-2)",
+   "plain": "n각형의 내각의 크기의 합",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "다각형의 외각의 크기의 합 = (빈칸)",
+   "plain": "모든 다각형의 외각의 크기의 합은 같다(360°).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "\\frac{n(n-3)}{2}",
+   "plain": "n각형의 대각선의 개수(빈칸 채우기, 이미지에는 n(n-3)만 보임)",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "한 원에서 부채꼴의 호의 길이와 넓이는 각각 중심각의 크기에 (빈칸)한다",
+   "plain": "호의 길이와 넓이는 중심각의 크기에 정비례한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "l=(\\;)\\times\\frac{a}{360},\\ S=(\\;)\\times\\frac{a}{360}=\\frac{1}{2}rl",
+   "plain": "부채꼴의 호의 길이와 넓이 공식(원주, 원의 넓이에 중심각 비율을 곱함)",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형에서 내각·외각 관계로 x의 값 구하기(2x-10°, x+40°, 120°)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "한 내각과 이웃한 외각의 크기의 비가 2:1인 정다각형의 이름",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "오각형에서 내각의 합으로 ∠x 구하기(130°,125°,120°,140°)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "외각의 합을 이용해 ∠x 구하기(70°,52°,65°,80°)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "한 꼭짓점에서 그을 수 있는 대각선이 6개인 다각형의 대각선 총 개수",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "삼각형의 외각을 표시한 그림과 말풍선",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원에서 호 AB, 현 CD, 할선과 부채꼴의 중심각을 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부채꼴의 호의 길이와 넓이를 원주·원의 넓이와 비교한 정리 표",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1의 삼각형, 문제 3의 오각형과 사각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "부채꼴 모양 부채"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 정리 QR 코드가 있음. 정리 영역의 빈칸(외각의 합, 대각선 개수 칸, 부채꼴 칸, 비례 관계 칸 등)은 비어 있어 답은 이미지에 나타나지 않음. 글자층의 '3x의 크기'는 ∠x의 오타로 보고 이미지를 따름. 대각선 개수 식의 분모 2는 이미지에 보이지 않음.",
+ "_page": 210,
+ "_usage": {
+  "in": 4210,
+  "out": 1886,
+  "sec": 16.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

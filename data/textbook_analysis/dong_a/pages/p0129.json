@@ -1,0 +1,192 @@
+{
+ "printedPage": "129",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.4 반비례와 그 그래프",
+  "area": "개념 설명 / 생각 넓히기(알지오매스)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "반비례 관계의 그래프(y=a/x)",
+   "role": "정의",
+   "definition": "x의 값이 0을 제외한 수 전체일 때, 식 y=a/x (a≠0)의 그래프는 한 쌍의 매끄러운 곡선이다.",
+   "notation": "$y=\\frac{a}{x}\\ (a\\neq 0)$"
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": "$y=\\frac{a}{x}$"
+  },
+  {
+   "term": "알지오매스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=\\frac{6}{x}$",
+   "meaning": "반비례 관계를 나타내는 식(a=6인 경우)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=\\frac{a}{x}\\ (a\\neq 0)$",
+   "meaning": "반비례 관계를 나타내는 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$O$",
+   "meaning": "원점",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$y=\\frac{a}{x}\\ (a\\neq 0)$의 그래프는 한 쌍의 매끄러운 곡선",
+   "plain": "x가 0이 아닌 수일 때 반비례 관계의 그래프는 두 개의 곡선으로 이루어진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a>0$: 제1사분면과 제3사분면을 지난다.",
+   "plain": "a가 양수이면 그래프는 제1, 3사분면에 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a<0$: 제2사분면과 제4사분면을 지난다.",
+   "plain": "a가 음수이면 그래프는 제2, 4사분면에 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$y=\\frac{6}{x}$의 그래프는 두 좌표축에 점점 가까워지면서 한없이 뻗어 나간다.",
+   "plain": "그래프는 좌표축에 가까워지지만 만나지는 않는 곡선이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "y=6/x의 그래프",
+   "summary": "y=6/x의 그래프를 좌표평면에 나타내면 두 좌표축에 한없이 가까워지는 한 쌍의 매끄러운 곡선이 된다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "알지오매스로 y=a/x의 그래프를 관찰하고, a>0일 때와 a<0일 때 그래프가 어떻게 그려지는지 말한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "(1)",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "a>0일 때 그래프의 모양",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "(2)",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "a<0일 때 그래프의 모양",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "y=6/x의 그래프(제1, 3사분면의 한 쌍의 곡선)를 모눈 좌표평면에 나타낸 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 화면: a=4, 1, 0.2일 때의 y=a/x 그래프(a>0)",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 화면: a=-4, -1, -0.2일 때의 y=a/x 그래프(a<0)",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "a>0일 때 제1, 3사분면을 지나는 y=a/x 그래프 개형",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "a<0일 때 제2, 4사분면을 지나는 y=a/x 그래프 개형",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 연결 QR코드와 주소(https://t25.kr/5pvs)",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이 아니므로 gradeLinks는 비어 있음. 오른쪽 가장자리에 '4단원' 표시. 옆 메모: y=a/x에서 x의 값이 구체적으로 주어지지 않으면 x는 0을 제외한 수 전체로 생각한다.",
+ "_page": 129,
+ "_profile": "full",
+ "_usage": {
+  "in": 4882,
+  "out": 1816,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

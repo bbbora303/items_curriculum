@@ -1,0 +1,195 @@
+{
+ "printedPage": "297",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "02 삼각형의 작도",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "크기가 같은 각의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle B$",
+   "meaning": "각 B",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "세 변의 길이 a, b, c가 주어진 삼각형의 작도",
+   "plain": "길이 c인 AB를 작도하고, A와 B를 중심으로 반지름 b, a인 원을 그려 만나는 점 C를 잡아 잇는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "한 변의 길이와 그 양 끝 각이 아닌 경우: 두 변과 끼인각이 주어진 삼각형의 작도",
+   "plain": "∠B와 같은 각을 작도하고, 점 B를 중심으로 반지름 c, a인 원을 그려 변과의 교점 A, C를 잡아 잇는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "정삼각형 6개를 이용한 정육각형의 작도",
+   "plain": "AP를 작도하고 정삼각형을 차례로 이어 붙여 육각형 ABCDEF를 만든다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "원을 이용한 정육각형의 작도",
+   "plain": "반지름 a인 원 위의 점 A에서 같은 반지름의 원을 계속 그려 교점 5개를 얻고 이어서 정육각형을 만든다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시 원을 이용하는 경우",
+   "summary": "반지름 a인 원 위에서 같은 반지름으로 교점을 찾아 정육각형을 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "예시 정삼각형을 이용하는 경우",
+   "summary": "정삼각형 여섯 개를 한 점 P에서 이어 붙여 정육각형 ABCDEF를 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "(1) 변 AC (2) 변 AB (3) ∠C (4) ∠B 정답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "(답)",
+   "summary": "(1) 8 cm (2) 30° 정답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "(해설)",
+   "summary": "세 변 a, b, c가 주어진 삼각형 ABC의 작도 해설",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "(해설)",
+   "summary": "세 변이 모두 a인 정삼각형 작도 해설",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1 (배우고 익히기 해설)",
+   "level": "기본",
+   "verb": "(해설)",
+   "summary": "∠B와 크기가 같은 각을 작도하고 c, a 길이로 점 A, C를 찾아 삼각형 ABC 작도",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "세 변의 길이가 주어진 삼각형 ABC 작도 과정(호와 번호 ❶~❸)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정삼각형 두 개를 이용한 작도 과정",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "정삼각형 여섯 개로 만든 정육각형 작도 과정",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "원을 이용한 정육각형 작도 과정",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "∠B와 같은 각을 이용한 삼각형 ABC 작도 과정",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 부록 쪽으로 새로 정의되는 개념은 없고, 앞 쪽 문제의 풀이와 작도 순서를 보여 준다. 소단원 제목 '삼각형은 어떻게 작도할까?'(176~179쪽)에 대응한다. 정삼각형을 이용한 정육각형 해설의 일부는 와글와글 수학 활동 해설이다. 1+ 문항의 (2) 30°는 글자층에서 깨져 이미지 기준으로 읽었다.",
+ "_page": 297,
+ "_usage": {
+  "in": 5107,
+  "out": 1847,
+  "sec": 11.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

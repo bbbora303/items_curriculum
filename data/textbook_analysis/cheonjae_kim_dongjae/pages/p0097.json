@@ -1,0 +1,154 @@
+{
+ "printedPage": "97",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": "$ax+b=0$"
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$ax+b=0$",
+   "meaning": "일차방정식의 일반형(꼴)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "방정식 $3(x-2)=7-x$를 $ax+b=0$ 꼴로 나타낼 때 $\\frac{a}{b}$의 값 구하기(단 $a>0$)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "푸시오",
+   "summary": "일차방정식 4개 풀기: 일차식, 괄호 포함, 소수 계수, 분수 계수",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사탕을 2개씩 주면 7개 남고 3개씩 주면 6개 부족할 때 친구 수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "7 문제 만들기",
+   "level": "활동",
+   "verb": "만들고 풀어 보자",
+   "summary": "밑줄 친 수를 바꾸어 문제를 만들고 친구와 바꾸어 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "$0.05x-a=\\frac{1}{3}(\\frac{1}{4}x-2)$의 해가 $x=-1$일 때 $a$의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$-3x+2(x+a)=2$의 해가 $10-2x=6(x-1)$의 해의 2배일 때 $a$ 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "작년 전체 학생 900명, 남학생 5% 증가, 여학생 4% 감소, 전체 수 동일할 때 올해 남학생 수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "Math Heart 자기점검용 휴대폰 모양 1~10번 문항 표시와 복습 쪽수 안내",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "사탕 나누어 주기",
+  "학생 수 증감(퍼센트)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Heart (맞은 문항 색칠, 틀린 문항 복습 쪽 안내)",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  }
+ ],
+ "notes": "8번에 '발전' 표시가 있어 심화로 분류. 1~4번 문항은 이 쪽에 없고 Math Heart에만 번호가 나옴. Math Heart 복습 쪽: 1→85쪽 2, 2→87쪽 1, 3→87쪽 3, 4→85쪽 1·89쪽 1, 5→91쪽 1, 6→89쪽 2·91쪽 1,2, 7→93쪽 1,2, 8→85쪽 2·91쪽 1,2, 9→85쪽 2·91쪽 1, 10→93쪽 1,2. 소단원 번호와 제목은 보이지 않음.",
+ "_page": 97,
+ "_usage": {
+  "in": 4702,
+  "out": 1435,
+  "sec": 8.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

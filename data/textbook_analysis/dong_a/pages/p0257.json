@@ -1,0 +1,172 @@
+{
+ "printedPage": "257",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.4 히스토그램과 도수분포다각형",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "30곳의 소음도 도수분포표(계급 45~75 dB, 도수 4,7,9,5,3,2)를 히스토그램과 도수분포다각형으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "운동 시간 히스토그램(32명)에서 도수가 가장 큰 계급을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "운동 시간이 5번째로 많은 학생이 속하는 계급을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3-(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "글라이더 날아간 거리 도수분포다각형에서 전체 학생 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3-(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "50 m 이상 날린 학생이 전체의 몇 %인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "서술형",
+   "verb": "구하고, 풀이 과정을 쓰시오",
+   "summary": "25명의 악력 히스토그램이 일부 찢어진 상태에서 28~34 kg 계급이 20%일 때 22~28 kg 계급의 학생 수를 구하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "지역별 소음도 도수분포표(계급 5 dB 간격, 합계 30곳)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "히스토그램과 도수분포다각형을 그릴 빈 좌표 격자(가로 45~75 dB, 세로 곳)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "일주일 운동 시간 히스토그램(계급 2시간 간격)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "글라이더가 날아간 거리 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "일부가 찢어진 악력 히스토그램(계급 6 kg 간격)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "버스와 귀를 막은 아이 일러스트, QR 코드",
+   "_raw": "그림",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "지역 소음도",
+  "일주일 운동 시간",
+  "글라이더 날리기 대회",
+  "학생 악력"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 정리 성격의 '해결해요' 쪽이다. 각 문제 옆 세 가지 표정(우수/보통/분발) 자기 점검 표시가 있다. 4번 히스토그램은 일부가 찢겨 있어 정확한 도수를 읽기 어렵다.",
+ "_page": 257,
+ "_profile": "full",
+ "_usage": {
+  "in": 4818,
+  "out": 1409,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

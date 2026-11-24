@@ -1,0 +1,112 @@
+{
+ "printedPage": "140",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "단원 도입(준비해요)"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "연결하시오",
+   "summary": "네 개의 도형(점 ㄱ, ㄴ이 표시된 선)을 보고 직선 ㄱㄴ, 반직선 ㄱㄴ, 반직선 ㄴㄱ, 선분 ㄱㄴ 중 알맞은 이름에 연결한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "그림에서 직선 가, 나, 다, 라 중 서로 평행한 직선과 서로 수직인 직선을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "인천 송도로 보이는 도시 전경 사진 위에 건물과 사람을 손그림으로 겹쳐 놓은 단원 도입 그림.",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "1번: 점 ㄱ, ㄴ이 찍힌 네 가지 선(선분, 직선, 반직선 모양).",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2번: 직선 가, 나, 다, 라가 있고 나와 다, 나와 라 사이에 직각 표시가 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "도시 설계",
+  "건축",
+  "도시 풍경"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등: 선분, 직선, 반직선",
+   "초등: 평행과 수직"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 '5. 기본 도형과 작도'의 도입 쪽(제목: 도형으로 도시를 설계해요, 수학+건축). '준비해요'에 초등 선수 학습 2문항이 있다. 소단원 번호는 보이지 않는다. 1번에서 각 선의 끝 모양(점 위치)은 이미지가 작아 정확히 확인하기 어렵다.",
+ "_page": 140,
+ "_profile": "full",
+ "_usage": {
+  "in": 4173,
+  "out": 943,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

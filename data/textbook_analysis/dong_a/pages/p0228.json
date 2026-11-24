@@ -1,0 +1,215 @@
+{
+ "printedPage": "228",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.4 기둥과 뿔의 부피 (해결해요)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "기둥의 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "뿔의 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "회전축으로 쓰이는 직선",
+   "role": "사용"
+  },
+  {
+   "symbol": "$120^\\circ$",
+   "meaning": "부채꼴의 중심각 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 사각기둥, (2) 원뿔의 부피를 구한다. 길이는 8cm, 6cm, 4cm, 3cm 등으로 주어진다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "밑면 둘레 10π cm, 높이 9 cm인 원기둥 전개도로 원기둥의 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "밑면이 중심각 120°인 부채꼴인 기둥의 (1) 겉넓이, (2) 부피를 구한다(6.6과 7.4 연계).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직각삼각형 모양 평면도형을 직선 l을 축으로 1회전시킨 입체도형의 부피를 구한다(7.2와 7.4 연계).",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "원기둥 모양과 원뿔 모양 향초의 부피가 같을 때 원뿔 모양 향초의 높이를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "구하고, 풀이 과정을 쓰시오",
+   "summary": "기울여 물을 남긴 사각기둥 그릇을 바로 놓았을 때 물의 높이가 그릇 높이의 몇 배인지 구하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 1의 사각기둥과 원뿔, 치수 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2의 원기둥 전개도(직사각형과 원 2개)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 밑면이 부채꼴인 기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 4의 직선 l 옆 직각삼각형 모양 평면도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 5의 원기둥 모양과 원뿔 모양 향초",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 6의 기울인 그릇의 물([그림 1])과 바로 놓은 그릇([그림 2])",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "향초",
+  "물 그릇"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "7.4 해결해요 쪽. 각 문항 옆에 우수/보통/분발 자기 점검 얼굴 아이콘이 있고, 7.4를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내와 QR 코드가 있다. 문제 4는 직각삼각형 모양 평면도형으로 보이나 치수의 정확한 위치(5cm, 2cm, 3cm)는 그림만으로 완전히 확실하지 않다.",
+ "_page": 228,
+ "_profile": "full",
+ "_usage": {
+  "in": 4544,
+  "out": 1733,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,16 @@
+== x90308_none: 9수03-08 입체도형의 겉넓이와 부피를 구할 수 있다. | 교과서: 미선택(중립)
+  [G0] 4s, 입력 1132 출력 471, stop=end_turn
+  평가 요소(자동 확정): ['기둥의 겉넓이와 부피 구하기', '뿔의 부피를 구하는 과정 설명하기', '구의 겉넓이와 부피를 이용하여 문제 상황 해결하기'] | 역량: ['추론', '문제해결', '의사소통']
+  [G1] 22s, 입력 5349 출력 2938, stop=end_turn
+  패턴: reading_modeling | 소문항: [('1-1', 3), ('1-2', 3), ('1-3', 4)] | 자료 필요: False
+  형식 예시: ['ex_polygon_angle_sum', 'ex_proportion_two_students'] | 점검표 A1B1
+  수치 선택(medium, 시드 1): {'a': 6, 'h': 4, 'l': 8, 's': 9, 'rc': 3, 'hc': 6}
+  [G2] 14s, 입력 3984 출력 1774, stop=end_turn
+  [G3-1] 152s, 입력 17254 출력 23282, stop=end_turn
+  검증 1회차: 오류 0, 경고 1
+  [G3-2] 70s, 입력 24632 출력 11379, stop=end_turn
+  검증 2회차: 오류 0, 경고 0
+  [AI점검] 48s, 입력 11770 출력 6495, stop=end_turn
+  AI 점검: 수정 권고, 이슈 6개(심각 0)
+  저장: C:\Users\최보라\Desktop\서술형 문항 생성 도구\[math] descirive question\output\pilot\x90308_none
+  사용량: {'calls': 6, 'in': 64121, 'out': 46339, 'estUSD': 0.887}

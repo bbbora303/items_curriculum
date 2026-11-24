@@ -1,0 +1,144 @@
+{
+ "printedPage": "121",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "정비례 관계(정비례의 뜻과 식) 연습",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax",
+   "meaning": "y가 x에 정비례하는 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "보기(문구점)",
+   "summary": "한 권에 1000원인 공책 x권의 금액 y원을 표로 나타내고 식 y=1000x로 표현한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오/말하시오/나타내시오",
+   "summary": "한 개에 200원인 장식 소품 x개의 금액 y원에 대해 표를 완성하고, x와 y의 관계를 말하고 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "모두 찾으시오",
+   "summary": "y=4x, y=-1/2 x, y=0.2x, y=x+1 중 y가 x에 정비례하는 식을 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "찾고 나타내시오",
+   "summary": "1분에 20장 인쇄하는 인쇄기와 가로 3cm 세로 x cm 직사각형의 둘레 중 정비례하는 것을 찾고 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "완성하시오",
+   "summary": "y가 x에 정비례하는 식이 적힌 퍼즐 조각(y=3x, y=x, y=x/2, y=-x 등)을 모두 골라 퍼즐을 완성한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "지도 그림에서 장소를 정해 정비례 관계가 있는 두 양의 상황을 찾아 보기처럼 표와 식으로 나타낸다.",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "x(개) 1~5에 대한 y(원)를 채우는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "식이 적힌 퍼즐 조각 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "병원, 편의점, 분식집, 문구점, 도서관이 있는 지도 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "보기의 문구점 공책 수와 금액 표 및 학생이 채울 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "신발 장식 소품 가격",
+  "인쇄기 인쇄량",
+  "직사각형 둘레",
+  "퍼즐",
+  "문구점 공책 가격",
+  "마을 지도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "정비례 개념이 이미 도입된 뒤의 연습 쪽이며 새 정의는 없음. 상단 FUN 코너의 '___와 ___가 정비례하면 좋겠다'는 빈칸 쓰기 활동. 소단원 번호·제목은 보이지 않아 추정한 값임.",
+ "_page": 121,
+ "_usage": {
+  "in": 4640,
+  "out": 1354,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,151 @@
+{
+ "printedPage": "75",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "일차식의 계산 (일차식과 수의 곱셈·나눗셈)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식과 수의 곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식과 수의 나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\div$",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-\\\\frac{1}{4}$",
+   "meaning": "분수로 나누는 계산에 쓰이는 유리수",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "단항식과 수의 곱셈·나눗셈 4문항: 2×6x, (-4x)×7, 16x÷(-8), (-2x)÷(-1/4)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "모두 찾으시오",
+   "summary": "보기 ㉠~㉢ 중 계산 결과가 옳은 것을 모두 찾기 (분수 곱셈·나눗셈 포함)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "괄호가 있는 일차식과 수의 곱셈·나눗셈 4문항: 2(-3x+5), (x+6)×(-4), (-5x+10)÷(-5), (x-7)÷(7/2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "계산하시오",
+   "summary": "보기에서 일차식과 수를 하나씩 골라 (일차식)×(수), (일차식)÷(수) 식을 만들고 계산하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "완성하고 생각해 보자",
+   "summary": "일차식 계산 결과에 해당하는 글자를 빈칸에 써넣어 갈릴레이의 명언을 완성하고 수학의 의미를 생각하기",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "보기 상자: 계산식 ㉠~㉢",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "보기 상자: -3x, -6, 12x+1, 1/2",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "세 가지 식(3(-2x+4), -(x+4), (4x-12)÷(-2/3)²)별로 계산 결과 두 개와 해당 글자(자연/지구, 그림/책, 역사/수학)를 보여 주는 카드 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "갈릴레이 캐릭터와 명언 빈칸 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "갈릴레이의 명언"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "활동 카드의 세 번째 식은 (4x-12)÷(-2/3)² 로 보이며 지수 위치가 작게 인쇄되어 있어 확실하지 않음. 이 쪽에서 새로 정의되는 용어는 없고 앞에서 배운 계산을 연습하는 쪽임.",
+ "_page": 75,
+ "_usage": {
+  "in": 4561,
+  "out": 1407,
+  "sec": 8.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

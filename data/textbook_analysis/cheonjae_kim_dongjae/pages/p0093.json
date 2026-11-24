@@ -1,0 +1,159 @@
+{
+ "printedPage": "93",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "2. 일차방정식",
+  "area": "예제 / 배우고 익히기"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": "x"
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "속력(시속)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "연속하는 두 자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "구하려는 거리를 나타내는 미지수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "미지수 정하기 → 방정식 세우기 → 방정식 풀기 → 확인하기",
+   "plain": "문장으로 된 문제는 미지수를 정해 방정식을 세우고, 풀고, 해가 문제의 뜻에 맞는지 확인한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(시간)=\\frac{(거리)}{(속력)}",
+   "plain": "걸린 시간은 거리를 속력으로 나누어 구한다(풀이에서 사용).",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 4",
+   "summary": "갈 때 시속 10 km, 올 때 시속 15 km로 총 2시간 걸린 거리를 $\\frac{x}{10}+\\frac{x}{15}=2$로 세워 풀면 12 km이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "올라갈 때 시속 3 km, 내려올 때는 3 km 더 먼 길을 시속 4 km로 걸어 총 2시간 30분 걸렸을 때 올라간 거리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "연속하는 두 자연수의 합이 45일 때 두 자연수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "동영상 30분 시청과 이메일 몇 통 전송으로 탄소 배출량이 총 23 g일 때, 표를 보고 이메일 수를 구한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "승연이 13세, 아버지 42세일 때 아버지 나이가 승연이 나이의 2배가 되는 때는 몇 년 후인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "자전거를 타고 길을 가는 사람의 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "기기 사용 활동별 탄소 배출량(동영상 10분 시청 1 g, 이메일 한 통 전송 4 g)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "CO2 구름과 노트북 일러스트, 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "자전거 타기(속력, 거리, 시간)",
+  "등산(속력)",
+  "디지털 기기 사용과 탄소 배출량",
+  "나이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "2번 문제에 '연결' 역량 아이콘이 있다. 1+, 2+는 이미지에서 숫자 옆에 + 표시가 있어 심화로 보았다. 새로 정의되는 용어는 없고, 일차방정식의 활용 풀이 절차를 예제로 보여주는 쪽이다.",
+ "_page": 93,
+ "_usage": {
+  "in": 4821,
+  "out": 1422,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

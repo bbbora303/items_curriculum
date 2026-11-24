@@ -1,0 +1,150 @@
+{
+ "printedPage": "300",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.1 다면체, 7.2 회전체 (정답 및 풀이)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선대칭도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$n$",
+   "meaning": "각뿔대의 밑면인 n각형의 변의 수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "회전축",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "n각뿔대: 모서리 $3n$개, 꼭짓점 $2n$개",
+   "plain": "n각뿔대의 모서리는 3n개, 꼭짓점은 2n개이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "정육각형 한 내각 $120^\\circ \\times 3 = 360^\\circ$",
+   "plain": "한 꼭짓점에 정육각형 3개가 모이면 각의 합이 360°가 되어 정다면체를 만들 수 없다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "회전축에 수직인 평면으로 자른 단면은 모두 원",
+   "plain": "회전체를 회전축에 수직인 평면으로 자르면 단면은 원이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "회전축을 포함하는 평면으로 자른 단면은 모두 합동이고 선대칭도형",
+   "plain": "회전축을 포함하는 평면으로 자른 단면은 서로 합동이며 회전축을 대칭축으로 하는 선대칭도형이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "준비해요 1번 답: 삼각기둥과 원뿔의 밑면의 모양과 개수",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "준비해요 3번 답: 원기둥의 전개도에 길이 3 cm, 5 cm, 6π cm를 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "생각해요: 여러 입체도형 그림 위에 다면체 판별 표시",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정다면체 5종류의 면의 모양과 한 꼭짓점에 모인 면의 개수",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각뿔대~육각뿔대의 모서리·꼭짓점 개수 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "7.2 문제 1: 회전축 l 을 가진 회전체 3개(원기둥+원뿔, 반구+원뿔, 원뿔대)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "함께해요 1, 2: 회전체를 자른 단면의 모양(원, 삼각형, 사각형 등) 답안 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "7단원 '입체도형의 성질' 정답 및 풀이 쪽(준비해요, 7.1 다면체, 7.2 회전체 해답). 새로 정의되는 용어는 없고 해답에서 사용만 됨. 일부 정답은 그림 위주라 글자층에 없음. 쪽 순서는 300번째이고 인쇄 쪽 번호도 300이다.",
+ "_page": 300,
+ "_profile": "full",
+ "_usage": {
+  "in": 5405,
+  "out": 1347,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

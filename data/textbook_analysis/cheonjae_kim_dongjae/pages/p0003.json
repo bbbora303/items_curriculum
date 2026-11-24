@@ -1,0 +1,46 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "머리말"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "체스 말(킹, 쓰러진 말, 나이트)과 학생 캐릭터, 책, 공책, 커다란 연필 일러스트가 분홍 배경에 그려져 있음",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "이집트 파피루스·바빌로니아 점토판 등 수학의 역사",
+  "천체와 기후 변화 등 자연 현상",
+  "공학과 우주 과학",
+  "경제·사회 현상"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등학교 수학"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "교과서 머리말(지은이 모두가) 쪽. 수학적 개념, 문제, 용어 정의는 없음. 쪽 번호가 인쇄되어 있지 않음. 중학교 수학이 초등학교 수학에 기초해 더 상세하고 깊이 있게 다룬다는 언급만 있어 prior에 '초등학교 수학'으로 적음.",
+ "_page": 3,
+ "_usage": {
+  "in": 4420,
+  "out": 432,
+  "sec": 4.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

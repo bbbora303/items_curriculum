@@ -1,0 +1,168 @@
+{
+ "printedPage": "54",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "양수·음수 부호가 붙은 수(높이의 변화량)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 뺄셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수의 합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$+,\\ -$",
+   "meaning": "양의 부호와 음의 부호(높이가 높아지거나 낮아짐)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\cdots$",
+   "meaning": "같은 규칙이 계속됨을 나타내는 생략 기호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$1+2+3+\\cdots+100=(1+100)+(2+99)+\\cdots+(50+51)=101\\times 50=5050$",
+   "plain": "가우스는 양 끝의 수부터 짝지어 합이 같은 묶음 50개로 만들어 계산했다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "가우스의 1부터 100까지의 합",
+   "summary": "합이 101인 쌍 50개로 묶어 101×50=5050을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "지도에 표시된 지점 사이의 높이 변화(+21.5, +15.2, -31.4, +9.7, -9.5, -10.4)를 이용해 가장 높은 지점과 가장 낮은 지점의 높이의 차를 구하고 풀이 과정을 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2-❶",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "분수의 덧셈과 뺄셈이 섞인 긴 식(분모가 1~5인 분수들)을 자신만의 전략으로 계산하고 친구들과 풀이를 비교한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2-❷",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "(+1/2)÷(-2/3)÷(+3/4)÷(-4/5)÷…÷(-98/99)÷(+99/100)을 자신만의 전략으로 계산하고 풀이를 비교한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "등고선 지도에 지점 A~G와 지점 사이의 높이 변화(+21.5, +15.2, -31.4, +9.7, -9.5, -10.4)가 화살표로 표시되어 있다.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "가우스의 초상과 1부터 100까지 합을 구하는 과정이 적힌 두루마리",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "나침반과 지도 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "지도의 지점별 높이 측정",
+  "수학자 가우스의 자연수 합 계산"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "연결",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽에 소단원 번호는 없고 '수학 역량 쑥쑥 더하기' 코너임. 대단원은 쪽 하단 'Ⅰ. 수와 연산'과 내용(정수와 유리수 계산)으로 판단함. 지도 속 화살표와 값의 대응은 작은 글씨라 정확한 경로를 확인하기 어려움. 아이콘 라벨은 1번이 추론·의사소통·연결, 2번이 문제해결·추론.",
+ "_page": 54,
+ "_usage": {
+  "in": 4543,
+  "out": 1542,
+  "sec": 11.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

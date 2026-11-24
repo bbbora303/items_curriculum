@@ -1,0 +1,99 @@
+{
+ "printedPage": "58",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "수군수군 체육과 수학 사이"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "골 득실 차",
+   "role": "정의",
+   "definition": "득점과 실점의 차이로, 승점이 같은 팀의 순위를 정할 때 쓴다.",
+   "notation": ""
+  },
+  {
+   "term": "승점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "+5",
+   "meaning": "골 득실 차가 득점이 실점보다 5 많음(양수)",
+   "role": "사용"
+  },
+  {
+   "symbol": "-2",
+   "meaning": "골 득실 차가 득점이 실점보다 2 적음(음수)",
+   "role": "사용"
+  },
+  {
+   "symbol": "-7",
+   "meaning": "골 득실 차가 득점이 실점보다 7 적음(음수)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "골 득실 차 = 득점 - 실점",
+   "plain": "승점이 같으면 득점과 실점의 차인 골 득실 차로 순위를 정한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "승: 3점, 무: 1점, 패: 0점",
+   "plain": "월드컵 조별리그에서 승리 3점, 무승부 1점, 패배 0점의 승점을 얻는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "월드컵 조별리그 결과 예시",
+   "summary": "네 팀 모두 1승 1무 1패로 승점이 4점으로 같아 골 득실 차(+5, +4, -2, -7)로 A 팀이 1위가 된다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "A~D 팀의 경기 수, 승·무·패, 승점, 득점, 실점, 골 득실 차를 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "축구공과 축구화, 공을 차는 선수, 골대로 들어가는 공 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "축구 월드컵 조별리그",
+  "골 득실 차와 순위",
+  "진로 탐색: 스포츠 기록 분석원, 스포츠 마케터, 스포츠 에이전트, 프로구단 운영자"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'I. 수와 연산' 단원 내 읽기자료 쪽이며, 양수·음수가 쓰이는 정수와 유리수 단원으로 판단했다. 이 쪽에서 새로 정의하는 수학 용어는 없고 골 득실 차 개념만 소개한다. 쪽 안에 문제는 없다.",
+ "_page": 58,
+ "_usage": {
+  "in": 4607,
+  "out": 963,
+  "sec": 6.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

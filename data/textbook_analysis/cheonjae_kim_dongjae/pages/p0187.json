@@ -1,0 +1,239 @@
+{
+ "printedPage": "187",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선·반직선·선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overleftrightarrow{AB}$, $\\overrightarrow{AB}$, $\\overline{AB}$"
+  },
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직이등분선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직육면체에서 직선과 평면의 위치 관계(평행, 포함, 수직)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$",
+   "meaning": "반직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "각 AOB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "오각기둥의 교점과 교선의 개수를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "한 직선 위의 세 점 A, B, C에서 선분·반직선의 같음에 대한 설명 중 옳지 않은 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "∠AOB가 평각일 때 x, 3x, 2x가 이루는 각에서 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 직선이 만나는 그림에서 20°, x°−40°, y°+30°를 이용해 x, y의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "직선 CD가 선분 AB의 수직이등분선일 때 옳지 않은 설명을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "것은?",
+   "summary": "전개도로 만든 삼각뿔에서 모서리 DF와 꼬인 위치에 있는 모서리를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "직육면체에서 모서리 AB와 면의 위치 관계에 대한 설명 중 옳은 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "오각기둥 입체도형",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "한 직선 위의 세 점 A, B, C",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 AOB 위에 x, 3x, 2x로 나뉜 각",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "두 직선이 만나 생기는 각 20°, x°−40°, y°+30°",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB와 수직이등분선 CD, 수선의 발 H",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각뿔의 전개도 (꼭짓점 A, B, C, D, E, F)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~H가 표시된 직육면체",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 상단에 'Ⅳ. 도형의 기초'로 표시됨(교과서 단원 목록상 '기본 도형'에 해당). 문항별 역량 아이콘은 보이지 않고 문항 번호 위에 장식 아이콘만 있음. 소단원 번호는 보이지 않음.",
+ "_page": 187,
+ "_usage": {
+  "in": 4667,
+  "out": 1858,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

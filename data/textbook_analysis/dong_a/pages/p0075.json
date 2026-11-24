@@ -1,0 +1,183 @@
+{
+ "printedPage": "75",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.1 문자의 사용 - 생각 2 곱셈 기호 ×와 나눗셈 기호 ÷가 있는 식을 어떻게 간단히 나타낼까요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "곱셈 기호 ×의 생략",
+   "role": "정의",
+   "definition": "문자를 사용한 식에서 곱셈 기호 ×를 생략하고 간단히 나타내는 약속",
+   "notation": "3\\times a=3a"
+  },
+  {
+   "term": "나눗셈 기호 ÷의 생략",
+   "role": "정의",
+   "definition": "문자를 사용한 식에서 나눗셈 기호 ÷를 쓰지 않고 분수 꼴로 나타내는 약속",
+   "notation": "a\\div b=\\frac{a}{b}"
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "x^2y^3"
+  },
+  {
+   "term": "분수",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\frac{a}{2}"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\neq",
+   "meaning": "같지 않다 (예: b≠0은 b는 0이 아니다)",
+   "role": "정의"
+  },
+  {
+   "symbol": "\\times",
+   "meaning": "곱셈 기호(문자식에서 생략 가능)",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\div",
+   "meaning": "나눗셈 기호(문자식에서 분수 꼴로 대체)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "3\\times a=3a,\\ x\\times(-2)=-2x",
+   "plain": "수와 문자의 곱은 ×를 생략하고 수를 문자 앞에 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "b\\times a=ab",
+   "plain": "문자와 문자의 곱은 ×를 생략하고 보통 알파벳 순서로 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x\\times y\\times x\\times y\\times y=x^2y^3",
+   "plain": "같은 문자의 곱은 거듭제곱으로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(a+1)\\times 2=2(a+1)",
+   "plain": "괄호가 있는 식과 수의 곱에서는 ×를 생략하고 수를 괄호 앞에 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "1\\times a=a,\\ (-1)\\times a=-a,\\ 0.1\\times a=0.1a",
+   "plain": "1 또는 -1과 문자의 곱에서는 1을 생략하지만, 0.1과 문자의 곱에서는 1을 생략하지 않는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "a\\div b=\\frac{a}{b}\\ (b\\neq 0)",
+   "plain": "나눗셈 기호 ÷를 쓰지 않고 분수 꼴로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "a\\div 2=a\\times\\frac{1}{2}=\\frac{1}{2}a",
+   "plain": "\\frac{a}{2}를 \\frac{1}{2}a로 나타내기도 한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "곱셈 기호의 생략 예 1~4",
+   "summary": "각 약속마다 ×를 생략한 예시를 하나씩 보여 준다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "참고 (1)(2)",
+   "summary": "1 또는 -1과 문자의 곱에서 1의 생략 여부를 예로 설명한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "참고 (나눗셈)",
+   "summary": "a÷2를 a×1/2로 바꾸어 \\frac{a}{2}=\\frac{1}{2}a임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "a×b×2에서 곱셈 기호를 생략하여 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "x×3×y×x에서 곱셈 기호를 생략하여 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(a+b-1)×5에서 곱셈 기호를 생략하여 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (4)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(-1)×(x-y)×a에서 곱셈 기호를 생략하여 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [],
+ "contexts": [
+  "비에타(Vieta)와 문자 사용의 역사(수학 톡 지식 톡)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "왼쪽 여백에 '수학 톡 지식 톡'(비에타 소개)과 'b≠0' 기호 설명 곁글이 있다. 쪽 오른쪽 '3 단원' 표시가 있다. 소단원 번호·제목은 쪽 아래 '3.1 문자의 사용'에 근거했다.",
+ "_page": 75,
+ "_profile": "full",
+ "_usage": {
+  "in": 4956,
+  "out": 1954,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,152 @@
+{
+ "printedPage": "46",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "곱셈의 교환법칙",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "이제 곱셈의 교환법칙과 결합법칙에 대해 알아보자.\n두 수의 곱셈에서\n$(+2)\\times(-5)=-10,\\ (-5)\\times(+2)=-10$\n과 같이 두 수의 순서를 바꾸어 곱하여도 그 결과는 같다.\n이것을 곱셈의 교환법칙이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "곱셈의 결합법칙",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "또 세 수의 곱셈에서\n$\\{(-2)\\times(+3)\\}\\times(-5)=(-6)\\times(-5)=+30$\n$(-2)\\times\\{(+3)\\times(-5)\\}=(-2)\\times(-15)=+30$\n과 같이 앞이나 뒤의 두 수를 먼저 곱한 후에 나머지 수를 곱하여도 그 결과는 같다.\n이것을 곱셈의 결합법칙이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "곱셈의 계산 법칙",
+   "corner": "곱셈의 계산 법칙",
+   "icons": [],
+   "level": "",
+   "text": "세 수 $a,\\ b,\\ c$에 대하여\n❶ 곱셈의 교환법칙  $a\\times b=b\\times a$\n❷ 곱셈의 결합법칙  $(a\\times b)\\times c=a\\times(b\\times c)$",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "곱셈의 교환법칙 $a\\times b=b\\times a$"
+    },
+    {
+     "label": "❷",
+     "text": "곱셈의 결합법칙 $(a\\times b)\\times c=a\\times(b\\times c)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명(왼쪽 여백)",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "❖ 세 수의 곱셈에서는 결합법칙이 성립하므로 $(a\\times b)\\times c,\\ a\\times(b\\times c)$는 괄호를 사용하지 않고 $a\\times b\\times c$와 같이 나타낼 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "본문",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "세 수 이상의 곱셈에서는 교환법칙과 결합법칙을 이용하여 곱하는 순서를 바꾸어 계산하면 편리할 때가 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (분수의 곱셈)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "$\\left(-\\frac{4}{3}\\right)\\times\\left(+\\frac{2}{5}\\right)\\times\\left(+\\frac{3}{8}\\right)$\n$=\\left(+\\frac{2}{5}\\right)\\times\\left(-\\frac{4}{3}\\right)\\times\\left(+\\frac{3}{8}\\right)$   (오른쪽에 '곱셈의 [빈칸]')\n$=\\left(+\\frac{2}{5}\\right)\\times\\left\\{\\left(-\\frac{4}{3}\\right)\\times\\left(+\\frac{3}{8}\\right)\\right\\}$   (오른쪽에 '곱셈의 [빈칸]')\n$=\\left(+\\frac{2}{5}\\right)\\times\\left(-\\frac{1}{2}\\right)=-\\frac{1}{5}$",
+   "subItems": [],
+   "conditions": [],
+   "given": "$\\left(-\\frac{4}{3}\\right)\\times\\left(+\\frac{2}{5}\\right)\\times\\left(+\\frac{3}{8}\\right)$",
+   "steps": [
+    "첫째 줄에서 둘째 줄로 갈 때 곡선 화살표와 함께 '곱셈의 [빈칸]'",
+    "둘째 줄에서 셋째 줄로 갈 때 곡선 화살표와 함께 '곱셈의 [빈칸]'"
+   ],
+   "answerFormat": "'곱셈의' 뒤 네모 칸 2개에 법칙 이름 채우기"
+  },
+  {
+   "kind": "기타",
+   "label": "본문 (부호 결정)",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "0이 아닌 여러 개의 수를 곱할 때는 먼저 곱의 부호를 정하고, 각 수의 절댓값의 곱에 그 부호를 붙여서 구하면 편리하다.\n이때 곱의 부호는 음수가 없거나 짝수 개이면 +이고, 홀수 개이면 −이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (부호 정하기)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "❶ $(-2)\\times(-4)\\times(+5)=\\bigcirc(2\\times4\\times5)=\\bigcirc 40$\n❷ $(-3)^3=(-3)\\times(-3)\\times(-3)=\\bigcirc(3\\times3\\times3)=\\bigcirc 27$",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "$(-2)\\times(-4)\\times(+5)=\\bigcirc(2\\times4\\times5)=\\bigcirc 40$"
+    },
+    {
+     "label": "❷",
+     "text": "$(-3)^3=(-3)\\times(-3)\\times(-3)=\\bigcirc(3\\times3\\times3)=\\bigcirc 27$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "각 식의 동그라미 칸(곱의 부호 자리)을 채우기. 40, 27은 인쇄되어 있음"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "모형",
+   "caption": "곱의 부호 (오른쪽 노란 상자 그림)",
+   "labels": "위쪽: '짝수 개' (괄호로 묶임) — 파란 원 안의 −(음수)를 × 로 이어서 −  ×  −  ×  …  ×  − , 초록 화살표(→) 뒤에 분홍 원 안의 +. 아래쪽: '홀수 개' (괄호로 묶임) — −  ×  −  ×  …  ×  − , 초록 화살표(→) 뒤에 파란 원 안의 −.",
+   "desc": "음수(−)는 파란 원, 양수(+)는 분홍 원으로 표시. 음수를 짝수 개 곱하면 +, 홀수 개 곱하면 −."
+  }
+ ],
+ "incomplete": "곡선 화살표 옆 '곱셈의' 뒤의 빈 네모 칸과 채워 넣기 ❶❷의 동그라미 칸은 빈칸이라 내용이 없음. 쪽 아래 '채워 넣기' 아이콘 외 역량 아이콘은 없음.",
+ "_page": 46,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4223,
+  "out": 3510,
+  "sec": 21.6,
+  "stop": "end_turn"
+ }
+}

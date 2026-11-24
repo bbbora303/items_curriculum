@@ -1,0 +1,253 @@
+{
+ "printedPage": "296",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "01 간단한 도형의 작도",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "정의",
+   "definition": "눈금 없는 자와 컴퍼스만을 사용하여 도형을 그리는 것(이 쪽에서는 답 해설 속에 눈금 없는 자와 컴퍼스의 용도가 정리됨).",
+   "notation": ""
+  },
+  {
+   "term": "눈금 없는 자",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "모서리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x=100^\\circ,\\ \\angle y=30^\\circ$",
+   "meaning": "각의 크기 답",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "동위각의 크기가 같으면 두 직선은 평행하다",
+   "plain": "한 직선과 만나는 두 직선에서 동위각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "눈금 없는 자: 선분 그리기·연장, 컴퍼스: 원 그리기·길이 옮기기",
+   "plain": "눈금 없는 자는 선분을 긋거나 연장하는 데, 컴퍼스는 원을 그리거나 길이를 옮기는 데 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "길이가 같은 선분의 작도 순서",
+   "plain": "직선을 긋고 컴퍼스로 길이를 재어 옮겨 같은 길이의 선분을 작도한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "크기가 같은 각의 작도 순서",
+   "plain": "점 O를 중심으로 호를 그리고 그 길이를 옮겨 크기가 같은 각을 작도한다(순서 ❶~❺ 그림).",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "2 예시(동위각과 평행선)",
+   "summary": "동위각의 크기가 같으면 두 직선이 평행함을 작도 결과로 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "답",
+   "summary": "입체도형에서 모서리와 면의 위치 관계 답: DE; AC, BC, AD, BE; BC, EF; 면 ABC, 면 DEF",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "답",
+   "summary": "답 115°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "답",
+   "summary": "답 ∠x=100°, ∠y=30°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "8",
+   "level": "기본",
+   "verb": "답",
+   "summary": "전개도 그림 답(A, B, C, D 표시)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "답",
+   "summary": "답 135°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "탐구활동 ❶❷",
+   "level": "활동",
+   "verb": "답",
+   "summary": "선분 ㉠ 고르기, 두 선분의 길이가 같다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "배우고 익히기 1, 1+, 2, 2+",
+   "level": "기본",
+   "verb": "답",
+   "summary": "작도 도구의 용도 및 선분·각 작도 과정 해설",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "답",
+   "summary": "지도에서 중학교와 소희네 집을 이용해 편의점 위치를 작도로 찾는 활동 해설",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "미술과 수학 사이 예시: 원근법의 방사형 무늬 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "지도 위에 중학교·소희네 집을 지나는 직선과 편의점 위치를 작도하는 그림",
+   "_raw": "기타",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "크기가 같은 각의 작도 과정(호와 번호 ❶~❺)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB, BC 및 EP, PF 길이 옮기기 작도 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "동위각 작도로 평행선을 그리는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "전개도 그림(문제 8 답)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "당구대 위 공의 경로를 작도와 연결하는 그림",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "지도(편의점 위치 찾기)",
+  "당구대",
+  "미술(원근법)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이 쪽은 이전 단원(기본 도형) 정답 5~9번과 작도와 합동 단원 2-01 정답과 해설이 섞여 있다. 오른쪽 단의 와글와글 수학 활동 사진(당구대)은 해설 내용이 거의 없고 그림만 있다. 글자층의 수식은 깨져 있어 이미지를 따랐다.",
+ "_page": 296,
+ "_usage": {
+  "in": 4747,
+  "out": 2141,
+  "sec": 13.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

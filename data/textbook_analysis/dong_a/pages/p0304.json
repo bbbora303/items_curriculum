@@ -1,0 +1,238 @@
+{
+ "printedPage": "304",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.1 대푯값",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^3$",
+   "meaning": "부피 단위",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^2$",
+   "meaning": "넓이 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$V=\\frac{4}{3}\\pi r^3$",
+   "plain": "구의 부피를 이용해 쇠구슬 1개의 부피를 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "정다면체: 모든 면이 합동인 정다각형이고 각 꼭짓점에 모인 면의 개수가 같은 다면체",
+   "plain": "모든 면이 합동이어도 꼭짓점마다 모인 면의 개수가 다르면 정다면체가 아니다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(\\pi\\times 6^2)\\times h=108\\pi$",
+   "plain": "잠긴 물체의 부피와 늘어난 물의 부피가 같음을 이용해 물의 높이를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "변량이 매우 큰 값을 포함하면 중앙값이 더 적절하다",
+   "plain": "자료의 특성에 따라 알맞은 대푯값을 고른다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "프로젝트 1 예시 답",
+   "summary": "택배 상자로 휴대 전화 거치대 겸 연필꽂이(삼각기둥+사각뿔)를 만드는 예시 답",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "프로젝트 2 예시 답",
+   "summary": "전개도에서 재료의 넓이 454 cm²와 삼각기둥 부분의 부피 384 cm³를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "13 예시 답",
+   "summary": "원기둥과 원뿔 용기의 부피는 320π로 같고, 겉넓이가 작은 원뿔 용기가 제작 비용이 적다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "쇠구슬 3개를 그릇에 넣었을 때 더 올라간 물의 높이 풀이(답 16 cm)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "12",
+   "level": "기본",
+   "verb": "판단하시오",
+   "summary": "주어진 입체도형이 정다면체인지 판단하는 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "13",
+   "level": "기본",
+   "verb": "고르세요",
+   "summary": "부피와 겉넓이를 비교해 제작 비용이 적은 용기 고르기 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "준비해요 1~2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "240~241쪽 준비해요 정답",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "생각해요, 문제 1, 함께해요, 문제 2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "8.1 대푯값 도입부 정답(8개, 8.5회, 52, 스피드 스케이팅)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "답",
+   "summary": "자료에 알맞은 대푯값을 고르고 눈 일수 자료의 통계값으로 해석하는 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "해결해요 1~5",
+   "level": "기본",
+   "verb": "답",
+   "summary": "대푯값 구하기, 알맞은 대푯값 선택, 중앙값으로 변량 추론 등의 정답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점에 모인 면의 개수가 다른 다면체 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "삼각기둥 연필꽂이와 사각뿔 고정 부분의 예상 모양",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각기둥과 사각뿔의 전개도(치수 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "눈 일수 자료의 통계 요약표(자료 수 63, 평균 27.51, 중앙값 27, 최빈값 24 등)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "휴대 전화 거치대 겸 연필꽂이",
+  "쇠구슬과 물높이",
+  "원기둥·원뿔 용기",
+  "스피드 스케이팅",
+  "눈 내린 날 수",
+  "축구 선호",
+  "키 자료"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 입체도형의 성질 단원(11~13번, 프로젝트)의 끝부분과 자료의 정리와 해석 단원의 8.1 대푯값 정답이 함께 나온다. 용어는 풀이에서 사용될 뿐 새로 정의되지 않는다. 쪽 맨 위 프로젝트는 237쪽 내용의 정답이다. 분석 변수 표의 일부 칸은 값이 비어 있다.",
+ "_page": 304,
+ "_profile": "full",
+ "_usage": {
+  "in": 5907,
+  "out": 2174,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

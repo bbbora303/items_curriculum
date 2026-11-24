@@ -1,0 +1,218 @@
+{
+ "printedPage": "221",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "기둥의 겉넓이(소단원 번호·제목은 이 쪽에 보이지 않음)",
+  "area": "채워 넣기 / 배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "옆넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑면의 둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{cm}^2$",
+   "meaning": "넓이의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(겉넓이)=(밑넓이)\\times 2+(옆넓이)",
+   "plain": "기둥의 겉넓이는 밑넓이의 2배에 옆넓이를 더한 것이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(원기둥의 밑넓이)=\\pi\\times r^2,\\ (옆넓이)=2\\pi r\\times(높이)",
+   "plain": "원기둥의 밑넓이와 옆넓이를 반지름 r로 구하는 식을 채워 넣기에서 사용한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(각기둥의 옆넓이)=(밑면의 둘레의 길이)\\times(높이)",
+   "plain": "각기둥의 옆넓이는 밑면의 둘레 길이에 높이를 곱한다(채워 넣기와 1⁺번의 풀이에 쓰임).",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "채워 넣기 ❶ 삼각기둥",
+   "summary": "밑변 6, 높이 8인 직각삼각형 밑면과 높이 7인 삼각기둥의 밑넓이·옆넓이·겉넓이를 빈칸을 채워 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "채워 넣기 ❷ 원기둥",
+   "summary": "반지름 3, 높이 5인 원기둥의 밑넓이·옆넓이·겉넓이를 빈칸을 채워 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 삼각기둥의 겉넓이 구하기(길이 5, 5, 3, 7, 8 cm)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 사각기둥의 겉넓이 구하기(길이 9, 10, 5, 4, 5, 4 cm)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지름 12 cm, 높이 6 cm인 원기둥의 겉넓이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "높이 8 cm, 밑면 4 cm 길이가 표시된 원기둥의 겉넓이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1⁺",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "밑면의 둘레가 20 cm, 높이가 10 cm인 오각기둥의 옆넓이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2⁺",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "옆면의 가로가 6π cm, 세로가 10 cm인 전개도로 만든 원기둥의 겉넓이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "삼각기둥과 그 전개도(8, 6, 10, 7 cm 표시, 빈칸 있음)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원기둥과 그 전개도(반지름 3 cm, 높이 5 cm, 빈칸 있음)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "1번의 삼각기둥과 사각기둥 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2번의 원기둥 두 개 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2⁺번의 원기둥 전개도(6π cm, 10 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에서 보이지 않아 기둥의 겉넓이 단원으로 추정했다. 1(2)의 입체 그림은 길이 표시가 겹쳐 있어 숫자 배치가 불확실하다. 2(2)의 원기둥은 8 cm와 4 cm가 각각 높이인지 지름인지 불확실하다. 1⁺, 2⁺는 별도 표시(+)가 붙은 심화 문제다. 역량 아이콘은 보이지 않는다.",
+ "_page": 221,
+ "_usage": {
+  "in": 4542,
+  "out": 2076,
+  "sec": 12.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

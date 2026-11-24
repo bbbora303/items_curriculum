@@ -1,0 +1,158 @@
+{
+ "printedPage": "46",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.3 정수와 유리수의 덧셈",
+  "area": "단원 도입 / 생각해요 / 생각1"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정수의 덧셈",
+   "role": "정의",
+   "definition": "수직선에서 양수는 오른쪽, 음수는 왼쪽으로 이동하는 것으로 생각하여 두 정수를 더한다.",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교환법칙(덧셈)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "결합법칙(덧셈)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$+1$",
+   "meaning": "양의 정수 1(파란·빨간 모형 중 빨간 모형 1개로 표현)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-1$",
+   "meaning": "음의 정수 -1(파란 모형 1개로 표현)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(+1)+(+3)=+4",
+   "plain": "양의 정수끼리 더하면 원점에서 오른쪽으로 1만큼, 다시 오른쪽으로 3만큼 이동해 +4가 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-2)+(-3)=-5",
+   "plain": "음의 정수끼리 더하면 원점에서 왼쪽으로 2만큼, 다시 왼쪽으로 3만큼 이동해 -5가 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "➊ (양의 정수)+(양의 정수)",
+   "summary": "(+1)+(+3)을 수직선 이동과 모형으로 계산하여 +4를 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "➋ (음의 정수)+(음의 정수)",
+   "summary": "(-2)+(-3)을 수직선 이동과 모형으로 계산하여 -5를 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "생각해 보자",
+   "summary": "최저 기온이 영하 5°C이고 최고 기온은 최저 기온보다 8°C 높을 때 최고 기온은 몇 °C인지 생각한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "산장 베란다에서 아이들이 대화하며 온도계(-10~10°C)가 함께 그려진 도입 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "빨간 모형은 +1, 파란 모형은 -1, 빨간·파란 한 쌍은 0을 나타내는 모형으로 덧셈을 표현",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(+1)+(+3)=+4를 오른쪽 화살표 이동으로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(-2)+(-3)=-5를 왼쪽 화살표 이동으로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [
+  "산장의 아침 기온",
+  "최저·최고 기온"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정수와 유리수의 덧셈의 원리를 이해하고 계산하기",
+   "(덧셈의) 교환법칙, (덧셈의) 결합법칙"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 요소에 교환법칙·결합법칙이 제시되나 이 쪽에서는 아직 설명되지 않아 사용으로 표기함. QR 코드가 있으나 내용은 알 수 없음. 같은 부호 두 정수의 덧셈만 다룸.",
+ "_page": 46,
+ "_profile": "full",
+ "_usage": {
+  "in": 4635,
+  "out": 1448,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

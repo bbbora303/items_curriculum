@@ -1,0 +1,76 @@
+{
+ "printedPage": "302",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.4 기둥과 뿔의 부피 / 7.5 구의 겉넓이와 부피",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(\\text{원뿔의 부피})=\\frac{1}{3}\\times(\\pi\\times r^2)\\times h",
+   "plain": "풀이에서 원뿔의 부피를 밑넓이×높이의 1/3로 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(\\text{삼각뿔의 부피})=\\frac{1}{3}\\times(\\text{삼각기둥의 부피})",
+   "plain": "삼각뿔의 부피는 같은 밑면·높이인 삼각기둥 부피의 1/3이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(\\text{삼각기둥의 부피})=\\frac{1}{2}\\times(\\text{사각기둥의 부피})",
+   "plain": "삼각기둥의 부피는 사각기둥(직육면체) 부피의 1/2이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "2\\pi r=10\\pi",
+   "plain": "밑면의 둘레 길이로 반지름을 구한 뒤 부피를 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "직사각형·직각삼각형을 직선 l을 축으로 1회전시켜 만든 원뿔과 원기둥을 합친 입체도형(5cm, 3cm, 2cm 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 풀이의 채점 기준과 배점 비율(40%, 40%, 20%) 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "향초",
+  "주실(건축물)",
+  "물이 담긴 그릇"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로 도입되는 용어나 정의는 없고, 앞 쪽 문제의 답과 풀이만 나온다. 왼쪽 위는 7.3 풀이의 마지막 부분(4~6번), 7.4 정답과 '해결해요' 풀이(1~6번), 7.5 정답과 '생각 넓히기' 풀이가 이어진다. 6번은 채점 기준표가 붙은 서술형 풀이이다. 쪽 번호 '302'는 '정답 및 풀이' 표시와 함께 인쇄돼 있다.",
+ "_page": 302,
+ "_profile": "full",
+ "_usage": {
+  "in": 5766,
+  "out": 935,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

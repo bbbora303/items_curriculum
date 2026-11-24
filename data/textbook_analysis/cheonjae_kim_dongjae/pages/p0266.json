@@ -1,0 +1,188 @@
+{
+ "printedPage": "266",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수의 분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "\\text{평균}=\\frac{(\\text{변량의 총합})}{(\\text{변량의 개수})}",
+   "plain": "자료 3, 5, 4, 9, 3, 8, 3의 평균은 (3+5+4+9+3+8+3)/7=5로 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "작은 값부터 크기순으로 나열",
+   "plain": "중앙값은 자료를 작은 값부터 크기순으로 나열해 가운데 값을 찾는다. 빈칸은 4이고 최빈값은 3이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "줄기와 잎 그림 → 도수분포표 → 상대도수의 분포표",
+   "plain": "헌혈한 사람의 나이 자료를 줄기와 잎 그림, 도수분포표, 상대도수의 분포표, 히스토그램, 도수분포다각형으로 정리하는 흐름을 보여 준다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "14개 자료(4,4,5,5,3,5,5,5,2,2,3,1,2,3)의 중앙값과 최빈값을 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "자전거 대여소 13곳의 보유 대수 자료(242 같은 극단값 포함)에서 적절한 대푯값을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "태풍 최대 풍속 줄기와 잎 그림에서 2번째로 빠른 풍속을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최대 풍속이 초속 27 m 이상인 태풍이 전체의 몇 %인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "헌혈한 사람의 나이 자료를 도수분포표와 상대도수의 분포표로 정리한 표(빈칸 포함)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "줄기와 잎 그림(2|0은 20세) 빈칸 채우기",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "히스토그램과 도수분포다각형(빈칸 포함)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "태풍의 최대 풍속 줄기와 잎 그림(1|8은 초속 18 m)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "헌혈 그림, 말풍선을 든 학생 캐릭터, 단원 정리 QR",
+   "_raw": "그림",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "헌혈한 사람의 나이",
+  "태풍의 최대 풍속(기상청, 2022년)",
+  "자전거 대여소의 보유 대수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "중단원 마무리 쪽으로 새로 정의하는 용어는 없고 모두 앞에서 배운 내용을 사용한다. 개념 정리의 빈칸은 학생이 채우는 부분이라 답을 적지 않았고 일부 빈칸은 도수분포표 수치로 추정해야 한다. 역량 아이콘은 보이지 않는다.",
+ "_page": 266,
+ "_usage": {
+  "in": 4448,
+  "out": 1645,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

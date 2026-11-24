@@ -1,0 +1,168 @@
+{
+ "printedPage": "235",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "단원 마무리 - 서·논술형, 자기 평가"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\text{cm}",
+   "meaning": "길이 단위(센티미터)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "12",
+   "level": "서술형",
+   "verb": "설명하시오",
+   "summary": "면이 10개이고 모든 면이 합동인 정삼각형인 입체도형의 전개도를 보고, 정다면체인지 판단하고 그 이유를 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "13",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "수학 질문 게시판 글을 읽고, 원기둥 모양(밑면 반지름 5 cm, 높이 8 cm)과 원뿔 모양(높이 15 cm, 모선 17 cm, 밑면 반지름 8 cm) 팝콘 용기의 부피·겉넓이를 비교하여 제작 비용이 적은 용기를 골라 답변을 쓴다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "정삼각형 면 10개로 이루어진 전개도(점선으로 접는 선 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "팝콘이 담긴 원기둥 모양(가)과 원뿔 모양(나) 용기와 치수",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "수학 질문 게시판 화면 형태의 글",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어볼 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "팝콘 가게",
+  "팝콘 용기 제작 비용",
+  "질문 게시판"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "문제해결"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "다면체와 회전체의 성질을 스스로 탐구하기",
+   "problemNos": []
+  },
+  {
+   "concept": "기둥, 뿔, 구의 겉넓이와 부피 구하기",
+   "problemNos": []
+  },
+  {
+   "concept": "주변의 건축물, 문화유산, 예술 작품에서 입체도형의 성질을 찾아보고 수학에 대한 흥미와 관심 갖기",
+   "problemNos": []
+  }
+ ],
+ "notes": "쪽 번호 235, 7단원 표시. 12·13번은 서·논술형으로 풀이 쓰는 칸이 비어 있음. 자기 평가표는 0~100% 막대 색칠 방식이며 문항 번호 연결은 없음. 기억에 남는 것을 적는 칸과 부록 1 붙임딱지 안내가 있음. 소단원 번호는 보이지 않음.",
+ "_page": 235,
+ "_profile": "full",
+ "_usage": {
+  "in": 4585,
+  "out": 1314,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

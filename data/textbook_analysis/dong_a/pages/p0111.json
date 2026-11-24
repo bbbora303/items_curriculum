@@ -1,0 +1,208 @@
+{
+ "printedPage": "111",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.1 순서쌍과 좌표",
+  "area": "생각 2 (함께해요, 개념 설명)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "정의",
+   "definition": "두 수의 순서를 정하여 짝 지어 나타낸 것",
+   "notation": "(a, b)"
+  },
+  {
+   "term": "x축",
+   "role": "정의",
+   "definition": "좌표평면에서 가로의 수직선",
+   "notation": "x축"
+  },
+  {
+   "term": "y축",
+   "role": "정의",
+   "definition": "좌표평면에서 세로의 수직선",
+   "notation": "y축"
+  },
+  {
+   "term": "좌표축",
+   "role": "정의",
+   "definition": "x축과 y축을 통틀어 이르는 말",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "정의",
+   "definition": "두 좌표축이 만나는 점 O",
+   "notation": "O"
+  },
+  {
+   "term": "좌표평면",
+   "role": "정의",
+   "definition": "좌표축이 정해져 있는 평면",
+   "notation": ""
+  },
+  {
+   "term": "좌표",
+   "role": "정의",
+   "definition": "점 P에서 x축, y축에 내린 수선이 각 축과 만나는 점에 대응하는 수 a, b의 순서쌍 (a, b)",
+   "notation": "P(a, b)"
+  },
+  {
+   "term": "x좌표",
+   "role": "정의",
+   "definition": "점 P(a, b)에서 a",
+   "notation": "a"
+  },
+  {
+   "term": "y좌표",
+   "role": "정의",
+   "definition": "점 P(a, b)에서 b",
+   "notation": "b"
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동경, 북위",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(a, b)$",
+   "meaning": "순서쌍",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\mathrm{P}(a, b)$",
+   "meaning": "점 P의 좌표 표기",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\mathrm{O}$",
+   "meaning": "원점(Origin의 첫 글자)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(0, 0)$",
+   "meaning": "원점의 좌표",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "순서쌍 $(a, b)$를 점 P의 좌표라 하고 $\\mathrm{P}(a, b)$로 나타낸다",
+   "plain": "점의 위치는 x좌표와 y좌표의 순서쌍으로 나타낸다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원점 $\\mathrm{O}(0, 0)$",
+   "plain": "원점의 좌표는 (0, 0)이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "x축 위의 점은 y좌표가 0, y축 위의 점은 x좌표가 0",
+   "plain": "축 위 점의 한 좌표는 0이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 2 - 1",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "지도에서 빨간 점이 (동경, 북위)=(18, 79)일 때 피아니스트가 연주한 곳의 위치를 같은 방법으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "좌표평면 위의 네 점 A, B, C, D의 좌표를 기호로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "질문",
+   "level": "심화(+표시)",
+   "verb": "같을까요?",
+   "summary": "두 순서쌍 (18, 79)와 (79, 18)이 서로 같은지 묻기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "북극 지역 지도에 동경·북위 눈금과 빨간 점, 연주한 곳 표시, 피아노 치는 사람 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "x축, y축, 원점이 표시된 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점 P(a, b)에서 x축, y축에 수선을 내린 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 A, B, C, D가 찍힌 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  }
+ ],
+ "contexts": [
+  "지구 온난화",
+  "북극 빙하",
+  "피아니스트 연주",
+  "지도의 동경·북위"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽은 아니며 4단원 첫 소단원의 '생각 2'. 문제 2의 점들의 정확한 좌표는 이미지상 대략 A(3,3), B(-3,4), C(-3,-4), D(3,1) 정도로 보이나 확정하지 않음.",
+ "_page": 111,
+ "_profile": "full",
+ "_usage": {
+  "in": 4876,
+  "out": 1763,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

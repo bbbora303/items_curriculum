@@ -1,0 +1,170 @@
+{
+ "printedPage": "137",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "수직선 위의 점의 좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": "A(-3)"
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "y축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "A(-3)",
+   "meaning": "수직선 위의 점 A의 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "(a, b)",
+   "meaning": "좌표평면 위의 점의 좌표(x좌표, y좌표)",
+   "role": "사용"
+  },
+  {
+   "symbol": "O",
+   "meaning": "원점",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "수직선 위의 각 점의 좌표를 기호로 나타낸 것 중 옳지 않은 것 고르기(A(-3), B(-1.5), C(0), D(1/2), E(4))",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "좌표평면 위의 점 A~E의 좌표를 기호로 나타낸 것 중 옳은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "모두 고르면?",
+   "summary": "좌표평면(축 위의 점, 사분면)에 대한 설명 중 옳은 것 2개 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "모두 고르시오.",
+   "summary": "원기둥 모양 물통에 물을 채우고 비울 때 시간 x초와 물 높이 y cm의 그래프에 대해 보기 ㉠~㉣ 중 옳은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "걸어오다 뛰어서 돌아온 상황에서 시간 x분과 집까지의 거리 y m의 관계를 나타낸 그래프 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "-4부터 4까지 눈금에 점 A, B, C, D, E가 표시된 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 A, B, C, D, E가 찍힌 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원점에서 (5, 20)까지 증가하고 (10, 0)까지 감소하는 꺾은선 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 5의 보기 ①~⑤ 다섯 개의 꺾은선 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "원기둥 모양 물통에 물 넣고 비우기",
+  "학교에서 집까지 걷기와 뛰기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 쪽으로 새로 정의되는 개념은 없고 복습 문제만 있음. 문제 번호 옆에 아이콘이 있으나 역량 종류는 확인 불가. 문제 4의 그래프에서 20은 y축 눈금, 5와 10은 x축 눈금으로 읽음.",
+ "_page": 137,
+ "_usage": {
+  "in": 4814,
+  "out": 1434,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

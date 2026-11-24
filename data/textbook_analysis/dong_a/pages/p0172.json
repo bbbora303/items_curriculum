@@ -1,0 +1,212 @@
+{
+ "printedPage": "172",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "공간에서의 위치 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l\\parallel m$"
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동 조건(ASA)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도(평행선)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 결정 조건(삼각형 만들기)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각·엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l\\parallel m$",
+   "meaning": "직선 l과 m이 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle EAB\\equiv\\triangle ECD$",
+   "meaning": "두 삼각형이 합동이다",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "공간에서 직선·평면의 위치 관계에 대한 설명 중 옳은 것을 고르는 5지선다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "l∥m일 때 60°, 45°가 주어진 그림에서 ∠a, ∠b, ∠c의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "AC와 BD가 E에서 만날 때 삼각형 합동(ASA)으로 AB의 길이를 구하는 과정의 빈칸 ①~⑤ 중 알맞지 않은 것 고르기(5 cm, 6 cm, 8 cm 주어짐)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "08",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "l∥m일 때 40°, 110°, 30°가 주어진 꺾인 선 그림에서 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정사각형 ABCD에서 AP=CQ이고 ∠APB=75°일 때 ∠PBQ의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "점 P를 지나 직선 l에 평행한 직선의 작도 그림에서 옳지 않은 설명 고르기(작도 순서 포함)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "길이 3, 4, 7, 9 cm인 4개의 선분 중 3개로 만들 수 있는 삼각형의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "06: 평행한 두 직선 l, m과 이를 지나는 두 직선, 각 60°, 45°, a, b, c",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "07: 선분 AC와 BD가 E에서 만나 두 삼각형(EAB, ECD)을 이루고 길이 5, 6, 8 cm 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "08: 평행선 l, m 사이의 꺾인 선과 각 40°, 110°, 30°, x",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "09: 정사각형 ABCD와 변 위의 점 P, Q, 각 75°",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "10: 점 P를 지나 직선 l에 평행한 직선을 작도한 그림(호와 기호 ㉠~㉥)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "07: 합동 증명 과정을 담은 상자(빈칸 ①~⑤)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 없음(단원 마무리 쪽, 쪽 아래 '5. 기본 도형과 작도'). 08번에 '발전' 표시가 있어 심화로 분류함. 09번 그림의 75°가 ∠APB인지 ∠APQ 부근인지는 이미지상 확실하지 않음(P 아래 표시).",
+ "_page": 172,
+ "_profile": "full",
+ "_usage": {
+  "in": 4844,
+  "out": 1905,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

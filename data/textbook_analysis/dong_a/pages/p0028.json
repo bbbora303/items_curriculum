@@ -1,0 +1,124 @@
+{
+ "printedPage": "28",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "수학 놀이터 - 곱셈 도미노"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "곱셈 도미노",
+   "role": "정의",
+   "definition": "주어진 자연수를 곱셈식으로 나타낸 뒤 곱한 수들을 선으로 연결한 것",
+   "notation": ""
+  },
+  {
+   "term": "곱셈식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "곱셈 도미노 규칙: 이웃한 칸의 수끼리만 연결, 한 번 표시할 때 한 칸은 한 번만 지나감, 이전에 쓴 칸도 새 도미노에서 다시 사용 가능",
+   "plain": "벌집 모양 칸에서 이웃한 수들을 곱한 값이 주어진 수가 되도록 선으로 이어 도미노를 만든다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$360=4\\times 90=4\\times 45\\times 2$",
+   "plain": "360을 곱셈식으로 나타내고 곱한 수들(4, 45, 2 등)을 벌집 그림에서 연결한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예를 들어(360의 곱셈 도미노)",
+   "summary": "360=4×90=4×45×2로 나타내고 이를 곱셈 도미노로 오른쪽 벌집 그림에 표시한 예",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "240으로 친구와 번갈아 곱셈 도미노 놀이를 하며 마지막에 표시한 사람이 승리한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "이야기해 보자",
+   "summary": "가장 긴 곱셈 도미노를 찾는 방법을 이야기한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "360의 곱셈 도미노를 표시한 작은 벌집 모양 칸 그림(수와 색칠된 연결선)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "여러 자연수가 적힌 육각형 칸으로 이루어진 큰 벌집 판(240 놀이용)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "나무, 벌, 개미, 애벌레 등 배경 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "벌집",
+  "벌",
+  "게임(놀이)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 소인수분해 단원 속 '수학 놀이터' 활동 쪽이며 소단원 번호는 없음. 벌집 칸의 수는 이미지 상 모두 옮기지 않음. 240의 곱셈 도미노 정답은 제시되지 않음.",
+ "_page": 28,
+ "_profile": "full",
+ "_usage": {
+  "in": 4542,
+  "out": 1157,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

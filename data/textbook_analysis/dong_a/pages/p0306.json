@@ -1,0 +1,111 @@
+{
+ "printedPage": "306",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.4 히스토그램과 도수분포다각형",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "자동차 충전 시간 히스토그램에 빈칸 정답(8, 6, 20)이 표시됨",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "자동차 충전 시간 히스토그램과 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "휴대 전화 요금 히스토그램과 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "서울의 적설량 히스토그램과 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "지역별 소음도 히스토그램과 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "적설량 도수분포표(계급과 도수, 합계 114)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "달걀 무게 도수분포표(합계 20개)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "자동차 충전 시간",
+  "휴대 전화 요금",
+  "서울의 적설량",
+  "달걀 무게",
+  "지역별 소음도",
+  "칭찬 스티커",
+  "글라이더 날리기",
+  "악력"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로 정의되는 개념은 없고 문제는 발문 없이 답과 풀이만 실려 있다. 8.4 히스토그램과 도수분포다각형의 생각해요, 함께해요, 문제, 생각 넓히기, 해결해요(253쪽, 257쪽) 정답과 풀이가 담겨 있다. 풀이에는 상대도수 비율 계산(30×30/100=9, 6/40×100=15%, 25×20/100=5)이 쓰인다. 용어는 모두 사용으로 분류했다.",
+ "_page": 306,
+ "_profile": "full",
+ "_usage": {
+  "in": 5144,
+  "out": 885,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

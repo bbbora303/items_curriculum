@@ -1,0 +1,331 @@
+{
+ "printedPage": "299",
+ "pageType": "단원마무리",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "단원 마무리 정답 (201쪽~203쪽)",
+   "corner": "단원 마무리",
+   "icons": [],
+   "level": "",
+   "text": "1 × / 2 ○ / 3 × / 4 ○ / 5 × / 01 (1) 60° (2) 95° / 02 (1) 2π (2) 56 / 03 ④ / 04 정오각형 / 05 ㄱ, ㄴ, ㄹ / 06 둘레의 길이: (8π+8) cm, 넓이: 4π cm² / 07 105° / 08 158° / 09 360° / 10 150° / 11 12π cm / 12 72° / 13 풀이 참조",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "×"
+    },
+    {
+     "label": "2",
+     "text": "○"
+    },
+    {
+     "label": "3",
+     "text": "×"
+    },
+    {
+     "label": "4",
+     "text": "○"
+    },
+    {
+     "label": "5",
+     "text": "×"
+    },
+    {
+     "label": "01",
+     "text": "(1) 60° (2) 95°"
+    },
+    {
+     "label": "02",
+     "text": "(1) $2\\pi$ (2) 56"
+    },
+    {
+     "label": "03",
+     "text": "④"
+    },
+    {
+     "label": "04",
+     "text": "정오각형"
+    },
+    {
+     "label": "05",
+     "text": "ㄱ, ㄴ, ㄹ"
+    },
+    {
+     "label": "06",
+     "text": "둘레의 길이: $(8\\pi+8)$ cm, 넓이: $4\\pi$ cm²"
+    },
+    {
+     "label": "07",
+     "text": "105°"
+    },
+    {
+     "label": "08",
+     "text": "158°"
+    },
+    {
+     "label": "09",
+     "text": "360°"
+    },
+    {
+     "label": "10",
+     "text": "150°"
+    },
+    {
+     "label": "11",
+     "text": "$12\\pi$ cm"
+    },
+    {
+     "label": "12",
+     "text": "72°"
+    },
+    {
+     "label": "13",
+     "text": "풀이 참조"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "오각형의 대각선의 개수는 $\\frac{5\\times(5-3)}{2}=5$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "십각형의 외각의 크기의 합은 360°이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "반지름의 길이가 3 cm이고 호의 길이가 $2\\pi$ cm인 부채꼴의 넓이는 $\\frac{1}{2}\\times3\\times2\\pi=3\\pi(\\text{cm}^2)$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "03",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "④ 정팔각형의 내각의 크기의 합은 1080°이다.\n따라서 옳지 않은 것은 ④이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "05",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "ㄷ. 현의 길이는 중심각의 크기에 정비례하지 않는다.\n따라서 옳은 것은 ㄱ, ㄴ, ㄹ이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "07",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "부채꼴의 중심각의 크기를 $x°$라고 하면\n$2\\pi\\times12\\times\\frac{x}{360}=7\\pi$, $x=105$\n따라서 부채꼴의 중심각의 크기는 105°이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "08",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "사각형의 내각의 크기의 합은 360°이므로\n사각형 ABCD에서\n$\\angle BAD+76°+\\angle BCD+120°=360°$\n즉, $\\angle BAD+\\angle BCD=164°$\n사각형 AOCD에서\n$\\angle DAO+\\angle x+\\angle OCD+120°=360°$\n$\\angle x+\\frac{1}{2}(\\angle BAD+\\angle BCD)+120°=360°$\n$\\angle x+\\frac{1}{2}\\times164°+120°=360°$, $\\angle x=158°$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "09",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림과 같이 삼각형의 한 외각의 크기는 그와 이웃하지 않는 두 내각의 크기의 합과 같다.\n따라서 색칠한 각의 크기의 합은 육각형의 외각의 크기의 합과 같으므로 360°이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "10",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "정육각형의 한 외각의 크기는\n$\\frac{360°}{6}=60°$\n정팔각형의 한 외각의 크기는\n$\\frac{360°}{8}=45°$\n따라서 사각형의 내각의 크기의 합은 360°이므로\n$60°+\\angle x+45°+(60°+45°)=360°$\n$210°+\\angle x=360°$, $\\angle x=150°$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "11",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림과 같이 $\\overline{OC}$를 그으면\n△OAC는 이등변삼각형이므로\n$\\angle OCA=\\angle OAC=36°$\n$\\angle COB=36°+36°=72°$이므로\n$\\angle AOC=180°-72°=108°$\n$\\angle AOC:\\angle COB=\\overset{\\frown}{AC}:\\overset{\\frown}{BC}$이므로\n$108:72=\\overset{\\frown}{AC}:8\\pi$, $\\overset{\\frown}{AC}=12\\pi$ cm",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "12",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "정오각형의 한 내각의 크기는\n$\\frac{180°\\times(5-2)}{5}=108°$\n△ADE는 $\\overline{EA}=\\overline{ED}$인 이등변삼각형이므로\n$\\angle EAD=\\frac{1}{2}\\times(180°-108°)=36°$\n같은 방법으로 △ABE에서 $\\angle AEB=36°$\n따라서 △AFE에서\n$\\angle x=\\angle EAF+\\angle FEA=36°+36°=72°$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "13",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "기본",
+   "text": "[방법 1] 오른쪽 그림에서 필요한 끈의 길이는 중심각의 크기가 90°인 4개의 부채꼴의 호의 길이와 길이가 6 cm인 4개의 선분의 길이의 합과 같으므로\n$\\left(2\\pi\\times3\\times\\frac{90}{360}\\right)\\times4+6\\times4$\n$=6\\pi+24(\\text{cm})$\n[방법 2] 오른쪽 그림에서 필요한 끈의 길이는 4개의 부채꼴의 호의 길이와 길이가 6 cm인 4개의 선분의 길이의 합과 같다.\n이때 4개의 호의 길이의 합은 캔 한 개의 둘레의 길이와 같으므로 필요한 끈의 길이는\n$2\\pi\\times3+6\\times4=6\\pi+24(\\text{cm})$\n따라서 두 방법에서 필요한 끈의 길이는 같다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "프로젝트 (205쪽) 1",
+   "corner": "프로젝트",
+   "icons": [],
+   "level": "활동",
+   "text": "1 예시 1, 예시 2 (그림으로 제시된 무늬)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "무늬 그림"
+  },
+  {
+   "kind": "활동",
+   "label": "프로젝트 (205쪽) 2",
+   "corner": "프로젝트",
+   "icons": [],
+   "level": "활동",
+   "text": "2 예시 1 부채꼴의 중심과 호의 양 끝 점을 이용하여 생각한 기본 모양을 만든 후, 기본 모양을 겹치지 않게 빈틈없이 덮어서 무늬를 만들었다.\n예시 2 정삼각형의 한 내각의 크기는 60°, 정사각형의 한 내각의 크기는 90°, 정육각형의 한 내각의 크기는 120°임을 이용하여 무늬를 만들었다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "11번 풀이 그림",
+   "labels": "반원, 지름의 양 끝 A, B, 중심 O, 호 위의 점 C, ∠A=36°(A에서), C 쪽 36°, 호 CB의 길이 8π cm",
+   "desc": "반원에 선분 AC와 OC가 그려져 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "09번 풀이 그림",
+   "labels": "육각형 내부의 별 모양에 a, b, a+b 표시",
+   "desc": "육각형 안에 삼각형들이 겹쳐 있고 색칠한 각들이 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "10번 풀이 그림",
+   "labels": "정육각형과 정팔각형이 한 변을 공유, 60°, 45°, x",
+   "desc": "두 도형이 맞닿은 꼭짓점에서 각 표시가 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "13번 방법 1 그림",
+   "labels": "6 cm, 3 cm, 직각 표시",
+   "desc": "캔 4개를 묶은 모양과 둘러싼 끈."
+  },
+  {
+   "kind": "도형",
+   "caption": "13번 방법 2 그림",
+   "labels": "6 cm, 3 cm, 직각 표시",
+   "desc": "캔 4개를 평행사변형 모양으로 묶은 끈."
+  },
+  {
+   "kind": "도형",
+   "caption": "프로젝트 1 예시 1",
+   "labels": "",
+   "desc": "부채꼴 모양의 기본 조각 여러 개를 겹치지 않게 이어 붙인 무늬."
+  },
+  {
+   "kind": "도형",
+   "caption": "프로젝트 1 예시 2",
+   "labels": "60°, 120°",
+   "desc": "정육각형을 가운데 두고 정삼각형과 정사각형으로 둘러싼 무늬."
+  }
+ ],
+ "incomplete": "그림 속 작은 각 표시와 기호의 세부 위치, 프로젝트 무늬의 색 배치는 자세히 옮기지 못했다.",
+ "_page": 299,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 5216,
+  "out": 4957,
+  "sec": 28.8,
+  "stop": "end_turn"
+ }
+}

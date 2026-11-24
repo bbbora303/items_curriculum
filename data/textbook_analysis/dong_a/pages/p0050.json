@@ -1,0 +1,177 @@
+{
+ "printedPage": "50",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.3 정수와 유리수의 덧셈 (해결해요: 2.3 복습 문제)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "덧셈의 교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "덧셈의 결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$+$, $-$",
+   "meaning": "양의 부호, 음의 부호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(+4)+(+7)$",
+   "meaning": "정수와 유리수의 덧셈 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "문제 5의 예시 문제",
+   "summary": "현서가 +3만큼 이동한 후 −5만큼 이동하면 식 $(+3)+(-5)=-2$ 이므로 도착한 곳은 집이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "문제 2의 계산 과정",
+   "summary": "$\\left(+\\frac{2}{5}\\right)+(-3)+\\left(+\\frac{8}{5}\\right)$ 을 교환법칙과 결합법칙으로 계산해 $-1$ 을 얻는 과정이 제시됨.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1(1)~(6)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "정수, 소수, 분수의 덧셈: (+4)+(+7), (+8)+(−2), (−6)+(+6), (−19)+(−13), (−2.3)+(+3.4), (+2/5)+(−3/2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "주어진 덧셈 계산 과정 (1), (2)에서 이용한 덧셈의 계산 법칙을 각각 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3(1)~(3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "세 개 이상의 수의 덧셈: 정수 네 수, 소수 네 수, 분수 포함 네 수",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "관리비 영수증에서 세대 전기료 46000원, 공동 전기료 7800원, 복지 할인 −13800원을 더해 전기 요금을 구한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5(1)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "수직선 그림에서 ㉠, ㉡의 수를 −5, +8로 바꾼 후 현서가 도착한 곳을 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "5(2)",
+   "level": "활동",
+   "verb": "해결하시오",
+   "summary": "㉠, ㉡을 바꾸어 문제를 만들고 친구가 만든 문제를 해결한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "관리비 영수증 일부(세대 전기료, 공동 전기료, 복지 할인, 전기 요금)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "병원(−5), 집(−2), 현서(0), 학교(+3), 식당(+6), 도서관(+8)의 위치를 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "문제 2의 계산 과정과 법칙 (1), (2)를 가리키는 화살표",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "QR코드와 '해결해요' 제목 장식",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "관리비 영수증(전기 요금)",
+  "현서의 이동과 장소(병원, 집, 학교, 식당, 도서관)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "각 문제 옆 우수/보통/분발 표정 아이콘은 자기 점검용이다. 2.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내가 있다. 문제 5에는 '도전' 표시가 있다.",
+ "_page": 50,
+ "_profile": "full",
+ "_usage": {
+  "in": 4784,
+  "out": 1687,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

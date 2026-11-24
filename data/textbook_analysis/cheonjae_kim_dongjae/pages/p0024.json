@@ -1,0 +1,90 @@
+{
+ "printedPage": "24",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "정보와 수학 사이 (수군수군) - 비밀을 지키는 수호신! 암호"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공개 열쇠 암호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "RSA 암호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "큰 두 소수의 곱 구하기는 쉽지만, 그 곱을 소인수분해하여 원래의 두 소수를 알아내기는 어렵다",
+   "plain": "큰 수의 소인수분해가 어렵다는 점을 이용해 RSA 암호를 만든다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "두 소수 4391과 8819의 곱",
+   "summary": "$4391\\times 8819=38724229$는 쉽게 계산되지만, 38724229를 소인수분해하여 두 소수를 찾기는 어렵다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "자물쇠와 디지털 네트워크 이미지",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "스마트폰을 든 손과 자물쇠, 지문, 얼굴 인식, 비밀번호 입력 이미지",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "정보 보안",
+  "공개 열쇠 암호(RSA 암호)",
+  "정보 시스템",
+  "진로 탐색(정보 시스템 운영자, 네트워크 보안 전문가, 컴퓨터 시스템 설계 분석가)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '정보와 수학 사이' 읽기 자료 쪽이다. 쪽 아래에는 'Ⅰ. 수와 연산'이 인쇄되어 있다(대단원은 소인수분해 내용으로 판단). 진로 탐색 코너가 포함되어 있다. 소단원 번호는 보이지 않는다.",
+ "_page": 24,
+ "_usage": {
+  "in": 4421,
+  "out": 816,
+  "sec": 5.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

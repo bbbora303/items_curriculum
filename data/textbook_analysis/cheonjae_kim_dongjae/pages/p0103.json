@@ -1,0 +1,75 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "좌표평면과 그래프, 정비례와 반비례",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "체스판과 체스 말 위에서 두 학생이 말을 옮기는 모습을 위에서 본 사진 겸 일러스트",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "왼쪽 위에 계통도 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "체스 판에서 말의 위치"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "규칙 찾기",
+   "규칙과 대응",
+   "비와 비율",
+   "비례식과 비례배분"
+  ],
+  "current": [
+   "좌표평면과 그래프",
+   "정비례와 반비례"
+  ],
+  "later": [
+   {
+    "item": "일차함수와 그 그래프",
+    "grade": "중2"
+   },
+   {
+    "item": "일차함수와 일차방정식의 관계",
+    "grade": "중2"
+   },
+   {
+    "item": "이차함수와 그 그래프",
+    "grade": "중3"
+   }
+  ]
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로, 쪽 번호와 단원 제목은 보이지 않아 대단원은 '이 단원의 내용' 항목에서 추정했다. 체스판 사진에 붙은 문장 '체스에서 말의 위치를 순서쌍으로 나타낼 수 있다.'가 도입 소재이며, 순서쌍은 이 단원에서 배울 용어로 보이지만 이 쪽에서 정의되지는 않는다.",
+ "_page": 103,
+ "_usage": {
+  "in": 4045,
+  "out": 605,
+  "sec": 9.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

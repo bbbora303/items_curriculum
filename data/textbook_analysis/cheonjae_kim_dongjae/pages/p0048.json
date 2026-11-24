@@ -1,0 +1,167 @@
+{
+ "printedPage": "48",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "정수와 유리수의 나눗셈은 어떻게 할까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정수의 나눗셈",
+   "role": "정의",
+   "definition": "부호가 같은 두 정수의 나눗셈은 절댓값의 나눗셈의 몫에 +를, 부호가 다른 두 정수의 나눗셈은 절댓값의 나눗셈의 몫에 −를 붙여 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 나눗셈",
+   "role": "정의",
+   "definition": "정수의 나눗셈과 같은 방법으로, 부호가 같으면 몫에 +를, 다르면 −를 붙여 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "역수(곱셈과 나눗셈의 관계)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(+3)$, $(-3)$",
+   "meaning": "부호를 붙인 정수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(+6)\\div(+3)=+2,\\ (-6)\\div(-3)=+2",
+   "plain": "부호가 같은 두 정수의 나눗셈은 절댓값의 나눗셈의 몫에 +를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-6)\\div(+3)=-2,\\ (+6)\\div(-3)=-2",
+   "plain": "부호가 다른 두 정수의 나눗셈은 절댓값의 나눗셈의 몫에 −를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(+)\\div(+)=+,\\ (-)\\div(-)=+,\\ (-)\\div(+)=-,\\ (+)\\div(-)=-",
+   "plain": "유리수의 나눗셈에서 부호가 같으면 양, 다르면 음이다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "0\\div(0\\text{이 아닌 수})=0",
+   "plain": "0을 0이 아닌 수로 나눈 몫은 항상 0이다. 0으로 나누는 것은 생각하지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "소수인 유리수의 나눗셈 (+3.6)÷(−1.2), (−5.4)÷(−2.7) 계산",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "(−2)×(+4)=−8을 이용해 (−8)÷(+4)=□의 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "(−8)÷(+4)와 (−8)×(+1/4)의 계산 결과 비교",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "채워 넣기 ❶",
+   "level": "기본",
+   "verb": "채우시오(빈칸)",
+   "summary": "(+10)÷(+2)=(10÷2)=5에서 부호 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 ❷",
+   "level": "기본",
+   "verb": "채우시오(빈칸)",
+   "summary": "(−36)÷(+9)=(36÷9)=4에서 부호 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "곱셈식 2×4=8을 나눗셈식 8÷4=2로 바꾸는 오른쪽 메모 상자",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "+, − 원 기호로 부호 조합별 나눗셈 결과의 부호를 정리한 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정수의 곱셈식과 이에 대응하는 나눗셈식 4쌍을 화살표로 연결해 나열",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "곱셈과 나눗셈의 관계를 이용해 나눗셈 부호 규칙을 도입한다. 생각 열기 ❷에서 나눗셈과 역수 곱셈의 관계를 암시하나 '역수'라는 용어는 이 쪽에 보이지 않는다. 역량 아이콘은 보이지 않는다.",
+ "_page": 48,
+ "_usage": {
+  "in": 4907,
+  "out": 1743,
+  "sec": 10.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

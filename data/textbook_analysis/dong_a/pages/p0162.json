@@ -1,0 +1,128 @@
+{
+ "printedPage": "162",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "삼각형의 작도",
+  "area": "함께해요 4 / 문제 4"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overline{BC}$",
+   "meaning": "선분 BC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "두 변 $b$, $c$와 끼인각 $\\\\angle A$가 주어진 삼각형의 작도: ①$\\\\angle A$와 크기가 같은 각 작도 ②중심 A, 반지름 $c$인 원으로 점 B ③중심 A, 반지름 $b$인 원으로 점 C ④$\\\\overline{BC}$ 연결",
+   "plain": "한 각을 먼저 작도하고, 컴퍼스로 두 변의 길이를 옮겨 점 B, C를 잡은 뒤 선분 BC를 긋는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "두 변의 길이와 그 끼인각의 크기가 주어지면 삼각형이 하나로 정해진다",
+   "plain": "두 변과 끼인각이 주어지면 작도되는 삼각형의 모양과 크기는 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "함께해요 4",
+   "level": "활동",
+   "verb": "작도해 보자",
+   "summary": "길이가 b, c인 선분과 끼인각 ∠A가 주어진 삼각형을 4단계로 작도하고 친구의 작도와 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "문제 4",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "길이가 b, c인 두 선분과 그 끼인각 ∠A(둔각)가 주어진 삼각형을 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "컴퍼스와 자로 각 단계(①~④)의 작도 과정을 보여 주는 4개의 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "선분 b, c와 ∠A가 주어지고 오른쪽에 작도 공간이 있는 분홍색 활동 상자",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 b, c와 둔각 ∠A가 주어지고 오른쪽에 작도 공간이 있는 문제 상자",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "작도 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 위 문장은 앞 쪽에서 이어지는 도입 문장으로 보임. 소단원 번호와 제목은 이 쪽에 보이지 않아, 활동 내용으로 '삼각형의 작도'를 추정했음. 함께해요 4의 ❶~❹ 각 단계 그림은 PDF 글자층에 문자만 남아 있음.",
+ "_page": 162,
+ "_profile": "full",
+ "_usage": {
+  "in": 4407,
+  "out": 1269,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

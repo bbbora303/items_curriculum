@@ -1,0 +1,118 @@
+{
+ "printedPage": "92",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 4",
+   "corner": "생각 4",
+   "icons": [],
+   "level": "",
+   "text": "일차방정식은 무엇인가요?\n방정식 $2x+1=-x$의 우변에 있는 항 $-x$를 좌변으로 이항하면\n$2x+1+x=0$\n이고, 좌변을 정리하면\n$3x+1=0$\n이다. 이때 좌변 $3x+1$은 일차식이다.\n이와 같이 방정식의 우변에 있는 모든 항을 좌변으로 이항하여 정리한 식이\n(일차식)$=0$\n꼴이 되는 방정식을 일차방정식이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "미지수가 $x$인 일차방정식을 $x$에 대한 일차방정식이라고 한다.\n$x$에 대한 일차방정식은 $ax+b=0$ ($a$, $b$는 수이고, $a\\neq 0$) 꼴로 나타낼 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "예제",
+   "label": "확인해요",
+   "corner": "확인해요",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "방정식 $3x-2=x+5$에서 우변에 있는 모든 항을 좌변으로 이항하여 정리하면 $2x-7=0$이다.\n➡ 방정식 $3x-2=x+5$는 일차방정식이다."
+    },
+    {
+     "label": "(2)",
+     "text": "방정식 $x^2-x-6=0$에서 좌변은 $x$에 대한 일차식이 아니다.\n➡ 방정식 $x^2-x-6=0$은 일차방정식이 아니다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 7",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 중에서 일차방정식을 모두 찾으시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$x=2x+8$"
+    },
+    {
+     "label": "(2)",
+     "text": "$3-x=x^2+1$"
+    },
+    {
+     "label": "(3)",
+     "text": "$2x+4=3x-5$"
+    },
+    {
+     "label": "(4)",
+     "text": "$2x^2-1=2x^2+x$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "일차방정식인 것을 모두 고른다"
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "등식의 성질\n$a=b$이면\n$a+2=b+2$　　$a-3=b-3$\n$a\\times 4=b\\times 4$　　$\\frac{a}{5}=\\frac{b}{5}$\n(말풍선) 등식의 양변에 같은 수를 더하거나 빼거나 곱하거나 0이 아닌 수로 나누어도 등식은 성립해요!",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "등식의 성질 상자",
+   "labels": "제목: 등식의 성질. a=b이면 / a+2=b+2, a-3=b-3 / a×4=b×4, a/5=b/5 (더하거나 빼거나 곱하거나 나눈 수 부분 +2, -3, ×4, 5는 분홍색 글씨)",
+   "desc": "연보라색 상자 안에 등식의 성질 예시가 적혀 있음. 왼쪽에는 돋보기를 든 강아지 그림, 오른쪽에는 말풍선을 가진 강아지 그림이 있음."
+  }
+ ],
+ "incomplete": "",
+ "_page": 92,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3999,
+  "out": 2066,
+  "sec": 17.1,
+  "stop": "end_turn"
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "errors": [],
+ "warnings": [],
+ "aiReview": {
+  "verdict": "점검 실패",
+  "issues": []
+ },
+ "usage": {
+  "calls": 6,
+  "in": 61037,
+  "out": 56753,
+  "estUSD": 1.034
+ }
+}

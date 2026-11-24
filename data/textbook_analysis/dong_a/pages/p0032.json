@@ -1,0 +1,123 @@
+{
+ "printedPage": "32",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "프로젝트 (내 정보는 내가 지켜요)"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "RSA 암호",
+   "role": "정의",
+   "definition": "매우 큰 두 소수의 곱은 쉽게 구할 수 있지만 그 곱을 소인수분해해 원래의 두 소수를 알아내기는 어렵다는 성질을 응용한 암호",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "스키테일 암호",
+   "role": "정의",
+   "definition": "원통 막대에 긴 양피지 리본을 감아 문장을 가로로 쓴 뒤 풀어 보내는 암호",
+   "notation": ""
+  },
+  {
+   "term": "카이사르 암호",
+   "role": "정의",
+   "definition": "문자를 일정한 간격으로 이동해 다른 문자로 바꾸어 쓰는 암호",
+   "notation": ""
+  },
+  {
+   "term": "에니그마",
+   "role": "정의",
+   "definition": "제2차 세계 대전 시기에 독일군이 사용한 암호 기계",
+   "notation": ""
+  },
+  {
+   "term": "크립토스 암호",
+   "role": "정의",
+   "definition": "미국 CIA 마당의 조형물 '크립토스'에 새겨진 암호문",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "매우 큰 두 소수의 곱은 구하기 쉽지만, 그 곱을 소인수분해하기는 어렵다",
+   "plain": "큰 두 소수를 곱하는 것은 쉽지만 곱에서 원래 두 소수를 찾는 것은 어렵다는 성질을 암호에 이용한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "",
+   "level": "활동",
+   "verb": "해 볼까요",
+   "summary": "소수의 성질을 이용하여 비밀번호 만들기 활동을 해 본다(구체적인 활동 내용은 이 쪽에 없음).",
+   "competencyIcons": [
+    "추론",
+    "연결",
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "스키테일 암호의 원통 막대와 리본, 카이사르 암호의 원판, 에니그마 기계, 크립토스 조형물 사진이 칠판 모양 배경에 붙은 카드로 제시됨",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "책상 앞에서 노트북으로 작업하는 학생 그림과 태블릿 사진",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "암호",
+  "정보 보호",
+  "RSA 암호",
+  "카이사르 암호",
+  "에니그마",
+  "크립토스"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽이 90도 회전되어 있음. 프로젝트 도입 쪽이라 활동 문항은 다음 쪽에 있는 것으로 보임. QR 코드가 있으며 '수학+정보 보호' 융합 표시가 있음.",
+ "_page": 32,
+ "_profile": "full",
+ "_usage": {
+  "in": 4555,
+  "out": 1113,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

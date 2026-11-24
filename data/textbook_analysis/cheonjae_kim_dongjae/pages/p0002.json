@@ -1,0 +1,42 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "표지 안쪽 인용 쪽"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "분홍 배경 위에 스탠드, 알람시계, 연필꽂이, 펼친 책, 비행기와 학생 캐릭터 두 명이 있는 책상 풍경",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "책상과 학용품",
+  "공부하는 학생"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 장식용 쪽이다. 갈릴레이의 말(\"자연이라는 위대한 책은 그것을 쓴 언어를 알고 있는 사람만이 읽을 수 있다. 그리고 그 언어는 바로 수학이다.\")이 인용되어 있다. 쪽 번호와 단원 표시는 보이지 않는다.",
+ "_page": 2,
+ "_usage": {
+  "in": 4004,
+  "out": 381,
+  "sec": 4.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,171 @@
+{
+ "printedPage": "175",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "2. 작도와 합동",
+  "area": "배우고 익히기, 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행한 직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle O$",
+   "meaning": "점 O를 꼭짓점으로 하는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "점 A를 꼭짓점으로 하는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle P$",
+   "meaning": "점 P를 꼭짓점으로 하는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle B$",
+   "meaning": "점 B를 꼭짓점으로 하는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "직선 l",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "주어진 ∠O와 크기가 같은 ∠A를 반직선 위에 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "점 A를 지나고 직선 l에 평행한 직선을 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "작도하시오",
+   "summary": "주어진 ∠P와 크기가 같은 ∠B를 반직선 위에 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "2번 작도에서 이용한 평행선의 성질을 말한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "작도해 보자",
+   "summary": "당구대에서 두 각의 크기가 같다고 할 때, 흰 공이 다음 벽에 부딪혀 빨간 공에 맞을 때까지의 경로를 작도한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "∠O와 반직선 위의 점 A가 그려진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 A와 직선 l이 그려진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "∠P와 반직선 위의 점 B가 그려진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "흰 공, 빨간 공, 큐가 놓인 직사각형 당구대와 벽에서 튕기는 경로 일부를 표시한 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "삼각형 틀 안에 모아 놓은 당구공 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "당구",
+  "당구대와 공의 경로"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 번호 옆의 A 모양 아이콘은 난이도 또는 수준 표시로 보이나 정확한 의미는 확실하지 않다. 오른쪽 열의 1+, 2+는 왼쪽 1, 2의 짝 문항으로 보인다. 상단의 '오늘 수업 시간의 내 표정을 작도하면?'은 FUN 코너로 보이며 빈 얼굴 그림이 있다.",
+ "_page": 175,
+ "_usage": {
+  "in": 4336,
+  "out": 1413,
+  "sec": 8.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,118 @@
+{
+ "printedPage": "174",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "크기가 같은 각의 작도",
+  "area": "개념 설명"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle O$",
+   "meaning": "점 O를 꼭짓점으로 하는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{MN}$",
+   "meaning": "두 점 M, N을 잇는 선분 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{ON}$, $\\overline{OM}$",
+   "meaning": "선분 ON, OM (원의 반지름)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "\\angle O \\text{와 크기가 같은 } \\angle A \\text{의 작도: 원 그리기 → 같은 반지름의 원 → } \\overline{MN} \\text{ 길이 옮기기 → 교점 C → 반직선 AC}",
+   "plain": "컴퍼스로 반지름과 선분 MN의 길이를 옮겨 크기가 같은 각을 작도한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "크기가 같은 각의 작도 순서 1~5",
+   "summary": "각 O의 변과 원의 교점 M, N을 잡고 컴퍼스로 길이를 옮겨 점 C를 찾아 반직선 AC를 그어 각 A를 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "작도해 보자",
+   "summary": "주어진 ∠O와 크기가 같은 ∠A를 제시된 5단계 순서에 따라 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "∠O와 반직선 A가 주어진 그림, 컴퍼스로 원호를 그려 점 M, N, B, C를 표시한 단계별 작도 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "손으로 컴퍼스를 잡고 있는 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'활동 영상' QR 코드가 왼쪽에 있다. 쪽 하단에 'Ⅳ. 도형의 기초'로 인쇄되어 있어 대단원 목록(작도와 합동)과 번호가 다르다. 소단원 번호와 제목은 이 쪽에 보이지 않아 내용을 보고 추정했다.",
+ "_page": 174,
+ "_usage": {
+  "in": 4304,
+  "out": 1062,
+  "sec": 7.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,231 @@
+{
+ "printedPage": "69",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "1. 문자의 사용과 식",
+  "area": "배우고 익히기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "곱셈 기호 ×의 생략",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\times"
+  },
+  {
+   "term": "나눗셈 기호 ÷의 생략",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\div"
+  },
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\times",
+   "meaning": "곱셈 기호(생략하여 식을 간단히 나타냄)",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\div",
+   "meaning": "나눗셈 기호(분수 꼴로 바꾸어 나타냄)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "(-6)÷b를 기호 ×, ÷를 생략한 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "x×2×y×x를 곱셈 기호 생략하여 나타내기(같은 문자의 거듭제곱 포함)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (3)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "(x+y)÷(-4)를 분수 꼴로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (4)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "(a+1)×(-4)를 곱셈 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (5)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "a÷5-b÷4를 분수 꼴로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (6)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "a×a×3-2÷b를 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (7)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "b×a×(-1)을 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (8)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "x÷y÷3을 분수 꼴로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (9)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "0.1×y를 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (10)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "5×x를 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (11)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "a×2+b÷7을 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (12)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "a×b×(-1)+a×b×b를 기호 생략하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (13)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "한 개에 800원인 풀 y개를 사고 5000원을 냈을 때 거스름돈을 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "1 (14)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "5점짜리 x개와 4점짜리 y개를 맞힌 총점수를 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "1 (15)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "10개에 a원인 아이스크림 한 개의 가격을 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "여러 식이 적힌 영역으로 나뉜 그림판으로, 알맞은 식이 있는 영역에 번호에 해당하는 색(노랑·파랑·초록)을 칠해 숨은 그림을 완성한다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "숨은 그림을 찾아볼까 하고 말하는 학생 캐릭터와 풍경 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "풀 구입과 거스름돈",
+  "시험 문제 점수",
+  "아이스크림 가격",
+  "숨은 그림 색칠"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "(1)~(15)는 번호별로 노랑(1~6), 파랑(7~12), 초록(13~15) 색 표시로 보이나 색 구분은 이미지로 추정함. 그림판 속 답에 해당하는 식들(-ab+ab², 2x²y, 5x, 0.1y 등)이 보이나 정답 자체는 제시된 것이 아님. 이 쪽은 곱셈·나눗셈 기호 생략 규칙을 연습하는 활동이며 새 용어 정의는 없음.",
+ "_page": 69,
+ "_usage": {
+  "in": 4533,
+  "out": 2107,
+  "sec": 13.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

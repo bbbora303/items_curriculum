@@ -1,0 +1,129 @@
+{
+  "id": "m1_9s03-04_judge_claim_v1",
+  "description": "끼인각이 표시된 두 삼각형의 SAS 합동 판별(1-2)과, 끼인각이 아닌 각이 주어진 SSA 주장의 반례 판단(1-3)에 쓸 수치 후보",
+  "variables": {
+    "p": {
+      "range": [
+        4,
+        12
+      ],
+      "unit": "cm",
+      "meaning": "1-2 삼각형 ABC와 DEF에서 변 AB, DE의 길이"
+    },
+    "q": {
+      "range": [
+        4,
+        12
+      ],
+      "unit": "cm",
+      "meaning": "1-2 삼각형 ABC와 DEF에서 변 BC, EF의 길이"
+    },
+    "beta": {
+      "values": [
+        40,
+        50,
+        60,
+        70,
+        100,
+        110
+      ],
+      "unit": "도",
+      "meaning": "1-2에서 각 B, 각 E의 크기(두 변의 끼인각)"
+    },
+    "m": {
+      "values": [
+        6,
+        8,
+        10,
+        12
+      ],
+      "unit": "cm",
+      "meaning": "1-3 현우가 비교한 삼각형에서 각의 한 변이 되는 변의 길이(AB, DE)"
+    },
+    "n": {
+      "range": [
+        4,
+        11
+      ],
+      "unit": "cm",
+      "meaning": "1-3 현우가 비교한 삼각형에서 각의 대변의 길이(BC, EF)"
+    },
+    "gamma": {
+      "values": [
+        30
+      ],
+      "unit": "도",
+      "meaning": "1-3 각 A, 각 D의 크기(두 변의 끼인각이 아님)"
+    }
+  },
+  "derived": {
+    "sas_side1": "p",
+    "sas_side2": "q",
+    "sas_angle": "beta",
+    "other_two_angles_sum": "180 - beta",
+    "claim_side1": "m",
+    "claim_side2": "n",
+    "claim_angle": "gamma",
+    "n_lower_bound": "m / 2",
+    "n_upper_bound": "m",
+    "side_gap": "abs(p - q)"
+  },
+  "constraints": [
+    "p != q",
+    "beta != 90",
+    "m % 2 == 0",
+    "gamma == 30",
+    "2 * n > m",
+    "n < m",
+    "not (p == m and q == n)",
+    "p != m"
+  ],
+  "difficulty": {
+    "easy": "m in (6, 8) and abs(p - q) >= 3 and beta in (50, 60)",
+    "medium": "m in (8, 10) and beta in (40, 70, 100)",
+    "hard": "m in (10, 12) and n >= m - 2 and beta in (100, 110)"
+  },
+  "standards": [
+    "9수03-04"
+  ],
+  "taskPatterns": [
+    "judge_claim"
+  ],
+  "status": "draft",
+  "plainSummary": "1-2에서는 두 삼각형에서 두 변의 길이 p, q(cm)와 그 사이 끼인각 beta(도)가 각각 같게 표시되므로 SAS 합동이 됩니다. p와 q를 서로 다르게 하여, 학생이 어느 변끼리 짝인지 구분해야 하도록 했습니다. beta는 90°를 뺀 40°~110° 중에서 고릅니다. 1-3에서는 현우가 다른 삼각형 쌍에서 '두 변 m, n과 끼인각이 아닌 각 30°가 같다'고 주장합니다. 이때 n이 m의 절반보다 크고 m보다 작게 하여 조건이 같아도 모양이 다른 삼각형이 두 가지 가능하게 했습니다. m은 짝수로 하여 절반이 정수가 되게 했습니다. 난이도는 m이 작고 p와 q의 차가 클수록 쉽고, m이 크고 n이 m에 가까우며 beta가 둔각일수록 어렵습니다. 어려울수록 두 삼각형의 모양이 비슷해 보여 반례를 떠올리기 어렵습니다.",
+  "candidateCount": 5376,
+  "samples": [
+    {
+      "p": 4,
+      "q": 5,
+      "beta": 40,
+      "m": 6,
+      "n": 4,
+      "gamma": 30
+    },
+    {
+      "p": 4,
+      "q": 5,
+      "beta": 40,
+      "m": 6,
+      "n": 5,
+      "gamma": 30
+    },
+    {
+      "p": 4,
+      "q": 5,
+      "beta": 40,
+      "m": 8,
+      "n": 5,
+      "gamma": 30
+    },
+    {
+      "p": 4,
+      "q": 5,
+      "beta": 40,
+      "m": 8,
+      "n": 6,
+      "gamma": 30
+    }
+  ]
+}

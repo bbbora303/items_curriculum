@@ -1,0 +1,157 @@
+{
+ "printedPage": "150",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.3 위치 관계",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "위치 관계",
+   "role": "정의",
+   "definition": "점, 직선, 평면이 서로 놓여 있는 상태를 말하며, 이 쪽에서는 점과 직선의 위치 관계를 다룬다.",
+   "notation": ""
+  },
+  {
+   "term": "점이 직선 위에 있다",
+   "role": "정의",
+   "definition": "직선이 그 점을 지난다는 뜻이다.",
+   "notation": ""
+  },
+  {
+   "term": "점이 직선 위에 있지 않다",
+   "role": "정의",
+   "definition": "직선이 그 점을 지나지 않는다는 뜻이다.",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l$",
+   "meaning": "직선 l",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\text{A}, \\text{B}, \\text{C}$",
+   "meaning": "점의 이름",
+   "role": "사용"
+  },
+  {
+   "symbol": "$/\\!/$",
+   "meaning": "평행(학습 요소에만 표시됨)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "점과 직선의 위치 관계: 1 점이 직선 위에 있다. 2 점이 직선 위에 있지 않다.",
+   "plain": "점과 직선의 위치 관계는 '직선 위에 있다'와 '직선 위에 있지 않다'의 두 가지이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "점이 직선 위에 있다 ⇔ 직선이 그 점을 지난다",
+   "plain": "점이 직선 위에 있다는 것은 직선이 그 점을 지난다는 뜻이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "점이 직선 위에 있지 않다 ⇔ 직선이 그 점을 지나지 않는다",
+   "plain": "점이 직선 위에 있지 않다는 것은 직선이 그 점을 지나지 않는다는 뜻이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각해요의 테니스 코트",
+   "summary": "공이 떨어진 위치를 점으로 나타내면 점 C는 직선 l 위에 있고 점 A, B는 직선 l 위에 있지 않다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "공이 떨어진 위치 A, B, C 중 직선 l 위에 있는 것과 없는 것을 각각 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "테니스 코트와 선수들 그림. 오른쪽에 점 A, B, C와 직선 l이 표시되어 있다.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점 A가 직선 l 위에 있는 그림과 점 A가 직선 l 밖에 있는 그림.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "테니스 경기",
+  "공이 떨어진 위치"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "점, 직선, 평면의 위치 관계",
+   "꼬인 위치",
+   "평행"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입과 첫 개념 설명이 함께 있는 쪽이다. 학습 목표는 '실생활 상황과 연결하여 점, 직선, 평면의 위치 관계를 설명할 수 있다'이고, 학습 요소는 '꼬인 위치, 평행'이다. '꼬인 위치'와 평행 기호는 학습 요소로 제시되어 있어 이후 쪽에서 정의될 것으로 보고 role을 사용으로 적었다. 수학·체육 융합 표시가 있다.",
+ "_page": 150,
+ "_profile": "full",
+ "_usage": {
+  "in": 4413,
+  "out": 1483,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

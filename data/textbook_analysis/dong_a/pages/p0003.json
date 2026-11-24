@@ -1,0 +1,41 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "머리말"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "'머리말' 제목 옆의 말풍선 모양 장식과 배경의 곡선 무늬",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "머리말 쪽이라 수학 개념, 문제, 예제가 없다. 쪽 번호는 인쇄되어 있지 않다. 내용은 책의 특성(실생활 연결, 그림으로 표현, 문제와 활동 제공, 수학 놀이터와 나의 미래 코너)과 학습자에게 바라는 점을 안내하는 글이다. 분류 목록에 맞는 유형이 없어 pageType을 '기타'로 했다.",
+ "_page": 3,
+ "_profile": "full",
+ "_usage": {
+  "in": 4660,
+  "out": 356,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

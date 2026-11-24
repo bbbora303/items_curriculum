@@ -1,0 +1,187 @@
+{
+ "printedPage": "20",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "3^4"
+  },
+  {
+   "term": "밑",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제곱인 수(자연수의 제곱)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "3^4",
+   "meaning": "3을 4번 곱한 거듭제곱",
+   "role": "사용"
+  },
+  {
+   "symbol": "2^4\\times 7",
+   "meaning": "소인수분해된 꼴의 수",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "표를 하시오",
+   "summary": "3^4에 대한 설명 4가지(세제곱 읽기, 밑, 지수, 27과 같은 수)가 옳은지 ○, ×로 판단",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "소인수분해 하시오",
+   "summary": "28, 65, 82, 120을 소인수분해",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "90의 모든 소인수의 합",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용해 44와 2^4×7의 약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "12×□, 63×□가 자연수의 제곱이 되도록 하는 □ 안의 가장 작은 자연수",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6-(1)",
+   "level": "심화(+표시)",
+   "verb": "해결하시오",
+   "summary": "조건 '?는 60의 소인수', '32는 ?의 배수'를 만족하는 수 ? 구하기",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6-(2)",
+   "level": "활동",
+   "verb": "해결하시오",
+   "summary": "㉠, ㉡을 바꾸어 문제를 만들고 친구가 만든 문제를 해결",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "'내가 만든 문제'를 쓰는 빈 칸 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "우수/보통/분발 자기 점검 표정 아이콘과 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 쪽에 표시되지 않음(1.2를 잘 익혔다면 부록 붙임딱지를 붙이라는 안내가 있음). 문제 1에 '해당하는 곳에 색칠해요' 자기 점검 표시가 있고 각 문항마다 표정 아이콘이 있음. 6번은 '도전' 표시가 있어 심화로 분류함.",
+ "_page": 20,
+ "_profile": "full",
+ "_usage": {
+  "in": 4543,
+  "out": 1354,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

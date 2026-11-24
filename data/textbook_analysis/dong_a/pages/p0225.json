@@ -1,0 +1,180 @@
+{
+ "printedPage": "225",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.4 기둥과 뿔의 부피",
+  "area": "개념 설명 / 예제 / 문제"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "기둥의 부피",
+   "role": "정의",
+   "definition": "기둥의 부피는 (밑넓이)×(높이)로 구한다.",
+   "notation": "(기둥의 부피)=(밑넓이)\\times(높이)"
+  },
+  {
+   "term": "원기둥의 부피",
+   "role": "정의",
+   "definition": "원기둥의 부피도 각기둥과 같이 (밑넓이)×(높이)로 구한다.",
+   "notation": "(원기둥의 부피)=(밑넓이)\\times(높이)"
+  },
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율(원기둥 밑넓이 계산에 사용)",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\text{cm}^3",
+   "meaning": "부피의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "원기둥 안에 꼭 맞는 정다각기둥의 변의 개수를 한없이 늘리면 원기둥에 가까워진다",
+   "plain": "각기둥의 부피 구하는 방법을 원기둥에도 쓸 수 있는 이유를 설명한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(\\text{원기둥의 부피})=(\\text{밑넓이})\\times(\\text{높이})",
+   "plain": "원기둥의 부피는 밑넓이에 높이를 곱한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(\\text{기둥의 부피})=(\\text{밑넓이})\\times(\\text{높이})",
+   "plain": "각기둥과 원기둥 모두 부피는 밑넓이에 높이를 곱한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "원기둥을 잘라 엇갈리게 맞붙이면 직육면체 모양이 된다(밑면은 반지름×원주의 1/2)",
+   "plain": "원기둥을 잘라 엇갈리게 붙여도 부피를 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1 (1)",
+   "summary": "밑면이 직각삼각형(3 cm, 4 cm)이고 높이가 5 cm인 삼각기둥의 부피: (1/2×3×4)×5=30 cm³",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "예제 1 (2)",
+   "summary": "밑면 반지름 3 cm, 높이 7 cm인 원기둥의 부피: (π×3²)×7=63π cm³",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사다리꼴 밑면(윗변 4 cm, 아랫변 7 cm, 높이 4 cm), 기둥 높이 5 cm인 사각기둥의 부피 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지름 8 cm, 높이 4 cm인 원기둥의 부피 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "원기둥을 부채꼴 조각으로 잘라 엇갈리게 맞붙여 직육면체 모양으로 만드는 과정(반지름, 높이, 원주의 1/2 표시)",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원기둥 안에 꼭 맞는 정다각기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "예제 1의 삼각기둥과 원기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1의 사다리꼴 기둥과 원기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 1 (1)의 사다리꼴 밑면 치수(윗변 4, 아랫변 7, 높이 4)는 그림상 표기를 읽은 것이라 일부 불확실하다. (2)의 8 cm는 지름으로 보이며 반지름이 아님에 유의해야 한다.",
+ "_page": 225,
+ "_profile": "full",
+ "_usage": {
+  "in": 4451,
+  "out": 1708,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

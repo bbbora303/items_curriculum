@@ -1,0 +1,72 @@
+{
+  "id": "m1_9s03-05_compare_methods_apply_v1",
+  "description": "다각형의 내각·외각의 크기의 합과 대각선의 개수를 구하고, 두 학생의 방법을 비교한 뒤 더 큰 다각형에 적용하는 세트용 수치 후보",
+  "variables": {
+    "n": {
+      "range": [
+        5,
+        9
+      ],
+      "unit": "각형",
+      "meaning": "1-1, 1-2에서 다루는 다각형의 변의 수"
+    },
+    "p": {
+      "range": [
+        6,
+        9
+      ],
+      "unit": "각형",
+      "meaning": "1-3에서 두 학생의 방법을 비교하는 다각형의 변의 수"
+    },
+    "m": {
+      "range": [
+        8,
+        12
+      ],
+      "unit": "각형",
+      "meaning": "1-3에서 식을 적용하는 다각형의 변의 수"
+    }
+  },
+  "derived": {
+    "tri": "n - 2",
+    "interior": "180 * (n - 2)",
+    "exterior": "360",
+    "ext_check": "180 * n - interior",
+    "tri_point": "n",
+    "interior_point": "180 * n - 360",
+    "diag_vertex_p": "p - 3",
+    "diag_p": "p * (p - 3) / 2",
+    "methodB_p": "(p - 3) + (p - 3) * (p - 2) / 2",
+    "wrong_p": "p * (p - 3)",
+    "diag_vertex_m": "m - 3",
+    "diag_m": "m * (m - 3) / 2"
+  },
+  "constraints": [
+    "n != p",
+    "m > p",
+    "m > n",
+    "is_int(diag_p)",
+    "is_int(diag_m)",
+    "interior == interior_point",
+    "ext_check == exterior",
+    "methodB_p == diag_p",
+    "wrong_p != diag_p",
+    "diag_m != diag_p",
+    "diag_m <= 60"
+  ],
+  "difficulty": {
+    "easy": "n <= 6 and p <= 7 and m <= 9",
+    "medium": "n in (6, 7, 8) and p in (7, 8) and m in (9, 10, 11)",
+    "hard": "n >= 8 and p >= 8 and m >= 10"
+  },
+  "standards": [
+    "9수03-05"
+  ],
+  "taskPatterns": [
+    "compare_methods_apply"
+  ],
+  "status": "confirmed",
+  "plainSummary": "바꾸는 숫자는 세 가지입니다. 1-1과 1-2에서 쓰는 다각형의 변의 수(n), 1-3에서 두 학생의 방법을 비교할 다각형의 변의 수(p), 1-3에서 마지막으로 적용할 다각형의 변의 수(m)입니다. n과 p는 서로 다른 다각형이고 m은 p보다 큽니다. 그래서 세 문항이 같은 값을 반복하지 않고, 적용 문제의 답이 비교 문제의 답과 달라집니다. 내각의 크기의 합 180°×(n-2), 외각의 크기의 합 360°, 대각선의 개수 n(n-3)/2은 모두 정수로 떨어집니다. 꼭짓점에서 나누는 방법과 다각형 안의 한 점에서 나누는 방법으로 구한 내각의 합이 같고, 대각선을 구하는 두 가지 세는 방법의 결과도 같습니다. 학생의 잘못된 식은 2로 나누는 것을 빠뜨린 형태로 정했으며, 올바른 값과 항상 달라집니다. 쉬운 수준은 5~6각형과 8~9각형 정도의 작은 다각형을 쓰고, 보통 수준은 6~8각형과 9~11각형을 씁니다. 어려운 수준은 8각형 이상의 다각형과 10각형 이상의 적용 대상을 써서 대각선의 개수가 커지고 계산 단계도 많아집니다.",
+  "approvedBy": "test(auto)",
+  "approvedAt": "2026-10-20T14:22:19"
+}

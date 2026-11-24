@@ -1,0 +1,193 @@
+{
+ "printedPage": "23",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "기약분수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제곱인 수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "2^2\\times 3\\times 7",
+   "meaning": "거듭제곱을 사용한 소인수분해 표현",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "보기 ㉠~㉣(57은 소수, 30 이하 소수 9개, 20 이하 자연수 중 6과 서로소인 수 7개, 서로소는 공통 소인수 없음) 중 옳은 것을 모두 고른다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용해 (1) $2^2\\times3\\times7$, $2\\times3^2\\times7^2$ (2) 60, 90, 108의 최대공약수와 최소공배수를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최소공배수가 18인 두 자연수의 공배수 중 100보다 작은 자연수의 개수를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "400의 약수 중 자연수의 제곱이 되는 수의 개수를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "9",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "두 분수 $\\frac{33}{4}$, $\\frac{11}{18}$ 어느 것에 곱해도 자연수가 되는 가장 작은 기약분수를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "216과 $100\\times\\square$의 최소공배수가 $2^3\\times3^3\\times5^2$일 때 □에 들어갈 수 있는 모든 자연수의 합을 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10 문제 만들기",
+   "level": "활동",
+   "verb": "만들고 풀어 보자",
+   "summary": "밑줄 친 수를 바꾸어 문제를 만들고 친구와 바꾸어 푼다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "Math Road: 문항 1~10을 가로등으로 나타내고 각 문항 아래에 복습할 교과서 쪽(13~19쪽)을 표시한 자기점검 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Road 복습 쪽 안내",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  }
+ ],
+ "notes": "발전 표시는 8~10번 문항 쪽에 있음. Math Road 복습 쪽: 1=13쪽2, 2=15쪽2, 3=15쪽3, 4=17쪽1, 5=13쪽1·17쪽2, 6=17쪽1·19쪽1, 7=19쪽1, 8=15쪽3, 9=17쪽1·19쪽1, 10=19쪽2. 소단원 번호는 이 쪽에 보이지 않음. 문항 5~7은 기본, 8~10은 발전 표시로 구분함.",
+ "_page": 23,
+ "_usage": {
+  "in": 4617,
+  "out": 1618,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

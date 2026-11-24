@@ -1,0 +1,171 @@
+{
+ "printedPage": "262",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수의 분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수의 분포를 나타낸 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1(1)",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "학생 40명의 100 m 달리기 기록 도수분포표(도수 2, 4, 12, 18, 4)에서 상대도수의 분포표를 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "기록이 14초 미만인 학생이 전체의 몇 %인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "산들 마을과 바람 마을의 전력량 상대도수 분포표에서 빈칸 A, B, C, D의 값을 각각 구한다(총 가구 수 240, 300).",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "전력량 400 kWh 이상인 가구의 비율이 어느 마을에서 더 낮은지 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "A반과 B반의 멀리 던지기 기록 상대도수 그래프에서 40 m 이상인 학생의 비율이 어느 반에서 더 높은지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4(1)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "B 중학교에서 키 170 cm 이상 175 cm 미만인 선수가 11명일 때, 175 cm 이상 180 cm 미만인 선수 수를 구한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4(2)",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "두 중학교 중 어느 학교 축구부 선수들의 키가 상대적으로 더 크다고 할 수 있는지 말한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "100 m 달리기 기록의 계급, 학생 수, 상대도수(빈칸) 분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "산들 마을과 바람 마을의 전력량별 도수·상대도수 분포표(일부 빈칸 A~D)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A반, B반 멀리 던지기 기록의 상대도수 분포 그래프(도수분포다각형 모양, 두 개)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A 중학교, B 중학교 축구부 선수 키의 상대도수 분포 그래프(일부 찢어져 보이지 않음)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "100 m 달리기 기록",
+  "마을별 한 달 전력 사용량",
+  "멀리 던지기 기록",
+  "축구부 선수들의 키"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "'해결해요' 문제 쪽으로 소단원 번호는 쪽에 없으나 오른쪽 위에 '8.5를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요'라는 안내가 있어 8.5(상대도수) 관련 쪽으로 보임. 각 문제 옆에 우수/보통/분발 자기 점검 표정 아이콘이 있음. 문제 2는 '문제해결', 문제 4는 '도전'·'추론' 표시가 있음. 그래프 속 점의 정확한 값은 읽지 않았음.",
+ "_page": 262,
+ "_profile": "full",
+ "_usage": {
+  "in": 5058,
+  "out": 1620,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

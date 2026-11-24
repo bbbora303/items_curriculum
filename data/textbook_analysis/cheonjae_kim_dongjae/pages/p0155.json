@@ -1,0 +1,146 @@
+{
+ "printedPage": "155",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle AOB$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "점 O를 꼭짓점으로 하는 각 AOB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle COE$",
+   "meaning": "점 O를 꼭짓점으로 하는 각 COE",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 직선이 만날 때 맞꼭지각을 이용해 ∠x, ∠y의 크기를 구한다. (1) 70°, (2) 50°와 25°가 주어짐",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "쓰시오",
+   "summary": "은서의 물음(마주 보는 각이면 맞꼭지각인가?)을 보고 자신의 생각을 쓴다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "그림에서 ∠AOB, ∠COE의 맞꼭지각을 기호로 나타낸다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "∠AOB와 ∠COD가 맞꼭지각인지 판단하고 그 까닭을 설명한다(50°, 50°, 150° 주어짐)",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "가위처럼 옷걸이와 풍차에서 맞꼭지각을 찾아 나타내고, 생활 속 다른 예를 말한다",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "두 직선이 만나 생기는 각의 크기가 표시된 그림 (1), (2)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "세 직선이 점 O에서 만나고 점 A~F가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "은서가 말풍선으로 묻는 장면과 ∠a, ∠b가 있는 두 직선 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각의 크기 50°, 150°, 50°가 표시된 두 직선 교차 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "가위, 옷걸이, 풍차 사진 (가위에는 맞꼭지각이 표시됨)",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "가위",
+  "옷걸이",
+  "풍차",
+  "은서의 질문 장면"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 1+, 2+는 이미지의 '1⁺', '2⁺' 표시를 심화로 해석함. 맞꼭지각이 이 쪽에서 새로 정의되지는 않고 앞 쪽에서 배운 것으로 전제하고 사용함.",
+ "_page": 155,
+ "_usage": {
+  "in": 4376,
+  "out": 1328,
+  "sec": 10.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

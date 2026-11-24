@@ -1,0 +1,154 @@
+{
+ "printedPage": "248",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "배우고 익히기 / 생각 넓히기(정보처리)"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "잎",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분포 상태",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "통그라미(공학 도구)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "두 집단의 자료를 줄기와 잎 그림으로 나타낼 때 하나의 줄기 좌우로 두 개의 잎을 만든다.",
+   "plain": "줄기 하나를 가운데 두고 좌우에 잎을 적으면 두 집단의 분포를 쉽게 비교할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지하철 열차 시각표 줄기와 잎 그림에서 평일 오전에 열차가 가장 많이 운행되는 시간대를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "평일보다 토, 일, 공휴일 오전에 열차가 더 많이 운행되는 시간대를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기 (1)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "통그라미로 부록 4의 자료 2를 줄기와 잎 그림으로 나타낸다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 넓히기 (2)",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "(1)의 그림에서 적설량이 가장 많을 때 눈이 몇 cm 쌓였는지 구한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "지하철 오전 열차 시각표를 나타낸 양쪽형 줄기와 잎 그림(평일 / 토·일·공휴일)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "지하철 열차 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "통그라미 프로그램에서 변수를 선택하는 화면",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "통그라미로 만든 적설량 줄기와 잎 그림 결과 화면",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "통그라미 연결용 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "지하철 열차 시각표",
+  "평일과 주말 열차 운행",
+  "적설량"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 표시는 쪽 아래의 '8. 자료의 정리와 해석'에서 확인했고 소단원 번호와 제목은 보이지 않는다. 문제 2의 열차 시각표는 줄기 7~11이고 (7|06은 7시 6분). 통그라미 화면의 글자는 매우 작아 일부만 읽었다.",
+ "_page": 248,
+ "_profile": "full",
+ "_usage": {
+  "in": 5049,
+  "out": 1274,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

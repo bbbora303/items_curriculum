@@ -1,0 +1,123 @@
+{
+ "printedPage": "268",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "통계적 문제 해결 과정 - 4 결과 해석"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "결과 해석",
+   "role": "정의",
+   "definition": "정리한 자료를 문제와 연결하여 해석하고, 문제의 해결 방법을 찾는 단계",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분포의 특징",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "문제 설정 → 자료 수집 → 자료 분석 → 결과 해석",
+   "plain": "통계적 문제 해결은 문제 설정, 자료 수집, 자료 분석, 결과 해석의 순서로 진행한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "정리한 자료를 문제와 연결하여 해석하고 해결 방법을 찾는다.",
+   "plain": "결과 해석 단계에서는 분석한 자료를 문제와 관련지어 해석하고, 필요하면 추가로 조사한다.",
+   "_raw": "방법",
+   "statementType": "활동 안내"
+  }
+ ],
+ "examples": [
+  {
+   "title": "남산과 경복궁을 선택한 외국인들의 나이",
+   "summary": "두 장소를 선택한 외국인의 나이 분포를 꺾은선 그래프로 비교해 10대는 경복궁을 더 좋아한다고 해석한다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "경복궁에 가면 무엇을 할 수 있을까요?",
+   "summary": "한복 입고 사진 찍기, 수문장 교대 의식 보기, 해설사와 전각 둘러보기 등 추가로 조사할 내용을 제시한다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "4",
+   "level": "활동",
+   "verb": "토론해 보자",
+   "summary": "표나 그래프로 정리한 자료를 문제와 연결하여 해석하고, 문제의 해결 방법 및 대안에 대해 토론한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "남산과 경복궁을 선택한 외국인의 나이(10~60세)별 인원수를 나타낸 두 개의 꺾은선 그래프(도수분포다각형 형태)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "외국인 친구와 경복궁에 가자고 말하는 두 학생 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "경복궁에서 할 수 있는 활동(한복 체험, 수문장 교대식, 해설)을 보여 주는 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "'분포의 특징 해석하기', '문제의 해결 방법 및 대안 찾기'를 쓰는 빈 활동 칸",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "경복궁",
+  "남산",
+  "외국인 관광객의 나이",
+  "한복 체험",
+  "진로"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아니라 통계적 문제 해결 과정 4단계(결과 해석)를 다루는 활동 쪽이다. 소단원 번호·제목은 보이지 않는다. 그래프의 정확한 값은 읽기 어려워 적지 않았다. 역량 아이콘은 보이지 않는다.",
+ "_page": 268,
+ "_profile": "full",
+ "_usage": {
+  "in": 4407,
+  "out": 1244,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,136 @@
+{
+ "printedPage": "3",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "부록 2 수도 말판"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [
+  {
+   "symbol": "$+,\\ -,\\ \\times,\\ \\div$",
+   "meaning": "○ 안에 알맞은 사칙연산 기호를 넣어 식을 100으로 만드는 데 사용",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "옆의 두 수의 합 예시(㉥ 설명)",
+   "summary": "이웃한 두 수 -1과 4의 합이 위 칸에 들어가는 모양으로, 4+(-5)=-1을 보여 준다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "㉠",
+   "level": "활동",
+   "verb": "계산하시오",
+   "summary": "정수·유리수의 덧셈과 뺄셈 식 계산 (예: -4+6, 11+(-15), -4/3+1/2, -3/4+3/5, 2.5+1.2-4, -5-9+7-1, -6-11+9)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "㉡",
+   "level": "활동",
+   "verb": "계산하시오",
+   "summary": "분수의 덧셈·뺄셈과 소수 혼합 계산, 정수의 덧뺄셈 (예: 7/6+1/2-2/3, 2.5+1.2-4, -5-9+7-1, -6-11+9)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "㉢",
+   "level": "활동",
+   "verb": "계산하시오",
+   "summary": "거듭제곱, 분수·소수의 곱셈 (예: -3^3, (-2/5)×(-15/2), (-2)×(-5)^2, 4×(-6.5))",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "㉣",
+   "level": "활동",
+   "verb": "계산하시오",
+   "summary": "나눗셈과 곱셈 혼합 계산 (예: 9/2÷(-3/4), 4×(-5)÷(-2), (-7/5)÷(-14/15)÷(-1/2), (-3)^2÷6)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "㉤",
+   "level": "활동",
+   "verb": "계산하시오",
+   "summary": "괄호와 거듭제곱이 섞인 사칙연산 혼합 계산 (하노이, 오슬로, 브라질리아, 아부자)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "㉥",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "옆으로 이웃하는 두 수의 합을 바로 위 빈칸에 쓰는 피라미드 규칙에서 a의 값을 구한다 (리야드, 아바나, 마드리드, 빈트후크).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "㉦",
+   "level": "활동",
+   "verb": "써넣으시오",
+   "summary": "식 안의 ○에 +, -, ×, ÷ 중 알맞은 것을 넣어 결과가 100이 되게 한다 (리마, 아부다비, 헬싱키, 나이로비).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "세계 여러 나라 수도를 따라 이동하는 수도 말판 게임판이며 각 칸에 문제와 점수가 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "㉥ 문제의 수 피라미드(이웃한 두 수의 합이 위 칸에 들어감).",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "세계 여러 나라의 수도 여행 보드게임",
+  "주사위 던지기",
+  "비행기·여행"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "부록 2 '수도 말판'(70쪽 연계) 놀이 쪽이다. 새 개념 정의는 없고 정수와 유리수의 사칙계산 복습 활동이다. 칸마다 점수(1~7점)가 있고 '무인도', '앞으로/뒤로', '세계 여행' 특수 칸 규칙이 있다. 각 도시 칸의 식은 ㉠~㉦ 유형별로 한 개씩 나타나며, 이미지가 작아 일부 수식은 글자층에 의존했다.",
+ "_page": 314,
+ "_profile": "full",
+ "_usage": {
+  "in": 4158,
+  "out": 1616,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

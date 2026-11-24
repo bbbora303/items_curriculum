@@ -1,0 +1,195 @@
+{
+ "printedPage": "145",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.1 점, 선, 면",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overleftrightarrow{AB}$"
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overrightarrow{AB}$"
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$",
+   "meaning": "반직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사각뿔의 교점의 개수 a와 교선의 개수 b에 대해 a+b의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "한 직선 위의 네 점 A, B, C, D에서 보기 중 같은 도형(직선·반직선·선분)끼리 짝지어진 것을 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반원 위의 다섯 점 중 두 점을 지나는 서로 다른 직선의 개수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정삼각형 ABC에서 변 BC의 중점 M, BM=3 cm일 때 둘레의 길이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "AB=16 cm, M은 AB의 중점, N은 MB의 중점일 때 (1) MN (2) AN의 길이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "답하시오",
+   "summary": "AB 위의 점 C가 BC=1/2 AC, M은 AC의 중점, MB=20 cm일 때 (1) 점 C, M을 나타내고 (2) AB의 길이를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "사각뿔 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "한 직선 위의 네 점 A, B, C, D",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반원 위의 다섯 점 A, B, C, D, E",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정삼각형 ABC와 변 BC의 중점 M",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB 위에 중점 M, N 표시(16 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점 C, M을 나타낼 빈 선분 AB",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "5.1을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내와 QR코드(문제 더 풀기)가 있음. 각 문제 옆에 우수/보통/분발 자기 점검 표정 아이콘이 있음. 6번은 '도전' 문제로 문제해결 역량 표시.",
+ "_page": 145,
+ "_profile": "full",
+ "_usage": {
+  "in": 4671,
+  "out": 1551,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

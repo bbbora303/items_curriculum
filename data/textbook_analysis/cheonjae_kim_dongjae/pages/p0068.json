@@ -1,0 +1,162 @@
+{
+ "printedPage": "68",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "문자를 사용한 식을 어떻게 간단히 나타낼까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "곱셈 기호의 생략",
+   "role": "정의",
+   "definition": "문자를 사용한 식에서 곱셈 기호 ×를 생략하여 간단히 나타내는 것",
+   "notation": "5\\times a=5a"
+  },
+  {
+   "term": "나눗셈 기호의 생략",
+   "role": "정의",
+   "definition": "문자를 사용한 식에서 나눗셈 기호 ÷를 생략하고 분수의 꼴로 나타내는 것",
+   "notation": "a\\div b=\\frac{a}{b}"
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "a^3"
+  },
+  {
+   "term": "역수(분수 곱으로 바꾸기)",
+   "role": "사용",
+   "definition": "",
+   "notation": "a\\times\\frac{1}{b}"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\neq",
+   "meaning": "'같지 않다' 즉 '~는 0이 아니다'를 나타내는 기호 (b≠0)",
+   "role": "정의"
+  },
+  {
+   "symbol": "\\times",
+   "meaning": "곱셈 기호(생략 가능)",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\div",
+   "meaning": "나눗셈 기호(생략 가능)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "5\\times a=5a,\\ a\\times 3=3a,\\ x\\times(-4)=-4x",
+   "plain": "수와 문자의 곱에서는 곱셈 기호를 생략하고 수를 문자 앞에 쓴다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "x\\times y=xy,\\ b\\times a\\times c=abc",
+   "plain": "문자와 문자의 곱에서는 곱셈 기호를 생략하고 보통 알파벳순으로 쓴다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "a\\times a\\times a=a^3,\\ x\\times x\\times y\\times y\\times y=x^2y^3",
+   "plain": "같은 문자의 곱은 거듭제곱으로 나타낸다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "(a+6)\\times 2=2(a+6)",
+   "plain": "괄호가 있는 식과 수의 곱에서는 곱셈 기호를 생략하고 수를 괄호 앞에 쓴다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "a\\div b=a\\times\\frac{1}{b}=\\frac{a}{b}\\ (b\\neq 0)",
+   "plain": "나눗셈 기호를 생략하고 분수의 꼴로 나타낸다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "1\\times a=a,\\ (-1)\\times a=-a,\\ 0.1\\times a=0.1a",
+   "plain": "1 또는 -1과 문자의 곱에서는 1을 생략하며, 0.1a는 0.a로 쓰지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "참고: a÷7, (a+b)÷2의 표현",
+   "summary": "a÷7은 a/7 또는 (1/7)a, (a+b)÷2는 (a+b)/2 또는 (1/2)(a+b)로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "채워 넣기 1 (곱셈)①",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "y×4×x=□xy 에서 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 1 (곱셈)②",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "a×(-5)+3×b=□+3b 에서 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기 2 (나눗셈)",
+   "level": "기본",
+   "verb": "채우시오",
+   "summary": "x÷6+y÷7을 분수 곱 형태로 바꾸어 x/6+□ 의 빈칸 채우기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "곱셈 기호 ×를 나타낸 파란 아이콘",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "나눗셈 기호 ÷를 나타낸 파란 아이콘",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "곱셈·나눗셈 기호 생략 규칙을 새로 도입하는 쪽이다. 거듭제곱과 분수의 곱셈은 앞서 배운 내용으로 사용한다. 채워 넣기의 정답은 보이지 않는다.",
+ "_page": 68,
+ "_usage": {
+  "in": 4781,
+  "out": 1734,
+  "sec": 10.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

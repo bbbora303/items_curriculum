@@ -1,0 +1,162 @@
+{
+ "printedPage": "135",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "반비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{a}{x}"
+  },
+  {
+   "term": "제2사분면, 제4사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax\\ (a\\neq0)",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{a}{x}\\ (a\\neq0)",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "(-4,3)",
+   "meaning": "그래프 위의 점의 좌표(순서쌍)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "좌표평면 위 네 그래프 (1)~(4)에 알맞은 식을 보기 ㉠~㉣(y=2x, y=1/2x, y=2/x, y=-2/x)에서 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "반비례 관계 y=-12/x의 그래프에 대한 설명 중 옳은 것을 보기 ㉠~㉤에서 모두 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "정비례 y=ax의 그래프와 반비례 y=b/x의 그래프가 점 P에서 만날 때 그래프의 눈금 정보로 a, b의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "y=a/x의 그래프가 점 (-4,3)을 지날 때, x좌표와 y좌표가 모두 정수인 점의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 만들기",
+   "level": "활동",
+   "verb": "풀어 보자",
+   "summary": "문제 7의 밑줄 친 순서쌍을 바꾸어 새 문제를 만들고 친구와 바꾸어 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 4: 원점을 지나는 직선 두 개와 쌍곡선 모양의 곡선 두 개 (1)~(4)가 그려진 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 6: y=ax 직선과 y=b/x 곡선이 점 P에서 만나고 x=1, 8, y=-2 눈금이 표시된 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Heart 자기점검용 스마트폰·하트 그림 7개",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Heart",
+   "problemNos": [
+    "1: 121쪽 1",
+    "2: 125쪽 5",
+    "3: 124쪽 3, 130쪽 1",
+    "4: 124쪽 3, 130쪽 1",
+    "5: 130쪽 1",
+    "6: 125쪽 5, 131쪽 3",
+    "7: 131쪽 3"
+   ]
+  }
+ ],
+ "notes": "중단원 마무리 쪽으로 새 개념 도입은 없다. 6번에는 '발전' 표시가 있다. 이미지의 Math Heart 복습 쪽 번호는 1번 121쪽 1, 2번 125쪽 5, 3번 124쪽 3·130쪽 1, 4번 124쪽 3·130쪽 1, 5번 130쪽 1, 6번 125쪽 5·131쪽 3, 7번 131쪽 3으로 읽었으나 글자층과 이미지 배치가 일부 어긋나 2~4번 매핑은 약간 불확실하다. 4번 그래프의 눈금과 곡선은 해상도상 정확히 읽기 어렵다. 소단원 제목은 보이지 않는다.",
+ "_page": 135,
+ "_usage": {
+  "in": 4667,
+  "out": 1652,
+  "sec": 10.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

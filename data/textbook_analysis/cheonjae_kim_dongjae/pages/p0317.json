@@ -1,0 +1,51 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "준비물 1 카드, 전개도"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [
+  {
+   "symbol": "$-1, -2, \\cdots, -8$",
+   "meaning": "카드에 적힌 음의 정수(음수)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "1~8과 -1~-8이 적힌 카드가 빨강·주황·노랑(양수), 초록·파랑·보라(음수)의 6줄로 배열되어 있다(교과서 55쪽 활동용).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "잘라서 투명 테이프로 붙여 다면체를 만드는 전개도(교과서 215쪽 활동용)이며, 가운데 직사각형 둘레에 사다리꼴 모양 면 4개가 붙은 형태이다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 소속이 없는 부록(준비물) 쪽이다. 교과서 55쪽(정수와 유리수 단원 활동 추정)과 215쪽(입체도형의 성질 단원 활동 추정)에 쓰는 카드와 전개도이며, 쪽 번호는 인쇄되어 있지 않다. 왼쪽의 '자르는 선'은 절취선 표시이다.",
+ "_page": 317,
+ "_usage": {
+  "in": 4108,
+  "out": 542,
+  "sec": 6.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

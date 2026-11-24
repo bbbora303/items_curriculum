@@ -1,0 +1,201 @@
+{
+ "printedPage": "166",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "두 점 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분의 수직이등분선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": "l // m"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a (각의 크기)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l,\\ m$",
+   "meaning": "직선",
+   "role": "사용"
+  },
+  {
+   "symbol": "$32^\\circ$",
+   "meaning": "각도(도)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "32^\\circ+96^\\circ+\\angle a=180^\\circ",
+   "plain": "평행선에서 엇각(동위각)이 같음을 이용해 한 직선 위의 각의 합이 180°임을 활용한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "지유의 방법",
+   "summary": "직선 l과 평행한 보조선을 그어 32°를 옮긴 뒤 한 직선 위의 각의 합 180°로 ∠a=52°를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "태오의 방법",
+   "summary": "직선 m쪽에 평행인 보조선을 그어 32°를 옮긴 뒤 각의 합 180°로 ∠a=52°를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1-❶",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "조건 (가)~(마)를 만족하는 점 A~E에서 선분 ED의 길이를 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1-❷",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "가능한 선분 AC의 길이를 모두 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❶",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "평행선에서 ∠a를 구한 지유와 태오의 두 방법을 비교하여 설명한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2-❷",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "두 직선 l, m이 평행할 때(꺾인 선에 32°, 128°) 위 두 방법으로 ∠x의 크기를 구한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "조건 (가)~(마)를 적은 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "지유의 방법: 평행한 두 직선 l, m 사이 꺾인 선과 l에 평행한 보조선(분홍 점선), 32°, 96°, ∠a 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "태오의 방법: 평행한 두 직선 사이 꺾인 선과 m쪽 보조선(분홍 점선), 32°, 96°, ∠a 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평행한 두 직선 l, m 사이 꺾인 선, 32°, 128°, ∠x 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "지유와 태오 학생 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목 없이 '수학 역량 쑥쑥 더하기' 코너의 활동 2개(1. 두 점 사이의 거리, 2. 평행선의 성질)로 구성됨. 대단원은 쪽 아래 'Ⅳ. 도형의 기초'와 목록을 참고해 '기본 도형'으로 추정함. 조건 (나)는 AB=1/4 BC로 읽음.",
+ "_page": 166,
+ "_usage": {
+  "in": 4547,
+  "out": 1659,
+  "sec": 9.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

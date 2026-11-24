@@ -1,0 +1,187 @@
+{
+ "printedPage": "153",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "5.3 위치 관계",
+  "area": "개념 설명 / 문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "직선과 평면의 수직(직교)",
+   "role": "정의",
+   "definition": "직선 l이 평면 P와 한 점 O에서 만나고 O를 지나는 P 위의 모든 직선과 수직일 때, l과 P는 서로 수직 또는 직교한다고 한다.",
+   "notation": "$l\\perp P$"
+  },
+  {
+   "term": "수선",
+   "role": "정의",
+   "definition": "평면 P에 수직인 직선 l을 평면 P의 수선이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "공간에서 두 직선이 만나지 않고 평행하지도 않을 때의 위치 관계.",
+   "notation": ""
+  },
+  {
+   "term": "직선과 평면의 평행",
+   "role": "사용",
+   "definition": "한 평면과 만나지 않는 직선은 그 평면과 평행하다.",
+   "notation": ""
+  },
+  {
+   "term": "교선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직육면체의 모서리와 면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l\\perp P$",
+   "meaning": "직선 l과 평면 P가 서로 수직(직교)이다",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l\\perp P$: 직선 $l$이 평면 $P$ 위에서 점 O를 지나는 모든 직선과 수직",
+   "plain": "직선이 평면과 한 점에서 만나고 그 점을 지나는 평면 위의 모든 직선과 수직이면 직선과 평면은 수직이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "직선 l을 평면 P의 수선이라 한다",
+   "plain": "평면에 수직인 직선을 그 평면의 수선이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "공간에서 두 직선이 만나지 않고 평행하지 않으면 꼬인 위치에 있다",
+   "plain": "만나지도 않고 평행하지도 않은 두 직선은 꼬인 위치이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 평면과 만나지 않는 직선은 그 평면과 평행하다",
+   "plain": "평면과 만나지 않는 직선은 그 평면과 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직육면체에서 모서리 BC와 한 점에서 만나는 면을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직육면체에서 면 EFGH와 수직인 모서리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직육면체에서 모서리 CG를 교선으로 하는 두 면을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기 (1)",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "한 직선에 수직인 서로 다른 두 직선은 평행하다는 말이 틀린 이유를 그림을 그려 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "생각 넓히기 (2)",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "한 평면에 평행한 서로 다른 두 직선은 평행하다는 말이 틀린 이유를 그림을 그려 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "평면 P와 점 O에서 수직으로 만나는 직선 l, 평면 위의 여러 직선",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~H가 표시된 직육면체",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "그림을 그려 설명할 빈 칸 두 개와 연필로 실험하는 학생 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 꼬인 위치와 직선-평면 평행을 정리하는 그림(빈칸 꼬인, 평행)",
+   "_raw": "그림",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "수학 집 짓기 코너의 빈칸 '꼬인', '평행'은 이미지에 이미 채워져 보인다. 직육면체 그림의 일부 꼭짓점 기호(E 등) 위치는 점선 때문에 해석이 약간 어려울 수 있다.",
+ "_page": 153,
+ "_profile": "full",
+ "_usage": {
+  "in": 4406,
+  "out": 1825,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

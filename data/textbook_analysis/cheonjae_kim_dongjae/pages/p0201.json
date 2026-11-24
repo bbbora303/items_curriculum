@@ -1,0 +1,145 @@
+{
+ "printedPage": "201",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "1. 평면도형의 성질 (다각형의 대각선의 개수)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "n각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "$n$각형"
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\frac{n(n-3)}{2}$",
+   "meaning": "n각형의 대각선의 개수(말풍선 활동에서 각 부분의 뜻을 묻는 식)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\frac{n(n-3)}{2}$",
+   "plain": "n각형의 대각선 개수를 구하는 식으로, 각 부분이 무엇을 뜻하는지 친구들과 말해 보는 활동에 쓰임",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "말해 보시오",
+   "summary": "n각형의 대각선의 개수를 구하는 방법을 친구들과 말해 보기(n, n-3, 2가 뜻하는 것)",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "한 꼭짓점에서 그을 수 있는 대각선이 8개인 다각형의 이름을 말하고 대각선의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "(1) 구각형 (2) 십오각형의 대각선의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "한 꼭짓점에서 대각선을 그으면 3개의 삼각형으로 나누어지는 다각형의 대각선의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "6개의 점을 이용해 두 사람이 서로 다른 색 펜으로 선분을 그리며, 세 변이 같은 색인 삼각형을 먼저 그리지 않는 사람이 이기는 놀이",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "n(n-3)/2 식과 세 학생의 말풍선(n, n-3, 2가 뜻하는 것은?)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "정육각형 꼭짓점 6개와 이들을 잇는 연한 선분이 그려진 놀이판",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "색 펜으로 하는 삼각형 만들기 놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 번호 1+, 2+는 오른쪽 열의 숫자 옆 '+' 표시를 심화로 해석함. 쪽 위 'FUN' 코너(나와 대각선 위치에 있는 친구는?)는 장식/흥미 문구로 보이며 내용 없음. 소단원 번호는 쪽 아래 '1. 평면도형의 성질'만 보이고 소단원 제목은 이 쪽에 없음.",
+ "_page": 201,
+ "_usage": {
+  "in": 4487,
+  "out": 1369,
+  "sec": 8.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

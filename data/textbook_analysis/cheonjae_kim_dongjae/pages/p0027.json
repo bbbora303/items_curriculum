@@ -1,0 +1,152 @@
+{
+ "printedPage": "27",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "양의 부호 +",
+   "role": "사용",
+   "definition": "",
+   "notation": "+"
+  },
+  {
+   "term": "음의 부호 -",
+   "role": "사용",
+   "definition": "",
+   "notation": "-"
+  },
+  {
+   "term": "양수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "+",
+   "meaning": "양의 부호",
+   "role": "사용"
+  },
+  {
+   "symbol": "-",
+   "meaning": "음의 부호",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "기준 방향의 표현을 보고 반대 상황(내려간 온도, 동쪽 거리, 용돈 사용)을 부호 +, -로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "수 2, 2/5, 3.1에 양의 부호나 음의 부호를 사용하여 양수와 음수로 각각 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "축구 경기 글에서 실점과 득점을 밑줄 친 부분으로 +, -를 사용하여 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "찾으시오",
+   "summary": "+1, -0.8, 0, -3/7, +0.3 중 양수와 음수를 각각 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "생활 주변에서 양수와 음수가 사용된 예를 찾고 그 필요성을 말하기",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "축구 경기장 사진과 경기 상황 글이 있는 상자",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "+1, -0.8, 0, -3/7, +0.3이 적힌 수 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "주식 시세 전광판(상승·하락 등락률), 수영 경기 기록(+, - 표기), 영하 온도계(-29) 사진 세 장",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "온도",
+  "방위·거리",
+  "용돈",
+  "축구 경기 득실점",
+  "주식 시세",
+  "수영 기록",
+  "영하 온도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 이 쪽에 보이지 않아 비워 둠. 양수·음수를 도입하는 첫 소단원의 연습 쪽으로 보이며, 부호 +, -를 사용해 양수·음수를 나타내는 기초 활용 문제임. 문제 1+, 2+는 오른쪽 열의 별표(+) 표시 심화 문항으로 보이며, 정확한 표기는 '1⁺', '2⁺'임. 오른쪽 상단 '오늘 나의 기분은? + -'은 장식 코너.",
+ "_page": 27,
+ "_usage": {
+  "in": 4604,
+  "out": 1291,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

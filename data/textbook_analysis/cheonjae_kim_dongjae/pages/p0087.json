@@ -1,0 +1,198 @@
+{
+ "printedPage": "87",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$=$",
+   "meaning": "등식의 등호",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "3x-4=1의 양변에 어떤 수를 더하면 3x=5가 되는지 빈칸에 쓴다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "8x=24의 양변을 어떤 수로 나누면 x=3이 되는지 빈칸에 쓴다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "2x+4=-10에서 x=-7을 구하는 과정의 빈칸을 등식의 성질로 채운다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "태오(이항)와 지유(양변에 같은 수를 더함)의 말에서 빈칸을 채워 이항과 등식의 성질의 관계를 확인한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+ (1)",
+   "level": "심화(+표시)",
+   "verb": "표를 하시오",
+   "summary": "a=b일 때 a/3=b/6이 등식의 성질을 이용한 것으로 옳은지 판단한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+ (2)",
+   "level": "심화(+표시)",
+   "verb": "표를 하시오",
+   "summary": "a=b일 때 -2a+8=-2b+8이 등식의 성질을 이용한 것으로 옳은지 판단한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "-4x-3=17에서 -4x=20, x=-5로 가는 두 단계(㉠, ㉡)에서 이용한 등식의 성질을 말한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "3+ (1)",
+   "level": "심화(+표시)",
+   "verb": "이항하시오",
+   "summary": "x+16=-7x에서 밑줄 친 항을 이항한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3+ (2)",
+   "level": "심화(+표시)",
+   "verb": "이항하시오",
+   "summary": "4x-3=15+2x에서 밑줄 친 항을 이항한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "은서와 윤우가 머핀 5+4개, 도넛 4개 / 머핀 5개, 도넛 6개를 같은 금액에 샀을 때, 머핀과 도넛 한 개의 가격 중 어느 것이 더 비싼지 등식의 성질로 설명한다",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "2번에서 등식 변형 과정을 왼쪽은 식, 오른쪽은 양변에 연산을 적용한 식으로 나란히 보여주는 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2+번에서 -4x-3=17 → -4x=20 → x=-5 변형 과정에 ㉠, ㉡ 표시",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "은서와 윤우가 각자 산 머핀과 도넛의 개수를 보여주는 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "머핀과 도넛 구매 가격 비교",
+  "태오와 지유의 대화"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠(쪽 아래에는 '2. 일차방정식'만 표시). 활동 그림에서 머핀·도넛 개수는 그림상 은서: 머핀 9개(5+4)·도넛 4개, 윤우: 머핀 5개·도넛 6개로 읽었으며 정확한 개수는 확인 필요. 이 쪽에서는 새 용어 정의 없이 등식의 성질·이항을 이미 배운 것으로 사용함.",
+ "_page": 87,
+ "_usage": {
+  "in": 4565,
+  "out": 1875,
+  "sec": 12.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

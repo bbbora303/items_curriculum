@@ -1,0 +1,110 @@
+{
+ "printedPage": "237",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "프로젝트(새 활용 물건 만들기)"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "입체도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "계획해 보자",
+   "summary": "새 활용 물건을 어떻게 만들지 계획하고 물건 이름, 사용한 재료와 용도, 예상 모양을 적는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "새 활용 물건을 만들고 사용한 재료의 넓이와 물건의 부피를 구한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "열어 보자",
+   "summary": "모둠이 만든 새 활용 물건을 소개하는 글을 쓰고 새 활용 전시회를 연다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "물건 이름, 재료와 용도, 예상 모양을 적는 빈 계획 칸",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "프로젝트 평가표: 모둠 이름을 적고 세 가지 평가 항목으로 비교하는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "연필과 말풍선을 든 캐릭터(계산에 필요한 길이는 직접 재어 봐요)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "새 활용(업사이클링) 물건 만들기",
+  "재료의 넓이와 물건의 부피"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "이미지가 90도 회전되어 있음. 7단원 프로젝트 쪽으로 대단원은 '입체도형의 성질'로 추정(단원 번호 7 표시 기준), 소단원 번호는 보이지 않음. 계산기 아이콘이 2번 활동 옆에 있어 정보처리 역량으로 해석함.",
+ "_page": 237,
+ "_profile": "full",
+ "_usage": {
+  "in": 4267,
+  "out": 888,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

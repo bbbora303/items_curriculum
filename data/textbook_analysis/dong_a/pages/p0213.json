@@ -1,0 +1,182 @@
+{
+ "printedPage": "213",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.1 다면체",
+  "area": "개념 설명 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정사면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정팔면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정이십면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정십이면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$60^\\circ$",
+   "meaning": "정삼각형의 한 내각의 크기(한 꼭짓점에 모인 각 표시)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$90^\\circ$",
+   "meaning": "정사각형의 한 내각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$108^\\circ$",
+   "meaning": "정오각형의 한 내각의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "정다면체를 면의 모양에 따라 분류: 정삼각형(정사면체, 정팔면체, 정이십면체), 정사각형(정육면체), 정오각형(정십이면체)",
+   "plain": "함께해요에서 만든 정다면체 5가지를 면의 모양에 따라 나누어 정리한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "질문",
+   "level": "기본",
+   "verb": "무엇일까요?",
+   "summary": "면의 모양이 정육각형인 정다면체가 없는 이유는?",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "모든 면이 합동인 정삼각형인 주어진 다면체가 정다면체인지 판단하고 이유를 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "수학 집 짓기",
+   "level": "활동",
+   "verb": "빈칸 채우기(면은 □개야)",
+   "summary": "사각기둥, 오각뿔, 사각뿔대의 면의 개수가 모두 6개인 육면체임을 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "정삼각형 면으로 이루어진 정사면체, 정팔면체, 정이십면체와 한 꼭짓점에 모인 각 60° 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "정사각형 면의 정육면체와 정오각형 면의 정십이면체, 각각 90°, 108° 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "모든 면이 합동인 정삼각형인 쌍뿔 모양 다면체(생각 넓히기)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "사각기둥, 오각뿔, 사각뿔대 캐릭터가 말풍선으로 면의 개수를 말하는 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "캐릭터가 현수막을 든 수학 집 짓기 놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "정십이면체 쪽 등 면 모양별 분류가 중심이며, 정다면체의 정의는 이 쪽에 나오지 않고 앞쪽에서 도입된 것으로 보인다. 말풍선 빈칸의 6은 이미 채워져 표시되어 있다. 생각 넓히기의 답 입력 칸은 비어 있다.",
+ "_page": 213,
+ "_profile": "full",
+ "_usage": {
+  "in": 4260,
+  "out": 1486,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

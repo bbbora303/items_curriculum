@@ -1,0 +1,162 @@
+{
+ "printedPage": "179",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "2. 작도와 합동",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "삼각형의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등변삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle O$",
+   "meaning": "점 O를 꼭짓점으로 하는 각",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "작도하고, 그 과정을 설명하시오",
+   "summary": "두 변의 길이 a, c와 그 끼인각 ∠B의 크기가 주어진 삼각형 ABC를 작도하고 과정을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "작도하시오",
+   "summary": "주어진 선분 b를 두 변으로 하고 ∠O를 끼인각으로 하는 이등변삼각형을 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "작도하고, 그 과정을 설명하시오",
+   "summary": "한 변의 길이 a와 그 양 끝 각 ∠B, ∠C의 크기가 주어진 삼각형 ABC를 작도하고 과정을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "작도하시오",
+   "summary": "삼각형 모양 스테인드글라스의 일부분을 보고 원래의 삼각형 모양을 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "작도하고, 그 과정을 설명해 보자",
+   "summary": "삼각형 ABC와 합동인 삼각형 DEF를 (1) 세 변의 길이, (2) 두 변의 길이와 그 끼인각의 크기, (3) 한 변의 길이와 그 양 끝 각의 크기를 이용해 각각 작도하고 과정을 설명한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "두 선분 a, c와 점 B를 꼭짓점으로 하는 각이 주어진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 b와 ∠O가 주어진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 a와 ∠B, ∠C가 주어진 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "삼각형 모양의 스테인드글라스 일부분 그림",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "삼각형 ABC 그림과 작도 결과를 그릴 세 개의 빈 칸",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "스테인드글라스"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 1+, 2+는 번호 위에 + 표시가 있어 심화로 분류함. 이 쪽에서 새로 정의되는 용어는 없고, 앞에서 배운 삼각형의 작도 조건(세 변 / 두 변과 끼인각 / 한 변과 양 끝 각)을 적용하는 쪽임. 합동 조건 용어는 직접 쓰이지 않음.",
+ "_page": 179,
+ "_usage": {
+  "in": 4365,
+  "out": 1464,
+  "sec": 9.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

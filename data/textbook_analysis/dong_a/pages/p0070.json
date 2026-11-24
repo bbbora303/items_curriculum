@@ -1,0 +1,80 @@
+{
+ "printedPage": "70",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "수학 놀이터 - 수도 말판 놀이"
+ },
+ "pageType": "탐구활동",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "놀이",
+   "level": "활동",
+   "verb": "놀이한다",
+   "summary": "모둠별로 말판 놀이를 하며 도착한 수도의 빈칸 문제를 풀고 맞히면 칸을 색칠해 점수를 얻는다. 25점을 먼저 얻는 모둠이 이긴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "비행기 말을 색칠하는 학생의 모습",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "주사위를 던지고 말판 위에서 놀이하는 두 학생",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "말판의 수도 칸에 답을 적는 손",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "학생 둘이 문제를 푸는 모습",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "25점을 얻고 기뻐하는 학생",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "수도(나라의 수도) 말판 놀이",
+  "비행기 여행",
+  "주사위 놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정수와 유리수 단원 안의 '수학 놀이터' 쪽이다. 놀이 방법 ➊~➎ 안내만 있고 수학 개념, 용어, 수식은 나오지 않는다. 준비물은 부록 2, 주사위, 색연필이다. 말판의 실제 문제 내용은 부록에 있어 이 쪽에서 확인할 수 없다. 이 쪽 자체에는 정수와 유리수 관련 내용이 보이지 않는다.",
+ "_page": 70,
+ "_profile": "full",
+ "_usage": {
+  "in": 4249,
+  "out": 714,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,208 @@
+{
+ "printedPage": "148",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "생각 3 점과 직선 사이의 거리는 어떻게 구할 수 있나요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "직교",
+   "role": "정의",
+   "definition": "두 직선 AB와 CD의 교각이 직각일 때 두 직선은 직교한다고 한다.",
+   "notation": "$\\overleftrightarrow{AB}\\perp\\overleftrightarrow{CD}$"
+  },
+  {
+   "term": "수직",
+   "role": "정의",
+   "definition": "두 직선이 직교할 때 서로 수직이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "수선",
+   "role": "정의",
+   "definition": "서로 수직인 두 직선에서 한 직선을 다른 직선의 수선이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "수직이등분선",
+   "role": "정의",
+   "definition": "선분 AB의 중점 M을 지나고 선분 AB에 수직인 직선 $l$을 선분 AB의 수직이등분선이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "정의",
+   "definition": "직선 $l$ 밖의 점 P에서 $l$에 그은 수선과 $l$의 교점 H를 수선의 발이라고 한다.",
+   "notation": "H"
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "정의",
+   "definition": "점 P에서 직선 $l$에 내린 수선의 발 H에 대해 선분 PH의 길이를 점 P와 직선 $l$ 사이의 거리라고 한다.",
+   "notation": "$\\overline{PH}$"
+  },
+  {
+   "term": "교각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직(직교)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{AB}\\perp\\overline{CD}$",
+   "meaning": "두 선분이 직교함",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{PH}<\\overline{PA}<\\overline{PB}$",
+   "meaning": "수선 PH가 가장 짧음",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\overline{PH}<\\overline{PA}<\\overline{PB}$",
+   "plain": "점 P에서 직선 위의 점을 잇는 선분 중 수선 PH의 길이가 가장 짧다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a=\\angle c,\\ \\angle b=\\angle d$",
+   "plain": "맞꼭지각의 크기는 서로 같다(수학 집 짓기에서 복습).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\overline{AB}\\perp l,\\ \\overline{AM}=\\overline{MB}$",
+   "plain": "직선 $l$이 선분 AB의 수직이등분선이면 수직이고 AM=MB이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "모눈종이 위 두 점 A, B에서 직선 $l$에 내린 수선의 발 P, Q를 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 점 A, B와 직선 $l$ 사이의 거리를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (3)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "선분 PQ의 수직이등분선을 모눈종이 위에 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "수학 집 짓기",
+   "level": "활동",
+   "verb": "빈칸 채우기",
+   "summary": "맞꼭지각의 성질과 수직이등분선의 성질에서 $\\angle a=\\angle\\square$, $\\angle b=\\angle\\square$, $\\overline{AM}=\\square$ 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "직선 AB와 CD가 직각으로 만나는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "선분 AB의 중점 M을 지나는 수직이등분선 $l$",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점 P에서 직선 $l$에 내린 수선의 발 H와 점과 직선 사이의 거리",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "H, A, B 위의 점에서 P까지의 선분 길이를 비교하는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직선 $l$과 두 점 A, B가 있는 모눈종이",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "수학 집 짓기 코너의 북 치는 캐릭터와 깃발 든 곰",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "맞꼭지각 $a,b,c,d$ 그림과 수직이등분선 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기'는 앞에서 배운 맞꼭지각의 성질과 수직이등분선을 정리하는 코너이며, 빈칸 정답은 이미지에 흐리게 표시되어 있다(c, d, MB). 글자층에서 수직 기호 등이 깨져 있어 이미지를 따랐다.",
+ "_page": 148,
+ "_profile": "full",
+ "_usage": {
+  "in": 4762,
+  "out": 2093,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

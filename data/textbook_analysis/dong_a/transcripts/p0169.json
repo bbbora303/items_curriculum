@@ -1,0 +1,212 @@
+{
+ "printedPage": "169",
+ "pageType": "연습문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "해결해요 머리말",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "해결해요 / 5.6을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요! / 문제를 더 풀어 볼 수 있어요.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요",
+   "icons": [
+    "해당하는 곳에 색칠해요. (우수·보통·분발 얼굴 아이콘 3개)"
+   ],
+   "level": "기본",
+   "text": "다음 그림의 두 삼각형이 서로 합동일 때, 물음에 답하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "두 삼각형이 서로 합동임을 기호 ≡를 사용하여 나타내시오."
+    },
+    {
+     "label": "(2)",
+     "text": "두 삼각형의 대응변과 대응각을 각각 말하시오."
+    }
+   ],
+   "conditions": [],
+   "given": "모눈 위에 그려진 삼각형 ABC와 삼각형 DEF",
+   "steps": [],
+   "answerFormat": "(1) 기호 ≡를 사용한 식, (2) 대응변과 대응각을 말하기"
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 얼굴 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "다음 그림에서 △ABC≡△DEF일 때, $x$, $y$의 값을 각각 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "△ABC: AB=10 cm, AC=8 cm, ∠A=$x^\\circ$ / △DEF: ∠D=50°, DE=$y$ cm",
+   "steps": [],
+   "answerFormat": "x, y의 값"
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 얼굴 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "다음 보기에서 △ABC≡△DEF인 것을 모두 고르시오.",
+   "subItems": [
+    {
+     "label": "ㄱ",
+     "text": "$\\overline{AB}=\\overline{DE}$, $\\overline{BC}=\\overline{EF}$, $\\angle B=\\angle E$"
+    },
+    {
+     "label": "ㄴ",
+     "text": "$\\overline{AB}=\\overline{DE}$, $\\overline{AC}=\\overline{DF}$, $\\angle B=\\angle E$"
+    },
+    {
+     "label": "ㄷ",
+     "text": "$\\overline{AC}=\\overline{DF}$, $\\angle B=\\angle E$, $\\angle C=\\angle F$"
+    },
+    {
+     "label": "ㄹ",
+     "text": "$\\angle A=\\angle D$, $\\angle B=\\angle E$, $\\angle C=\\angle F$"
+    }
+   ],
+   "conditions": [],
+   "given": "보기 ㄱ~ㄹ",
+   "steps": [],
+   "answerFormat": "기호 ㄱ~ㄹ 중 고르기"
+  },
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 얼굴 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "다음 그림에서 서로 합동인 두 삼각형을 찾아 기호 ≡를 사용하여 나타내고, 삼각형의 합동 조건을 말하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "(그림 (1))"
+    },
+    {
+     "label": "(2)",
+     "text": "(그림 (2))"
+    }
+   ],
+   "conditions": [],
+   "given": "그림 (1), (2)의 변의 길이 표시(같은 길이 표시)",
+   "steps": [],
+   "answerFormat": "합동인 두 삼각형을 기호 ≡로 나타내기와 합동 조건 말하기"
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "해결해요",
+   "icons": [
+    "문제해결",
+    "의사소통",
+    "우수·보통·분발 얼굴 아이콘 3개"
+   ],
+   "level": "기본",
+   "text": "오른쪽 그림과 같은 정육각형 ABCDEF의 세 꼭짓점 B, D, F를 연결한 삼각형 BDF는 어떤 삼각형이 되는지 말하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "정육각형 ABCDEF",
+   "steps": [],
+   "answerFormat": "삼각형의 종류 말하기"
+  },
+  {
+   "kind": "서술형문제",
+   "label": "6",
+   "corner": "해결해요",
+   "icons": [
+    "서술형",
+    "문제해결",
+    "의사소통",
+    "우수·보통·분발 얼굴 아이콘 3개"
+   ],
+   "level": "서술형",
+   "text": "다음 그림에서 $\\overline{AO}=\\overline{CO}$, $\\overline{AB}=\\overline{CD}$일 때, △AOD≡△COB임을 설명하려고 한다. 물음에 답하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "△AOD와 △COB에서 길이가 같은 변과 크기가 같은 각을 찾으시오."
+    },
+    {
+     "label": "(2)",
+     "text": "△AOD≡△COB임을 설명하시오."
+    }
+   ],
+   "conditions": [
+    "$\\overline{AO}=\\overline{CO}$",
+    "$\\overline{AB}=\\overline{CD}$"
+   ],
+   "given": "AO=CO, AB=CD",
+   "steps": [],
+   "answerFormat": "(1) 같은 변과 같은 각 찾기, (2) 합동임을 서술"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "1번 모눈 위의 두 삼각형",
+   "labels": "왼쪽 삼각형: 꼭짓점 A(위), B(왼쪽 아래), C(오른쪽 아래). 오른쪽 삼각형: 꼭짓점 D(위), F(오른쪽), E(왼쪽 아래). 점선 모눈 배경.",
+   "desc": "점선 모눈 안에 삼각형 ABC와 삼각형 DEF가 그려져 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "2번 △ABC와 △DEF",
+   "labels": "△ABC: A(위), B(왼쪽 아래), C(오른쪽 아래), AB=10 cm, AC=8 cm, A의 각 $x^\\circ$. △DEF: F(왼쪽 위), E(오른쪽 위), D(아래), D의 각 50°, DE=$y$ cm. 길이·각 표시에 점선 곡선이 쓰임.",
+   "desc": "두 삼각형이 나란히 그려져 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "4번 (1)",
+   "labels": "A(왼쪽 위), D(오른쪽 위), B(왼쪽 아래), C(오른쪽 아래). 대각선 AC. 같은 길이 표시: AD 위 한 줄, BC 위 두 줄, AB 위 한 줄, DC 위 한 줄.",
+   "desc": "사각형 ABCD에 대각선 AC가 그어져 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "4번 (2)",
+   "labels": "A(왼쪽 위), D(오른쪽 위), B(왼쪽 아래), C(오른쪽 아래), 두 선분이 만나는 점 O. 선분 AD, BC, AC, BD가 있고 O 근처 선분들에 같은 길이 표시(AO·CO, BO·DO 쪽)가 있음.",
+   "desc": "리본(나비) 모양으로 두 삼각형이 O에서 만난다."
+  },
+  {
+   "kind": "도형",
+   "caption": "5번 정육각형 ABCDEF",
+   "labels": "A(왼쪽 위), F(오른쪽 위), E(오른쪽), D(오른쪽 아래), C(왼쪽 아래), B(왼쪽)",
+   "desc": "정육각형이 그려져 있고 꼭짓점 B, D, F를 연결하는 선은 그려져 있지 않다."
+  },
+  {
+   "kind": "도형",
+   "caption": "6번 그림",
+   "labels": "O(왼쪽 아래), D(오른쪽 아래), C(OD 위의 점), A(위쪽), B(맨 위). O-A-B가 한 직선 위. 선분 AD, 선분 BC. OA와 OC에 같은 길이 표시 한 줄씩.",
+   "desc": "반직선 OB와 OD 사이에 선분 AD와 BC가 교차한다."
+  }
+ ],
+ "incomplete": "그림의 선 길이 표시(같은 길이 표시)와 1번 모눈의 정확한 좌표는 해상도 때문에 일부 불확실함(특히 4번 (1), (2)의 표시 개수). 우측 상단 QR코드 내용은 옮기지 않음.",
+ "_page": 169,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 4158,
+  "out": 4916,
+  "sec": 34.7,
+  "stop": "end_turn"
+ }
+}

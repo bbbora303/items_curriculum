@@ -1,0 +1,63 @@
+{
+ "printedPage": "2",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "부록 1 붙임딱지"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "2단원~4단원 붙임딱지: 길 모양이 그려진 퍼즐 조각 16개(2.1~4.4)에 번호가 붙어 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "5단원~6단원 붙임딱지: 숲속 야영 장면이 세로 띠 조각 12개(5.1~6.6)로 나뉘어 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "7단원~8단원 붙임딱지: 추상적인 인물 그림이 조각 10개(7.1~8.5)로 나뉘어 있다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "점선을 따라 접어서 뜯으라는 세로 안내 문구가 오른쪽에 있다.",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "퍼즐",
+  "숲속 야영 그림",
+  "추상 인물 그림"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "교과 내용이 없는 부록 붙임딱지 쪽이다. 단원별 활동 지시문은 '길을 찾아 주세요'(2~4단원), '자, 각도기, 컴퍼스를 찾아보세요'(5~6단원), '이 그림의 제목을 지어 보세요'(7~8단원)이다. 붙임딱지는 8쪽에서 사용한다고 안내되어 있다. 용어, 기호, 문제는 나오지 않는다.",
+ "_page": 316,
+ "_profile": "full",
+ "_usage": {
+  "in": 4176,
+  "out": 625,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

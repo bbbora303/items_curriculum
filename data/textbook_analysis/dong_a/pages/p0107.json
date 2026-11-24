@@ -1,0 +1,43 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "큰 숫자 4를 겹친 반투명 색 띠로 표현한 단원 번호 그래픽과 말풍선 모양 배경",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "지구 환경을 위한 선택(프로젝트 주제)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 표지 쪽이다. 대단원 제목은 '좌표평면과 그래프', 안내 문구는 '변화하는 현상들을 알아보기 편리하게 시각적으로 표현할 수 있을까요?'이다. 소단원 목차는 4.0 우리의 선택, 지구를 변화시켜요 / 4.1 순서쌍과 좌표 / 4.2 그래프의 뜻과 표현 / 4.3 정비례와 그 그래프 / 4.4 반비례와 그 그래프이다. 하단에 프로젝트 '어떤 선택을 해야 할까요'가 있다. 쪽 번호는 보이지 않고, 배운 내용·배울 내용 표시도 없다.",
+ "_page": 107,
+ "_profile": "full",
+ "_usage": {
+  "in": 4044,
+  "out": 499,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

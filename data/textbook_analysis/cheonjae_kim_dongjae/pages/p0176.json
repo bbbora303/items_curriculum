@@ -1,0 +1,158 @@
+{
+ "printedPage": "176",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "02 삼각형의 작도",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "삼각형 ABC",
+   "role": "정의",
+   "definition": "세 꼭짓점이 A, B, C인 삼각형을 기호 △ABC로 나타낸다.",
+   "notation": "$\\triangle ABC$"
+  },
+  {
+   "term": "대변",
+   "role": "정의",
+   "definition": "삼각형에서 ∠A와 마주 보는 변 BC를 ∠A의 대변이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "대각",
+   "role": "정의",
+   "definition": "삼각형에서 변 BC와 마주 보는 ∠A를 변 BC의 대각이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "정의"
+  },
+  {
+   "symbol": "$a, b, c$",
+   "meaning": "∠A, ∠B, ∠C의 대변의 길이",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{BC}$",
+   "meaning": "선분 BC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "세 변의 길이가 주어질 때: BC=a 작도 → B 중심 반지름 c인 원, C 중심 반지름 b인 원의 교점 A → A와 B, A와 C 연결",
+   "plain": "세 변의 길이를 알면 선분을 먼저 작도하고 두 원의 교점으로 나머지 꼭짓점을 찾아 삼각형을 작도한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "삼각형의 세 변의 길이가 주어지면 삼각형을 하나로 작도할 수 있다.",
+   "plain": "세 변의 길이가 정해지면 모양과 크기가 하나인 삼각형이 만들어진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "가장 긴 변의 길이 \\geq 나머지 두 변의 길이의 합 이면 삼각형을 만들 수 없다.",
+   "plain": "두 선분의 길이의 합이 다른 한 선분의 길이보다 작거나 같으면 삼각형을 만들 수 없다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "삼각형을 작도할 때 세 변의 길이와 세 각의 크기 중 특정한 세 가지만 알면 된다.",
+   "plain": "여섯 요소를 모두 알 필요 없이 특정한 세 가지만 알면 작도할 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "△ABC에서 ∠A의 대변 BC와 변 BC의 대각 ∠A, 변의 길이 a, b, c를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "세 변의 길이가 주어진 삼각형을 작도하는 3단계 과정 그림(컴퍼스 사용)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "작도할 삼각형의 세 선분 a, b, c",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 선분의 길이의 합이 나머지 한 선분의 길이보다 작거나 같아 삼각형이 만들어지지 않는 두 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 소단원 '02 삼각형의 작도'의 첫 개념 설명 쪽이며 배운 내용/배울 내용 표시는 없다. 쪽 하단에 'Ⅳ. 도형의 기초'가 인쇄되어 있다. 대단원은 목록에 따라 '작도와 합동'으로 판단했다.",
+ "_page": 176,
+ "_usage": {
+  "in": 4627,
+  "out": 1545,
+  "sec": 9.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

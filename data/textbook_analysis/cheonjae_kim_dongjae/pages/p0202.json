@@ -1,0 +1,185 @@
+{
+ "printedPage": "202",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "03 원과 부채꼴",
+  "area": "단원 도입 및 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "원",
+   "role": "정의",
+   "definition": "평면 위의 한 점 O로부터 일정한 거리에 있는 점들로 이루어진 도형",
+   "notation": "원 O"
+  },
+  {
+   "term": "원의 중심",
+   "role": "정의",
+   "definition": "원을 이루는 점들로부터 일정한 거리에 있는 점 O",
+   "notation": "O"
+  },
+  {
+   "term": "호",
+   "role": "정의",
+   "definition": "원 O 위의 두 점 A, B로 나뉘는 원의 두 부분 각각",
+   "notation": "$\\\\overset{\\\\frown}{AB}$"
+  },
+  {
+   "term": "현",
+   "role": "정의",
+   "definition": "원 O 위의 두 점을 이은 선분",
+   "notation": "현 AB"
+  },
+  {
+   "term": "지름",
+   "role": "정의",
+   "definition": "원의 중심을 지나는 현",
+   "notation": ""
+  },
+  {
+   "term": "할선",
+   "role": "정의",
+   "definition": "원 O와 서로 다른 두 점에서 만나는 직선 l",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "정의",
+   "definition": "원 O에서 두 반지름 OA, OB와 호 AB로 이루어진 도형",
+   "notation": "부채꼴 AOB"
+  },
+  {
+   "term": "중심각",
+   "role": "정의",
+   "definition": "부채꼴 AOB에서 두 반지름 OA, OB가 이루는 각 ∠AOB",
+   "notation": "$\\\\angle AOB$"
+  },
+  {
+   "term": "활꼴",
+   "role": "정의",
+   "definition": "현 CD와 호 CD로 이루어진 도형",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": "OA, OB"
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "l"
+  },
+  {
+   "term": "각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\\\angle AOB$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\overset{\\\\frown}{AB}$",
+   "meaning": "양 끝점이 A, B인 호 AB",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\\\overset{\\\\frown}{ACB}$",
+   "meaning": "큰 쪽의 호를 나타낼 때 큰 호 위에 점 C를 잡아 쓰는 표기",
+   "role": "정의"
+  },
+  {
+   "symbol": "원 O",
+   "meaning": "중심이 O인 원",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\\\angle AOB$",
+   "meaning": "부채꼴 AOB의 중심각",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "원: 한 점 O로부터 일정한 거리에 있는 점들의 모임",
+   "plain": "한 점에서 같은 거리에 있는 점들로 이루어진 도형이 원이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원의 중심을 지나는 현 = 지름",
+   "plain": "중심을 지나는 현이 그 원의 지름이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$\\\\overset{\\\\frown}{AB}$는 보통 작은 쪽 호, 큰 호는 $\\\\overset{\\\\frown}{ACB}$",
+   "plain": "호 AB는 보통 작은 호를 뜻하고, 큰 호는 호 위에 점 C를 잡아 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "부채를 펼칠 때 점 A가 움직이며 그리는 도형의 모양을 말해 보기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "부채를 펼치는 사람 그림에서 부채 끝점 A가 그리는 자취를 보여 줌",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원 O 위의 호, 현, 할선(직선 l)과 점 A, B, C를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원 O에서 부채꼴 AOB, 중심각, 활꼴 CD를 색으로 구분한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "부채춤(부채 펼치기)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "호, 현, 할선, 부채꼴, 중심각, 활꼴의 뜻을 안다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입 쪽으로 '03 원과 부채꼴'이 시작되는 쪽. 쪽 아래에 'V. 도형의 성질'이 인쇄되어 있으나 주어진 대단원 목록에는 '평면도형의 성질'로 대응해 적음. 글자층에서 호 기호와 각 기호가 깨져 있어 이미지를 따름.",
+ "_page": 202,
+ "_usage": {
+  "in": 4722,
+  "out": 1755,
+  "sec": 10.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

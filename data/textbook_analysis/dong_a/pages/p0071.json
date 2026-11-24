@@ -1,0 +1,50 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "큰 숫자 3 모양의 초록·붉은색 도형과 말풍선 모양의 흰 배경 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "3.0 문자 X의 이야기를 들어 볼까요",
+   "3.1 문자의 사용",
+   "3.2 식의 값",
+   "3.3 일차식과 수의 곱셈, 나눗셈",
+   "3.4 일차식의 덧셈과 뺄셈",
+   "3.5 일차방정식과 그 해",
+   "3.6 일차방정식의 풀이",
+   "프로젝트: 방정식 동영상을 만들어요"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 3 '문자의 사용과 식'의 첫 표지 쪽이다. 단원 길잡이 질문은 '수와 그 계산을 문자와 식을 사용하여 어떻게 간단하게 나타낼 수 있을까요?'이다. 쪽 번호는 인쇄되어 있지 않다. 배운 내용/배울 내용(중2·중3) 표시는 이 쪽에 없다.",
+ "_page": 71,
+ "_profile": "full",
+ "_usage": {
+  "in": 4082,
+  "out": 498,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

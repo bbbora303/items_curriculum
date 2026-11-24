@@ -1,0 +1,208 @@
+{
+ "printedPage": "169",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "모서리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직인 면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l /\\!/ m$"
+  },
+  {
+   "term": "각의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle x$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l /\\!/ m$",
+   "meaning": "직선 l과 m이 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "모서리 AB (이미지에는 'AB'로 표기)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "삼각기둥에서 (1) 모서리 AB와 평행한 모서리 (2) AB와 만나는 모서리 (3) AD와 꼬인 위치의 모서리 (4) AD와 수직인 면을 모두 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "l∥m이고 꺾인 선분에서 20°, 120°, 35°가 주어질 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "직사각형 종이테이프를 접었을 때 35°, 40°가 주어질 때 ∠x, ∠y의 크기를 각각 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "표시해 보시오",
+   "summary": "정육면체 전개도에서 모서리 AB와 꼬인 위치이면서 면 ABCD와 평행한 모서리를 표시하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "k∥l, m∥n이고 45°가 주어질 때 ∠a+∠b+∠c의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~F가 표시된 삼각기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평행선 l, m 사이에 꺾인 선과 각 20°, 120°, 35°, x",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직사각형 종이테이프를 접은 그림(A, B, C, D, E, F, G, 35°, 40°, x, y)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육면체의 전개도(십자형 + 점선 면, 꼭짓점 A, B, C, D 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평행선 k∥l, m∥n과 각 a, b, c, 45°",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Road 길 그림: 문항 번호 1~9 표지판과 복습 쪽수, 안내하는 인물",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "종이테이프 접기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Road(복습 안내: 틀린 문항은 해당 쪽에서 복습)",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+   ]
+  }
+ ],
+ "notes": "Math Road 복습 쪽수: 1→151쪽 1, 2→151쪽 2, 3→155쪽 1, 4→157쪽 2, 5→159쪽 2·161쪽 1, 6→165쪽 1, 7→165쪽 1, 8→159쪽 2·161쪽 1, 9→165쪽 1. 이 쪽에는 1~4번 문항이 없고 5~9번만 있음(1~4번은 앞 쪽). 8번에는 '발전' 표시가 있음. 대단원명은 쪽 내용(입체도형의 성질, 평행선 성질)으로 추정했고 소단원 번호·제목은 보이지 않음. 5번 모서리 표기(AB 등)는 이미지에서 선분 위 막대가 없음.",
+ "_page": 169,
+ "_usage": {
+  "in": 4509,
+  "out": 1799,
+  "sec": 11.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

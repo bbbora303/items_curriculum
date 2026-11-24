@@ -1,0 +1,168 @@
+{
+ "printedPage": "85",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식의 해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "문자(미지수)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$=$",
+   "meaning": "등호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$>$",
+   "meaning": "부등호(등식이 아닌 식을 구별하는 데 쓰임)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "보기 (와글와글 수학 활동)",
+   "summary": "페트병 2000개로 티셔츠를 $x$장 만들고 5개가 남는 상황을 방정식 $2000-15x=5$로 나타낸 예",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(1) 어떤 수 x의 3배에서 2를 빼면 13, (2) 한라산 높이 1950 m는 지리산 높이 x m보다 35 m 더 높다를 등식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "찾으시오",
+   "summary": "주어진 4개의 식 중 등식을 모두 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "[ ] 안의 수가 주어진 방정식의 해인 것을 모두 찾기(4문항)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "x가 1, 2, 3일 때 방정식 $2x-1=3$의 해 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "x에 대한 항등식을 모두 찾기(4문항)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3+",
+   "level": "심화(+표시)",
+   "verb": "써넣으시오",
+   "summary": "$2(3x+1)=6x+\\square$이 항등식일 때 □에 알맞은 수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "이야기해 보자",
+   "summary": "주변에서 방정식으로 나타낼 수 있는 상황을 찾아 상황과 방정식을 쓰고 친구들과 이야기하기",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "페트병 재활용 상자와 흰 티셔츠 사진, 상황·방정식을 쓰는 빈 메모 칸",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "한라산과 지리산의 높이",
+  "페트병 재활용 티셔츠"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 왼쪽 열은 기본 문제 1~3, 오른쪽 열은 +표시 문제 1+~3+으로 짝을 이룸. 1+의 (2) $7-x$는 등식이 아닌 식임.",
+ "_page": 85,
+ "_usage": {
+  "in": 4605,
+  "out": 1402,
+  "sec": 9.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

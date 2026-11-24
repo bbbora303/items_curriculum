@@ -1,0 +1,203 @@
+{
+ "printedPage": "290",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "02 반비례",
+  "area": "정답과 해설"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "반비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=\\frac{a}{x}",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{2}{3}x,\\ y=-\\frac{2}{3}x",
+   "meaning": "정비례 관계식(와글와글 수학 활동 예시)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "y=ax\\ (a>0)$에서 $a$가 클수록 $y$축에 가까워지고, $a<0$이면 $|a|$가 클수록 $y$축에 가까워진다",
+   "plain": "정비례 그래프에서 a의 값에 따라 그래프가 y축에 가까워지는 정도가 달라진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "x$가 2배, 3배, 4배, ...가 될 때 $y$는 $\\frac{1}{2}$배, $\\frac{1}{3}$배, $\\frac{1}{4}$배, ...",
+   "plain": "x가 몇 배가 되면 y는 그 역수 배가 되므로 반비례 관계이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "와글와글 수학 활동 예시",
+   "summary": "y=2/3x와 y=-2/3x의 그래프를 사람이 팔을 벌린 모습에 대응시켜 나타낸 예시 답",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1(앞 소단원)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "x, y 대응표의 순서쌍을 좌표평면에 점으로 나타낸 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2(앞 소단원)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "두 정비례 그래프를 좌표평면에 그린 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "3(앞 소단원)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "여섯 개 정비례 그래프를 한 좌표평면에 그린 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "4(앞 소단원)",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "a의 값에 따라 그래프가 y축에 가까워지는 정도 설명",
+   "competencyIcons": [
+    "예시"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "5(앞 소단원)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 3/2 (2) -1/4",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 36,18,12,9,6 (2) 반비례 관계 설명 (3) y=360/x",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "고르시오",
+   "summary": "반비례하는 것: (1), y=20/x",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "답 (2), (3)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "맞추시오",
+   "summary": "톱니바퀴 퍼즐에 y=1/x, y=-2/x, y=10/x, y=0.1/x를 알맞게 배치한 답(두 가지 가능)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "채우기·고르기·나열"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "점을 찍은 좌표평면 답안(2번 및 순서쌍)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x, y 값 대응표(-2~2, -4~4)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원점을 지나는 직선 그래프 답안(2개, 6개)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "팔을 벌린 사람과 직선 그래프를 겹친 와글와글 수학 활동 예시",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반비례 식이 적힌 톱니바퀴 퍼즐 답안",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "사람의 팔 모양으로 그래프 표현"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로 새로 정의되는 개념은 없다. 왼쪽 위 부분은 앞 소단원(정비례 그래프) 답이고, 02 반비례 부분은 126~127쪽 답이다. 일부 문항 번호와 대응 문제는 답만 보여서 발문을 추정하지 않고 답 내용만 요약했다.",
+ "_page": 290,
+ "_usage": {
+  "in": 4637,
+  "out": 1897,
+  "sec": 12.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

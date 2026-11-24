@@ -1,0 +1,119 @@
+{
+ "printedPage": "272",
+ "unit": {
+  "chapter": "",
+  "section": "수학 글짓기",
+  "area": "2학기 말 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "활꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주율",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\pi$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율(시 속에서 '기다란 π의 덫'으로 사용)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "중학생이 쓴 시 '사냥'",
+   "summary": "원, 활꼴, 현, π 등 수학 용어와 기호를 사용해 생각과 느낌을 표현한 시",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "정리해 보자",
+   "summary": "1년 동안 배운 수학 용어나 기호를 골라 그 내용을 간단히 정리한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "지어 보자",
+   "summary": "1에서 고른 용어나 기호를 사용해 시나 짧은 글을 짓는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "발표해 보자",
+   "summary": "지은 글을 친구들과 읽고 느낌을 발표한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "책상에서 글을 쓰는 학생 사진과 π 숫자가 배경에 깔린 제목 장식",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "시 '사냥'이 적힌 공책 그림과, 글을 쓸 수 있게 비워 둔 큰 흰 원 및 연필 든 손",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "사냥",
+  "시 쓰기",
+  "글짓기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "2학기 말 활동 '수학 글짓기' 쪽이다. 새로 정의되는 수학 개념은 없고, 시 속에 원, 활꼴, 현, π 같은 이미 배운 용어와 기호가 쓰인다. 오른쪽의 큰 흰 원은 학생이 글을 쓰는 빈칸이다. 시 속 '발전 문제'는 글자층에서 읽은 대로 적었다.",
+ "_page": 272,
+ "_usage": {
+  "in": 4256,
+  "out": 974,
+  "sec": 7.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

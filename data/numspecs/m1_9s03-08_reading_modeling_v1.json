@@ -1,0 +1,103 @@
+{
+  "id": "m1_9s03-08_reading_modeling_v1",
+  "description": "정사각기둥·정사각뿔의 겉넓이, 구의 겉넓이와 부피, 원기둥과 비교한 원뿔 부피 및 친구 주장 판단용 수치 후보",
+  "variables": {
+    "a": {
+      "range": [
+        3,
+        8
+      ],
+      "unit": "cm",
+      "meaning": "상자 밑면 정사각형의 한 변이자 지붕(사각뿔) 밑면의 한 변"
+    },
+    "h": {
+      "range": [
+        2,
+        7
+      ],
+      "unit": "cm",
+      "meaning": "상자(정사각기둥)의 높이"
+    },
+    "l": {
+      "range": [
+        4,
+        9
+      ],
+      "unit": "cm",
+      "meaning": "지붕(사각뿔) 옆면 삼각형의 밑변에 대한 높이"
+    },
+    "s": {
+      "values": [
+        6,
+        9,
+        12
+      ],
+      "unit": "cm",
+      "meaning": "구 모양 장식의 반지름"
+    },
+    "rc": {
+      "values": [
+        2,
+        3,
+        4,
+        6
+      ],
+      "unit": "cm",
+      "meaning": "원뿔 모양 장식과 비교 원기둥의 밑면 반지름"
+    },
+    "hc": {
+      "values": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        12
+      ],
+      "unit": "cm",
+      "meaning": "원뿔 모양 장식과 비교 원기둥의 높이"
+    }
+  },
+  "derived": {
+    "boxBase2": "2 * a ** 2",
+    "boxSide": "4 * a * h",
+    "boxSurface": "boxBase2 + boxSide",
+    "roofBase": "a ** 2",
+    "roofLateral": "4 * (a * l / 2)",
+    "roofSurface": "roofBase + roofLateral",
+    "sphereSurface": "4 * pi * s ** 2",
+    "sphereVolume": "4 * pi * s ** 3 / 3",
+    "cylBase": "pi * rc ** 2",
+    "cylVol": "pi * rc ** 2 * hc",
+    "coneVol": "pi * rc ** 2 * hc / 3",
+    "volRatio": "cylVol / coneVol",
+    "friendVol": "cylVol / 2",
+    "friendGap": "friendVol - coneVol"
+  },
+  "constraints": [
+    "2 * l > a",
+    "a != h",
+    "l != h",
+    "boxSurface != roofSurface",
+    "denom(coef_pi(sphereVolume)) == 1",
+    "denom(coef_pi(sphereSurface)) == 1",
+    "denom(coef_pi(coneVol)) == 1",
+    "denom(coef_pi(friendVol)) == 1",
+    "numer(coef_pi(cylVol)) <= 300"
+  ],
+  "difficulty": {
+    "easy": "a <= 4 and h <= 4 and l <= 6 and s == 6 and rc in (2, 3) and hc <= 6",
+    "medium": "a in (5, 6) and s == 9 and rc in (3, 4) and hc in (4, 6, 8, 9)",
+    "hard": "a >= 7 and h >= 5 and l >= 7 and s == 12 and rc in (4, 6) and hc >= 6"
+  },
+  "standards": [
+    "9수03-08"
+  ],
+  "taskPatterns": [
+    "reading_modeling"
+  ],
+  "status": "confirmed",
+  "plainSummary": "1-1에서는 밑면이 정사각형인 상자 모양 기둥의 밑면 한 변과 높이를 바꿉니다. 1-2의 지붕은 같은 정사각형을 밑면으로 하는 사각뿔이며, 옆면 삼각형의 높이(빗변 길이)를 전개도에 주어진 값으로 바꿉니다. 1-3에서는 구의 반지름을 3의 배수(6, 9, 12)로만 고르므로 부피의 π 계수가 정수가 되고, 겉넓이와 부피가 같아지는 반지름 3은 제외합니다. 1-4에서는 원뿔 장식의 밑면 반지름과 높이를 바꿉니다. 원뿔 부피는 같은 밑면과 높이의 원기둥 부피의 3분의 1이므로 π 계수가 정수가 되게 하고, 친구가 '원기둥의 절반'이라고 잘못 주장한 값도 정수 계수가 되게 합니다. 쉬움은 작은 수와 작은 구, 보통은 중간 크기의 수와 반지름 9인 구, 어려움은 큰 수와 반지름 12인 구, 부피가 큰 원뿔을 사용합니다.",
+  "approvedBy": "test(auto)",
+  "approvedAt": "2026-10-20T14:29:28"
+}

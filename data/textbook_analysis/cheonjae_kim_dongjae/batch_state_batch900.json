@@ -1,0 +1,17 @@
+{
+ "batches": [
+  {
+   "id": "msgbatch_01UTA8WMK2QPxTZANiLRtAGn",
+   "pages": [
+    17,
+    202,
+    259
+   ],
+   "profile": "lite",
+   "width": 900,
+   "model": "claude-sonnet-5-5",
+   "submitted": 1792631327.4871204,
+   "collected": true
+  }
+ ]
+}

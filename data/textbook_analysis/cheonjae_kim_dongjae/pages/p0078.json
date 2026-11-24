@@ -1,0 +1,118 @@
+{
+ "printedPage": "78",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "문자를 사용한 식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "할인율(%)",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\%$"
+  },
+  {
+   "term": "둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a, b$",
+   "meaning": "칠교 조각의 변의 길이를 나타내는 문자",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\%$",
+   "meaning": "백분율, 할인율 표시",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "정가가 같은 옷을 A 상점(30% 할인 후 오늘만 추가 20% 할인)과 인터넷 쇼핑몰(50% 할인)에서 살 때, 어디가 더 저렴한지 문자를 사용한 식으로 설명한다",
+   "competencyIcons": [
+    "문제해결",
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "칠교 조각을 모두 사용해 <그림 1>의 모양을 완성하고 그 둘레의 길이를 a, b를 사용한 식으로 나타낸다",
+   "competencyIcons": [
+    "추론",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "A 상점은 30% 할인에 오늘만 추가 20% 할인, 인터넷 쇼핑몰은 50% 할인이라는 대화가 담긴 만화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "칠교 조각으로 만든 정사각형에서 작은 직각이등변삼각형의 변 a와 b를 표시한 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "칠교 조각으로 완성할 새 모양의 윤곽 <그림 1>",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "할인 판매",
+  "인터넷 쇼핑",
+  "칠교놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "대단원 '문자의 사용과 식' 안의 '수학 역량 쑥쑥 더하기' 활동 쪽이다. 쪽 아래의 'Ⅱ. 문자와 식'은 글자층과 이미지 모두에서 확인되며 제공된 대단원 목록과 표기가 조금 다르다. 소단원 번호는 보이지 않는다. 칠교 활동에는 '준비물 2' 표시가 있다. 할인 문제는 정가를 문자로 두고 비교하는 활동으로 보이나, 정가를 나타내는 문자는 이 쪽에 주어져 있지 않다.",
+ "_page": 78,
+ "_usage": {
+  "in": 4399,
+  "out": 1106,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,169 @@
+{
+ "printedPage": "53",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.4 정수와 유리수의 뺄셈",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "괄호의 생략",
+   "role": "정의",
+   "definition": "덧셈과 뺄셈이 섞인 식에서 양수는 부호와 괄호를 생략하고, 음수는 식의 맨 앞에 나올 때 괄호를 생략하여 나타낼 수 있다.",
+   "notation": ""
+  },
+  {
+   "term": "정수와 유리수의 뺄셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부호 바꾸기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$+,\\,-$",
+   "meaning": "양의 부호, 음의 부호 및 덧셈·뺄셈 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "▲, ▼",
+   "meaning": "전일 대비 증가, 감소 표시",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$(-4)-(+5)+(+3)=-4-5+3$",
+   "plain": "덧셈·뺄셈이 섞인 식에서 양수는 부호와 괄호를, 식 맨 앞의 음수는 괄호를 생략해 나타낼 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$-4-5+3=(-4)-(+5)+(+3)=(-4)+(-5)+(+3)=(-9)+(+3)=-6$",
+   "plain": "괄호가 없는 식은 괄호를 다시 넣고 뺄셈을 덧셈으로 바꾸어 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$(+7)-(+4)=(+7)+(-4)=+3$",
+   "plain": "뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 바꾼다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$(+7)-(-4)=(+7)+(+4)=+11$",
+   "plain": "음수를 빼는 것은 양수를 더하는 것과 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  }
+ ],
+ "examples": [
+  {
+   "title": "괄호 없는 식의 계산",
+   "summary": "$-4-5+3$을 괄호를 넣어 덧셈으로 바꾼 뒤 $-6$으로 계산한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(+2)+(-3)-(-4)-(+5)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수가 포함된 정수·유리수의 덧셈과 뺄셈 $\\left(-\\frac{3}{4}\\right)-\\left(-\\frac{3}{5}\\right)+\\left(-\\frac{1}{4}\\right)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "괄호 없는 식 $-5-3-9+19$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 4 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "괄호 없는 분수식 $\\frac{2}{3}-\\frac{5}{6}+\\frac{3}{5}$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "구하고, 설명하시오",
+   "summary": "3월 27일 환율이 1322.5원일 때 전일 대비 변동표를 이용해 3월 31일 환율을 구하고 계산 방법을 설명한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "3월 28일~31일 원/달러 환율의 전일 대비 변동(▼2.4, ▲1.8, ▲3.9, ▼8.8)을 나타낸 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기 코너의 빨랫줄 그림으로, 뺄셈을 부호 바꾸기를 통해 덧셈으로 바꾸는 과정을 보여 줌",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "원/달러 환율 변동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기' 코너는 뺄셈을 덧셈으로 바꾸는 요약 그림이다. 쪽 하단에는 '2.4 정수와 유리수의 뺄셈'으로 표시되어 있다. 문제 3 (1)의 식은 글자층과 이미지가 조금 달라 이미지를 따랐다: 이미지는 (+2)+(-3)-(-4)-(+5)로 보인다.",
+ "_page": 53,
+ "_profile": "full",
+ "_usage": {
+  "in": 4642,
+  "out": 1833,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

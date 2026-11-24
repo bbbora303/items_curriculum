@@ -1,0 +1,69 @@
+{
+ "printedPage": "170",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "미술과 수학 사이 (옵티컬 아트)"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "옵티컬 아트(옵아트)",
+   "role": "정의",
+   "definition": "시각적 착각을 다룬 추상 미술의 한 장르이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "격자·원·방사선이 그려진 빈 곳에 색칠하여 나만의 옵아트 작품을 만든다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "소실점을 중심으로 정사각형·원·방사선이 겹쳐진 원근 무늬 도안으로, 색칠 활동에 쓰인다.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "흑백 줄무늬 옷을 입은 모델, 얼룩말 무늬 옷, 줄무늬·점무늬 구 등 옵아트 사례 사진.",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "옵티컬 아트",
+  "시각적 착시",
+  "패션·디자인",
+  "대중 예술",
+  "진로 탐색(전시 기획자, 미술 치료사, 예술 상담사, 미술품 경매사)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "하단에 'Ⅳ. 도형의 기초'로 표시되어 있으나 대단원 목록에 맞춰 chapter를 '기본 도형'으로 적었다. 수학 개념의 직접적 정의나 문제는 없고 미술과 연계한 읽기·색칠 활동 쪽이다. 상단의 '수군수군' 로고는 코너 표지이다.",
+ "_page": 170,
+ "_usage": {
+  "in": 4257,
+  "out": 688,
+  "sec": 5.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,145 @@
+{
+ "printedPage": "230",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "생각2 구의 부피는 어떻게 구할까요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "구의 부피",
+   "role": "정의",
+   "definition": "반지름의 길이가 r인 구의 부피는 같은 반지름과 높이 2r인 원기둥 부피의 2/3이며 \\frac{4}{3}\\pi r^3 이다.",
+   "notation": "\\frac{4}{3}\\pi r^3"
+  },
+  {
+   "term": "원기둥의 부피",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\pi r^2 \\times 2r"
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": "r"
+  },
+  {
+   "term": "아르키메데스",
+   "role": "사용",
+   "definition": "고대 그리스의 수학자로, 원기둥에 꼭 맞게 들어간 구의 부피가 그 원기둥 부피의 2/3임을 밝혔다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "r",
+   "meaning": "구의 반지름의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\frac{4}{3}\\pi r^3",
+   "meaning": "반지름이 r인 구의 부피",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(구의 부피)=\\frac{2}{3}\\times(원기둥의 부피)",
+   "plain": "구의 부피는 구에 꼭 맞는 원기둥 부피의 2/3이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(구의 부피)=\\frac{2}{3}\\times(\\pi r^2\\times 2r)=\\frac{4}{3}\\pi r^3",
+   "plain": "원기둥 부피의 2/3로 구의 부피 공식을 유도한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "V=\\frac{4}{3}\\pi r^3",
+   "plain": "반지름의 길이가 r인 구의 부피는 4/3πr³이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "반지름이 3 cm인 구의 부피를 공식에 대입해 36π cm³를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "구 모양 그릇의 모래를 원기둥 모양 그릇에 부으면 원기둥의 얼마만큼 차는지 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "(구의 부피)=□×(원기둥의 부피)에서 빈칸에 알맞은 수를 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "구 모양 그릇에 모래를 채우고 원기둥 모양 그릇에 붓는 활동 사진(➊, ➋)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원기둥 안에 구가 꼭 맞게 들어간 그림으로 반지름 r과 높이 2r을 표시",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "모래 채우기 활동",
+  "아르키메데스 일화"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "활동 1, 2의 빈칸에 들어갈 답(2/3)은 쪽에 적혀 있지 않다. '생각 2' 코너의 활동이며 소단원 번호는 보이지 않는다.",
+ "_page": 230,
+ "_profile": "full",
+ "_usage": {
+  "in": 4614,
+  "out": 1360,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

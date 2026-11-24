@@ -1,0 +1,111 @@
+{
+ "printedPage": "142",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "1학기 말 활동 - 좌표평면 위의 오목 놀이"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x축",
+   "role": "사용",
+   "definition": "",
+   "notation": "$x$축"
+  },
+  {
+   "term": "y축",
+   "role": "사용",
+   "definition": "",
+   "notation": "$y$축"
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "x축(가로 좌표축)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y$",
+   "meaning": "y축(세로 좌표축)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "모눈종이 위에 $x$축, $y$축, 원점을 표시하고 좌표를 말하면 그 좌표에 점을 찍는다.",
+   "plain": "두 사람이 한 팀이 되어 좌표를 말하고 점을 찍는 놀이로, 5개의 점을 가로·세로·대각선으로 먼저 한 줄로 이으면 이긴다.",
+   "_raw": "방법",
+   "statementType": "활동 안내"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "모눈종이 좌표평면에 좌표를 말하고 점을 찍는 오목 놀이를 한다(4명, 서로 다른 색연필 2자루 사용).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "오목판과 바둑돌, 모눈종이 배경 위에서 오목 놀이를 권하는 학생의 모습",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "바둑돌 통, 색연필, 흑백 바둑돌 장식",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "오목 놀이",
+  "바둑돌",
+  "색연필",
+  "모눈종이",
+  "해설자 중계"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "1학기 말 활동 쪽이라 새로 정의되는 용어는 없고, 좌표평면·좌표·원점 등은 이미 배운 것으로 전제하고 사용한다. 소단원 번호는 보이지 않아 section은 비워 두었다. 대단원은 좌표평면 관련 활동이라 '좌표평면과 그래프'로 추정했다. 'FUN한 도움말' 박스에 결승전에서 해설자 2명을 정해 중계하면 재미가 커진다는 안내가 있다.",
+ "_page": 142,
+ "_usage": {
+  "in": 4242,
+  "out": 969,
+  "sec": 6.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

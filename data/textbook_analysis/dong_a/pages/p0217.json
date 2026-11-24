@@ -1,0 +1,172 @@
+{
+ "printedPage": "217",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.2 회전체",
+  "area": "개념 설명 / 문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "원뿔대",
+   "role": "정의",
+   "definition": "원뿔을 밑면에 평행한 평면으로 자를 때 생기는 두 입체도형 중 원뿔이 아닌 쪽의 입체도형이다.",
+   "notation": ""
+  },
+  {
+   "term": "밑면(원뿔대)",
+   "role": "정의",
+   "definition": "원뿔대에서 서로 평행한 두 면이다.",
+   "notation": ""
+  },
+  {
+   "term": "옆면(원뿔대)",
+   "role": "정의",
+   "definition": "원뿔대에서 밑면이 아닌 면이다.",
+   "notation": ""
+  },
+  {
+   "term": "높이(원뿔대)",
+   "role": "정의",
+   "definition": "원뿔대의 두 밑면에 수직인 선분의 길이이다.",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "단면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "원뿔대: 원뿔을 밑면에 평행한 평면으로 잘라 원뿔이 아닌 쪽",
+   "plain": "원뿔의 윗부분을 평행하게 잘라 낸 나머지 입체가 원뿔대이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원뿔대의 높이: 두 밑면에 수직인 선분의 길이",
+   "plain": "두 밑면 사이의 수직 거리가 높이이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "원기둥, 원뿔, 구, 원뿔대는 모두 회전체이다",
+   "plain": "평면도형을 한 직선을 축으로 회전시키면 이 입체들이 만들어진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "원뿔대를 회전축에 수직인 평면과 회전축을 포함하는 평면으로 자른 단면의 모양을 각각 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "원뿔의 전개도에서 옆면이 어떤 모양일지 추측하고 그 이유를 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "원뿔을 밑면에 평행한 평면으로 잘라 원뿔대가 생기는 과정과 원뿔대의 밑면, 옆면, 높이를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "회전축이 표시된 원뿔대와 단면을 그릴 빈 상자 두 개",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "원뿔을 잘라 전개도로 펼치는 과정(옆면은 부채꼴 모양, 밑면은 원)",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직사각형, 직각삼각형, 반원, 사다리꼴을 회전시켜 원기둥, 원뿔, 구, 원뿔대가 만들어지는 모습",
+   "_raw": "그림",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "수학 집 짓기 코너에서 '원뿔대'와 '회전체'는 빈칸 형태로 제시되어 있다. 원뿔의 전개도 그림에서 옆면이 부채꼴임을 암시하지만 쪽에서 직접 말하지는 않는다. 단원 표시는 7단원이다.",
+ "_page": 217,
+ "_profile": "full",
+ "_usage": {
+  "in": 4341,
+  "out": 1509,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

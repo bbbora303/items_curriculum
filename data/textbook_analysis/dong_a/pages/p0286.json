@@ -1,0 +1,107 @@
+{
+ "printedPage": "286",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.1 순서쌍과 좌표",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": "(18, 79)"
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": "A(1)"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "A(2, 2)",
+   "meaning": "좌표평면 위 점 A의 좌표(순서쌍)",
+   "role": "사용"
+  },
+  {
+   "symbol": "A(1)",
+   "meaning": "수직선 위 점 A의 좌표",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(18, 79) \\neq (79, 18)",
+   "plain": "순서쌍은 두 수의 순서를 정한 것이므로 순서가 다르면 서로 다른 순서쌍이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "준비해요 2번 답: 수직선 위에 $\\frac{5}{2}$ 위치를 표시한 그림",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3 답: 좌표평면에 점 A, B, C, D를 나타낸 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "해결해요 1번 답: 수직선 위에 점 P, Q, R을 표시한 그림",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "해결해요 4번 답: 좌표평면에 점 A, B, C, D를 나타낸 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "앞 단원 서술형 문제 2번 예시 답에 나온 여름 방학 동영상 장면 1~4 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "여름 방학 동영상 장면",
+  "극장 좌석 번호",
+  "온도(18 °C)",
+  "거리(−3 km)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이다. 왼쪽 위는 앞 단원(일차방정식 활용) 서술형 문제의 예시 답안(2, 4, 5번)이고, 오른쪽은 4단원 '좌표평면과 그래프'의 준비해요·4.1 순서쌍과 좌표·해결해요 정답이다. 왼쪽 단원 이름은 쪽에 인쇄되어 있지 않다. 새로 정의되는 용어는 없고 정답만 있다. '수학 집 짓기 3, 2, 3, +, −'는 정답 표기 그대로 옮겼다.",
+ "_page": 286,
+ "_profile": "full",
+ "_usage": {
+  "in": 4925,
+  "out": 1001,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,194 @@
+{
+ "printedPage": "306",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "정답과 해설 (중단원 마무리 232~233쪽, 창의 융합 컴퓨팅 234쪽, 대단원 마무리 235~237쪽의 정답과 풀이)"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정육각형의 한 외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정팔각형의 한 외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정이십면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피의 비",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle a+\\angle b$",
+   "meaning": "두 각의 크기의 합",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$20:140=1:7$",
+   "meaning": "부피의 비를 간단한 자연수의 비로 나타냄",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\frac{360^\\circ}{n}$",
+   "plain": "정다각형의 한 외각의 크기는 360°를 변의 수로 나눈 값이다(풀이에서 정육각형 60°, 정팔각형 45°에 사용).",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "삼각형의 세 내각의 크기의 합은 $180^\\circ$",
+   "plain": "삼각형의 내각의 크기의 합을 이용해 $\\angle a+\\angle b$를 구한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$V=\\frac{1}{3}\\times(\\text{밑넓이})\\times(\\text{높이})$",
+   "plain": "뿔의 부피 공식을 사용하고, 뿔대의 부피는 큰 뿔에서 작은 뿔을 뺀다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$V=\\frac{4}{3}\\pi r^3$",
+   "plain": "구의 부피 공식을 사용한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "15",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "정육각형과 정팔각형의 외각 360°/6=60°, 360°/8=45°와 삼각형 내각의 합으로 ∠a+∠b=75°를 구하는 풀이 (배점 40/50/10%)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "16",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "사각뿔 ㉮의 부피 20 cm³, 사각뿔대 ㉯의 부피 140 cm³, 부피의 비 1:7 (배점 40/50/10%)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "17",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "공이 들어 있는 원기둥의 부피 32π로 πr²×4r=32π, r=2를 구하고 공 1개의 부피 32π/3 cm³ 구하기 (배점 60/40%)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "중단원 마무리 7 (문제 만들기)",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "반지름 5 cm인 구의 1/4을 잘라 내고 남은 입체도형의 겉넓이 (답 100π cm²)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "정육각형과 정팔각형을 변 하나에서 붙이고 각 60°, 45°, a, b를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 풀이의 구분/평가 요소/배점 채점 기준표(15, 16, 17번)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "구의 1/4을 잘라 낸 입체도형(반지름 5 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "3번 답: 두 선분이 교차하는 X자 모양 그림(점 4개)",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "창의 융합 컴퓨팅 (1) 도넛 모양 입체, (2) 보라색 입체 도형의 대수 도구 화면",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽이라 새로 정의되는 용어는 없고 모두 사용으로 분류함. 대단원 마무리 1~14번 답(②, 60, ㉠㉢, 20, ④, 3 cm, 2π cm², ①⑤, ⑤, ②, (117/2 π+60) cm², 320π cm³, 36π cm², 49/2 π cm²)과 중단원 마무리 1~9번 답이 나열되어 있음. 중단원 마무리 상단 빈칸 답은 '합동, 면 / 2 / 1/3, 1/3, 높이 / 4, 4/3'. 대단원은 입체도형의 성질로 추정함.",
+ "_page": 306,
+ "_usage": {
+  "in": 5258,
+  "out": 1966,
+  "sec": 12.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

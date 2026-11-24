@@ -1,0 +1,133 @@
+{
+ "printedPage": "107",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "1. 좌표평면과 그래프 (수직선 위의 점의 좌표 연습)",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "수직선 위의 점의 좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": "A(-3)"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "A(-3)",
+   "meaning": "수직선 위의 점 A의 좌표가 -3임",
+   "role": "사용"
+  },
+  {
+   "symbol": "S\\left(\\frac{5}{2}\\right)",
+   "meaning": "좌표가 5/2인 점 S",
+   "role": "사용"
+  },
+  {
+   "symbol": "O(0)",
+   "meaning": "원점 O의 좌표 0",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "수직선 위의 세 점 A, B, C의 좌표를 기호로 나타낸다 (점은 -3, -1, 2 위치).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "B(-2), T(1), S(5/2)를 수직선 위에 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "수직선 위의 두 점 P, Q의 좌표를 기호로 나타낸다 (P는 -2와 -1 사이, Q는 0과 1 사이).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "쉼터 O(0), 입구 B(1)일 때 그림의 거리(폭포~쉼터 2 km, 쉼터~입구 1 km)를 이용해 폭포의 위치를 기호로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "-4부터 4까지 눈금이 있는 수직선과 점 A, B, C가 표시됨.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "점을 나타낼 빈 수직선 (-4~4).",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "-2부터 2까지 눈금이 있는 수직선과 점 P, Q.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "폭포, 쉼터, 입구가 일직선상에 있는 풍경 그림과 A, O, B 점 및 거리 2 km, 1 km.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "푸드 트럭, 전신주, 비닐하우스에 사물 주소가 부여된 예시 그림 세 장.",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "사물 주소(푸드 트럭, 전신주, 비닐하우스)",
+  "지능형 도시와 4차 산업",
+  "폭포·쉼터·입구 위치와 거리(km)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "왼쪽은 기본 문제 1, 2이고 오른쪽은 +표시 문제 1+, 2+로 보임. 문제 1의 점 A, B, C 위치는 이미지로 읽은 값(-3, -1, 2)이고 P, Q의 정확한 위치는 눈금상 대략 -1.5, 0.5 근처로 보이며 확실하지 않음. 문제 2+의 폭포는 쉼터에서 2 km 떨어진 점 A로 보임. 하단은 '와글와글 수학 이야기'(연결 역량)로 좌표를 이용한 사물 주소를 소개하는 읽기 자료.",
+ "_page": 107,
+ "_usage": {
+  "in": 4476,
+  "out": 1429,
+  "sec": 9.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

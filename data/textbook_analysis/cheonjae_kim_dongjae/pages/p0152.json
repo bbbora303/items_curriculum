@@ -1,0 +1,188 @@
+{
+ "printedPage": "152",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "각의 표현과 크기 (소단원 번호는 이 쪽에 보이지 않음)",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "각 AOB",
+   "role": "정의",
+   "definition": "한 점 O에서 시작하는 두 반직선 OA와 OB로 이루어진 도형이다.",
+   "notation": "$\\angle AOB$, $\\angle BOA$, $\\angle O$, $\\angle a$"
+  },
+  {
+   "term": "각의 꼭짓점",
+   "role": "정의",
+   "definition": "각을 이루는 두 반직선이 시작하는 점이다.",
+   "notation": "점 O"
+  },
+  {
+   "term": "각의 변",
+   "role": "정의",
+   "definition": "각을 이루는 두 반직선이다.",
+   "notation": "반직선 OA, OB"
+  },
+  {
+   "term": "각의 크기",
+   "role": "정의",
+   "definition": "꼭짓점 O를 중심으로 변 OA가 변 OB까지 회전한 양이다.",
+   "notation": "$\\angle AOB=45^\\circ$"
+  },
+  {
+   "term": "평각",
+   "role": "정의",
+   "definition": "각의 두 변이 꼭짓점을 중심으로 반대쪽에 있어 한 직선을 이루는 각이다.",
+   "notation": "180^\\circ"
+  },
+  {
+   "term": "직각",
+   "role": "사용",
+   "definition": "",
+   "notation": "90^\\circ"
+  },
+  {
+   "term": "예각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "둔각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "각 AOB 또는 그 각의 크기",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\angle O$",
+   "meaning": "꼭짓점 O만으로 나타낸 각 AOB",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "그림의 문자 a로 나타낸 각",
+   "role": "정의"
+  },
+  {
+   "symbol": "$^\\circ$",
+   "meaning": "각의 크기를 나타내는 단위(도)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\angle AOB$ 또는 $\\angle BOA$",
+   "plain": "두 반직선 OA, OB로 이루어진 각을 기호 ∠로 나타낸다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "$\\angle AOB=45^\\circ$ 또는 $\\angle O=45^\\circ$ 또는 $\\angle a=45^\\circ$",
+   "plain": "각 기호는 각 자체와 각의 크기 모두를 나타낼 수 있다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "평각의 크기 $=180^\\circ$",
+   "plain": "평각의 크기는 180°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "직각 $=\\frac{1}{2}\\times$ 평각 $=90^\\circ$",
+   "plain": "직각의 크기는 평각 크기의 절반이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "각의 크기는 보통 작은 쪽을 말한다. 예: ∠AOB는 150°와 210° 중 150°이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시: ∠AOB의 크기가 45°일 때",
+   "summary": "∠AOB=45° 또는 ∠O=45° 또는 ∠a=45°로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "바르게 앉은 자세와 잘못 앉은 자세에 표시된 각 중 예각, 직각, 둔각을 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "바르게 앉은 자세와 잘못 앉은 자세로 컴퓨터 앞에 앉은 학생 그림. 몸에 각이 표시되어 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "점 O에서 시작하는 두 반직선 OA, OB와 각 a를 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "각의 꼭짓점, 각의 변, ∠AOB의 크기를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "∠AOB의 두 크기 150°와 210°를 표시한 그림 (참고)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "각도기 위에 평각 AOB를 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "바른 자세와 스트레칭 (건강)",
+  "책상에 앉은 자세"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "건강"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 추정해 적었다. 예각, 직각, 둔각은 '생각 열기'에서 이미 아는 용어로 쓰이고 이 쪽에서 정의되지 않는다. 직각은 평각의 절반이라는 설명에서 크기만 언급된다. '건강' 아이콘은 교과 역량이 아니라 생각 열기의 주제 표시일 수 있다.",
+ "_page": 152,
+ "_usage": {
+  "in": 4644,
+  "out": 1864,
+  "sec": 11.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

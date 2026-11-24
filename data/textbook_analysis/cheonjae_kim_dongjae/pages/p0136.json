@@ -1,0 +1,151 @@
+{
+ "printedPage": "136",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "창의 융합 컴퓨팅: 그래프를 이용하여 무늬 그리기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정비례 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "반비례 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{b}{x}"
+  },
+  {
+   "term": "슬라이더",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자취 보이기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax",
+   "meaning": "정비례 관계식(a는 슬라이더로 조절)",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{b}{x}",
+   "meaning": "반비례 관계식(b는 슬라이더로 조절)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "❶",
+   "level": "활동",
+   "verb": "입력한다",
+   "summary": "대수 창에 y=ax를 입력하고 슬라이더 a를 -5~5 사이에서 움직여 그래프 변화를 관찰한다(a=1.5 그래프 제시).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "❷",
+   "level": "활동",
+   "verb": "그린다",
+   "summary": "직선에 대고 자취 보이기를 켠 뒤 a를 움직여 여러 직선으로 무늬를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "❸",
+   "level": "활동",
+   "verb": "나타내어 본다",
+   "summary": "같은 방법으로 반비례 관계 y=b/x의 그래프를 나타낸다(b=5 등).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "❹",
+   "level": "활동",
+   "verb": "그려 본다",
+   "summary": "그래프를 추가하고 슬라이더 범위를 조절하며 다양한 무늬를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "마무리 질문",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "자신이 그린 무늬를 얻기 위해 정비례·반비례 그래프의 특징을 어떻게 이용했는지 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "그래프 소프트웨어 화면에서 a=1.5일 때 y=ax의 직선 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "자취 보이기로 원점을 지나는 여러 직선이 부채꼴 무늬를 이룬 화면",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "y=ax 직선들과 y=b/x 곡선들이 함께 그려진 화면",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "파란색·주황색 그래프를 여러 개 겹쳐 만든 복합 무늬 화면",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "그래프 소프트웨어(공학 도구)",
+  "무늬 그리기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "창의 융합 컴퓨팅 활동 쪽. DIGITAL 배너와 활동 영상 QR 코드가 있음. 소단원 번호는 보이지 않음. 역량 아이콘은 뚜렷하게 보이지 않아 마무리 질문 쪽 말풍선 아이콘을 의사소통으로 추정함. 화면 속 작은 글자(a=2.6, b=5, c=-2.7 등)는 일부만 읽힘.",
+ "_page": 136,
+ "_usage": {
+  "in": 4633,
+  "out": 1381,
+  "sec": 8.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

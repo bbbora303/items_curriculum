@@ -1,0 +1,145 @@
+{
+ "printedPage": "92",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "일차방정식의 활용",
+  "area": "생각 열기 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": "x"
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식의 활용",
+   "role": "정의",
+   "definition": "구하려는 수량을 미지수로 놓고 조건으로 일차방정식을 세워 풀어 문제를 해결하는 것이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "구하려는 값(텃밭의 가로 길이)을 나타내는 미지수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(x+8)$",
+   "meaning": "텃밭의 세로 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "미지수 정하기 → 방정식 세우기 → 방정식 풀기 → 확인하기",
+   "plain": "일차방정식으로 문제를 풀 때는 4단계 순서로 해결한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "2\\{x+(x+8)\\}=64",
+   "plain": "직사각형의 둘레 조건으로 일차방정식을 세운다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x+(x+8)=32,\\ 2x+8=32,\\ 2x=24,\\ x=12",
+   "plain": "방정식을 풀어 가로의 길이 12 m를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "2\\times(12+20)=64",
+   "plain": "구한 해를 문제 상황에 대입해 맞는지 확인한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "텃밭의 가로 길이 구하기",
+   "summary": "둘레 64 m이고 세로가 가로보다 8 m 긴 직사각형 텃밭의 가로 길이를 일차방정식으로 구한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 1",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "구하려고 하는 것이 무엇인지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 2",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "구하려는 것을 미지수 x로 놓고 식을 만든다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "학생들이 생태 텃밭에서 텃밭을 가꾸며 문제 상황을 말하는 만화 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "가로 x m, 세로 (x+8) m인 직사각형 텃밭 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "일차방정식 활용 4단계(미지수 정하기, 방정식 세우기, 방정식 풀기, 확인하기)를 설명과 예시로 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "생태 텃밭 가꾸기",
+  "직사각형 텃밭의 둘레와 길이",
+  "환경"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'환경' 아이콘은 교과 연계 표시로 보이며 역량 아이콘은 보이지 않는다. 단원 표시는 쪽 아래 'Ⅱ. 문자와 식'(대단원)만 보이며, chapter는 목록의 '일차방정식'으로 추정했다. 소단원 번호와 제목은 보이지 않아 section은 내용에 따라 추정했다.",
+ "_page": 92,
+ "_usage": {
+  "in": 4781,
+  "out": 1349,
+  "sec": 9.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

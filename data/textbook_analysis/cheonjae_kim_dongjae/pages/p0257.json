@@ -1,0 +1,160 @@
+{
+ "printedPage": "257",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "상대도수의 분포를 나타낸 그래프(상대도수의 분포를 표현한 도수분포다각형 모양의 그래프 비교)",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수의 분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형 모양의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "두 도수분포다각형 모양의 그래프에서 분포의 특징 말하기",
+   "plain": "만족도 60점 미만에서는 A 학교의 비율이 더 높고, 60점 이상에서는 B 학교의 비율이 더 높다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "그래프가 오른쪽으로 치우칠수록 상대적으로 값이 큰 쪽에 분포한다",
+   "plain": "B 학교 그래프가 A 학교보다 오른쪽으로 치우쳐 있어 B 학교의 만족도가 상대적으로 더 높다고 할 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "A반 20명, B반 25명의 신발 크기 도수분포표에서 상대도수 칸을 채워 표를 완성한다(5개 계급).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "1에서 구한 두 반의 상대도수 분포표를 도수분포다각형 모양의 그래프로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2 (1)",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "1학년 200명, 3학년 250명의 수면 시간 그래프에서 학년별로 상대도수가 가장 큰 계급을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2 (2)",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "수면 시간이 7시간 이상 8시간 미만인 학생의 비율이 더 높은 학년을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "2의 1학년과 3학년 그래프에서 알 수 있는 분포의 특징을 말한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "신발 크기 계급별 A반·B반 학생 수와 빈 상대도수 칸이 있는 도수분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "신발 크기(220~270mm)와 상대도수(0~0.4)를 축으로 하는 빈 격자 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "수면 시간(4~9시간)에 따른 1학년·3학년 상대도수의 도수분포다각형 모양 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "이불을 덮고 자는 아이와 고양이 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "신발 크기",
+  "수면 시간",
+  "학교 만족도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽 위의 만족도 비교 설명 상자는 앞 쪽 그래프(A·B 학교)에 이어지는 내용이라 그래프는 이 쪽에 보이지 않는다. 새 용어 정의는 없고 상대도수 관련 개념은 앞에서 배운 것을 사용한다. 2번 그래프의 점 값은 눈금으로만 읽을 수 있어 구체적 수치는 적지 않았다.",
+ "_page": 257,
+ "_usage": {
+  "in": 4800,
+  "out": 1536,
+  "sec": 9.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

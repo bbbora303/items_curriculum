@@ -1,0 +1,68 @@
+{
+ "printedPage": "17",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1. 소인수분해",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "verbs": [
+  "구하시오",
+  "찾으시오",
+  "말하시오",
+  "연결하여 보자"
+ ],
+ "contexts": [
+  "캠핑 텐트 풍경 그림(점잇기)"
+ ],
+ "essay": false,
+ "dataFigures": false,
+ "problemCount": 6,
+ "notes": "배우고 익히기 문제 1, 2와 심화(1⁺, 2⁺), 와글와글 수학 활동 1개를 문제로 셈. 2⁺는 '추론' 표시가 있음. 새로 정의되는 용어는 없고 앞서 배운 용어를 사용함. 오른쪽 위 FUN 코너('서로소'로 삼행시 짓기)는 언어 놀이라 문제 수에서 제외함. 점잇기 그림은 장식에 가까워 dataFigures는 false로 둠.",
+ "_page": 17,
+ "_profile": "lite",
+ "_usage": {
+  "in": 3082,
+  "out": 512,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ }
+}

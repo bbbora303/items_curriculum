@@ -1,0 +1,180 @@
+{
+ "printedPage": "75",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "생각열기",
+   "label": "생각 2",
+   "corner": "생각",
+   "icons": [],
+   "level": "",
+   "text": "곱셈 기호 $\\times$와 나눗셈 기호 $\\div$가 있는 식을 어떻게 간단히 나타낼까요?\n문자를 사용한 식 $5\\times x\\times y$는 곱셈 기호 $\\times$를 생략하여 간단히 $5xy$로 나타낼 수 있다.\n일반적으로 문자를 사용한 식에서 곱셈 기호 $\\times$를 생략하여 간단히 나타낼 때, 다음과 같이 약속한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "곱셈 기호 ×의 생략",
+   "corner": "약속 상자",
+   "icons": [],
+   "level": "",
+   "text": "곱셈 기호 $\\times$의 생략\n1 수와 문자의 곱에서는 곱셈 기호 $\\times$를 생략하고, 수를 문자 앞에 쓴다.\n예) $3\\times a=3a$, $x\\times(-2)=-2x$\n2 문자와 문자의 곱에서는 곱셈 기호 $\\times$를 생략하고, 보통 알파벳 순서로 쓴다.\n예) $b\\times a=ab$\n3 같은 문자의 곱은 거듭제곱으로 나타낸다.\n예) $x\\times y\\times x\\times y\\times y=x^2y^3$\n4 괄호가 있는 식과 수의 곱에서는 곱셈 기호 $\\times$를 생략하고, 곱해지는 수를 괄호 앞에 쓴다.\n예) $(a+1)\\times 2=2(a+1)$",
+   "subItems": [
+    {
+     "label": "1",
+     "text": "수와 문자의 곱에서는 곱셈 기호 $\\times$를 생략하고, 수를 문자 앞에 쓴다. 예) $3\\times a=3a$, $x\\times(-2)=-2x$"
+    },
+    {
+     "label": "2",
+     "text": "문자와 문자의 곱에서는 곱셈 기호 $\\times$를 생략하고, 보통 알파벳 순서로 쓴다. 예) $b\\times a=ab$"
+    },
+    {
+     "label": "3",
+     "text": "같은 문자의 곱은 거듭제곱으로 나타낸다. 예) $x\\times y\\times x\\times y\\times y=x^2y^3$"
+    },
+    {
+     "label": "4",
+     "text": "괄호가 있는 식과 수의 곱에서는 곱셈 기호 $\\times$를 생략하고, 곱해지는 수를 괄호 앞에 쓴다. 예) $(a+1)\\times 2=2(a+1)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "(1) $1\\times 2=2$, $(-1)\\times 2=-2$와 같이 1 또는 $-1$과 문자의 곱에서는 1을 생략한다. 예를 들어 $1\\times a=a$, $(-1)\\times a=-a$로 쓴다.\n(2) $0.1\\times a$에서는 1을 생략하지 않고 $0.1a$로 쓴다.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$1\\times 2=2$, $(-1)\\times 2=-2$와 같이 1 또는 $-1$과 문자의 곱에서는 1을 생략한다. 예를 들어 $1\\times a=a$, $(-1)\\times a=-a$로 쓴다."
+    },
+    {
+     "label": "(2)",
+     "text": "$0.1\\times a$에서는 1을 생략하지 않고 $0.1a$로 쓴다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 식을 곱셈 기호 $\\times$를 생략하여 나타내시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$a\\times b\\times 2$"
+    },
+    {
+     "label": "(2)",
+     "text": "$x\\times 3\\times y\\times x$"
+    },
+    {
+     "label": "(3)",
+     "text": "$(a+b-1)\\times 5$"
+    },
+    {
+     "label": "(4)",
+     "text": "$(-1)\\times(x-y)\\times a$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "곱셈 기호를 생략한 식 쓰기"
+  },
+  {
+   "kind": "기타",
+   "label": "나눗셈 기호 ÷의 생략 도입",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "문자를 사용한 식 $a\\div 2$는 나눗셈 기호 $\\div$를 쓰지 않고 간단히 $\\frac{a}{2}$로 나타낼 수 있다.\n일반적으로 문자를 사용한 식에서 나눗셈 기호 $\\div$를 쓰지 않고 간단히 나타낼 때, 다음과 같이 약속한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "나눗셈 기호 ÷의 생략",
+   "corner": "약속 상자",
+   "icons": [],
+   "level": "",
+   "text": "나눗셈 기호 $\\div$의 생략\n나눗셈 기호 $\\div$를 쓰지 않고, 분수 꼴로 나타낸다.\n$a\\div b=\\frac{a}{b}$ (단, $b\\neq 0$)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "$a\\div 2=a\\times\\frac{1}{2}=\\frac{1}{2}a$이므로 $\\frac{a}{2}$를 $\\frac{1}{2}a$로 나타내기도 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "수학 톡 지식 톡",
+   "corner": "수학 톡 지식 톡",
+   "icons": [],
+   "level": "",
+   "text": "비에타(Vieta, F., 1540~1603)는 프랑스의 수학자로, 처음으로 알파벳을 사용하여 미지수를 나타냈다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "여백 주석",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "'$b$는 0이 아니다'를 기호 $\\neq$를 사용하여 $b\\neq 0$으로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [],
+ "incomplete": "쪽 오른쪽 가장자리에 '3 단원' 표시가 있음(본문 아님). 그 외 읽지 못한 부분 없음.",
+ "_page": 75,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4391,
+  "out": 3074,
+  "sec": 17.4,
+  "stop": "end_turn"
+ }
+}

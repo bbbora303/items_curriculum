@@ -1,0 +1,175 @@
+{
+ "printedPage": "255",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수의 분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "학생 50명의 여가 활동 시간 도수분포표(도수 6, 9, 18, 10, 7)에서 상대도수 칸을 채워 표를 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1⁺",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "1에서 구한 상대도수의 분포표를 도수분포다각형 모양의 그래프로 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "상대도수의 분포 그래프에서 상대도수가 0.25인 계급을 찾는다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2 (2)",
+   "level": "기본",
+   "verb": "몇 %인가",
+   "summary": "기록이 160 cm 미만인 학생 수가 전체의 몇 %인지 구한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (3)",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "각 계급의 상대도수의 합이 1이 되는지 확인하고 그 까닭을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2 (4)",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "그래프에서 알 수 있는 분포의 특징을 말한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2⁺",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "방문 횟수 8회 이상 11회 미만 계급의 학생 수가 4명이고 상대도수가 0.16일 때 전체 학생 수를 구한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "여가 활동 시간의 계급, 학생 수, 상대도수(빈칸) 분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "여가 활동 시간 상대도수 그래프를 그리기 위한 빈 격자 (가로 20~100분, 세로 0~0.4)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "제자리멀리뛰기 기록의 상대도수 도수분포다각형 (130~190 cm)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "모래판에서 멀리뛰기를 하는 학생 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "여가 활동 시간",
+  "제자리멀리뛰기 기록",
+  "문구점 방문 횟수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 이 쪽에 보이지 않아 비워 둠. 도수분포다각형 그래프의 각 점 값은 정확히 읽기 어려워 옮기지 않음. 2번의 세로축 눈금(0.05 간격)은 읽을 수 있으나 점 위치는 추정이 필요함.",
+ "_page": 255,
+ "_usage": {
+  "in": 4626,
+  "out": 1432,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

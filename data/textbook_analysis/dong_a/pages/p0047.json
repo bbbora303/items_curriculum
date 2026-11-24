@@ -1,0 +1,229 @@
+{
+ "printedPage": "47",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.3 정수와 유리수의 덧셈",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정수의 덧셈",
+   "role": "정의",
+   "definition": "수직선에서 이동을 이용해 두 정수의 합을 구하는 것으로, 부호가 같은지 다른지에 따라 계산 방법이 정리된다.",
+   "notation": ""
+  },
+  {
+   "term": "유리수의 덧셈",
+   "role": "정의",
+   "definition": "유리수의 덧셈도 정수의 덧셈과 같은 방법으로 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(+4)+(-3)$",
+   "meaning": "양의 정수와 음의 정수의 덧셈 표기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(-3)+(+2)$",
+   "meaning": "음의 정수와 양의 정수의 덧셈 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$(+4)+(-3)=+(4-3)=+1$",
+   "plain": "양수 이동 후 음수 이동은 원점에서 오른쪽으로 4, 왼쪽으로 3 이동하여 +1이 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$(-3)+(+2)=-(3-2)=-1$",
+   "plain": "왼쪽으로 3, 오른쪽으로 2 이동하면 -1이 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "부호가 같은 두 수의 합: 절댓값의 합에 공통 부호",
+   "plain": "부호가 같은 두 수를 더하면 절댓값을 더하고 공통인 부호를 붙인다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "부호가 다른 두 수의 합: 절댓값의 차에 절댓값이 큰 수의 부호",
+   "plain": "부호가 다른 두 수를 더하면 절댓값의 큰 수에서 작은 수를 빼고 절댓값이 큰 수의 부호를 붙인다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "절댓값이 같고 부호가 다른 두 수의 합은 $0$",
+   "plain": "절댓값이 같고 부호가 반대인 두 수를 더하면 0이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "어떤 수와 $0$의 합은 그 수 자신",
+   "plain": "어떤 수에 0을 더해도 그 수 그대로이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "➌ (양의 정수)+(음의 정수)",
+   "summary": "(+4)+(-3)을 구슬 모형과 수직선 이동으로 계산하여 +1을 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "➍ (음의 정수)+(양의 정수)",
+   "summary": "(-3)+(+2)를 구슬 모형과 수직선 이동으로 계산하여 -1을 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "수직선을 이용한 정수의 덧셈 정리",
+   "summary": "네 가지 덧셈 사례를 절댓값의 합 또는 차로 정리하고 부호 규칙을 도식화한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "확인해요 (1)-(4)",
+   "level": "기본",
+   "verb": "빈칸 채우기(풀이 제시)",
+   "summary": "정수의 덧셈 네 문항을 부호 규칙에 따라 계산한 과정이 제시됨: (+4)+(+5), (-6)+(-2), (+3)+(-6), (-2)+(+5)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(+8)+(+6)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(-3)+(-7)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(+5)+(-5)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(-9)+(+4)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "빨간 구슬(+)과 파란 구슬(-)을 짝지어 없애는 방식으로 덧셈을 보여주는 구슬 모형",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(+4)+(-3)의 이동을 화살표로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(-3)+(+2)의 이동을 화살표로 나타낸 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부호 조합별 덧셈 결과(절댓값의 합/차, 부호)를 화살표로 정리한 도식",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 표시 없음. 쪽 오른쪽의 '2 단원' 표시로 대단원 2(정수와 유리수)임을 확인함. 앞 쪽에서 이어지는 ➊, ➋ 사례는 이 쪽에 없음.",
+ "_page": 47,
+ "_profile": "full",
+ "_usage": {
+  "in": 4906,
+  "out": 2145,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

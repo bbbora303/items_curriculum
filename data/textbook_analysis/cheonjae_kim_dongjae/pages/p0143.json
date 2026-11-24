@@ -1,0 +1,100 @@
+{
+ "printedPage": "143",
+ "unit": {
+  "chapter": "",
+  "section": "수학자 프로필 만들기",
+  "area": "1학기 말 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "알콰리즈미",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$ax+b=0$",
+   "meaning": "일차방정식의 꼴(예시 프로필 그림에 쓰임)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "수학자 선정 → 업적·공식·정리 조사 → 인터넷 프로필 꾸미고 글 작성",
+   "plain": "수학자를 정해 조사한 뒤 사진이나 그림으로 꾸미고 글을 써서 프로필을 만든다.",
+   "_raw": "방법",
+   "statementType": "활동 안내"
+  }
+ ],
+ "examples": [
+  {
+   "title": "알콰리즈미 프로필 예시",
+   "summary": "알콰리즈미의 생애(약 780년~약 850년), 출생지(페르시아 코라스미아), 종교(이슬람교), 업적(방정식 푸는 방법 연구)을 인물 그림과 $ax+b=0$으로 꾸민 SNS 형식의 프로필.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "수학자를 정해 업적과 공식, 정리 등을 조사하고, 인터넷 프로필을 사진이나 그림으로 꾸며 글로 작성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "스마트폰 SNS 화면 모양의 빈 칸으로, 수학자 프로필을 직접 만들어 넣는 공간.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "알콰리즈미의 인물 그림과 $ax+b=0$이 들어 있는 프로필 예시 화면.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "스마트폰으로 프로필 예시를 보는 손 사진과 하트·좋아요 아이콘.",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "SNS(인터넷) 프로필",
+  "수학자 알콰리즈미",
+  "스마트폰"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "1학기 말 활동 쪽으로 특정 대단원에 속하지 않아 chapter는 비워 둠. 새 용어나 개념의 정의는 없음. 예시 프로필의 $ax+b=0$은 일차방정식 단원 내용과 연결됨. 큰 빈 화면은 학생이 직접 작성하는 공간임.",
+ "_page": 143,
+ "_usage": {
+  "in": 4097,
+  "out": 984,
+  "sec": 6.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

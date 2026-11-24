@@ -1,0 +1,115 @@
+{
+ "printedPage": "206",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "수학 놀이터"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$30^\\circ$",
+   "meaning": "원 위에 점을 표시하는 간격(중심각의 크기)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율, 넓이 표현에 사용",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{m}^2$",
+   "meaning": "넓이의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "놀이 ❹",
+   "level": "활동",
+   "verb": "외친다(계산한다)",
+   "summary": "반지름 3 m, 4 m, 5 m인 원 위에서 30° 간격 점으로 만든 부채꼴 중 중심각이 작은 쪽의 넓이를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "중심이 같고 반지름이 3 m, 4 m, 5 m인 세 원 위에 30° 간격으로 점을 표시하고 학생들이 서 있는 모습",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "A, B, C 모둠의 1회·2회 점수(부채꼴 넓이)와 합계를 $\\pi$로 나타낸 점수판",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "학교 건물, 나무, 공놀이를 하는 학생들과 안내하는 학생",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "부채꼴 공놀이",
+  "체육 활동",
+  "모둠 점수 경쟁"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학+체육 융합 놀이 활동 쪽이며 새로운 개념 정의는 없다. 부채꼴과 그 넓이는 이 단원에서 배운 내용을 활용하는 것으로 보여 '사용'으로 분류했다. 소단원 번호는 보이지 않아 비워 두었다. 점수판의 값은 반지름 3 m일 때 중심각 30°이면 $\\frac{3}{4}\\pi$ 등으로 계산되지만, 표의 값(3π, 4π, 25/4π 등)은 선택한 두 점 사이의 중심각에 따라 달라지므로 구체적 계산 과정은 이 쪽에 나타나 있지 않다.",
+ "_page": 206,
+ "_profile": "full",
+ "_usage": {
+  "in": 4447,
+  "out": 1045,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

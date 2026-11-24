@@ -1,0 +1,44 @@
+{
+ "printedPage": "310",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "자료 출처 및 URL 목록"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [
+  "직업 정보(정보 보호 전문가, 도자 공예 디자이너, 작업 치료사, 에코 제품 디자이너, 도시 재생 전문가, 기후 변화 대응 전문가)",
+  "올림픽 게임",
+  "기후·온실가스 통계",
+  "열차 시각표",
+  "친환경차 수출",
+  "외래 관광객 조사",
+  "암호(에니그마)",
+  "석굴암",
+  "고려청자"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 부록 쪽이다. 대단원 1~8별로 사진·자료·URL의 출처를 쪽 번호와 함께 정리한 목록이며, 정답 및 풀이 항목(274쪽)과 저작권 안내 문구(※)가 있다. 글자층은 단 순서가 섞여 있어 이미지의 배치를 따랐다.",
+ "_page": 310,
+ "_profile": "full",
+ "_usage": {
+  "in": 6425,
+  "out": 417,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

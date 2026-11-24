@@ -1,0 +1,19 @@
+== cheonjae_check: 9수03-05 다각형의 성질을 이해하고 설명할 수 있다. | 교과서: 천재교육 (김동재)
+  [G0] 5s, 입력 1282 출력 634, stop=end_turn
+  평가 요소(자동 확정): ['다각형의 내각과 외각의 뜻을 알고 한 꼭짓점에서 내각과 외각의 크기 관계 구하기', '한 꼭짓점에서 그은 대각선으로 나뉜 삼각형의 개수를 이용하여 다각형의 내각의 크기의 합을 구하는 과정 설명하기', '다각형의 대각선의 개수를 구하는 방법을 꼭짓점의 수와 연결하여 설명하기'] | 역량: ['추론', '문제해결', '의사소통']
+  └ 근거 학습 목표: ['다각형의 내각과 외각의 뜻을 알고, 그 크기를 구할 수 있다', '다각형의 내각과 외각의 뜻을 알고, 그 크기를 구할 수 있다', '다각형의 대각선의 개수를 구할 수 있다']
+  [G1] 20s, 입력 4961 출력 2793, stop=end_turn
+  패턴: compare_methods_apply | 소문항: [('1-1', 2), ('1-2', 4), ('1-3', 4)] | 자료 필요: False
+  형식 예시: ['ex_polygon_angle_sum', 'ex_discount_compare'] | 점검표 A1B1
+  수치 선택(medium, 시드 1): {'n': 8, 'p': 7, 'm': 10}
+  [G2] 10s, 입력 6482 출력 1023, stop=end_turn
+  [G3-1] 219s, 입력 21845 출력 32000, stop=max_tokens
+Traceback (most recent call last):
+  File "C:\Users\최보라\Desktop\서술형 문항 생성 도구\[math] descirive question\scripts\gen\generate.py", line 815, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\최보라\Desktop\서술형 문항 생성 도구\[math] descirive question\scripts\gen\generate.py", line 738, in main
+    g3out = call(cl, usage, f"G3-{attempt}", prompt, args.model, 32000)
+  File "C:\Users\최보라\Desktop\서술형 문항 생성 도구\[math] descirive question\scripts\gen\generate.py", line 104, in call
+    raise RuntimeError(f"{stage}: 출력이 max_tokens({max_tokens})에서 잘렸습니다")
+RuntimeError: G3-1: 출력이 max_tokens(32000)에서 잘렸습니다

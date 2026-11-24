@@ -1,0 +1,193 @@
+{
+ "printedPage": "230",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "수학 역량 쑥쑥 더하기 1 다면체의 단면 / 2 수학자 아르키메데스",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "다면체의 단면",
+   "role": "정의",
+   "definition": "다면체를 평면으로 자를 때 생기는 잘린 면으로, 다각형이 된다.",
+   "notation": ""
+  },
+  {
+   "term": "직육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형·오각형·육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피의 비",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$r$",
+   "meaning": "구의 반지름의 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "다면체를 평면으로 자른 단면은 다각형이다.",
+   "plain": "다면체를 평면으로 자르면 그 단면은 다각형이 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1-①",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "직육면체의 단면이 삼각형, 오각형, 육각형이 되도록 자르는 방법을 친구들과 추측하여 그림에 나타내기",
+   "competencyIcons": [
+    "추론",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "1-②",
+   "level": "활동",
+   "verb": "확인해 보자",
+   "summary": "점토로 직육면체를 만들어 실로 잘라 단면이 추측한 대로 나오는지 확인하기(준비물: 점토, 실)",
+   "competencyIcons": [
+    "추론",
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2-①",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "반지름이 $r$인 구가 꼭 맞게 들어가는 원기둥과 구의 부피의 비를 간단한 자연수의 비로 나타내기",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2-②",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "①의 원기둥에 꼭 맞게 들어가는 원뿔과 구의 부피의 비를 간단한 자연수의 비로 나타내기",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2-③",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "①, ②를 이용해 원기둥에 꼭 맞게 들어가는 원뿔, 구, 원기둥의 부피의 비를 간단한 자연수의 비로 나타내기",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "직육면체를 평면으로 잘라 사각형 단면이 생기는 모습",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "삼각형·오각형·육각형 단면을 그려 넣기 위한 빈 직육면체 세 개",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "원기둥 안에 구가 꼭 맞게 들어 있는 아르키메데스의 묘비 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "아르키메데스의 묘비",
+  "점토로 입체도형 만들기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "정보처리",
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '수학 역량 쑥쑥 더하기' 심화 활동 쪽이다. 쪽 아래에 'V. 도형의 성질'이 인쇄되어 있으나 제공된 대단원 목록에서는 '입체도형의 성질'로 매칭했다. 원기둥·원뿔·구의 부피 공식은 이 쪽에서 제시되지 않고 이미 배운 것으로 전제한다. 아이콘은 1번 활동에 추론·정보처리, 2번 활동에 문제해결·의사소통이 표시되어 있다.",
+ "_page": 230,
+ "_usage": {
+  "in": 4569,
+  "out": 1651,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,176 @@
+{
+ "printedPage": "150",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "직선, 반직선, 선분을 기호로 어떻게 나타낼까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "직선 AB",
+   "role": "정의",
+   "definition": "서로 다른 두 점 A, B를 지나는 직선으로, 오직 하나뿐이다.",
+   "notation": "$\\overleftrightarrow{AB}$"
+  },
+  {
+   "term": "반직선 AB",
+   "role": "정의",
+   "definition": "직선 AB 위의 점 A에서 점 B 방향으로 끝없이 뻗은 부분이다.",
+   "notation": "$\\overrightarrow{AB}$"
+  },
+  {
+   "term": "선분 AB",
+   "role": "정의",
+   "definition": "직선 AB 위의 점 A에서 점 B까지의 부분이다.",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "두 점 A, B 사이의 거리",
+   "role": "정의",
+   "definition": "서로 다른 두 점 A, B를 잇는 선 중 가장 짧은 선인 선분 AB의 길이이다.",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "중점",
+   "role": "정의",
+   "definition": "선분 AB 위의 점으로 양 끝점에서 같은 거리에 있는 점이다.",
+   "notation": "$\\overline{AM}=\\overline{BM}$"
+  },
+  {
+   "term": "점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}$",
+   "meaning": "반직선 AB",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB 또는 선분 AB의 길이",
+   "role": "정의"
+  },
+  {
+   "symbol": "$l, m, n$",
+   "meaning": "직선을 소문자로 간단히 나타낸 것",
+   "role": "정의"
+  },
+  {
+   "symbol": "$A, B, C$",
+   "meaning": "점을 나타내는 알파벳 대문자",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\overline{AB}=\\overline{CD}$",
+   "meaning": "두 선분의 길이가 서로 같음",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 점을 지나는 직선은 무수히 많고, 서로 다른 두 점을 지나는 직선은 하나뿐이다.",
+   "plain": "서로 다른 두 점이 정해지면 그 점들을 지나는 직선은 오직 하나이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\overleftrightarrow{AB}=\\overleftrightarrow{BA},\\ \\overrightarrow{AB}\\ne\\overrightarrow{BA},\\ \\overline{AB}=\\overline{BA}$",
+   "plain": "직선과 선분은 점의 순서가 바뀌어도 같지만 반직선은 시작점이 달라 서로 다르다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 점을 잇는 선 중 가장 짧은 것은 선분이다.",
+   "plain": "두 점 사이의 최단 경로는 선분이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\overline{AM}=\\overline{BM}=\\frac{1}{2}\\overline{AB}$",
+   "plain": "선분의 중점은 선분을 반으로 나눈다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "선분의 길이 표기",
+   "summary": "선분 AB의 길이가 3 cm이면 $\\overline{AB}=3\\text{cm}$로, 두 선분 AB와 CD의 길이가 같으면 $\\overline{AB}=\\overline{CD}$로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "한 점 A를 지나는 여러 직선과 두 점 A, B를 지나는 하나의 직선(분홍색)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "직선 AB를 점 A, B와 함께 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "반직선 AB를 점 A에서 B 방향으로 뻗은 모양으로 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "선분 AB를 점 A에서 B까지의 부분으로 나타낸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "두 점 A, B를 잇는 여러 선과 가장 짧은 선분 AB",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "선분 AB와 중점 M, 같은 길이 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 보이지 않아 쪽 상단 소제목을 section에 적었다. 쪽 하단에 'Ⅳ. 도형의 기초'가 인쇄되어 있으나 제공된 대단원 목록에서는 '기본 도형'이 가장 가깝다고 판단했다. 글자층의 깨진 기호(†, ≥, ’)는 이미지에 따라 직선·반직선·선분 위 기호로 해석했다. 'terms'의 '점', '직선'은 이 쪽에서 새로 정의되지 않고 이미 쓰인 용어로 보았다.",
+ "_page": 150,
+ "_usage": {
+  "in": 4674,
+  "out": 1960,
+  "sec": 11.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

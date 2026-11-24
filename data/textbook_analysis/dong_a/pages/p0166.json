@@ -1,0 +1,149 @@
+{
+ "printedPage": "166",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "5.6 삼각형의 합동",
+  "area": "단원 도입 / 생각 1"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\equiv"
+  },
+  {
+   "term": "대응점",
+   "role": "사용",
+   "definition": "서로 합동인 두 도형을 완전히 겹치도록 포갰을 때 겹치는 점",
+   "notation": ""
+  },
+  {
+   "term": "대응변",
+   "role": "사용",
+   "definition": "서로 합동인 두 도형을 완전히 겹치도록 포갰을 때 겹치는 변",
+   "notation": ""
+  },
+  {
+   "term": "대응각",
+   "role": "사용",
+   "definition": "서로 합동인 두 도형을 완전히 겹치도록 포갰을 때 겹치는 각",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 합동",
+   "role": "정의",
+   "definition": "두 삼각형이 완전히 겹쳐지는 관계로, 기호 ≡로 나타낸다",
+   "notation": "\\triangle ABC\\equiv\\triangle DEF"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\equiv",
+   "meaning": "두 도형이 합동임을 나타내는 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\triangle ABC\\equiv\\triangle DEF",
+   "meaning": "삼각형 ABC와 삼각형 DEF가 합동",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "\\triangle ABC\\equiv\\triangle DEF",
+   "plain": "합동을 기호로 나타낼 때는 두 도형의 꼭짓점을 대응하는 순서대로 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "\\overline{AB}=\\overline{DE},\\ \\overline{BC}=\\overline{EF},\\ \\overline{CA}=\\overline{FD}",
+   "plain": "합동인 두 삼각형에서 대응변의 길이는 각각 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "\\angle A=\\angle D,\\ \\angle B=\\angle E,\\ \\angle C=\\angle F",
+   "plain": "합동인 두 삼각형에서 대응각의 크기는 각각 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "△ABC≡△DEF일 때 (1) AB의 길이 (2) ∠E의 크기를 구한다 (주어진 값: 6cm, 40°, 30°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "생각해 보자",
+   "summary": "세 변과 세 각을 모두 비교하지 않고 두 삼각형이 합동인지 알아보는 방법을 생각한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "합동인지 묻는 두 삼각형과 투명 종이로 겹쳐 보는 학생들의 장면",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "합동인 삼각형 ABC와 DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각의 크기(40°, 30°)와 변의 길이(6 cm)가 표시된 합동인 두 삼각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "QR 코드와 수학 교구 표시",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "학생들이 교구(투명 종이)로 삼각형의 합동을 확인하는 상황"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등: 합동인 두 도형의 대응점, 대응변, 대응각",
+   "초등: 합동을 기호 ≡로 나타내기"
+  ],
+  "current": [
+   "삼각형의 합동 조건 이해",
+   "삼각형의 합동 조건을 이용한 합동 판별"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입과 생각 1의 개념 설명이 함께 있는 쪽이다. 학습 요소는 '삼각형의 합동 조건, ≡'이다. 합동과 대응 개념은 초등에서 배운 내용으로 제시되어 '사용'으로 분류했고, 삼각형의 합동 기호 표기와 대응변·대응각 성질을 이 쪽에서 정리한다.",
+ "_page": 166,
+ "_profile": "full",
+ "_usage": {
+  "in": 4743,
+  "out": 1555,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

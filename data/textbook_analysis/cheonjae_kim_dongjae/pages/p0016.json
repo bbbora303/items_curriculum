@@ -1,0 +1,160 @@
+{
+ "printedPage": "16",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "02 최대공약수",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "정의",
+   "definition": "최대공약수가 1인 두 자연수를 서로소라고 한다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "2^2\\times 3",
+   "meaning": "거듭제곱을 사용한 소인수분해 표현",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "36=2^2\\times3^2,\\ 60=2^2\\times3\\times5 \\Rightarrow 2^2\\times3=12",
+   "plain": "공통인 소인수의 거듭제곱 중 지수가 작거나 같은 것을 택해 모두 곱하면 최대공약수이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "공통인 소인수의 거듭제곱 중 지수가 같으면 그대로, 다르면 작은 것을 택하여 모두 곱한다",
+   "plain": "소인수분해로 두 개 이상의 자연수의 최대공약수를 구하는 방법이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "공약수는 최대공약수의 약수이다",
+   "plain": "여러 자연수의 공약수는 그 수들의 최대공약수의 약수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "최대공약수가 1인 두 자연수",
+   "plain": "두 자연수의 최대공약수가 1이면 서로소라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "84, 140, 252를 소인수분해하여 최대공약수 28과 공약수 1, 2, 4, 7, 14, 28을 구한다. 나눗셈 방식(2, 2, 7)도 함께 보여 준다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "예제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 세 수 84, 140, 252의 최대공약수와 공약수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "서로소이다(빈칸 채우기)",
+   "summary": "두 자연수 8과 □의 최대공약수가 1이므로 서로소라는 문장의 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "8=2^3, 12=2^2×3의 풀이 과정을 보고 최대공약수 4를 구하는 방법을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "8과 12를 소인수분해하고 공통 부분 2×2=4를 표시한 풀이 과정.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "36과 60의 소인수분해와 공통 부분 2^2×3을 표시한 상자.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "84, 140, 252를 2, 2, 7로 차례로 나누는 나눗셈 형태의 계산.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "84, 140, 252의 소인수분해와 공통 부분 2^2×7 표시.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "소인수분해를 이용하여 최대공약수를 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "페이지 하단 'I. 수와 연산'은 영역 표시이다. 소단원 02 최대공약수의 두 번째 쪽으로, 공약수와 최대공약수의 정의는 앞 쪽에서 배운 것으로 보고 '사용'으로 분류했다. 역량 아이콘은 보이지 않는다.",
+ "_page": 16,
+ "_usage": {
+  "in": 4892,
+  "out": 1526,
+  "sec": 9.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

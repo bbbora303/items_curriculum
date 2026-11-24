@@ -1,0 +1,171 @@
+{
+ "printedPage": "292",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "",
+  "area": "정답과 해설(대단원 마무리 정답, 창의 융합 컴퓨팅, 1학기말 활동 정답)"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax\\ (a\\neq0)"
+  },
+  {
+   "term": "반비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{b}{x}\\ (b\\neq0)"
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제1사분면, 제3사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x좌표, y좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=\\frac{a}{x}\\ (a\\neq0)",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=ax\\ (a\\neq0)",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "A(p,\\frac{8}{p})",
+   "meaning": "그래프 위의 점의 좌표 표현",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "y=ax(a\\neq0)\\text{의 그래프는 }|a|\\text{가 클수록 }y\\text{축에 가까워진다}",
+   "plain": "정비례 그래프는 a의 절댓값이 클수록 y축에 가까워진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "y=\\frac{b}{x}(b\\neq0)\\text{의 그래프는 }|b|\\text{가 클수록 원점에서 멀어진다}",
+   "plain": "반비례 그래프는 b의 절댓값이 클수록 원점에서 멀어진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "14번 서술형 풀이",
+   "summary": "두 점의 x좌표가 같고 y좌표가 같다는 조건으로 a=3, b=9를 구해 a-b=-6을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "15번 서술형 풀이",
+   "summary": "반비례 그래프 위의 두 점의 좌표를 p, q로 놓고 두 직사각형의 넓이의 합 8+8=16을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "7 (문제 만들기)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "반비례 y=a/x 그래프가 점 (2, 4)를 지날 때, x좌표와 y좌표가 모두 정수인 점의 개수 구하기(답 8개)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "대단원 마무리 1~13",
+   "level": "기본",
+   "verb": "",
+   "summary": "정답만 제시(번호 및 보기 기호, 11번은 y=5/11 x와 5바퀴, 13번은 a<c<b)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "14",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "점 A, B의 좌표 조건으로 a-b의 값 구하기(답 -6)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "15",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "y=8/x 그래프 위의 두 점으로 만든 색칠한 두 직사각형의 넓이의 합 구하기(답 16)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1학기말 활동 140~141쪽",
+   "level": "활동",
+   "verb": "풀고",
+   "summary": "식 계산과 일차방정식 풀이의 정답 모음(x=-6, x=3, x=2 등)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "3번 정답 해설에서 (1) 직선(제2·4사분면)과 (2) 반비례 곡선(제1·3사분면)을 그린 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 평가 기준표(구분, 평가 요소, 배점)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽이라 새로 정의되는 개념은 없다. 위쪽은 정비례와 반비례 단원 정답이고 아래쪽 1학기말 활동은 일차방정식과 정수·유리수 계산 정답 모음이다. 일부 보기 기호와 번호는 이미지에서 작아 확실하지 않다.",
+ "_page": 292,
+ "_usage": {
+  "in": 5518,
+  "out": 1724,
+  "sec": 10.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

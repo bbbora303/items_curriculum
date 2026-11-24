@@ -1,0 +1,218 @@
+{
+ "printedPage": "112",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "사분면",
+   "role": "정의",
+   "definition": "좌표평면이 x축과 y축에 의해 나뉜 네 부분을 말한다.",
+   "notation": ""
+  },
+  {
+   "term": "제1사분면",
+   "role": "정의",
+   "definition": "x좌표와 y좌표가 모두 양수인 부분이다(오른쪽 위).",
+   "notation": ""
+  },
+  {
+   "term": "제2사분면",
+   "role": "정의",
+   "definition": "x좌표가 음수이고 y좌표가 양수인 부분이다(왼쪽 위).",
+   "notation": ""
+  },
+  {
+   "term": "제3사분면",
+   "role": "정의",
+   "definition": "x좌표와 y좌표가 모두 음수인 부분이다(왼쪽 아래).",
+   "notation": ""
+  },
+  {
+   "term": "제4사분면",
+   "role": "정의",
+   "definition": "x좌표가 양수이고 y좌표가 음수인 부분이다(오른쪽 아래).",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x축, y축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x좌표, y좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$P(a, b)$",
+   "meaning": "좌표가 (a, b)인 점 P",
+   "role": "사용"
+  },
+  {
+   "symbol": "$O$",
+   "meaning": "원점",
+   "role": "사용"
+  },
+  {
+   "symbol": "$+, -$",
+   "meaning": "좌표의 부호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "제1사분면 $(+,+)$, 제2사분면 $(-,+)$, 제3사분면 $(-,-)$, 제4사분면 $(+,-)$",
+   "plain": "각 사분면 위의 점은 x좌표와 y좌표의 부호가 정해져 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "x축, y축 위의 점은 어느 사분면에도 속하지 않는다.",
+   "plain": "축 위의 점은 사분면에 속하지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "좌표평면 위에 네 점 A, B, C, D를 나타내고 각 점이 제몇 사분면 위에 있는지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "A(-3, -1)의 사분면",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "B(4, 3)의 사분면",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "(3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "C(2, -1)의 사분면",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "(4)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "D(-2, 2)의 사분면",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "말하시오",
+   "summary": "일상생활에서 순서쌍과 좌표를 사용하는 예를 찾고 그때의 편리한 점을 말한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "좌표평면이 네 사분면으로 나뉘고 각각 색으로 구분되어 표시된 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "각 사분면에서 x좌표와 y좌표의 부호를 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "격자가 있는 빈 좌표평면(눈금 -4~4)에 점을 나타내는 문제용",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "활동",
+   "desc": "수학 집 짓기: 점 P(3, 2)의 좌표 읽기와 각 사분면의 좌표 부호를 빈칸으로 채우는 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "헤드폰을 쓴 펭귄 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "일상생활에서 순서쌍과 좌표를 사용하는 예"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 하단 '수학 집 짓기'는 빈칸(P(3,2), 제3사분면, (+,-))을 채우는 정리 활동으로 보임.",
+ "_page": 112,
+ "_profile": "full",
+ "_usage": {
+  "in": 4484,
+  "out": 1781,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

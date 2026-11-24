@@ -1,0 +1,181 @@
+{
+ "printedPage": "94",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "미지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "우변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2x-5(x-2)=1$",
+   "meaning": "괄호가 있는 일차방정식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x$",
+   "meaning": "미지수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "미지수 정하기 → 방정식 세우기 → 방정식 풀기 → 확인하기",
+   "plain": "문장제를 일차방정식으로 해결하는 4단계 순서",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1-❶",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "현우가 $2x-5(x-2)=1$을 잘못 풀어 얻은 풀이 과정의 빈칸에 알맞은 수를 구한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1-❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "우변의 1을 얼마로 잘못 보고 풀어 해가 $x=1$이 되었는지 말한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2-❶",
+   "level": "활동",
+   "verb": "써 보자",
+   "summary": "디오판토스 문제에서 구하려는 것(미지수)이 무엇인지 쓴다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❷",
+   "level": "활동",
+   "verb": "세워 보자",
+   "summary": "디오판토스의 일생을 직선에 나타내고 일차방정식을 세운다. 일생의 $\\frac{1}{6}$, $\\frac{1}{12}$, $\\frac{1}{7}$, 5년, 아들 나이의 반, 4년이 단서이다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2-❸",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "세운 일차방정식을 풀어 디오판토스가 일생을 마친 나이를 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❹",
+   "level": "활동",
+   "verb": "확인해 보자",
+   "summary": "구한 해가 문제의 뜻에 맞는지 확인한다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "현우가 풀이 중이고 말풍선으로 잘못 푼 해를 알려 주는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "디오판토스의 일생이 새겨진 묘비 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "출생에서 사망까지를 나타내는 직선(눈금 없이 양 끝만 표시)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [
+  "디오판토스의 묘비와 수학사",
+  "잘못 푼 풀이 찾기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '수학 역량 쑥쑥 더하기' 활동 쪽이다. 쪽 아래 'Ⅱ. 문자와 식'은 중단원 표시로 보이며, 주어진 대단원 목록과 일치하지 않는다. 활동 내용이 일차방정식이라 chapter를 '일차방정식'으로 추정했다. 현우의 풀이 과정 중 빈칸이 있는 부분의 식은 이미지에 일부만 보인다. 1번 활동의 풀이 과정 그림에는 말풍선만 보이고 풀이 식은 읽을 수 없다.",
+ "_page": 94,
+ "_usage": {
+  "in": 4737,
+  "out": 1544,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

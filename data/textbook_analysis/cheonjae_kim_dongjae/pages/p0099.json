@@ -1,0 +1,164 @@
+{
+ "printedPage": "99",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "곱셈 기호와 나눗셈 기호의 생략",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\times, \\div$"
+  },
+  {
+   "term": "식의 값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다항식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상수항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x^2$",
+   "meaning": "거듭제곱 표현",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\frac{a}{4b}$",
+   "meaning": "나눗셈을 분수 꼴로 나타낸 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "(1) 시속 $x$ km로 2시간 이동한 거리, (2) 4개에 $x$원인 사과 3개와 5개에 $y$원인 복숭아 9개의 가격의 합을 문자를 사용한 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "곱셈·나눗셈 기호를 생략하여 나타낸 다섯 가지 식 중 옳지 않은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "가로 $x$ cm, 세로 13 cm인 직사각형 종이를 1 cm 간격으로 나눈 표어에서 색칠한 부분의 넓이를 $x$를 사용한 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "큰 것은?",
+   "summary": "$x=\\frac{1}{2}, y=-2$일 때 다섯 개의 식 중 값이 가장 큰 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "다항식 $5x^2-5x+1$에 대해 항의 개수, 상수항, 동류항, $x$의 계수를 말한 네 학생 중 옳지 않은 설명 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "$(3x-6)\\div\\left(-\\frac{3}{5}\\right)$을 계산하여 $x$의 계수와 상수항의 합 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "가로 $x$ cm, 세로 13 cm인 직사각형 종이를 1 cm 간격으로 나눈 표어 그림 (입장바꿔 생각해봐)",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "네 학생(은서, 윤우, 지유, 태오)이 다항식에 대해 말풍선으로 설명하는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "자동차 속력과 이동 거리",
+  "사과와 복숭아 가격",
+  "학교 폭력 예방 표어 대회"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 문제 쪽으로 새로 정의되는 개념은 없고 이미 배운 용어를 사용한다. 소단원 번호는 없다. 각 문항 옆의 아이콘은 역량 표시가 아니라 장식으로 보인다. 4번 ⑤번은 $-x^3-\\frac{y}{2}$로 읽었다.",
+ "_page": 99,
+ "_usage": {
+  "in": 4592,
+  "out": 1510,
+  "sec": 16.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

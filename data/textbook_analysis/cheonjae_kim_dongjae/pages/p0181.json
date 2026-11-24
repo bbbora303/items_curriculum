@@ -1,0 +1,164 @@
+{
+ "printedPage": "181",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "2. 삼각형의 합동",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "정의",
+   "definition": "두 도형이 모양과 크기가 같아 완전히 포개어지는 관계(앞쪽에서 도입된 용어를 기호로 나타내는 부분)",
+   "notation": "\\equiv"
+  },
+  {
+   "term": "대응하는 변·각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\triangle ABC\\equiv\\triangle DEF",
+   "meaning": "삼각형 ABC와 삼각형 DEF가 서로 합동이다",
+   "role": "정의"
+  },
+  {
+   "symbol": "\\overline{AB}",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\angle A",
+   "meaning": "각 A의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "\\overline{AB}=\\overline{DE},\\ \\overline{BC}=\\overline{EF},\\ \\overline{CA}=\\overline{FD},\\ \\angle A=\\angle D,\\ \\angle B=\\angle E,\\ \\angle C=\\angle F",
+   "plain": "두 도형이 합동이면 대응하는 세 변의 길이와 대응하는 세 각의 크기가 각각 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "합동 기호 표기 시 꼭짓점을 대응하는 순서대로 쓴다",
+   "plain": "합동을 기호로 쓸 때 서로 대응하는 꼭짓점을 같은 순서로 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "주어진 여섯 개의 삼각형 중 서로 합동인 것을 찾아 기호 ≡로 나타내고 각각의 합동 조건을 말한다(변의 길이·각의 크기 표시).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "△ABC≡△DEF일 때 EF의 길이와 ∠B의 크기를 구한다(BC=8 cm, ∠A=80°, ∠D=40°, ∠F=60°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "AB=CB, AD=CD인 사각형 그림에서 합동인 두 삼각형을 찾아 기호로 나타내고 합동 조건(공통변 BD, SSS)을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "연못 양 끝 A, B 사이의 거리 AB를 합동인 삼각형을 이용해 구한다(70 m, 80 m, 40 m, 70 m, 40 m 길이 제시).",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "대응하는 변과 각에 표시가 된 합동인 두 삼각형 ABC, DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "변의 길이와 각의 크기가 표시된 삼각형 6개(ABC, DEF, GHI, JKL, MNO, PQR)",
+   "_raw": "도형",
+   "figureType": "QR코드"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "AB=CB, AD=CD 표시가 있는 사각형 ABCD와 대각선 BD",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각의 크기와 변의 길이가 표시된 두 삼각형 ABC, DEF",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "연못의 양 끝 A, B와 점 C, D, E를 이은 삼각형 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "연못, 연잎, 금붕어 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "연못 양 끝 지점 사이의 거리"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽 위쪽은 합동 기호 정의 부분으로 앞 쪽에서 이어지는 개념 설명이다. 소단원 번호와 제목은 보이지 않아 '2. 삼각형의 합동'으로 추정했으며 확실하지 않다(쪽 아래에는 '2. 작도와 합동' 표시). 문제 1의 삼각형 숫자 일부는 작아서 정확한 합동 쌍 판단은 하지 않았다.",
+ "_page": 181,
+ "_usage": {
+  "in": 4569,
+  "out": 1756,
+  "sec": 10.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

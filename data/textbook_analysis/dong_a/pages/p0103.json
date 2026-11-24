@@ -1,0 +1,148 @@
+{
+ "printedPage": "103",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정가",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "할인",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "미지수 또는 초콜릿 1개의 정가(원)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$k$",
+   "meaning": "방정식의 우변 상수(자연수 조건이 있는 값)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "12",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "일차방정식 $3(20-5x)=k$의 해가 자연수가 되도록 하는 자연수 $k$의 값을 모두 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "13 (1)",
+   "level": "서술형",
+   "verb": "나타내시오",
+   "summary": "정가 $x$원인 초콜릿 3개를 A(2개 사면 1개 더), B(3개 사면 30% 할인), C(20% 할인 후 추가 10% 할인) 편의점에서 살 때의 가격을 $x$로 나타낸다.",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "13 (2)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "초콜릿 3개를 살 때 가장 저렴한 편의점을 구한다.",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "A, B, C 편의점의 할인 행사 안내 게시판 그림(2개 사면 1개 더, 3개 사면 30% 할인, 20% 할인 후 추가 10% 할인)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "풀이를 쓰는 빈 풀이 칸과 '문제를 더 풀어볼 수 있어요' QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "편의점 할인 판매",
+  "초콜릿 가격"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "문자의 유용성과 방정식의 필요성을 알게 되었다",
+   "problemNos": []
+  },
+  {
+   "concept": "여러 가지 방법으로 방정식을 풀어 보면서 더 나은 풀이 방법으로 해를 찾아보았다",
+   "problemNos": []
+  },
+  {
+   "concept": "구한 해가 문제 상황에 적합한지 확인하였다",
+   "problemNos": []
+  }
+ ],
+ "notes": "쪽 아래에 '단원 마무리 103'이 인쇄되어 있고 3단원 표시가 있어 대단원을 '문자의 사용과 식'으로 판단함. 소단원 번호는 보이지 않음. 서·논술형 문제 2개와 자기평가(0~100% 막대 3개, 기억에 남는 것 적기, 부록 붙임딱지)로 구성됨.",
+ "_page": 103,
+ "_profile": "full",
+ "_usage": {
+  "in": 4495,
+  "out": 1213,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

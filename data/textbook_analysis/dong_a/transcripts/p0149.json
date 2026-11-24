@@ -1,0 +1,169 @@
+{
+ "printedPage": "149",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "해결해요",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "해결해요. 5.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요! 문제를 더 풀어 볼 수 있어요. (QR 코드) 해당하는 곳에 색칠해요. (우수, 보통, 분발)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "문제마다 오른쪽 위에 얼굴 그림 3개(우수, 보통, 분발)가 있고, 해당하는 곳에 색칠한다. 1번 문제 옆에만 '해당하는 곳에 색칠해요.'와 '우수 보통 분발' 글자가 있다."
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림에서 ∠AOB가 평각일 때, ∠$x$의 크기를 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "∠AOB는 평각, 30°, $x$, $2x$",
+   "steps": [],
+   "answerFormat": "∠x의 크기를 구한다."
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림에서 $x$의 값을 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$x^\\circ+15^\\circ$, $x^\\circ$, $5x^\\circ-10^\\circ$",
+   "steps": [],
+   "answerFormat": "x의 값을 구한다."
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "아래 사다리꼴 ABCD에서 다음을 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "변 AD와 직교하는 변"
+    },
+    {
+     "label": "(2)",
+     "text": "점 A에서 선분 BD에 내린 수선의 발"
+    },
+    {
+     "label": "(3)",
+     "text": "점 A와 선분 BD 사이의 거리"
+    },
+    {
+     "label": "(4)",
+     "text": "점 D와 변 BC 사이의 거리"
+    }
+   ],
+   "conditions": [],
+   "given": "AD = 5 cm, AE = 3 cm, CD = 7 cm",
+   "steps": [],
+   "answerFormat": "각 소문제의 답을 구한다."
+  },
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림에서 세 직선이 점 O에서 만나고, $\\overleftrightarrow{AD}\\perp\\overleftrightarrow{FC}$이다. ∠BOC$=\\frac{1}{2}$∠EOD일 때, ∠AOE의 크기를 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "세 직선이 점 O에서 만난다, AD ⊥ FC, ∠BOC = 1/2 ∠EOD",
+   "steps": [],
+   "answerFormat": "∠AOE의 크기를 구한다."
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "기본",
+   "text": "오른쪽 그림에서 점 O는 점 E에서 직선 CD에 내린 수선의 발이고, 두 직선 AB와 CD가 점 O에서 만난다. ∠DOB=35°일 때, ∠AOE의 크기를 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "∠DOB = 35°",
+   "steps": [],
+   "answerFormat": "∠AOE의 크기를 구한다."
+  },
+  {
+   "kind": "서술형문제",
+   "label": "6",
+   "corner": "해결해요",
+   "icons": [
+    "서술형",
+    "문제해결",
+    "추론"
+   ],
+   "level": "서술형",
+   "text": "다음 설명이 잘못된 이유를 쓰시오. (말풍선) ∠AOB=∠COD=60°이므로 ∠AOB와 ∠COD는 맞꼭지각입니다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "∠AOB = ∠COD = 60°",
+   "steps": [],
+   "answerFormat": "잘못된 이유를 서술한다."
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "1번 그림",
+   "labels": "점 A, O, B가 한 직선 위에 있고 A는 왼쪽, O는 가운데, B는 오른쪽. 점 O에서 위쪽으로 두 반직선이 나온다. 30°, x(O 왼쪽 위 안쪽), 2x(O 오른쪽 위)",
+   "desc": "수평선 AB 위의 점 O에서 위쪽으로 두 반직선이 뻗어 있다. 30°는 두 반직선 사이에 표시되어 있다. x는 왼쪽 반직선과 OA 사이, 2x는 오른쪽 반직선과 OB 사이에 적혀 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "2번 그림",
+   "labels": "$x^\\circ+15^\\circ$ (O의 왼쪽 위), $x^\\circ$ (O의 오른쪽 위), $5x^\\circ-10^\\circ$ (O의 아래쪽 왼쪽)",
+   "desc": "수평선, 왼쪽 위에서 오른쪽 아래로 가는 직선, 왼쪽 아래에서 오른쪽 위로 가는 직선, 이렇게 세 직선이 한 점에서 만난다."
+  },
+  {
+   "kind": "도형",
+   "caption": "3번 그림 사다리꼴 ABCD",
+   "labels": "꼭짓점 A(왼쪽 위), D(오른쪽 위), B(왼쪽 아래), C(오른쪽 아래). AD = 5 cm, AE = 3 cm, CD = 7 cm. 대각선 BD 위의 점 E. 직각 표시: 점 E, 점 D, 점 C",
+   "desc": "A와 D를 잇는 윗변이 있고, A에서 B로 가는 변이 있다. B와 C를 잇는 아랫변이 있고, D에서 C로 가는 변이 있다. 대각선 BD를 그었고 A에서 BD에 선분 AE를 내렸다. E, D, C에 직각 표시가 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "4번 그림",
+   "labels": "점 A(왼쪽), D(오른쪽), E(오른쪽 위), F(위), B(왼쪽 아래), C(아래), O(교점). O 근처에 직각 표시",
+   "desc": "수평선 AD, 거의 수직인 직선 FC, 왼쪽 아래에서 오른쪽 위로 가는 기울어진 직선 BE가 모두 점 O에서 만난다."
+  },
+  {
+   "kind": "도형",
+   "caption": "5번 그림",
+   "labels": "점 A(왼쪽), B(오른쪽), D(오른쪽 위), C(왼쪽 아래), E(아래), O(교점). 35°(∠DOB 표시)",
+   "desc": "수평선 AB와 기울어진 직선 CD가 점 O에서 만난다. O에서 아래쪽 점 E로 선분 OE가 있다."
+  },
+  {
+   "kind": "도형",
+   "caption": "6번 그림",
+   "labels": "점 A(왼쪽 위), B(왼쪽 아래), C(오른쪽 아래), D(오른쪽), O(교점). 60°(O의 왼쪽), 60°(O의 오른쪽 아래)",
+   "desc": "A에서 O를 지나 C로 가는 직선이 있다. B에서 O로 가는 선분과 O에서 D로 가는 선분이 있다. ∠AOB와 ∠COD에 각각 60°가 표시되어 있다."
+  }
+ ],
+ "incomplete": "도형 속 기호의 정확한 위치와 직각 표시는 이미지가 작아 대략적으로만 적었다.",
+ "_page": 149,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 3988,
+  "out": 4557,
+  "sec": 33.5,
+  "stop": "end_turn"
+ }
+}

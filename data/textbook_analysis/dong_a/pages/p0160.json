@@ -1,0 +1,159 @@
+{
+ "printedPage": "160",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "함께해요 2 / 문제"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "크기가 같은 각의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선분",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overrightarrow{AC}$"
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle O$",
+   "meaning": "점 O를 꼭짓점으로 하는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{OQ}$",
+   "meaning": "선분 OQ의 길이(반지름)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{PQ}$",
+   "meaning": "선분 PQ의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AC}$",
+   "meaning": "점 A에서 시작해 점 C를 지나는 반직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "주어진 각 $\\angle O$와 크기가 같은 $\\angle A$의 작도 5단계",
+   "plain": "원 그리기 → 같은 반지름의 원 그리기 → PQ 길이 재기 → 그 길이로 교점 C 찾기 → 반직선 AC 긋기",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "함께해요 2",
+   "summary": "컴퍼스와 눈금 없는 자로 ∠O와 크기가 같은 ∠A를 단계별(➊~➎)로 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "선분 AB를 점 B 방향으로 연장하여 길이가 AB의 2배인 선분 AC를 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "작도하시오",
+   "summary": "주어진 ∠O와 크기가 같은 ∠A를 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB가 그려진 작도 칸(문제 1)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "컴퍼스로 각을 옮겨 작도하는 단계 ➊~➎ 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "각 O와 반직선 A가 그려진 작도 활동 칸",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각 O와 반직선 A가 있는 작도 칸(문제 2)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "작도 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "문제 1은 이전 쪽에서 배운 선분 길이 옮기기 작도를 사용하는 것으로 보임. 이 쪽에서는 크기가 같은 각의 작도 방법이 활동 형태로 도입됨. 소단원 번호·제목은 쪽에 보이지 않음.",
+ "_page": 160,
+ "_profile": "full",
+ "_usage": {
+  "in": 4380,
+  "out": 1270,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

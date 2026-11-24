@@ -1,0 +1,155 @@
+{
+ "printedPage": "91",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.5 일차방정식과 그 해",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "이항",
+   "role": "정의",
+   "definition": "등식의 성질을 이용하여 등식의 어느 한 변에 있는 항을 부호를 바꾸어 다른 변으로 옮기는 것",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "우변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "x-3=5 \\Rightarrow x=5+3",
+   "plain": "등식의 한 변에 있는 항을 부호를 바꾸어 다른 변으로 옮기는 것을 이항이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "x-3+3=5+3 \\Rightarrow x=5+3",
+   "plain": "양변에 같은 수를 더하는 등식의 성질을 이용하면 이항한 것과 같은 결과가 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "3x=2x+4 \\Rightarrow 3x-2x=4",
+   "plain": "우변의 2x를 좌변으로 이항하면 부호가 바뀌어 -2x가 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "x-3=5의 이항",
+   "summary": "양변에 3을 더해 좌변의 -3이 우변의 +3으로 옮겨지는 과정을 보여 이항을 도입한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "확인해요",
+   "summary": "3x=2x+4에서 2x를 좌변으로 이항하면 3x-2x=4가 된다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 5",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "등식 ①을 ②로 나타낼 때 이용한 등식의 성질 설명: (1) 3x-2=-1 → 3x=1, (2) x/5=3 → x=15",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문제 6",
+   "level": "기본",
+   "verb": "이항하시오",
+   "summary": "밑줄 친 항을 이항: (1) x+3=-2, (2) 5x-1=11, (3) 3x=7+x, (4) 2x+4=9-3x",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "현서가 -7x=14를 x=14+7로 잘못 나타낸 이유(좌변의 -7을 이항했다고 함)를 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "x-3=5에서 -3이 이항하여 x=5+3이 되는 과정을 화살표로 나타낸 상자 그림",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "손을 입에 대고 생각하는 현서 캐릭터와 '좌변의 -7을 이항했어.' 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 5(2)의 분수식 x/5=3은 이미지를 따라 옮김. 생각 넓히기의 현서 오류는 -7x=14에서 계수 -7을 이항한 것으로 보이며, 이는 이미지의 말풍선 내용에 따름.",
+ "_page": 91,
+ "_profile": "full",
+ "_usage": {
+  "in": 4542,
+  "out": 1386,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

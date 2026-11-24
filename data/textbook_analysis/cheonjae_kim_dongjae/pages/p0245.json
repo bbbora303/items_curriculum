@@ -1,0 +1,132 @@
+{
+ "printedPage": "245",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "와글와글 수학 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이지통계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "",
+   "plain": "이지통계에 자료를 입력하고 통곗값 기능으로 평균, 중앙값, 최빈값을 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "(1)",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "평균, 중앙값, 최빈값 중 산불 발생 건수 자료의 적절한 대푯값을 말한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "(2)",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "생활 주변의 자료(예: 운동 시간)를 모둠별로 조사하고 이지통계로 대푯값을 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "2007~2022년 연도별 산불 발생 건수 표(19, 17, 44, 37, 33, 30, 34, 48, 96, 81, 81, 33, 67, 52, 34, 70)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "이지통계 프로그램 화면 4장(접속, 자료 입력, 통곗값 누르기, 평균 48.5·중앙값 40.5·최빈값 33, 34, 81 결과)",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "장식",
+   "desc": "산불을 진화하는 헬리콥터와 산 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "산불 발생 건수",
+  "이지통계(통계 프로그램) 활용",
+  "학급 학생의 운동 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "안전 아이콘도 표시됨. 이 쪽에서 새로 정의되는 용어는 없고 평균·중앙값·최빈값·대푯값은 앞서 배운 것으로 사용한다. 이지통계 화면의 작은 글자는 흐려 일부만 읽었고, 입력 화면에는 자료 일부만 보인다.",
+ "_page": 245,
+ "_usage": {
+  "in": 4727,
+  "out": 1022,
+  "sec": 6.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

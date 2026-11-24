@@ -1,0 +1,462 @@
+{
+  "schemaVersion": "math-0.1",
+  "id": "b1_9s01-05",
+  "level": "중학교",
+  "grade": 1,
+  "domain": "수와 연산",
+  "standardCodes": [
+    "9수01-05"
+  ],
+  "assessmentContext": "수행평가",
+  "responseType": "서술형",
+  "taskPattern": "judge_claim",
+  "competencies": [
+    "추론",
+    "의사소통",
+    "문제해결"
+  ],
+  "maxScore": 10,
+  "unitPolicy": "평가하지 않음",
+  "intent": "수직선 위 이동 상황에서 정수의 덧셈과 뺄셈을 해석하고(1-1, 성취수준 D·E·C 겨냥), 괄호와 거듭제곱이 없는 정수와 유리수의 혼합계산을 계산 순서에 따라 과정을 보이며 해결하는 능력(1-2, 성취수준 C·D 겨냥)을 본다. 이어서 가상의 학생 지민의 풀이에서 오류를 찾아 음수끼리의 곱셈과 나눗셈에서 부호가 정해지는 이유를 수직선이나 규칙성 같은 모델로 설명하고 올바른 계산으로 고치는 능력(1-3, 성취수준 A·B 겨냥)을 평가한다. 이를 통해 추론, 의사소통, 문제해결 역량을 함께 확인한다.",
+  "stimulus": {
+    "text": "지민이는 수직선 위에서 말을 움직이는 놀이를 하고 있다. 말은 처음에 좌표가 {{s}}인 점 A에 놓여 있고, 수직선의 눈금 한 칸의 길이는 1이다. 지민이는 말을 먼저 오른쪽으로 {{a}}칸 움직인 다음, 이어서 왼쪽으로 {{b}}칸 움직였다. 그림은 말의 처음 위치를 나타낸 것이다. 지민이는 이 이동을 계산식으로 나타내 보고, 정수와 유리수가 섞인 계산 연습도 해 보기로 했다.",
+    "figures": [
+      {
+        "id": "F1",
+        "type": "number_line",
+        "params": {
+          "min": "{{s-b-1}}",
+          "max": "{{s+a+3}}",
+          "step": 1,
+          "points": {
+            "A": "{{s}}"
+          }
+        },
+        "caption": "수직선 위 말의 처음 위치(점 A)"
+      }
+    ],
+    "tables": []
+  },
+  "subQuestions": [
+    {
+      "no": "1-1",
+      "prompt": "지민이가 말을 오른쪽으로 {{a}}칸, 이어서 왼쪽으로 {{b}}칸 움직인 뒤 말이 놓인 위치의 좌표를 구하시오. 오른쪽으로의 이동은 양수, 왼쪽으로의 이동은 음수로 생각하여 덧셈과 뺄셈으로 나타낸 식을 쓰고, 식의 부호와 수가 각각 이동의 방향과 거리 중 무엇을 뜻하는지 함께 쓰시오.",
+      "answerType": "값",
+      "conditions": [],
+      "maxScore": 2,
+      "targetLevels": [
+        "D",
+        "E",
+        "C"
+      ],
+      "dependsOn": [],
+      "evaluationElements": [
+        {
+          "text": "수직선과 이동 모델로 정수의 덧셈과 뺄셈의 원리 설명하기",
+          "standardCodes": [
+            "9수01-05"
+          ],
+          "scoringElements": [
+            {
+              "text": "이동을 덧셈과 뺄셈의 식으로 나타내고 최종 위치의 좌표 구하기",
+              "maxScore": 2,
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "이동의 방향과 거리를 식의 부호와 수에 바르게 대응시켜 식을 세우고 최종 위치의 좌표를 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "이동을 식으로 나타내는 데 일부 오류가 있거나 식은 바르게 세웠으나 좌표 계산에 오류가 있음."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-2",
+      "prompt": "지민이는 정수와 유리수가 섞인 다음 식을 계산해 보기로 했다.\n\n$ {{p}} - {{q}} \\times {{1/k|latex}} - {{c}} \\div {{d}} $\n\n〈조건〉에 맞게 이 식의 값을 구하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {
+          "id": "C1",
+          "text": "계산 과정을 단계별로 쓰고, 각 단계에서 어떤 부분을 먼저 계산했는지 밝힐 것"
+        }
+      ],
+      "maxScore": 3,
+      "targetLevels": [
+        "C",
+        "D"
+      ],
+      "dependsOn": [
+        "1-1"
+      ],
+      "evaluationElements": [
+        {
+          "text": "괄호와 거듭제곱이 없는 정수와 유리수의 혼합계산 순서에 따라 계산하기",
+          "standardCodes": [
+            "9수01-05"
+          ],
+          "scoringElements": [
+            {
+              "text": "계산 순서를 밝히며 단계별로 계산하여 값 구하기",
+              "maxScore": 3,
+              "levels": [
+                {
+                  "score": 3,
+                  "descriptors": [
+                    "곱셈과 나눗셈을 덧셈과 뺄셈보다 먼저 계산하는 순서를 밝히고, 단계별 계산을 거쳐 값을 정확하게 구함."
+                  ]
+                },
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "계산 순서는 바르게 적용했으나 분수 계산이나 부호 처리에 일부 오류가 있어 값이 틀림."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "계산 순서를 바르게 적용하는 데 어려움이 있어 일부 단계만 구함."
+                  ]
+                }
+              ],
+              "conditionRefs": [
+                "C1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "no": "1-3",
+      "prompt": "지민이는 다음 식을 아래와 같이 계산하고, 답이 ${{E3_wrong|latex}}$ 라고 하였다.\n\n식: ${{r}} + (-{{q}}) \\times \\left({{-1/k|latex}}\\right) - {{c}} \\div {{d}}$\n\n지민이의 풀이\n① $(-{{q}}) \\times \\left({{-1/k|latex}}\\right) = {{prod_wrong|latex}}$\n② ${{r}} + \\left({{prod_wrong|latex}}\\right) - {{quot}} = {{E3_wrong|latex}}$\n\n지민이의 계산이 옳은지 판단하고, 〈조건〉에 맞게 설명하시오.",
+      "answerType": "서술",
+      "conditions": [
+        {
+          "id": "C1",
+          "text": "지민이의 풀이에서 잘못된 부분을 찾고, 음수끼리의 곱셈에서 부호가 그렇게 정해지는 이유를 수직선이나 곱셈 결과의 규칙성 등 모델을 이용하여 설명할 것"
+        },
+        {
+          "id": "C2",
+          "text": "올바른 계산 과정과 최종 값을 쓰고, 지민이의 답이 옳은지 결론을 쓸 것"
+        }
+      ],
+      "maxScore": 5,
+      "targetLevels": [
+        "A",
+        "B"
+      ],
+      "dependsOn": [
+        "1-2"
+      ],
+      "evaluationElements": [
+        {
+          "text": "음수끼리의 곱셈과 나눗셈에서 부호가 정해지는 과정 설명하기",
+          "standardCodes": [
+            "9수01-05"
+          ],
+          "scoringElements": [
+            {
+              "text": "잘못된 부분을 찾고 부호가 정해지는 이유 설명하기",
+              "maxScore": 3,
+              "levels": [
+                {
+                  "score": 3,
+                  "descriptors": [
+                    "잘못된 단계를 정확히 찾고, 수직선이나 규칙성 등의 모델을 이용하여 음수끼리 곱한 결과의 부호가 정해지는 이유를 타당하게 설명함."
+                  ]
+                },
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "잘못된 단계를 정확히 찾았으나 부호 규칙만 말하거나 모델을 이용한 이유 설명이 일부 부족함."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "잘못된 단계를 정확히 찾지 못하거나 근거 없이 설명하는 등 어려움이 있음."
+                  ]
+                }
+              ],
+              "conditionRefs": [
+                "C1"
+              ]
+            }
+          ]
+        },
+        {
+          "text": "혼합계산 순서에 따라 계산하기",
+          "standardCodes": [
+            "9수01-05"
+          ],
+          "scoringElements": [
+            {
+              "text": "부호를 고쳐 올바르게 계산하고 판단 결론 쓰기",
+              "maxScore": 2,
+              "levels": [
+                {
+                  "score": 2,
+                  "descriptors": [
+                    "부호를 바르게 고쳐 계산 순서에 맞게 올바른 값을 정확하게 구하고, 지민이의 답이 옳지 않다는 결론을 씀."
+                  ]
+                },
+                {
+                  "score": 1,
+                  "descriptors": [
+                    "부호를 고치는 데 일부 오류가 있거나 계산 과정에 오류가 있어 올바른 값을 구하지 못하거나 결론이 불분명함."
+                  ]
+                }
+              ],
+              "conditionRefs": [
+                "C2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "solutionMethods": [
+    {
+      "id": "M1",
+      "name": "계산 순서와 부호 규칙을 직접 적용하여 설명",
+      "summary": "곱셈과 나눗셈을 먼저 계산한 뒤 덧셈과 뺄셈을 왼쪽부터 계산한다. 음수에 -1을 곱하면 반대 수가 된다는 부호 규칙을 적용하여 부호를 정한다."
+    },
+    {
+      "id": "M2",
+      "name": "수직선 이동이나 곱셈 결과의 규칙성(패턴) 같은 모델을 이용하여 설명",
+      "summary": "수직선 위의 이동이나 곱하는 수가 1씩 줄 때 곱의 변화가 일정하다는 규칙성으로 음수끼리 곱한 결과의 부호를 설명하고 계산한다."
+    }
+  ],
+  "modelAnswers": [
+    {
+      "subNo": "1-1",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "오른쪽 이동은 덧셈, 왼쪽 이동은 뺄셈으로 나타낸다. 부호는 이동 방향을, 수는 이동한 거리(칸 수)를 뜻한다. 식은 ${{s}} + {{a}} - {{b}}$이다. 먼저 ${{s}} + {{a}} = {{pos1}}$이고, 이어서 ${{pos1}} - {{b}} = {{final1}}$이다. 따라서 말의 좌표는 ${{final1}}$이다.",
+          "checks": [
+            {
+              "label": "첫 번째 이동 후 위치",
+              "expr": "s+a",
+              "expected": "pos1"
+            },
+            {
+              "label": "두 번째 이동 후 위치",
+              "expr": "s+a-b",
+              "expected": "final1"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "수직선에서 점 A의 좌표 {{s}}에서 오른쪽으로 {{a}}칸, 왼쪽으로 {{b}}칸 이동한 결과는 한 번에 ${{a}} - {{b}} = {{net}}$만큼 이동한 것과 같다. 오른쪽과 왼쪽 이동이 서로 부분적으로 상쇄되어 실제 이동한 거리는 {{dist}}칸이다. 따라서 말의 좌표는 ${{s}} + ({{net}}) = {{final1}}$이다.",
+          "checks": [
+            {
+              "label": "이동의 합",
+              "expr": "a-b",
+              "expected": "net"
+            },
+            {
+              "label": "실제 이동한 거리",
+              "expr": "abs(a-b)",
+              "expected": "dist"
+            },
+            {
+              "label": "최종 좌표",
+              "expr": "s+net",
+              "expected": "final1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subNo": "1-2",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "덧셈·뺄셈보다 곱셈·나눗셈을 먼저 계산한다. 곱셈: ${{q}} \\times {{1/k|latex}} = {{-t1|latex}}$. 나눗셈: ${{c}} \\div {{d}} = {{quot}}$. 식은 ${{p}} - {{-t1|latex}} - {{quot}}$이 된다. 덧셈·뺄셈은 왼쪽부터 계산한다. ${{p}} - {{-t1|latex}} = {{partial2|latex}}$, ${{partial2|latex}} - {{quot}} = {{E2|latex}}$. 따라서 값은 ${{E2|latex}}$이다.",
+          "checks": [
+            {
+              "label": "곱셈 먼저 계산",
+              "expr": "q*(1/k)",
+              "expected": "-t1"
+            },
+            {
+              "label": "나눗셈 계산",
+              "expr": "c/d",
+              "expected": "quot"
+            },
+            {
+              "label": "앞의 뺄셈 결과",
+              "expr": "p - q*(1/k)",
+              "expected": "partial2"
+            },
+            {
+              "label": "최종 값",
+              "expr": "p - q*(1/k) - c/d",
+              "expected": "E2"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "곱셈과 나눗셈을 먼저 계산하여 ${{q}} \\times {{1/k|latex}} = {{-t1|latex}}$, ${{c}} \\div {{d}} = {{quot}}$를 얻으므로 식은 ${{p}} - {{-t1|latex}} - {{quot}}$이다. 수직선에서 {{p}}에서 출발하여 왼쪽으로 {{quot}}칸 이동하면 ${{p}} - {{quot}} = {{p-quot}}$이다. 여기서 왼쪽으로 ${{-t1|latex}}$칸 더 이동하면 ${{p-quot}} - {{-t1|latex}} = {{E2|latex}}$이다. 따라서 값은 ${{E2|latex}}$이다.",
+          "checks": [
+            {
+              "label": "정수끼리 먼저 이동",
+              "expr": "p - d*e/d",
+              "expected": "p-quot"
+            },
+            {
+              "label": "나눗셈 계산",
+              "expr": "d*e/d",
+              "expected": "quot"
+            },
+            {
+              "label": "최종 값",
+              "expr": "p - quot + t1",
+              "expected": "E2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subNo": "1-3",
+      "methods": [
+        {
+          "methodId": "M1",
+          "text": "지민이의 오류는 ①에서 음수끼리의 곱 $(-{{q}}) \\times \\left({{-1/k|latex}}\\right)$의 부호를 음수로 정한 것이다. $(-{{q}}) \\times {{1/k|latex}} = {{t1|latex}}$이다. 그런데 ${{-1/k|latex}} = (-1) \\times {{1/k|latex}}$이므로, $(-{{q}}) \\times \\left({{-1/k|latex}}\\right)$은 ${{t1|latex}}$에 $-1$을 곱한 것이다. $-1$을 곱하면 수직선에서 원점을 기준으로 반대편의 수가 되므로 ${{t1|latex}}$의 반대 수인 ${{prod_correct|latex}}$가 된다. 즉 부호가 같은 두 수의 곱은 양수이다. 올바른 계산은 ${{r}} + {{prod_correct|latex}} - {{quot}} = {{E3_correct|latex}}$이다. 지민이의 답 ${{E3_wrong|latex}}$는 옳지 않고 올바른 값은 ${{E3_correct|latex}}$이다. 두 값의 차는 ${{err_gap|latex}}$이다.",
+          "checks": [
+            {
+              "label": "음수와 양수의 곱",
+              "expr": "(-q)*(1/k)",
+              "expected": "t1"
+            },
+            {
+              "label": "반대 수를 취한 값",
+              "expr": "-t1",
+              "expected": "prod_correct"
+            },
+            {
+              "label": "음수끼리의 곱",
+              "expr": "(-q)*(-1/k)",
+              "expected": "prod_correct"
+            },
+            {
+              "label": "나눗셈 계산",
+              "expr": "c/d",
+              "expected": "quot"
+            },
+            {
+              "label": "올바른 최종 값",
+              "expr": "r + prod_correct - quot",
+              "expected": "E3_correct"
+            },
+            {
+              "label": "지민이의 값",
+              "expr": "r + prod_wrong - quot",
+              "expected": "E3_wrong"
+            },
+            {
+              "label": "두 값의 차",
+              "expr": "E3_correct - E3_wrong",
+              "expected": "err_gap"
+            }
+          ]
+        },
+        {
+          "methodId": "M2",
+          "text": "지민이의 오류는 ①에서 음수끼리 곱한 결과를 음수로 정한 것이다. 규칙성으로 확인한다. $(-{{q}}) \\times 2 = {{-2*q}}$, $(-{{q}}) \\times 1 = {{-q}}$, $(-{{q}}) \\times 0 = 0$이다. 곱하는 수가 1씩 줄어들 때마다 결과는 {{q}}씩 커진다. 이 규칙을 이어 가면 $(-{{q}}) \\times (-1) = {{q}}$로 양수이다. 그러므로 $(-{{q}}) \\times \\left({{-1/k|latex}}\\right) = \\{(-{{q}}) \\times (-1)\\} \\times {{1/k|latex}} = {{q}} \\times {{1/k|latex}} = {{prod_correct|latex}}$이다. 올바른 계산은 ${{r}} + {{prod_correct|latex}} - {{quot}} = {{E3_correct|latex}}$이다. 따라서 지민이의 답 ${{E3_wrong|latex}}$는 옳지 않고 올바른 값은 ${{E3_correct|latex}}$이다.",
+          "checks": [
+            {
+              "label": "규칙성 첫째 항",
+              "expr": "(-q)*2",
+              "expected": "-2*q"
+            },
+            {
+              "label": "규칙성 둘째 항",
+              "expr": "(-q)*1",
+              "expected": "-q"
+            },
+            {
+              "label": "-1을 곱한 결과",
+              "expr": "(-q)*(-1)",
+              "expected": "q"
+            },
+            {
+              "label": "음수끼리의 곱",
+              "expr": "q*(1/k)",
+              "expected": "prod_correct"
+            },
+            {
+              "label": "올바른 최종 값",
+              "expr": "r + q*(1/k) - c/d",
+              "expected": "E3_correct"
+            },
+            {
+              "label": "오류로 생긴 차",
+              "expr": "2*prod_correct",
+              "expected": "err_gap"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scoringNotes": [
+    "수와 식으로 표현한 문제해결 과정이 수학적으로 논리적이면 예시답안과 달라도 정답으로 인정한다.",
+    "앞 소문항의 값이 틀렸더라도 그 값을 바탕으로 이후 계산·판단이 논리적이면 해당 수준 점수를 부여한다.",
+    "표현 방식이 달라도(수직선 그림, 규칙성 표, 부호 규칙 등) 음수끼리의 곱의 부호가 정해지는 이유가 충분히 설명되었으면 정답으로 인정한다.",
+    "분수를 약분하거나 대분수로 고치지 않아도 풀이 과정이 맞으면 정답으로 인정한다."
+  ],
+  "teacherChecks": [
+    {
+      "id": "T1",
+      "text": "1-2와 1-3에서 계산 순서나 분수 계산의 실수와 음수끼리의 곱의 부호에 대한 개념 이해 오류를 구분하여 채점한다.",
+      "subNos": [
+        "1-2",
+        "1-3"
+      ]
+    },
+    {
+      "id": "T2",
+      "text": "1-3에서 음수끼리의 곱이 양수라는 결론만 쓰고 모델을 이용한 이유 설명이 없는 경우의 점수(수준 2)를 사전에 협의한다.",
+      "subNos": [
+        "1-3"
+      ]
+    },
+    {
+      "id": "T3",
+      "text": "1-3에서 수직선이나 규칙성 외에 학생이 제시한 다른 설명 모델에 오류가 없는지 확인한다.",
+      "subNos": [
+        "1-3"
+      ]
+    }
+  ],
+  "feedbackNotes": [
+    "수직선에서 방향은 부호로, 거리는 수의 크기로 나타낸다는 점을 그림과 식을 연결하여 다시 확인하게 한다.",
+    "곱하는 수가 1씩 줄어들 때 곱이 일정하게 변하는 표를 만들어, 음수끼리의 곱이 양수가 되는 과정을 스스로 설명해 보게 한다.",
+    "혼합계산에서는 곱셈과 나눗셈을 먼저 계산한 뒤 덧셈과 뺄셈을 왼쪽부터 계산한다는 순서를 단계마다 표시하며 풀게 한다."
+  ],
+  "review": {
+    "status": "unreviewed",
+    "reviewedBy": null
+  },
+  "generationMeta": {
+    "model": "claude-sonnet-5-5",
+    "difficulty": "medium",
+    "seed": 1
+  }
+}

@@ -1,0 +1,173 @@
+{
+ "printedPage": "251",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "1. 자료의 정리와 해석 (히스토그램)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$0^{\\text{이상}} \\sim 1500^{\\text{미만}}$",
+   "meaning": "계급의 범위 표기(이상~미만)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "영화 관객 수 도수분포표(계급 0~7500명, 도수 10, 9, 2, 3, 1, 합계 25)를 히스토그램으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "운동 시간 히스토그램에서 (1) 계급의 크기, (2) 운동 시간이 40분 이상인 학생 수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "완성하시오",
+   "summary": "길이가 2 km 미만인 28개 다리 길이의 히스토그램 일부를 보고 나머지를 완성하기",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "심화 1의 히스토그램에서 알 수 있는 분포의 특징 말하기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "지역별 습도 도수분포표를 나타낸 히스토그램에서 잘못된 부분을 찾아 그 까닭 설명하기",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "영화 관객 수 도수분포표(합계 25편)와 빈 히스토그램 격자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "하루 평균 운동 시간 히스토그램(계급 10분 간격)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "다리 길이 히스토그램 일부(0.8~2 km, 절단 표시 있음)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "지역별 습도 도수분포표(합계 30개 지역)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "지역별 습도 히스토그램(일부 막대가 표와 다름)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "상단 FUN 코너: 히스토그램과 막대그래프의 차이점 비교 그림",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "영화 관객 수",
+  "중학생 운동 시간",
+  "다리 길이",
+  "지역별 습도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "새 개념 도입 없이 히스토그램 그리기·읽기를 연습하는 쪽. 상단 FUN 코너는 히스토그램과 막대그래프의 차이를 묻는 작은 그림이며 글씨가 작음. 심화 1+ 히스토그램의 계급 구간(0.8~2 km)과 일부 막대 높이는 이미지가 작아 정확히 읽기 어려움. 와글와글 활동의 습도 히스토그램은 표(50~60 도수 0 등)와 비교하는 활동으로 보임.",
+ "_page": 251,
+ "_usage": {
+  "in": 4766,
+  "out": 1500,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

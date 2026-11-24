@@ -1,0 +1,135 @@
+{
+ "printedPage": "12",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.1 소수와 합성수",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "정의",
+   "definition": "1보다 큰 자연수 중에서 1과 자기 자신만을 약수로 가지는 수(약수가 2개인 수)",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "정의",
+   "definition": "1보다 큰 자연수 중에서 소수가 아닌 수(약수가 3개 이상인 수)",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수(小數)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "소수: 1보다 큰 자연수 중 약수가 1과 자기 자신뿐인 수",
+   "plain": "소수는 약수가 2개인 수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "합성수: 1보다 큰 자연수 중 소수가 아닌 수",
+   "plain": "합성수는 약수가 3개 이상인 수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "1은 소수도 합성수도 아니다.",
+   "plain": "1은 소수도 합성수도 아니다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (1)",
+   "summary": "7의 약수는 1과 7이므로 7은 소수임을 보인다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "15의 약수는 1, 3, 5, 15이므로 15는 합성수임을 보인다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "구분하시오",
+   "summary": "11, 12, 19, 21을 소수와 합성수로 구분한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "수학 놀이",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "1부터 10까지 자연수의 약수의 개수를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "약수가 적힌 블록(1, 2, 4의 약수)을 쌓는 친구들의 삽화와 대화 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "약수가 적힌 블록 쌓기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호 '1.1'과 제목 '소수와 합성수'가 쪽 상단에 크게 표시되어 있다. 생각해요 활동(블록 쌓기)과 생각 1, 개념 설명, 확인해요, 문제 1이 한 쪽에 함께 있어 개념설명으로 분류했다. 옆 설명 상자에서 소수(素數)와 소수(小數)의 동음이의어를 안내한다.",
+ "_page": 12,
+ "_profile": "full",
+ "_usage": {
+  "in": 4513,
+  "out": 1125,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

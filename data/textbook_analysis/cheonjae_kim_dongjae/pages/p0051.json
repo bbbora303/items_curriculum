@@ -1,0 +1,135 @@
+{
+ "printedPage": "51",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "사칙계산이 섞여 있는 식의 계산(덧셈, 뺄셈, 곱셈, 나눗셈이 섞여 있는 식의 계산)",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소괄호",
+   "role": "정의",
+   "definition": "괄호가 여러 겹일 때 가장 안쪽에 쓰는 괄호로 ( ) 모양이며 가장 먼저 계산한다.",
+   "notation": "( )"
+  },
+  {
+   "term": "중괄호",
+   "role": "정의",
+   "definition": "소괄호 다음 순서로 계산하는 { } 모양의 괄호이다.",
+   "notation": "\\{ \\}"
+  },
+  {
+   "term": "대괄호",
+   "role": "정의",
+   "definition": "중괄호 다음 순서로 계산하는 [ ] 모양의 괄호이다.",
+   "notation": "[ ]"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "( )",
+   "meaning": "소괄호",
+   "role": "정의"
+  },
+  {
+   "symbol": "\\{ \\}",
+   "meaning": "중괄호",
+   "role": "정의"
+  },
+  {
+   "symbol": "[ ]",
+   "meaning": "대괄호",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "거듭제곱 → 괄호(소→중→대) → 곱셈·나눗셈 → 덧셈·뺄셈",
+   "plain": "덧셈, 뺄셈, 곱셈, 나눗셈이 섞인 식은 거듭제곱, 괄호 안, 곱셈과 나눗셈, 덧셈과 뺄셈 순서로 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 3 (1)",
+   "summary": "$(-4)^2-(5-8)\\times(-2)$를 거듭제곱과 괄호를 먼저 계산한 뒤 곱셈, 뺄셈 순으로 계산하여 10을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "예제 3 (2)",
+   "summary": "$(-3)^3\\times[\\frac{5}{6}+\\{\\frac{1}{3}\\div(-9+0.7\\times10)\\}]$를 소괄호, 중괄호, 대괄호 순으로 계산하여 -18을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "$2-3\\times(-4)$를 두 학생이 각각 4와 14로 계산한 결과가 다른 까닭을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "예제 3 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-4)^2-(5-8)\\times(-2)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "예제 3 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(-3)^3\\times[\\frac{5}{6}+\\{\\frac{1}{3}\\div(-9+0.7\\times10)\\}]$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "교사가 칠판에 $2-3\\times(-4)$를 쓰고, 두 학생이 각각 4와 14라는 서로 다른 계산 결과를 풀이와 함께 보여 주는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "교실에서 두 학생이 계산 결과를 비교하는 상황"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 상단의 질문 제목을 바탕으로 적었다. 괄호의 순서(소→중→대)는 이 쪽에서 처음 나오는 것으로 보고 정의로 분류했다. 거듭제곱은 앞에서 배운 것으로 보고 사용으로 분류했다.",
+ "_page": 51,
+ "_usage": {
+  "in": 4617,
+  "out": 1488,
+  "sec": 9.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

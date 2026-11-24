@@ -1,0 +1,187 @@
+{
+ "printedPage": "275",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.2 소인수분해 / 1.3 최대공약수 (정답 및 풀이)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱(지수, 밑)",
+   "role": "사용",
+   "definition": "",
+   "notation": "$3^4$"
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2\\times 3$",
+   "meaning": "소인수분해를 거듭제곱으로 나타낸 꼴",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\bigcirc,\\ \\times$",
+   "meaning": "참·거짓 판단 표시",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "소인수분해를 이용한 약수 구하기(표)",
+   "plain": "소인수분해한 뒤 각 소인수의 거듭제곱을 곱하는 표로 약수를 모두 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "서로 다른 두 소수의 최대공약수는 1",
+   "plain": "서로 다른 두 소수는 항상 서로소이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "어떤 수의 제곱이 되려면 모든 소인수의 지수가 짝수",
+   "plain": "각 소인수의 지수가 짝수가 되도록 곱할 수를 정한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "최대공약수의 약수 = 공약수",
+   "plain": "최대공약수를 소인수분해한 뒤 그 약수를 구하면 공약수가 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시 문제(6번 (2))",
+   "summary": "84의 소인수이고 27이 그 배수인 수를 구하는 문제를 만들고 답 3을 제시한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1.2 문제 1~5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수 찾기, 소인수분해, 거듭제곱 표현, 약수 구하기의 답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1.2 해결해요 1~6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "거듭제곱 읽기·판단, 소인수분해, 소인수의 합, 약수 구하기 표, 제곱수 만들기, 조건에 맞는 수 구하기의 답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1.3 문제 1~4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최대공약수, 공약수, 서로소 판단의 답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1.3 해결해요 1~3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최대공약수 구하기와 서로소 판별의 답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "45와 66을 소인수분해하는 나눗셈 가지 그림(문제 2의 답)",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "1, 5, 5²와 1, 2의 곱으로 약수를 구하는 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "44와 2⁴×7의 약수를 구하는 곱셈표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로운 정의는 없고 앞서 배운 용어를 사용한다. 이 쪽은 1.2 소인수분해 문제(16~19쪽, 20쪽)와 1.3 최대공약수(21~23쪽, 24쪽)의 답을 함께 담고 있다. 일부 빈칸 기호(□, ?)는 이미지를 기준으로 옮겼다.",
+ "_page": 275,
+ "_profile": "full",
+ "_usage": {
+  "in": 5925,
+  "out": 1613,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

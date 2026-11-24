@@ -1,0 +1,119 @@
+{
+ "printedPage": "38",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "정수와 유리수의 덧셈 — 덧셈의 계산 법칙",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "덧셈의 교환법칙",
+   "role": "정의",
+   "definition": "두 수의 덧셈에서 두 수의 순서를 바꾸어 더하여도 그 결과는 같다는 법칙",
+   "notation": "$a+b=b+a$"
+  },
+  {
+   "term": "덧셈의 결합법칙",
+   "role": "정의",
+   "definition": "세 수의 덧셈에서 앞이나 뒤의 두 수를 먼저 더한 후 나머지 수를 더하여도 그 결과는 같다는 법칙",
+   "notation": "$(a+b)+c=a+(b+c)$"
+  },
+  {
+   "term": "덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분수(유리수)의 덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a+b+c$",
+   "meaning": "결합법칙이 성립하므로 $(a+b)+c$, $a+(b+c)$를 괄호 없이 나타낸 것",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(+5)+(-7)$",
+   "meaning": "양의 부호·음의 부호가 붙은 수의 덧셈 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a+b=b+a$",
+   "plain": "두 수의 덧셈은 순서를 바꾸어도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "$(a+b)+c=a+(b+c)$",
+   "plain": "세 수의 덧셈은 어느 두 수를 먼저 더해도 결과가 같다.",
+   "_raw": "법칙",
+   "statementType": "법칙"
+  },
+  {
+   "latex": "교환법칙과 결합법칙 이용",
+   "plain": "세 수 이상의 덧셈에서 더하는 순서를 바꾸면 계산이 편리할 때가 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "$\\left(+\\frac{5}{3}\\right)+\\left(-\\frac{1}{5}\\right)+\\left(-\\frac{2}{3}\\right)$을 교환법칙과 결합법칙으로 계산하여 $+\\frac{4}{5}$를 얻는다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "예제 1",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "세 유리수 $+\\frac{5}{3}, -\\frac{1}{5}, -\\frac{2}{3}$의 덧셈",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "$(+5)+(-7)=-2$를 수직선에서 화살표로 나타낸 그림",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "$(-7)+(+5)=-2$를 수직선에서 화살표로 나타내어 순서를 바꾸어도 결과가 같음을 보임",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 이름은 쪽 아래 'Ⅰ. 수와 연산'과 내용으로 보아 '정수와 유리수'로 판단했고, 소단원 번호·제목은 쪽에 보이지 않아 내용으로 추정함. 왼쪽 여백에 결합법칙 성립 시 괄호 생략을 설명하는 곁글이 있음.",
+ "_page": 38,
+ "_usage": {
+  "in": 4681,
+  "out": 1286,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

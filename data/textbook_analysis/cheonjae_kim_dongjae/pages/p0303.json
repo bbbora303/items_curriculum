@@ -1,0 +1,138 @@
+{
+ "printedPage": "303",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "01 다면체와 회전체",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "활꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2\\pi r$",
+   "meaning": "원의 둘레(호의 길이 공식에 쓰임)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi r^2$",
+   "meaning": "원의 넓이",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$7.2:360=800:x$",
+   "plain": "비례식을 세워 지구 둘레의 길이를 약 40000 km로 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "정$n$각형의 한 외각의 크기만큼 회전하기를 $n$회 반복",
+   "plain": "블록 코딩으로 정$n$각형을 그리는 방법",
+   "_raw": "방법",
+   "statementType": "도구 활용"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 만들기(7번 관련)",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "반지름 6 cm, 호의 길이 8π cm인 부채꼴의 중심각의 크기를 구한다(답 240°).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "지구 둘레와 중심각 7.2°, 약 800 km를 나타낸 원 그림(수학 더하기 2번 해설)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "모눈 위에 원과 호로 그린 꽃무늬와 아치 모양 무늬(수학 더하기 3번 해설)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "사각뿔대의 모양을 보여 주는 입체도형 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "다면체의 이름, 꼭짓점·모서리 개수, 면·밑면의 개수와 모양을 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "지구 둘레 측정",
+  "블록 코딩"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로, 새로 정의되는 개념은 없고 앞 쪽 문제의 답과 풀이만 있다. 왼쪽은 '역량 쑥쑥 수학 더하기(208~209쪽)', '중단원 마무리(210~211쪽)', '창의 융합 컴퓨팅(212쪽)'의 답이다. 오른쪽은 2단원 '입체도형의 성질' 01 다면체와 회전체의 214~217쪽 답이다. 일부 수식과 기호는 흐릿하여 읽기 어려웠다.",
+ "_page": 303,
+ "_usage": {
+  "in": 5104,
+  "out": 1156,
+  "sec": 7.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

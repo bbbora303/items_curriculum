@@ -1,0 +1,159 @@
+{
+ "printedPage": "17",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.2 소인수분해",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "정의",
+   "definition": "1보다 큰 자연수를 소인수들만의 곱으로 나타내는 것",
+   "notation": "$12=2\\times2\\times3$"
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "정의",
+   "definition": "같은 수를 여러 번 곱한 것을 곱하는 수와 곱한 횟수로 나타낸 $2^2, 2^3, 2^4, \\ldots$ 을 통틀어 이르는 말",
+   "notation": "$2^2, 2^3, 2^4$"
+  },
+  {
+   "term": "제곱, 세제곱, 네제곱",
+   "role": "정의",
+   "definition": "$2^2, 2^3, 2^4$ 를 읽는 방법(2의 제곱, 2의 세제곱, 2의 네제곱)",
+   "notation": "$2^2, 2^3, 2^4$"
+  },
+  {
+   "term": "밑",
+   "role": "정의",
+   "definition": "거듭제곱에서 곱하는 수",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "정의",
+   "definition": "거듭제곱에서 곱한 횟수를 나타낸 수",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a^n$ (예: $2^3$)",
+   "meaning": "같은 수를 여러 번 곱한 거듭제곱 표기. 밑은 곱하는 수, 지수는 곱한 횟수",
+   "role": "정의"
+  },
+  {
+   "symbol": "$2^1=2$",
+   "meaning": "지수가 1이면 밑 자신으로 정한다",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "1보다 큰 자연수의 소인수분해 결과는 곱하는 순서를 생각하지 않으면 오직 한 가지",
+   "plain": "어떤 순서로 소인수분해 해도 작은 소인수부터 정리하면 결과가 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$2\\times2=2^2,\\ 2\\times2\\times2=2^3,\\ 2\\times2\\times2\\times2=2^4$",
+   "plain": "같은 수를 여러 번 곱하면 곱한 횟수를 지수로 써서 간단히 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$3\\times3\\times5\\times5\\times5\\times5=3^2\\times5^4$",
+   "plain": "서로 다른 소수의 거듭제곱을 함께 써서 소인수분해 결과를 간단히 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "12의 소인수분해(나뭇가지 모양 두 가지)",
+   "summary": "12를 $2\\times2\\times3$, $3\\times2\\times2$ 처럼 순서를 달리하여 소인수분해 한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "확인해요 (1)",
+   "summary": "$6^5$에서 밑은 6, 지수는 5임을 확인한다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "$3\\times3\\times5\\times5\\times5\\times5$를 $3^2\\times5^4$으로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "소인수분해 하시오",
+   "summary": "45와 66의 소인수분해 과정(가지치기, 나눗셈 형태)의 빈칸을 채워 각각 소인수분해 한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "12를 두 가지 순서로 소인수분해 하는 나뭇가지 그림($2\\times2\\times3$, $3\\times2\\times2$)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "45의 가지치기 소인수분해와 66의 나눗셈 소인수분해 빈칸 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "$2^3$에서 밑 2와 지수 3을 가리키는 설명 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'생각 2'는 소인수분해 결과를 간단히 나타내는 방법을 묻는 질문으로 시작하여 거듭제곱 개념을 도입한다. 쪽 오른쪽 상단에 1단원 표시가 있다. 문제 2의 빈칸 숫자는 이미지에 비어 있다.",
+ "_page": 17,
+ "_profile": "full",
+ "_usage": {
+  "in": 4862,
+  "out": 1695,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

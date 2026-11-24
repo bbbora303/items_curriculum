@@ -1,0 +1,200 @@
+{
+ "printedPage": "211",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "연장선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle OPQ$",
+   "meaning": "삼각형 OPQ",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "원 O의 넓이 $30\\pi$ cm², 부채꼴 AOB의 넓이 $5\\pi$ cm²일 때 △OPQ에서 ∠x+∠y의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "중심각 30°, 반지름 6 cm인 부채꼴에서 색칠한 부분(6 cm 구간)의 둘레의 길이와 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 5 cm, 호의 길이 $6\\pi$ cm인 부채꼴의 중심각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "별 모양 그림에서 30°, 35°가 주어졌을 때 ∠a+∠b+∠c의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "한 변 3 cm인 정삼각형 블록에 연장선 방향으로 9 cm 끈이 연결되어 있다. 반시계 방향으로 팽팽하게 돌릴 때 끈 끝이 지나간 부분의 길이와 끈 전체가 지나간 부분의 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 만들기",
+   "level": "활동",
+   "verb": "만들고 풀어 보자",
+   "summary": "밑줄 친 부분의 수를 바꾸어 문제를 만들고 친구와 바꾸어 푼다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원 O와 부채꼴 AOB, 점 P, Q를 꼭짓점으로 하는 삼각형 OPQ",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "중심각 30°, 반지름 6 cm인 부채꼴에 색칠한 바깥 부분",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "별 모양 도형에서 각 a, b, c와 30°, 35°가 표시됨",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정삼각형 블록(한 변 3 cm)과 9 cm 끈이 부채꼴 모양으로 돌아가는 모습",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Road: 번호 팻말(1~9)과 복습 쪽수가 적힌 길 그림, 학생 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "정삼각형 블록에 연결된 끈"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Road 복습 안내(문항별 복습 쪽)",
+   "problemNos": [
+    "1: 195쪽 1",
+    "2: 197쪽 2",
+    "3: 197쪽 1, 199쪽 1",
+    "4: 201쪽 2",
+    "5: 205쪽 2",
+    "6: 207쪽 1",
+    "7: 207쪽 1",
+    "8: 195쪽 1",
+    "9: 207쪽 1"
+   ]
+  }
+ ],
+ "notes": "중단원 마무리 문제 5~9번 쪽이며 8번은 '발전' 표시. 소단원 번호는 보이지 않아 빈 문자열로 둠. 대단원은 부채꼴·각 내용을 근거로 '평면도형의 성질'로 추정함. Math Road의 1~4번 문항은 이 쪽에 없고 복습 쪽수만 표시됨. 5번 풀이의 정확한 각도는 그림으로만 판단.",
+ "_page": 211,
+ "_usage": {
+  "in": 4566,
+  "out": 1824,
+  "sec": 15.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

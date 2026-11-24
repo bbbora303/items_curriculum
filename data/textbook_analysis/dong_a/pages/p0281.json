@@ -1,0 +1,201 @@
+{
+ "printedPage": "281",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\square$",
+   "meaning": "구하려는 어떤 수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$a\\times b\\div c$",
+   "meaning": "곱셈과 나눗셈이 섞인 계산",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\square\\times\\left(-\\frac{2}{3}\\right)=6 \\Rightarrow \\square=6\\div\\left(-\\frac{2}{3}\\right)=-9$",
+   "plain": "곱셈식에서 모르는 수는 나눗셈으로 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "두 수의 곱이 음수이면 두 수의 부호가 다르다.",
+   "plain": "부호가 다른 두 수를 곱하면 음수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "세 수의 곱이 최대이면 음수 2개와 양수 1개를 곱하고, 최소이면 음수 1개와 양수 2개를 곱한다.",
+   "plain": "곱이 최대·최소가 되도록 부호와 크기를 정해 고른다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "프로젝트 1 예시",
+   "summary": "프랑스 여행 3일 일정과 비용을 유로로 정리하고 합계를 구한 표",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "프로젝트 2 예시",
+   "summary": "환율 1400원으로 여행 비용을 원화로 바꾸고 예산과의 차를 구한 표",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "08",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "□×(-2/3)=6에서 □를 구하고, 이를 1/4의 역수와 곱한 값 구하기(해설)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "a<0, b>0, c>0일 때 옳은 것 고르기(해설)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "절댓값이 11, 8인 두 수 중 곱과 합이 음수인 두 수 구하기(해설)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "a, b, c를 구하고 a×b÷c 계산하기(해설)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "12",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "1~6월 이익·손해 합과 7월 이익 구하기(해설)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "13",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 수의 곱의 최댓값과 최솟값 구하기(해설)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "프로젝트 1",
+   "level": "활동",
+   "verb": "작성하시오",
+   "summary": "여행 일정별 비용을 유로로 표에 정리하기(예시 답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "프로젝트 2",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "환율로 원화 비용과 예산 차 구하기(예시 답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "수학 놀이터",
+   "level": "활동",
+   "verb": "",
+   "summary": "도시별 값과 부호 답 제시",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "프랑스 여행 첫째·둘째·셋째 날 일정과 비용 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "유로 비용을 원화로 바꾼 표와 예산에서 비용을 뺀 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "해외 여행 경비",
+  "환율",
+  "회사의 이익과 손해",
+  "세계 도시"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 새로 정의되는 개념은 없다. 수학 놀이터 답은 도시 이름과 값만 나열되어 있어 문제 내용을 알 수 없다. 글자층의 부호(_)는 ×로 읽었다.",
+ "_page": 281,
+ "_profile": "full",
+ "_usage": {
+  "in": 5685,
+  "out": 1739,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

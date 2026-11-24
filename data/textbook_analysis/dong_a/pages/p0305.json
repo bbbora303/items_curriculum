@@ -1,0 +1,121 @@
+{
+ "printedPage": "305",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.2 줄기와 잎 그림 / 8.3 도수분포표",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "매장에 있는 음반 수 줄기와 잎 그림(0|1은 1장)의 정답",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "적설량 줄기와 잎 그림(5|0은 5.0 cm)의 정답",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "과학 성적 줄기와 잎 그림(6|1은 61점)의 정답",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "식사 시간 도수분포표(합계 24명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "하루 걸음 수 도수분포표(합계 21일)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 문제 4의 채점 기준표(배점 40%, 60%)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "음반 수",
+  "적설량",
+  "과학 성적",
+  "식사 시간",
+  "하루 걸음 수",
+  "능력자 도장 기록"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로 정의되는 개념은 없고, 8.2 줄기와 잎 그림(246~248쪽), 해결해요(249쪽), 8.3 도수분포표(250~252쪽)의 답과 풀이를 담고 있다. 앞쪽 6번 풀이는 최빈값 10, 중앙값 9로 a=8, a+b+c=28을 구한다. 3번 풀이는 4/20×100=20(%)이다. 4번은 서술형이고 채점 기준이 있다. 질문과 문제 1의 (1)(2)(3)에는 '예시' 답이 있다.",
+ "_page": 305,
+ "_profile": "full",
+ "_usage": {
+  "in": 5618,
+  "out": 922,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

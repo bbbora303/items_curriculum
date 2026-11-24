@@ -1,0 +1,34 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": ""
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이미지가 완전한 빈 백지이고 글자층도 비어 있어 읽을 수 있는 내용이 없다. 쪽 번호, 단원 표시, 본문이 모두 없다. 표지 뒷면이나 간지, 또는 속지 같은 빈 쪽으로 보이며 추측하지 않고 pageType은 '기타'로 두었다.",
+ "_page": 315,
+ "_profile": "full",
+ "_usage": {
+  "in": 3889,
+  "out": 261,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

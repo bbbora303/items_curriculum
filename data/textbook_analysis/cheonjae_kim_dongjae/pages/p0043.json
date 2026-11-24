@@ -1,0 +1,170 @@
+{
+ "printedPage": "43",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "배우고 익히기"
+ },
+ "pageType": "탐구활동",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "정수 세 개의 덧셈·뺄셈 $(+13)+(-3)-(+8)$ 을 계산한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "괄호가 있는 정수의 덧셈·뺄셈 $(-3)-(-6)+(-2)$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (3)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "괄호가 없는 정수의 덧셈·뺄셈 $2-8+5$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (4)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "소수가 있는 덧셈·뺄셈 $(-2.3)-(-4.3)+(+1.5)$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (5)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "분수의 덧셈·뺄셈 $\\frac{1}{2}+\\frac{9}{4}-\\frac{5}{2}-\\frac{1}{4}$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (6)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "분수와 소수가 섞인 계산 $-\\frac{1}{5}-\\frac{1}{2}+1.7-7$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (7)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "정수와 분수의 계산 $-1-\\frac{3}{4}+\\frac{1}{2}$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (8)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "분수의 덧셈·뺄셈 $-\\frac{5}{8}+\\frac{1}{4}-\\frac{3}{2}$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (9)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "분수의 덧셈·뺄셈 $-\\frac{1}{3}-\\frac{3}{2}+\\frac{5}{4}$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (10)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "괄호가 있는 분수의 덧셈·뺄셈 $(-\\frac{7}{4})-(+\\frac{2}{3})+(-\\frac{5}{4})$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (11)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "정수의 덧셈·뺄셈 $-6-5+8-2$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (12)",
+   "level": "활동",
+   "verb": "칠하시오",
+   "summary": "소수와 분수가 섞인 계산 $-2.5-\\frac{9}{7}+3.5$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "여러 칸으로 나뉜 말풍선 모양의 그림에 정수·분수·소수 답 후보가 적혀 있고, 계산한 답이 있는 칸에 문항 번호의 색을 칠한다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "심폐소생술 순서(의식 확인 및 도움 요청, 호흡 확인, 가슴 압박, 기도 개방 후 인공호흡) 삽화. 3번 칸은 말풍선 그림으로 채워진다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "응급 상황 심폐소생술(CPR) 순서",
+  "건강",
+  "안전"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "새 용어나 개념 정의는 없고, 정수와 유리수의 덧셈·뺄셈 계산을 사용하는 색칠 활동 쪽이다. 소단원 번호·제목은 보이지 않아 section은 비웠다. 말풍선 칸에 적힌 값 중 일부는 분수 모양이 작아 글자층과 이미지를 대조해 읽었다. 건강·안전 아이콘은 역량 아이콘이 아니라 주제 표시로 보여 competencies에는 넣지 않았다.",
+ "_page": 43,
+ "_usage": {
+  "in": 4405,
+  "out": 1827,
+  "sec": 10.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

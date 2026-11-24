@@ -1,0 +1,141 @@
+{
+ "printedPage": "164",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "평행선에서 동위각과 엇각은 어떤 성질이 있을까?",
+  "area": "탐구 활동 및 개념 설명"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l /\\\\!/ m$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l /\\\\!/ m$",
+   "meaning": "직선 l과 m이 서로 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\angle a=\\\\angle b$",
+   "meaning": "두 각의 크기가 같다",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l /\\\\!/ m \\\\Rightarrow \\\\angle a=\\\\angle b$ (동위각)",
+   "plain": "서로 평행한 두 직선이 다른 한 직선과 만날 때 동위각의 크기는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\\\angle a=\\\\angle b \\\\Rightarrow l /\\\\!/ m$ (동위각)",
+   "plain": "동위각의 크기가 같도록 두 직선을 그으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l /\\\\!/ m \\\\Rightarrow \\\\angle a=\\\\angle c$ (엇각)",
+   "plain": "서로 평행한 두 직선이 다른 한 직선과 만날 때 엇각의 크기는 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\\\angle a=\\\\angle c \\\\Rightarrow l /\\\\!/ m$ (엇각)",
+   "plain": "엇각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "엇각의 성질 설명",
+   "summary": "동위각 ∠a=∠b와 맞꼭지각 ∠b=∠c로부터 ∠a=∠c(엇각)임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "❶",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "투명 종이로 본떠 비교하여 색칠한 두 각의 크기가 같은 그림을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "❷",
+   "level": "활동",
+   "verb": "추측해 보자",
+   "summary": "색칠한 두 각의 크기가 같을 때 두 직선 l, m의 위치 관계를 추측한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "〈그림 1〉은 평행하지 않은 두 직선과 한 직선, 〈그림 2〉는 평행한 두 직선과 한 직선이 만나 색칠한 두 각이 표시된 그림이다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "평행한 두 직선 l, m이 한 직선과 만나 동위각 a, b가 표시된 그림.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "평행한 두 직선 l, m과 한 직선이 만나 동위각 a, b와 엇각 a, c가 표시된 그림.",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'준비물 4' 표시가 있음(투명 종이). 동위각·엇각·맞꼭지각의 정의는 이 쪽에 없고 앞 쪽에서 배운 것으로 전제하여 사용한다. 평행 기호는 글자층에서 깨져 이미지를 따랐다.",
+ "_page": 164,
+ "_usage": {
+  "in": 4685,
+  "out": 1410,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

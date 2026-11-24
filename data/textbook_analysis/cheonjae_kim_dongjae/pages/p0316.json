@@ -1,0 +1,39 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "판권(간기) 쪽"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "'중학교 수학 1' 제목이 든 청색 원과 발행일·정가가 적힌 연한 청회색 원",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 판권 쪽이다. 검정심의회, 연구위원, 검정위원, 지은이, 발행인, 인쇄인, 개발·디자인 담당자, 문의처, ISBN을 담고 있다. 발행일은 2025.3.1 초판, 2027.3.1 3쇄이다. 쪽 번호는 인쇄되어 있지 않다. 대단원이나 소단원 정보도 없다.",
+ "_page": 316,
+ "_usage": {
+  "in": 5043,
+  "out": 361,
+  "sec": 2.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

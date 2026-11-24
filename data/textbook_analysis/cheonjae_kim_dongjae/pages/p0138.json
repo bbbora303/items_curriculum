@@ -1,0 +1,174 @@
+{
+ "printedPage": "138",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "정비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  },
+  {
+   "term": "제1사분면, 제3사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "y축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "톱니바퀴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax\\ (a\\neq0)",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "(x, y)",
+   "meaning": "좌표평면 위의 점의 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "O",
+   "meaning": "원점",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "시간 x초와 속력 y m/초의 관계를 나타낸 꺾은선 그래프(구간 ❶❷❸)를 해석하여 옳지 않은 설명을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "y가 x에 정비례하는 표(x: 1, 2, 7, B / y: 3, A, 21, 39)에서 A+B의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "정비례 관계 y=-3x의 그래프에 대한 설명 중 옳은 것을 고른다(지나는 점, 사분면, 증감, y축과의 가까움).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "수는?",
+   "summary": "y=x와 y=ax의 그래프가 함께 그려져 있을 때 a가 될 수 있는 수를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "아닌 것은?",
+   "summary": "원점을 지나는 직선 그래프(점 (-3, 4) 지남) 위의 점이 아닌 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "답하시오",
+   "summary": "톱니 15개, 33개인 톱니바퀴 A, B에서 x와 y의 관계식을 세우고, A가 11바퀴 돌 때 B의 회전수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "6번: 시간-속력 꺾은선 그래프(0~5초 y=4 일정, 5~8초 증가해 7, 8~10초 감소해 0)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "7번: x가 1, 2, 7, B일 때 y가 3, A, 21, 39인 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "9번: 좌표평면 위 y=x와 y=ax의 그래프(y=ax는 x>0에서 y=x보다 아래쪽, 기울기가 작은 양수로 보임)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "10번: 원점을 지나 제2·4사분면을 지나는 직선, x=-3일 때 y=4 표시",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "물체의 이동(시간과 속력)",
+  "톱니바퀴의 회전"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 문제 쪽(6~11번). 9번 그림에서 y=ax의 위치(기울기 크기)는 그림상 y=x보다 완만하게 보임. 각 문항 위 아이콘은 와이파이 모양으로 보이나 역량 이름은 확인되지 않음. 소단원 번호는 보이지 않음.",
+ "_page": 138,
+ "_usage": {
+  "in": 4838,
+  "out": 1579,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

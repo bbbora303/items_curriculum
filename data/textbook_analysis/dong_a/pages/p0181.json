@@ -1,0 +1,163 @@
+{
+ "printedPage": "181",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.1 다각형의 대각선의 개수",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다각형의 대각선의 개수",
+   "role": "정의",
+   "definition": "n각형의 대각선의 개수를 구하는 방법으로, 한 꼭짓점에서 그을 수 있는 대각선 수 (n-3)에 n을 곱한 뒤 2로 나눈다.",
+   "notation": "$\\frac{n(n-3)}{2}$"
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "n각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$n$",
+   "meaning": "다각형의 변(꼭짓점)의 개수를 나타내는 문자",
+   "role": "사용"
+  },
+  {
+   "symbol": "$n-3$",
+   "meaning": "n각형의 한 꼭짓점에서 그을 수 있는 대각선의 개수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\frac{n(n-3)}{2}$",
+   "plain": "n각형의 대각선의 개수는 n(n-3)을 2로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$n(n-3)\\div 2$",
+   "plain": "각 대각선이 양 끝 꼭짓점에서 두 번씩 세어지므로 n(n-3)을 2로 나눈다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (1)",
+   "summary": "육각형의 대각선의 개수를 공식에 6을 넣어 $\\frac{6\\times(6-3)}{2}=9$로 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "칠각형의 대각선의 개수를 공식에 7을 넣어 $\\frac{7\\times(7-3)}{2}=14$로 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "구각형의 대각선의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "십이각형의 대각선의 개수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기 (1)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "한 꼭짓점에서 대각선을 그어 사각형과 육각형으로 나뉘는 다각형의 이름 구하기",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기 (2)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "그 다각형의 대각선의 개수 구하기",
+   "competencyIcons": [
+    "문제해결",
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "오각형의 한 대각선과 '한 대각선을 두 번 세었어요!'라는 말풍선이 있는 캐릭터",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "수학 집 짓기: 냄비에 'n-3'을 넣어 'n×(n-3)/2' 식을 만드는 요리 비유 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "요리(수학 집 짓기 코너의 냄비·요리 비유)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 표시는 오른쪽 '6 단원'이며, 대단원 목록상 6번째인 '평면도형의 성질'로 판단했다. 이 쪽 앞부분(n각형의 한 꼭짓점에서 그을 수 있는 대각선의 개수 유도)은 이전 쪽에서 이어진다. '수학 집 짓기'는 공식을 요리 그림에 비유해 정리하는 코너다.",
+ "_page": 181,
+ "_profile": "full",
+ "_usage": {
+  "in": 4464,
+  "out": 1516,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

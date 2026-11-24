@@ -1,0 +1,144 @@
+{
+ "printedPage": "127",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "반비례 관계 (배우고 익히기 / 와글와글 수학 활동)",
+  "area": "배우고 익히기, 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=\\frac{a}{x}$",
+   "meaning": "y가 x에 반비례하는 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "보기 (도서관)",
+   "summary": "1초에 x MB 전송 속도로 300 MB 파일을 전송할 때 걸리는 시간 y초를 표와 식 $y=\\frac{300}{x}$로 나타낸 예",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "답하시오",
+   "summary": "360쪽 책을 하루 x쪽씩 y일 동안 읽을 때 (1) 표 완성 (2) x와 y의 관계 말하기 (3) 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "y=5x, y=4/x, y=-3/x, y=1/x+2 중 y가 x에 반비례하는 식을 모두 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "(1) 넓이 20 cm²인 직사각형의 가로 x와 세로 y (2) 길이 10 cm 양초가 1분에 0.3 cm씩 탈 때 시간 x와 남은 길이 y 중 반비례하는 것을 찾고 식으로 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "완성하시오",
+   "summary": "y가 x에 반비례하는 식이 적힌 조각을 모두 골라 톱니바퀴 완성하기",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "지도에서 장소를 정해 반비례 관계가 있는 상황을 찾아 쓰고 표와 식으로 나타내기",
+   "competencyIcons": [
+    "추론",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "x(쪽) 10~60에 대한 y(일)를 채우는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반비례 식이 적힌 톱니바퀴 퍼즐 조각들",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "병원, 편의점, 분식집, 문구점, 도서관이 있는 마을 지도",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "보기의 x(MB), y(초) 표와 학생이 채울 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "책 읽기",
+  "직사각형 넓이",
+  "양초 길이",
+  "파일 전송 속도",
+  "마을 장소(도서관 등)",
+  "톱니바퀴 퍼즐"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "새 정의는 없고 반비례 관계의 확인과 식 표현을 연습하는 쪽이다. 상단 FUN 코너의 '___와 ___가 반비례하면 좋겠다'는 빈칸 채우기 문구이다. 1번 표의 x값은 10, 20, 30, 40, 60이다.",
+ "_page": 127,
+ "_usage": {
+  "in": 4670,
+  "out": 1375,
+  "sec": 8.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

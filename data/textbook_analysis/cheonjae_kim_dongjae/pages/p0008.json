@@ -1,0 +1,101 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "수와 연산",
+  "section": "1 소인수분해, 2 정수와 유리수",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사칙계산",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "자연수 → 정수 → 유리수",
+   "plain": "수는 자연수에서 정수, 유리수로 확장된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "사칙계산의 확장",
+   "plain": "사칙계산은 자연수에서 정수, 유리수로 확장되며 연산의 성질이 일관되게 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "우주 배경에 우주비행사, 로켓, 위성, 외계인이 있고 숫자 1 모양의 구조물이 그려진 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "우주 공간과 달 위의 우주비행사, 위성이 보이는 사진 합성 이미지",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "우주",
+  "우주비행사",
+  "로켓",
+  "위성",
+  "달"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 '수와 연산'의 도입 표지 쪽이다. 소단원은 1 소인수분해, 2 정수와 유리수 두 개이다. 이 쪽에는 '배운 내용 / 배울 내용' 표시가 없고 '핵심 아이디어' 두 항목만 있다. 쪽 번호는 보이지 않는다. 대단원 목록에서 '수와 연산'은 상위 영역 이름이고 그 아래 소인수분해와 정수와 유리수가 대단원으로 나뉜다.",
+ "_page": 8,
+ "_usage": {
+  "in": 4067,
+  "out": 777,
+  "sec": 5.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

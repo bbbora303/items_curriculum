@@ -1,0 +1,131 @@
+{
+ "printedPage": "49",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "역수의 뜻",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "어떤 두 수의 곱이 1이 될 때, 한 수를 다른 수의 역수라고 한다.\n예를 들어\n$\\left(+\\frac{3}{5}\\right)\\times\\left(+\\frac{5}{3}\\right)=1$\n이므로 $+\\frac{3}{5}$은 $+\\frac{5}{3}$의 역수이고, $+\\frac{5}{3}$는 $+\\frac{3}{5}$의 역수이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "0에 어떠한 수를 곱하여도 1이 될 수 없으므로 0의 역수는 없다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "$\\left(-\\frac{7}{4}\\right)\\times\\left(-\\frac{4}{7}\\right)=\\square$ 이므로 $-\\frac{7}{4}$의 역수는 $\\square$ 이고, $-\\frac{4}{7}$의 역수는 $\\square$ 이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$\\left(-\\frac{7}{4}\\right)\\times\\left(-\\frac{4}{7}\\right)$",
+   "steps": [],
+   "answerFormat": "빈칸 3개 채우기"
+  },
+  {
+   "kind": "기타",
+   "label": "나눗셈과 역수",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "두 수 4와 $\\frac{2}{5}$의 나눗셈에서\n$4\\div\\frac{2}{5}=4\\times\\frac{5}{2}=10$\n이므로 4를 $\\frac{2}{5}$로 나누는 것은 4에 $\\frac{2}{5}$의 역수를 곱하는 것과 같다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "유리수의 나눗셈",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "유리수의 나눗셈도 나누는 수의 역수를 곱하여 계산할 수 있다.\n$(+4)\\div\\left(-\\frac{2}{5}\\right)=(+4)\\times\\left(-\\frac{5}{2}\\right)=-\\left(4\\times\\frac{5}{2}\\right)=-10$\n(위: 곱셈으로 바꾼다. / 아래: 역수로 바꾼다.)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "예제",
+   "label": "예제 2",
+   "corner": "예제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\left(+\\frac{1}{6}\\right)\\div\\left(-\\frac{4}{9}\\right)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$\\left(-\\frac{5}{3}\\right)\\div\\left(-\\frac{10}{9}\\right)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "풀이 (1) $\\left(+\\frac{1}{6}\\right)\\div\\left(-\\frac{4}{9}\\right)=\\left(+\\frac{1}{6}\\right)\\times\\left(-\\frac{9}{4}\\right)=-\\left(\\frac{1}{6}\\times\\frac{9}{4}\\right)=-\\frac{3}{8}$",
+    "(2) $\\left(-\\frac{5}{3}\\right)\\div\\left(-\\frac{10}{9}\\right)=\\left(-\\frac{5}{3}\\right)\\times\\left(-\\frac{9}{10}\\right)=+\\left(\\frac{5}{3}\\times\\frac{9}{10}\\right)=+\\frac{3}{2}$",
+    "답 (1) $-\\frac{3}{8}$ (2) $+\\frac{3}{2}$"
+   ],
+   "answerFormat": "계산 결과"
+  },
+  {
+   "kind": "기타",
+   "label": "곱셈과 나눗셈이 섞여 있는 계산",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "곱셈과 나눗셈이 섞여 있을 때는 나눗셈을 곱셈으로 바꾸어 계산하면 편리하다.\n예를 들어\n$\\left(-\\frac{2}{3}\\right)\\div\\left(-\\frac{6}{7}\\right)\\times\\frac{3}{7}=\\left(-\\frac{2}{3}\\right)\\times\\left(-\\frac{7}{6}\\right)\\times\\frac{3}{7}=+\\left(\\frac{2}{3}\\times\\frac{7}{6}\\times\\frac{3}{7}\\right)=+\\frac{1}{3}$\n이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "나눗셈을 곱셈으로 바꾸는 과정 설명 그림",
+   "labels": "식: (+4)÷(−2/5)=(+4)×(−5/2)=−(4×5/2)=−10. ÷ 기호는 하늘색으로 강조되고 ×로 바뀌는 화살표 위에 '곱셈으로 바꾼다.'라고 표시. (−2/5)와 (−5/2)는 분홍색 원으로 강조되고 아래 화살표에 '역수로 바꾼다.'라고 표시",
+   "desc": "÷를 ×로, 나누는 수를 그 역수로 바꾸는 것을 하늘색·분홍색 화살표로 나타낸 그림"
+  }
+ ],
+ "incomplete": "",
+ "_page": 49,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4105,
+  "out": 2820,
+  "sec": 16.2,
+  "stop": "end_turn"
+ }
+}

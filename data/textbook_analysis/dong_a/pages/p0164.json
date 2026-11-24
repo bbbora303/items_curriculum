@@ -1,0 +1,129 @@
+{
+ "printedPage": "164",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "배우고 익히기 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형이 하나로 정해지는 경우",
+   "role": "정의",
+   "definition": "주어진 조건으로 삼각형의 모양과 크기가 하나로 결정되는 경우",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$30^\\circ, 60^\\circ$",
+   "meaning": "주어진 각의 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "세 변의 길이가 주어진 경우",
+   "plain": "세 변의 길이가 주어지면 삼각형이 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 변의 길이와 그 끼인각의 크기가 주어진 경우",
+   "plain": "두 변의 길이와 그 끼인각의 크기가 주어지면 삼각형이 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 변의 길이와 그 양 끝 각의 크기가 주어진 경우",
+   "plain": "한 변의 길이와 그 양 끝 각의 크기가 주어지면 삼각형이 하나로 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 6",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "작도를 이용해 주어진 삼각형 ABC를 옮겨 그리고 작도한 방법을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "써 보시오",
+   "summary": "한 변의 길이(3 cm)와 두 각(30°, 60°)이 주어졌을 때 작도한 삼각형의 모양과 크기가 하나로 정해지는지 자기 생각을 쓴다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "변과 각에 표시가 있는 삼각형 ABC와 작도 결과를 그릴 빈 상자",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "길이 3 cm 선분과 30°, 60° 각이 주어진 그림, 내 생각을 쓰는 칸",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "세 가지 조건(세 변 / 두 변과 끼인각 / 한 변과 양 끝 각)별 삼각형 결정 그림과 연필·컴퍼스 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 쪽 아래에는 '5. 기본 도형과 작도'가 인쇄되어 있음. '수학 집 짓기'는 삼각형이 하나로 정해지는 세 가지 경우를 그림으로 정리하는 코너로, 문제 6은 앞 내용의 작도 연습이며 생각 넓히기는 다음 개념(ASA 조건)으로 이어지는 탐구로 보임.",
+ "_page": 164,
+ "_profile": "full",
+ "_usage": {
+  "in": 4178,
+  "out": 1279,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

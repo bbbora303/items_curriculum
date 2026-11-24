@@ -1,0 +1,103 @@
+{
+ "printedPage": "265",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.6 통계 프로젝트",
+  "area": "통계 프로젝트 - 1단계 문제 설정"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "통계 프로젝트",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "문제 설정",
+   "role": "정의",
+   "definition": "통계를 이용하여 탐구하고 싶은 문제를 찾는 통계 탐구의 첫 단계이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "문제 설정 → 자료 수집 → 자료 분석 → 결과 해석",
+   "plain": "통계 프로젝트는 문제 설정, 자료 수집, 자료 분석, 결과 해석의 4단계로 진행한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "문제 설정 대화 예시",
+   "summary": "외국인 친구와 하루 동안 할 일 찾기라는 문제를 정하고, 조사할 내용으로 서울의 관광지, 한류 체험, 우리나라 음식을 제시한다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "의논해 보자",
+   "summary": "모둠별로 통계로 탐구하고 싶은 문제를 찾고, 구체적으로 조사할 내용이 무엇인지 의논하여 표에 적는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "통계 프로젝트 4단계(문제 설정, 자료 수집, 자료 분석, 결과 해석)를 화살표로 이은 흐름도이며 '문제 설정'이 강조되어 있다.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "외국인 친구를 안내하는 상황을 만화 형식의 대화로 나타낸 그림이다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "문제 '외국인 친구와 하루 동안 할 일 찾기'와 조사할 내용 3가지를 정리한 표이다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "모둠이 문제와 조사할 내용을 직접 적는 빈 칸 표이다.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "외국인 친구 안내",
+  "서울 관광지",
+  "한류 체험",
+  "우리나라 음식"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "통계 프로젝트 쪽으로, 수학적 계산이나 개념 정의는 없고 프로젝트 절차 안내와 모둠 활동으로 구성되어 있다. 역량 아이콘은 보이지 않는다.",
+ "_page": 265,
+ "_profile": "full",
+ "_usage": {
+  "in": 4333,
+  "out": 994,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

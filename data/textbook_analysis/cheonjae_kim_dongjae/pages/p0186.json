@@ -1,0 +1,155 @@
+{
+ "printedPage": "186",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "창의 융합 컴퓨팅: 삼각형 작도하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\triangle ABC$"
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "컴퍼스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle B$, $\\angle E$"
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{BC}$",
+   "meaning": "선분 BC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle B$",
+   "meaning": "각 B",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "",
+   "plain": "기하 소프트웨어의 반직선, 컴퍼스, 교점 도구로 주어진 삼각형 ABC와 같은 선분 길이와 각 크기를 가진 삼각형 DEF를 작도한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "삼각형 DEF 작도 과정 ①~④",
+   "summary": "삼각형 ABC를 그린 뒤 BC, ∠B, AB와 같은 길이·크기를 차례로 옮겨 삼각형 DEF를 작도한다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "작도해 보자",
+   "summary": "위 방법을 참고해 삼각형 ABC와 합동인 삼각형을 방법 1, 방법 2로 각각 작도한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "확인해 보자",
+   "summary": "작도한 삼각형이 삼각형 ABC와 완전히 포개어지는지 확인하고, ABC의 꼭짓점을 끌어 모양을 바꾼 뒤에도 포개어지는지 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "기하 창 화면 4개로 삼각형 ABC 그리기, BC와 같은 EF 작도, ∠B와 같은 ∠E 작도, AB와 같은 DE 작도 후 삼각형 DEF 완성 과정을 보여 줌",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "방법 1, 방법 2로 작도한 삼각형 DEF의 기하 창 화면 두 개",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "장식",
+   "desc": "활동 영상 QR 코드, 노트북, 로봇 손, 톱니바퀴, 돋보기와 폴더 그림",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "기하 소프트웨어를 이용한 작도",
+  "컴퓨터"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 하단에 'Ⅳ. 도형의 기초'로 인쇄되어 있으나 제시된 대단원 목록에서는 '작도와 합동'이 가장 가까워 chapter로 적었다. 소단원 번호는 보이지 않는다. 도구 아이콘은 이미지가 작아 정확히 읽기 어렵다. 방법 1과 방법 2의 구체적 차이(변-변-변 또는 변-각-변)는 이 쪽에 설명되어 있지 않다.",
+ "_page": 186,
+ "_usage": {
+  "in": 4498,
+  "out": 1407,
+  "sec": 9.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

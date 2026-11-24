@@ -1,0 +1,52 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "주황색 배경에 말풍선 모양 안에 큰 숫자 5를 주황색과 보라색 도형으로 디자인한 단원 표지 그림",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "도시 설계",
+  "놀이공원"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "5.0 도형으로 도시를 설계해요",
+   "5.1 점, 선, 면",
+   "5.2 각의 뜻과 성질",
+   "5.3 위치 관계",
+   "5.4 평행선의 성질",
+   "5.5 삼각형의 작도",
+   "5.6 삼각형의 합동"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 표지 쪽으로, 쪽 번호는 인쇄되어 있지 않다. 단원 질문은 '도형의 성질과 작도를 이용하여 어떻게 도형을 표현하고 삼각형의 작도와 합동을 설명할 수 있을까요?'이다. 하단에 '프로젝트: 놀이공원을 설계해요'가 표시되어 있다. 배운 내용·배울 내용(중2·중3) 표시는 이 쪽에 없다.",
+ "_page": 139,
+ "_profile": "full",
+ "_usage": {
+  "in": 4067,
+  "out": 502,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

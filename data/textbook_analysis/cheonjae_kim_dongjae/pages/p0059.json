@@ -1,0 +1,207 @@
+{
+ "printedPage": "59",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "서로소",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2$",
+   "meaning": "거듭제곱 표기(지수)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "소수, 합성수, 거듭제곱 계산, 서로소에 관한 설명 5개 중 옳은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "모두 고르시오",
+   "summary": "31, 32, 33, 35, 36 중 소인수가 하나뿐인 수 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "99의 소인수분해, 약수의 개수, 소인수, 서로소에 관한 설명 중 옳지 않은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 392의 약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하고, 소인수분해하시오",
+   "summary": "270과 $2^2\\times\\square\\times7^2$의 최대공약수가 18일 때 □에 들어갈 가장 작은 자연수와 두 수의 최소공배수를 소인수분해",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "아닌 것은?",
+   "summary": "두 수 $2\\times3^2\\times5^2$, $2^2\\times3^3\\times5$의 공배수가 아닌 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "옳은 것은?",
+   "summary": "수직선 위 다섯 점 A~E에 대응하는 수(-3~3 부근)에 대한 설명 중 옳은 것 고르기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "2번 문제의 보기 수 31, 32, 33, 35, 36을 담은 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "-3부터 3까지 눈금 위에 점 A, B, C, D, E를 표시한 수직선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 쪽으로 1~7번 문항을 다룸. 1~6번은 소인수분해 단원, 7번은 정수와 유리수 내용(수직선, 절댓값). 문제 번호 옆에 와이파이 모양 아이콘이 있으나 역량 라벨은 읽을 수 없음. 새로 정의되는 용어는 없음.",
+ "_page": 59,
+ "_usage": {
+  "in": 4675,
+  "out": 1533,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

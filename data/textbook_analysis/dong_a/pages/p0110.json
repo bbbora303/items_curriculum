@@ -1,0 +1,183 @@
+{
+ "printedPage": "110",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.1 순서쌍과 좌표",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각 1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "좌표",
+   "role": "정의",
+   "definition": "수직선 위의 점에 대응하는 수를 그 점의 좌표라 한다.",
+   "notation": "P(a)"
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x축",
+   "role": "사용",
+   "definition": "",
+   "notation": "x"
+  },
+  {
+   "term": "y축",
+   "role": "사용",
+   "definition": "",
+   "notation": "y"
+  },
+  {
+   "term": "좌표축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "x좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "y좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "제1사분면~제4사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "P(a)",
+   "meaning": "수 a가 점 P의 좌표임을 나타내는 기호",
+   "role": "정의"
+  },
+  {
+   "symbol": "O(0), A(2), B(-3)",
+   "meaning": "수직선 위 세 점의 좌표를 기호로 나타낸 것",
+   "role": "사용"
+  },
+  {
+   "symbol": "+2\\\\text{ km}",
+   "meaning": "현재 위치에서 오른쪽으로 2 km 떨어진 위치",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "P(a)",
+   "plain": "수직선 위의 점에 대응하는 수를 그 점의 좌표라 하고, 수 a가 점 P의 좌표이면 P(a)로 나타낸다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 1",
+   "summary": "현재 위치를 O, 전통 마을을 A, 연못을 B로 하여 수직선 위에 나타내면 O, A, B에 대응하는 수는 0, 2, -3이다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "확인해요",
+   "summary": "수직선 위 세 점의 좌표를 기호로 나타내면 O(0), A(2), B(-3)이다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "수직선 위의 세 점 A, B, C의 좌표를 각각 기호로 나타낸다(점은 대략 1, -4, 3 위치).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "현재 위치에서 오른쪽 2 km의 전통 마을을 +2 km로 나타낼 때 연못의 위치를 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "조깅하며 쓰레기를 줍는 학생들과 연못, 텃밭 공원, 현재 위치, 장승, 전통 마을의 거리가 적힌 안내판",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "-5부터 5까지의 수직선에 점 B(-3), O(0), A(2)를 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "-5부터 5까지의 수직선에 점 B, A, C를 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [
+  "조깅",
+  "쓰레기 줍기",
+  "마을 위치와 거리"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 목표와 학습 요소가 제시된 소단원 도입 쪽이다. 수직선 위의 좌표는 이 쪽에서 정의하고, 순서쌍·좌표축 등은 학습 요소로 나열만 되어 있어 사용으로 분류했다. 문제 1의 점 위치(A=1, B=-4, C=3)는 이미지에서 읽은 것이다.",
+ "_page": 110,
+ "_profile": "full",
+ "_usage": {
+  "in": 4623,
+  "out": 1516,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

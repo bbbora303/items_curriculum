@@ -1,0 +1,279 @@
+{
+ "printedPage": "300",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "대단원 마무리 정답",
+   "corner": "대단원 마무리 (187~189쪽)",
+   "icons": [],
+   "level": "",
+   "text": "1 교점의 개수: 10, 교선의 개수: 15\n2 ⑤\n3 30°\n4 x=150, y=40\n5 ④\n6 ②\n7 ③\n8 80°\n9 2쌍\n10 ④\n11 ㉡, ㉢\n12 ②, ④\n13 ③\n14 △CAD≡△ACB(SAS 합동)\n15 (1) 8 cm (2) 100°",
+   "subItems": [
+    {
+     "label": "15 (1)",
+     "text": "8 cm"
+    },
+    {
+     "label": "15 (2)",
+     "text": "100°"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "정답"
+  },
+  {
+   "kind": "서술형문제",
+   "label": "16",
+   "corner": "대단원 마무리",
+   "icons": [],
+   "level": "서술형",
+   "text": "면 ABED와 평행한 모서리는 모서리 CJ, 모서리 JI, 모서리 IF, 모서리 FG, 모서리 CG이므로 $a=5$이다. ……➊\n모서리 CG와 꼬인 위치에 있는 모서리는 모서리 AB, 모서리 DE, 모서리 BH, 모서리 EF, 모서리 HI, 모서리 HJ이므로 $b=6$이다. ……➋\n따라서 $a+b=5+6=11$ ……➌\n답 11",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "➊ a의 값 구하기 (45 %)",
+    "➋ b의 값 구하기 (45 %)",
+    "➌ a+b의 값 구하기 (10 %)"
+   ],
+   "answerFormat": "해결 과정 ➊~➌과 답 11, 채점 기준표(구분·평가 요소·배점)"
+  },
+  {
+   "kind": "서술형문제",
+   "label": "17",
+   "corner": "대단원 마무리",
+   "icons": [],
+   "level": "서술형",
+   "text": "△BCE와 △ACD에서\n$\\overline{BC}=\\overline{AC}$, $\\overline{CE}=\\overline{CD}$\n$\\angle BCE=180^\\circ-\\angle ECD=180^\\circ-60^\\circ=120^\\circ$,\n$\\angle ACD=180^\\circ-\\angle ACB=180^\\circ-60^\\circ=120^\\circ$\n이므로 $\\angle BCE=\\angle ACD=120^\\circ$\n따라서 △BCE≡△ACD(SAS 합동) ……➊\n△PBD에서 $\\angle x=180^\\circ-(\\angle PBD+\\angle PDB)$\n이때 △BCE≡△ACD이므로\n$\\angle CEB=\\angle CDA$ ……➋\n$\\angle x=180^\\circ-(\\angle PBD+\\angle PDB)$\n$=180^\\circ-(\\angle PBD+\\angle CDA)$\n$=180^\\circ-(\\angle PBD+\\angle CEB)$\n$=\\angle BCE=120^\\circ$ ……➌\n답 120°",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "➊ △BCE≡△ACD임을 설명하기 (40 %)",
+    "➋ ∠CEB=∠CDA임을 설명하기 (30 %)",
+    "➌ ∠x의 크기 구하기 (30 %)"
+   ],
+   "answerFormat": "해결 과정 ➊~➌과 답 120°, 채점 기준표(구분·평가 요소·배점)"
+  },
+  {
+   "kind": "기타",
+   "label": "나의 학습 준비 상태 정답",
+   "corner": "나의 학습 준비 상태 (192쪽)",
+   "icons": [],
+   "level": "",
+   "text": "1 다각형: ⑵, ⑷ 이름: ⑵ 오각형 ⑷ 칠각형\n2 (1) 31.4 cm (2) 78.5 cm²\n3 (1) ㉣ (2) ㉠ (3) ㉢ (4) ㉡\n4 (1) 겉넓이: 376 cm², 부피: 480 cm³\n  (2) 겉넓이: 384 cm², 부피: 512 cm³",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "정답"
+  },
+  {
+   "kind": "기타",
+   "label": "이 단원의 학습 목표 정답",
+   "corner": "이 단원의 학습 목표 (192쪽)",
+   "icons": [],
+   "level": "",
+   "text": "2 중심각, 호\n3 다면체, 회전체",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "정답"
+  },
+  {
+   "kind": "기타",
+   "label": "단원 제목",
+   "corner": "V 도형의 성질 / 1 평면도형의 성질 / 01 다각형의 내각과 외각",
+   "icons": [],
+   "level": "",
+   "text": "V 도형의 성질\n1 평면도형의 성질\n01 다각형의 내각과 외각\n삼각형의 내각과 외각 사이에는 어떤 관계가 있을까? (194~195쪽)\n다각형의 내각의 크기의 합은 얼마일까? (196~197쪽)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각 열기 (194~195쪽)",
+   "corner": "생각 열기",
+   "icons": [],
+   "level": "",
+   "text": "➊ 140°\n➋ (예시) ∠ACD의 크기를 △ABC의 두 각인 ∠A와 ∠B의 크기의 합으로 나타낼 수 있다.",
+   "subItems": [
+    {
+     "label": "➊",
+     "text": "140°"
+    },
+    {
+     "label": "➋",
+     "text": "(예시) ∠ACD의 크기를 △ABC의 두 각인 ∠A와 ∠B의 크기의 합으로 나타낼 수 있다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "정답"
+  },
+  {
+   "kind": "활동",
+   "label": "채워 넣기",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "60, 70, 130",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "빈칸 채우기 정답"
+  },
+  {
+   "kind": "문제",
+   "label": "배우고 익히기 1",
+   "corner": "배우고 익히기",
+   "icons": [],
+   "level": "기본",
+   "text": "1 (1) 100° (2) 60°\n1⁺ 25°",
+   "subItems": [
+    {
+     "label": "1 (1)",
+     "text": "100°"
+    },
+    {
+     "label": "1 (2)",
+     "text": "60°"
+    },
+    {
+     "label": "1⁺",
+     "text": "25°"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "정답"
+  },
+  {
+   "kind": "활동",
+   "label": "와글와글 수학 활동",
+   "corner": "와글와글 수학 활동",
+   "icons": [],
+   "level": "활동",
+   "text": "(예시) △ABC의 한 외각인 ∠ACD의 크기는 두 내각 ∠A와 ∠B의 크기의 합과 같다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "예시 답안"
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각 열기 (196~197쪽)",
+   "corner": "생각 열기",
+   "icons": [],
+   "level": "",
+   "text": "다각형별 삼각형의 개수와 색칠한 각의 크기의 합을 나타낸 표 (삼각형의 개수: 오각형 3, 육각형 4 / 색칠한 각의 크기의 합: 180°×3, 180°×4)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "표 채우기 정답"
+  }
+ ],
+ "tables": [
+  {
+   "caption": "16 채점 기준표",
+   "unit": "",
+   "headers": [
+    "구분",
+    "평가 요소",
+    "배점"
+   ],
+   "rows": [
+    [
+     "해결 과정",
+     "➊ a의 값 구하기",
+     "45 %"
+    ],
+    [
+     "해결 과정",
+     "➋ b의 값 구하기",
+     "45 %"
+    ],
+    [
+     "답",
+     "➌ a+b의 값 구하기",
+     "10 %"
+    ]
+   ],
+   "source": ""
+  },
+  {
+   "caption": "17 채점 기준표",
+   "unit": "",
+   "headers": [
+    "구분",
+    "평가 요소",
+    "배점"
+   ],
+   "rows": [
+    [
+     "해결 과정",
+     "➊ △BCE≡△ACD임을 설명하기",
+     "40 %"
+    ],
+    [
+     "해결 과정",
+     "➋ ∠CEB=∠CDA임을 설명하기",
+     "30 %"
+    ],
+    [
+     "답",
+     "➌ ∠x의 크기 구하기",
+     "30 %"
+    ]
+   ],
+   "source": ""
+  },
+  {
+   "caption": "생각 열기 (196~197쪽)",
+   "unit": "",
+   "headers": [
+    "다각형",
+    "오각형",
+    "육각형"
+   ],
+   "rows": [
+    [
+     "삼각형의 개수",
+     "3",
+     "4"
+    ],
+    [
+     "색칠한 각의 크기의 합",
+     "180°×3",
+     "180°×4"
+    ]
+   ],
+   "source": ""
+  }
+ ],
+ "graphs": [],
+ "figures": [],
+ "incomplete": "쪽 위 연필 아이콘 등 장식 요소는 옮기지 않음. 생각 열기 표에서 '다각형' 열의 첫 칸(삼각형)은 이미지에 값이 없어 보이는 칸만 옮김.",
+ "_page": 300,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 4741,
+  "out": 4159,
+  "sec": 23.8,
+  "stop": "end_turn"
+ }
+}

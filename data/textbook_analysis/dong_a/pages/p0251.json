@@ -1,0 +1,144 @@
+{
+ "printedPage": "251",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.3 도수분포표",
+  "area": "함께해요"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 개수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "변량의 최댓값·최솟값 찾기 → 계급의 크기를 정해 계급 나누기 → 각 계급의 자료 수 세기 → 도수 적기",
+   "plain": "도수분포표는 네 단계 순서로 만든다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "계급의 크기는 같게, 계급의 개수는 자료의 양과 특성에 맞게 정한다.",
+   "plain": "계급의 크기와 개수를 적절히 정해야 자료의 분포 상태를 알아보기 쉽다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "[표 2]",
+   "summary": "같은 자료를 계급의 크기 15분으로 나누면 계급이 2개뿐이라 분포 상태를 알기 어렵다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "식당 손님 24명의 식사 시간 자료로 네 단계에 따라 도수분포표를 완성한다. 첫 계급 5분 이상 10분 미만의 도수는 2이고 합계는 24이다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2-(1)",
+   "level": "활동",
+   "verb": "써 보자(빈칸 채우기)",
+   "summary": "도수분포표에서 도수가 가장 큰 계급의 범위를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(2)",
+   "level": "활동",
+   "verb": "써 보자(빈칸 채우기)",
+   "summary": "식사 시간이 20분 미만인 손님 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "손님 24명의 식사 시간 자료(단위: 분) 24개 값을 3행 8열로 나열한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "계급과 손님 수를 채우는 빈 도수분포표(첫 계급 5이상~10미만 도수 2, 합계 24)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[표 2] 계급의 크기 15분인 도수분포표(0~15미만 10명, 15~30미만 14명, 합계 24)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "음식점 손님의 식사 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'질문' 코너에 '도수분포표에서 각 계급에 속하는 자료의 정확한 값을 알 수 있나요?'가 있다. 이 쪽에서 새로 정의되는 용어는 없고 앞 쪽에서 배운 용어를 사용한다. [표 2]의 둘째 계급은 '15 ~ 30'으로 인쇄되어 있고 이상·미만 표기는 글자층과 이미지에서 확인되지 않는다. 도수분포표의 용어 정의는 이전 쪽에서 다룬 것으로 보인다.",
+ "_page": 251,
+ "_profile": "full",
+ "_usage": {
+  "in": 4706,
+  "out": 1342,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

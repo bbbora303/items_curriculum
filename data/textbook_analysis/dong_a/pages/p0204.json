@@ -1,0 +1,111 @@
+{
+ "printedPage": "204",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "프로젝트 – 나만의 무늬를 만들어요 (수학+미술)"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "테셀레이션(tessellation)",
+   "role": "정의",
+   "definition": "한 가지 이상의 도형으로 평면을 겹치지 않게 빈틈없이 덮는 것",
+   "notation": ""
+  },
+  {
+   "term": "다각형의 내각과 외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대칭",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "테셀레이션: 도형으로 평면을 겹치지 않게 빈틈없이 덮는 것",
+   "plain": "도형을 겹치거나 틈이 생기지 않게 평면에 가득 채워 깐 무늬를 테셀레이션이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "프로젝트",
+   "level": "활동",
+   "verb": "만들어 볼까요?",
+   "summary": "알지오매스를 이용하여 테셀레이션 원리(내각·외각의 크기, 회전, 대칭)를 고려해 나만의 무늬를 만든다.",
+   "competencyIcons": [
+    "추론",
+    "연결",
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "알람브라 궁전 실내 장식과 타일 무늬가 있는 풍경 사진(엽서 모양)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "마름모 무늬 보도블록이 깔린 거리와 우산, 옷, 건물 등에서 무늬를 볼 수 있는 사람들 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 자료 연결용 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "알람브라 궁전 실내 장식",
+  "보도블록",
+  "옷",
+  "건물",
+  "알지오매스",
+  "수학동아 기사"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "이미지가 90도 회전되어 있음. 프로젝트 도입 쪽으로 구체적인 활동 단계는 이 쪽에 없고 QR 코드로 연결된 것으로 보임. 소단원 번호는 없음. 이 쪽에서 용어 '테셀레이션'만 새로 도입되고, 내각·외각·회전·대칭은 이미 배운 내용으로 전제함.",
+ "_page": 204,
+ "_profile": "full",
+ "_usage": {
+  "in": 4223,
+  "out": 945,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

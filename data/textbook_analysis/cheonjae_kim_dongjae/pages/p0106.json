@@ -1,0 +1,136 @@
+{
+ "printedPage": "106",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "01 순서쌍과 좌표",
+  "area": "단원 도입"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "좌표",
+   "role": "정의",
+   "definition": "수직선 위의 점에 대응하는 수를 그 점의 좌표라고 한다.",
+   "notation": "P(a)"
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "P(a)",
+   "meaning": "수 a가 점 P의 좌표임을 나타내는 기호",
+   "role": "정의"
+  },
+  {
+   "symbol": "A(-2),\\ O(0),\\ B\\left(\\frac{3}{2}\\right),\\ C(3)",
+   "meaning": "수직선 위의 네 점 A, O, B, C의 좌표",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "수직선 위의 각 점에는 하나의 수가 대응한다",
+   "plain": "수직선 위의 각 점에 하나의 수가 대응하므로 그 수로 점의 위치를 나타낼 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "P(a)",
+   "plain": "수 a가 점 P의 좌표일 때 P(a)와 같이 나타낸다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시: 주안 218, 만수 224",
+   "summary": "도시 철도 노선도에서 역 이름에 역 번호가 하나씩 대응함을 보여 준다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "수직선 위의 네 점 A, O, B, C",
+   "summary": "점 A, O, B, C에 대응하는 수 -2, 0, 3/2, 3을 좌표로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "써넣어 보자",
+   "summary": "노선도에서 가재울과 남동구청의 역 번호를 괄호 안에 써넣는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "번호가 220인 역의 이름을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "인천 도시 철도 노선도로, 역마다 214~227번의 번호가 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "-4부터 4까지 눈금이 있는 수직선 위에 점 A(-2), O(0), B(3/2), C(3)이 표시되어 있다.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수직선 위의 점 P에서 수 a를 거쳐 P(a)로 나타내는 과정을 보여 주는 설명 상자",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "철도 위를 달리는 열차 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "도시 철도 노선도",
+  "역 번호",
+  "인천 지하철"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "순서쌍과 좌표를 이해하고, 그 편리함을 인식할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 도입 이후 첫 소단원(01) 쪽이다. 학습 목표는 '순서쌍과 좌표를 이해하고, 그 편리함을 인식할 수 있다'이다. 이 쪽에서는 수직선 위의 좌표(1차원)만 다루며 순서쌍은 아직 나오지 않는다. 노선도 역 번호는 일부 작은 글씨가 있어 정확히 읽기 어려웠다.",
+ "_page": 106,
+ "_usage": {
+  "in": 4648,
+  "out": 1339,
+  "sec": 8.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

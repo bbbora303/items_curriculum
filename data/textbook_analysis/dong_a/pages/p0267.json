@@ -1,0 +1,133 @@
+{
+ "printedPage": "267",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.6 통계 프로젝트",
+  "area": "통계 프로젝트 - 3단계 자료 분석"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "문제 설정 → 자료 수집 → 자료 분석 → 결과 해석",
+   "plain": "통계 프로젝트는 네 단계로 진행하며 이 쪽은 3단계 자료 분석이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "자료의 특성과 목적에 맞게 표, 그래프 등으로 정리한다. 공학 도구를 이용하면 편리하다.",
+   "plain": "자료를 가장 효과적으로 전달할 수 있는 방법을 골라 정리한다.",
+   "_raw": "방법",
+   "statementType": "도구 활용"
+  }
+ ],
+ "examples": [
+  {
+   "title": "가장 좋았던 서울의 관광지 자료 분석",
+   "summary": "관광지별 선택 인원 표에서 최빈값이 남산과 경복궁임을 확인하고, 두 관광지를 선택한 외국인의 나이대별 도수분포표와 도수분포다각형으로 비교한다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "정리해 보자",
+   "summary": "수집한 자료를 목적에 맞게 효과적으로 전달하려면 어떤 방법으로 정리해야 할지 생각하고 자료를 정리한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "통계 프로젝트 4단계 흐름도에서 '자료 분석'이 강조되어 있다.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "가장 좋았던 서울의 관광지별 선택 인원 표(남산 20, 경복궁 20, 한류 체험관 7, 한강 공원 5 등).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "남산과 경복궁을 선택한 외국인의 나이를 10세 간격으로 정리한 도수분포표 2개(각 합계 20명).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "남산과 경복궁을 선택한 외국인들의 나이를 한 좌표평면에 나타낸 도수분포다각형 2개.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "수집한 자료와 자료의 정리(표, 그래프 등)를 적는 빈칸 메모지.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "서울 관광지",
+  "외국인 관광객",
+  "남산",
+  "경복궁"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 표시는 8단원(자료의 정리와 해석)의 8.6 통계 프로젝트로 판단했다. 이 쪽에서 새로 정의되는 용어는 없으며 앞에서 배운 도수분포표·도수분포다각형·최빈값을 사용한다. 하단 활동은 학생이 직접 쓰는 빈칸이다.",
+ "_page": 267,
+ "_profile": "full",
+ "_usage": {
+  "in": 4718,
+  "out": 1243,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

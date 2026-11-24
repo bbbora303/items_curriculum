@@ -1,0 +1,10 @@
+{
+  "_note": "문항 생성기에서 고를 수 있는 교과서(중1 수학). 화면의 선택 목록과 책별 범위 파일(grade_scope_math1.json의 books)의 키가 id다. 분석이 끝난 책만 선택할 수 있다(data/grade_scope_math1.json에 books[id]가 있으면 available). 새 책을 분석하면 scripts/textbook/analyze_book.py → aggregate.py → clean_terms.py → build_scope.py 순서로 만들고 여기에 id를 맞춰 둔다. 미선택(none)은 특정 책에 치우치지 않는 중립 모드다.",
+  "books": [
+    {"id": "dong_a", "label": "동아출판", "unitsKey": "동아"},
+    {"id": "mirae_n", "label": "미래엔", "unitsKey": "미래엔"},
+    {"id": "visang", "label": "비상교육", "unitsKey": "비상교육"},
+    {"id": "cheonjae_kim_dongjae", "label": "천재교육 (김동재)", "unitsKey": "천재(김동재)"},
+    {"id": "cheonjae_kim_hwakyung", "label": "천재교과서 (김화경)", "unitsKey": "천재(김화경)"}
+  ]
+}

@@ -1,0 +1,161 @@
+{
+ "printedPage": "207",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "01 평면도형의 성질 (부채꼴의 호의 길이와 넓이 연습 문제)",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주율",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\pi"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\text{cm}^2",
+   "meaning": "넓이의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "중심각이 120°(반지름 9 cm), 300°(반지름 6 cm)인 부채꼴의 호의 길이와 넓이를 각각 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "부채꼴에서 (1) 반지름 6 cm, 호의 길이 2π cm일 때 넓이 x, (2) 반지름 10 cm, 넓이 15π cm²일 때 호의 길이 y를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "반지름 10 cm, 호의 길이 6π cm인 부채꼴의 중심각의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "호의 길이 2π cm, 넓이 3π cm²인 부채꼴의 반지름의 길이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 이야기 활동",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "모둠별로 원주율 외우기, 삼행시 짓기, 랩 하기 등 파이 데이 행사를 해 본다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "중심각 120°, 300°인 부채꼴과 반지름 길이가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "넓이와 호의 길이, 반지름이 주어진 부채꼴 두 개",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "파이 데이 행사 예시 장면(학생들이 π=3.14159... 를 외우고 노래하는 삽화)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "파이 데이(3월 14일)",
+  "원주율 외우기",
+  "삼행시·랩 활동"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결",
+  "인성"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽 번호 207, 푸터에 '1. 평면도형의 성질'이 표시되어 있다. 소단원 번호·제목은 보이지 않아 추정 표기했다. 상단 '문자를 따라 써 볼까?' 코너에는 π 글자 따라 쓰기가 있다. 오른쪽 열의 1+, 2+ 문제는 심화 문제로 판단했다.",
+ "_page": 207,
+ "_usage": {
+  "in": 4619,
+  "out": 1377,
+  "sec": 11.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

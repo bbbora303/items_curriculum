@@ -1,0 +1,134 @@
+{
+ "printedPage": "86",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "등식의 성질은 무엇일까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "정의",
+   "definition": "등식의 양변에 같은 수를 더하거나 빼거나 곱하거나 0이 아닌 같은 수로 나누어도 등식이 성립한다는 성질이다.",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "정의",
+   "definition": "등식의 성질을 이용하여 등식의 한 변에 있는 항을 부호를 바꾸어 다른 변으로 옮기는 것이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a=b$",
+   "meaning": "a와 b가 같음을 나타내는 등식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$c\\neq 0$",
+   "meaning": "나누는 수 c는 0이 아니어야 함",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a=b$이면 $a+c=b+c$",
+   "plain": "등식의 양변에 같은 수를 더해도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $a-c=b-c$",
+   "plain": "등식의 양변에서 같은 수를 빼도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $ac=bc$",
+   "plain": "등식의 양변에 같은 수를 곱해도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $\\frac{a}{c}=\\frac{b}{c}$ (단, $c\\neq 0$)",
+   "plain": "등식의 양변을 0이 아닌 같은 수로 나누어도 등식은 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$x+6=8 \\Rightarrow x=8-6$",
+   "plain": "항을 부호를 바꾸어 다른 변으로 옮기는 것이 이항이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "등식 x+6=8에서 이항",
+   "summary": "양변에서 6을 빼면 x=8-6이 되어 +6이 우변의 -6으로 옮겨진 것으로 볼 수 있다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "접시저울의 양쪽에 같은 무게를 더하거나 빼도 평형을 이루는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "접시저울의 양쪽 무게를 2배로 늘리거나 반으로 줄여도 평형을 이루는 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "x+6=8에서 +6이 이항하여 x=8-6이 되는 과정을 나타낸 상자",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "접시저울의 평형"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 아래 단원 표시는 'Ⅱ. 문자와 식'이나 주어진 대단원 목록에 맞춰 chapter를 '일차방정식'으로 적었다. 소단원 번호는 보이지 않아 소제목만 적었다.",
+ "_page": 86,
+ "_usage": {
+  "in": 4622,
+  "out": 1237,
+  "sec": 7.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

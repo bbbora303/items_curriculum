@@ -1,0 +1,32 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": ""
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이미지 전체가 연한 주황(크림색) 단색이고 글자·수식·그림·쪽 번호가 보이지 않으며 글자층도 비어 있음. 빈 면지 또는 부록 사이의 여백 쪽으로 보이나 확실하지 않아 pageType은 기타로 둠.",
+ "_page": 318,
+ "_usage": {
+  "in": 3910,
+  "out": 241,
+  "sec": 2.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

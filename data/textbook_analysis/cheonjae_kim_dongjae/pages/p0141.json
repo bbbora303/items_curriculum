@@ -1,0 +1,199 @@
+{
+ "printedPage": "141",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "1학기 말 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "주사위를 던져 나온 눈의 수만큼 길을 따라 이동한다",
+   "plain": "주사위 눈만큼 지도의 길을 따라 이동해 여행지에 도착한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "여행지의 식 또는 방정식을 바르게 풀면 빈칸에 붙임딱지를 붙인다",
+   "plain": "문제를 맞게 풀면 해당 칸에 붙임딱지를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "친구와 번갈아 하며 제한 시간 안에 붙임딱지를 더 많이 붙인 사람이 이긴다",
+   "plain": "붙임딱지가 이미 붙은 곳이 선택되면 기회가 친구에게 넘어간다.",
+   "_raw": "방법",
+   "statementType": "활동 안내"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "여행지 1",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "거듭제곱이 있는 식 계산 $2^3\\times3\\div6$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 2",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "방정식 $3=7-x$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 3",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "소수의 곱셈 $1.5\\times3\\times0.2$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 4",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "방정식 $4x+2=-10$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 5",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "분수 계수 방정식 $\\frac{3}{2}x-\\frac{5}{2}=1$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 6",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "정수의 혼합 계산 $3^2\\times(-8)\\div6$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 7",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "분수의 나눗셈 $\\frac{16}{3}\\div\\frac{8}{6}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 8",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "괄호와 분수가 있는 방정식 $x-\\frac{1}{4}(x+2)=13$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 9",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "양변에 분수가 있는 방정식 $\\frac{x}{4}+1=\\frac{x}{3}+2$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 10",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "소수 계수 방정식 $0.3x-0.6=0.2x+1.4$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 11",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "방정식 $\\frac{x}{5}-2=\\frac{x}{3}+4$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 12",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "방정식 $\\frac{3}{2}x-7=5$ 풀기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "여행지 13",
+   "level": "활동",
+   "verb": "풀다(붙임딱지 붙이기)",
+   "summary": "분수의 혼합 계산 $\\frac{1}{2}+\\frac{1}{3}\\times\\frac{6}{5}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "제주도 지도 위에 길과 여행지(오름, 초가집, 해변, 폭포 등)가 그려져 있고 각 여행지에 식이 적혀 있으며, 붙임딱지를 붙일 빈칸이 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "바다, 갈매기, 돌하르방, 해녀, 지도를 보는 두 학생 그림.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "제주도 여행",
+  "보드게임(주사위)",
+  "지도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "1학기 말 활동 쪽으로 대단원·소단원 표시는 없다. 지도의 식은 정수와 유리수의 계산, 일차방정식 풀이를 복습하는 내용이다. 빈칸은 붙임딱지 자리이며 답은 적혀 있지 않다. 역량 아이콘은 보이지 않는다.",
+ "_page": 141,
+ "_usage": {
+  "in": 4288,
+  "out": 2085,
+  "sec": 13.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,161 @@
+{
+ "printedPage": "203",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정오각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "구하려는 각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mathrm{AD},\\ \\mathrm{BE}$",
+   "meaning": "정오각형의 두 대각선",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "12",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "정오각형 ABCDE에서 두 대각선 AD, BE의 교점을 F라 할 때 ∠x의 크기를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "13",
+   "level": "서술형",
+   "verb": "구하고, 비교하시오",
+   "summary": "밑면의 반지름이 3 cm인 원기둥 모양 캔 4개를 두 가지 방법으로 묶을 때 필요한 끈의 길이를 각각 구하고 비교한다(매듭 길이 제외).",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "정오각형 ABCDE와 대각선 AD, BE, 교점 F 및 ∠x 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "음료수 캔 4개를 정사각형 배열(방법 1)과 마름모 모양 배열(방법 2)로 끈으로 묶은 모습, 반지름 3 cm 표시",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "풀이를 쓰는 빈 답안 칸과 자기평가 막대(0~100%)",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "원기둥 모양 음료수 캔 묶기",
+  "끈의 길이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "다각형의 성질을 이해하고 설명할 수 있다",
+   "problemNos": []
+  },
+  {
+   "concept": "부채꼴의 중심각과 호의 관계를 설명할 수 있다",
+   "problemNos": []
+  },
+  {
+   "concept": "부채꼴의 호의 길이와 넓이를 구할 수 있다",
+   "problemNos": []
+  },
+  {
+   "concept": "도형의 성질을 이용한 예술 작품에 관심이 생겨 더 알아보고 싶어졌다",
+   "problemNos": []
+  }
+ ],
+ "notes": "대단원 이름은 쪽 번호·자기평가 내용(다각형, 부채꼴)과 단원 번호 6으로 판단함. 문제 12, 13은 서·논술형이며 풀이 칸이 비어 있음. 자기평가는 문항 번호 대신 0~100% 색칠 막대 형식이라 problemNos는 비워 둠. 기억에 남는 것을 적는 칸과 부록 붙임딱지 안내가 있음.",
+ "_page": 203,
+ "_profile": "full",
+ "_usage": {
+  "in": 4413,
+  "out": 1288,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

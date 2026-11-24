@@ -1,0 +1,158 @@
+{
+ "printedPage": "31",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응하는 수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "0"
+  },
+  {
+   "term": "음수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$+1$, $-1$",
+   "meaning": "부호가 붙은 수(양의 부호, 음의 부호)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-\\frac{3}{4}$, $+\\frac{4}{3}$, $-\\frac{5}{3}$, $2.5$",
+   "meaning": "수직선 위에 나타낼 유리수",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "수직선 위의 네 점 A, B, C, D에 대응하는 수를 □ 안에 써넣는다. (A는 -3과 -1 사이, B는 -1과 0 사이, C와 D는 1 부근, 눈금은 등분되어 있음)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "수 (1) -3, (2) -3/4, (3) +4/3, (4) 2.5에 대응하는 점을 수직선 위에 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "수직선에서 -3과 3 사이에 있는 정수에 대응하는 점의 개수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "수직선 위에 -5/3를 나타내고 이 수와 가장 가까운 정수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "와글와글 수학 이야기",
+   "level": "활동",
+   "verb": "",
+   "summary": "읽기 자료로 문제 없음",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "기타"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "-3부터 3까지 눈금이 있고 점 A, B, C, D가 표시된 수직선(1번)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "-3부터 3까지 눈금이 있는 빈 수직선(2번)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "-2부터 2까지 눈금이 있는 빈 수직선(2+번)",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "장식",
+   "desc": "수학자 지라르 삽화와 -1, 0, +1 화살표 수직선 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "수학사: 지라르와 수직선으로 음수를 받아들인 이야기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "'배우고 익히기'의 수직선 위 수 나타내기 문제 쪽으로, 새로 정의되는 용어는 없음. 1번 점 A~D의 정확한 눈금 위치(분수 눈금)는 이미지상 정확히 읽기 어려움. 소단원 번호·제목은 보이지 않음. 하단 '2. 정수와 유리수'는 대단원 표시로 읽음.",
+ "_page": 31,
+ "_usage": {
+  "in": 4563,
+  "out": 1377,
+  "sec": 8.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

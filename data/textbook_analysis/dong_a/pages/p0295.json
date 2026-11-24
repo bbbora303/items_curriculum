@@ -1,0 +1,235 @@
+{
+ "printedPage": "295",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.1 다각형의 대각선의 개수",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이등변삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABP\\equiv\\triangle CBQ$",
+   "meaning": "두 삼각형이 합동임",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AD}/\\!/\\overline{BC}$",
+   "meaning": "두 선분이 평행함",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle PAB$",
+   "meaning": "각",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\frac{n(n-3)}{2}$",
+   "plain": "n각형의 대각선의 개수는 n(n-3)/2이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$n-3$",
+   "plain": "n각형의 한 꼭짓점에서 그을 수 있는 대각선은 (n-3)개이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "가장 긴 변의 길이 < 나머지 두 변의 길이의 합",
+   "plain": "삼각형이 만들어질 조건이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "SAS 합동 조건",
+   "plain": "두 변의 길이와 그 끼인각의 크기가 각각 같으면 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "문제 1 풀이",
+   "summary": "대각선의 개수 공식을 이용해 (1) 27, (2) 54를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "해결해요 2 풀이",
+   "summary": "구각형과 십사각형의 대각선 개수로 a=6, b=77, a+b=83을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "해결해요 3 풀이",
+   "summary": "육각형의 변의 개수 6과 대각선의 개수 9가 달라 변의 개수와 대각선의 개수는 다를 수 있다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "09",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "합동인 삼각형을 이용해 ∠PBQ=30°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "삼각형이 될 조건으로 만들 수 있는 삼각형이 2개임을 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "12",
+   "level": "기본",
+   "verb": "(풀이)",
+   "summary": "평행선의 엇각을 이용해 ∠x=140°를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "13",
+   "level": "서술형",
+   "verb": "(풀이)",
+   "summary": "밑변과 높이가 같은 두 삼각형이 SAS 합동이 아님을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "함께해요 1~3",
+   "level": "활동",
+   "verb": "(답)",
+   "summary": "다각형의 대각선을 긋고 표를 채워 (n-3)개를 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "(답)",
+   "summary": "한 꼭짓점에서 대각선 하나로 사각형과 육각형이 나뉘는 팔각형을 찾고, 대각선의 개수 20을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "육각형과 칠각형의 꼭짓점 개수와 한 꼭짓점에서 그은 대각선의 개수 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "사각형~팔각형에 대각선을 그은 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "팔각형에 대각선을 그은 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "밑변이 6cm이고 높이가 4cm인 두 삼각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "놀이공원 설계도(매표소, 주차장, 회전목마, 범퍼카 등)",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "놀이공원 설계도",
+  "종이테이프 접기"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "가: 삼각형, 나: 사각형, 라: 오각형",
+   "삼각형의 내각의 크기",
+   "원의 둘레와 넓이"
+  ],
+  "current": [
+   "다각형의 대각선의 개수"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 앞 단원(작도와 합동) 풀이, 6단원 준비해요·6.1 정답, 175쪽 프로젝트 예시 답안이 함께 실려 있다. 이 쪽에서 새로 정의되는 용어는 없다. 함께해요 1의 도형 그림은 세부 모양을 확인하기 어려웠다.",
+ "_page": 295,
+ "_profile": "full",
+ "_usage": {
+  "in": 5505,
+  "out": 1992,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

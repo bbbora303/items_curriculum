@@ -1,0 +1,472 @@
+{
+ "printedPage": "276",
+ "pageType": "기타",
+ "items": [
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "정답 및 풀이(서술형 문제 풀이)",
+   "icons": [],
+   "level": "서술형",
+   "text": "$9=3^2$이므로 9와 서로소이려면 3의 배수가 아니어야 한다. 따라서 9와 서로소인 20 이하의 자연수는 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, 20의 14개이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "정답 및 풀이(서술형 문제 풀이)",
+   "icons": [],
+   "level": "서술형",
+   "text": "$120=2^3\\times3\\times5$, $2^2\\times3^2\\times7$의 최대공약수는 $2^2\\times3$이다. 이때 공약수는 최대공약수의 약수이므로 $2\\times3^2$은 공약수가 아니다. 따라서 공약수를 잘못 적은 친구는 현서이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "6",
+   "corner": "정답 및 풀이(서술형 문제 풀이)",
+   "icons": [],
+   "level": "서술형",
+   "text": "□ 안에 들어갈 자연수는 80과 96의 공약수이다. … ➊\n$80=2^4\\times5$, $96=2^5\\times3$이므로 두 수의 최대공약수는 $2^4$(=16)이다. … ➋\n따라서 □ 안에 들어갈 자연수는 16의 약수이고 그중 가장 큰 수는 16이다. … ➌",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "채점 기준과 배점 비율 표(아래 tables 참조)"
+  },
+  {
+   "kind": "기타",
+   "label": "1.4 최소공배수",
+   "corner": "1.4 최소공배수 (25쪽~26쪽)",
+   "icons": [],
+   "level": "",
+   "text": "1.4 최소공배수 25쪽~26쪽",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각해요",
+   "corner": "생각해요",
+   "icons": [],
+   "level": "",
+   "text": "540",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요 1",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "3 / ‘큰’에 ○표, ‘큰’에 ○표, 3 / 3, 540",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2^2\\times3^3$(=108)"
+    },
+    {
+     "label": "(2)",
+     "text": "$2\\times3^2\\times5$(=90)"
+    },
+    {
+     "label": "(3)",
+     "text": "$2^3\\times3\\times5$(=120)"
+    },
+    {
+     "label": "(4)",
+     "text": "$2^2\\times5\\times7$(=140)"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2^2\\times3^2\\times5\\times7$(=1260)"
+    },
+    {
+     "label": "(2)",
+     "text": "$2\\times3^4\\times5$(=810)"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "활동",
+   "text": "$2^2$, 3, 5",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요 (27쪽)",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2\\times3^2\\times7$(=126)"
+    },
+    {
+     "label": "(2)",
+     "text": "$2^3\\times3\\times5^2$(=600)"
+    },
+    {
+     "label": "(3)",
+     "text": "$2^3\\times3\\times11$(=264)"
+    },
+    {
+     "label": "(4)",
+     "text": "$2^2\\times3^2\\times7$(=252)"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요 (27쪽)",
+   "icons": [],
+   "level": "기본",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2\\times3^2\\times5^2$(=450)"
+    },
+    {
+     "label": "(2)",
+     "text": "$2^3\\times3^2\\times5\\times13$(=4680)"
+    },
+    {
+     "label": "(3)",
+     "text": "$2^3\\times3^2\\times5$(=360)"
+    },
+    {
+     "label": "(4)",
+     "text": "$2^5\\times3^3$(=864)"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요 (27쪽)",
+   "icons": [],
+   "level": "기본",
+   "text": "두 수의 최소공배수는 $2\\times3^2\\times5$(=90)이다. 공배수는 최소공배수의 배수이므로 $2\\times3^2$, $2\\times3\\times5$의 공배수인 것은 ㄱ, ㄷ이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "해결해요 (27쪽)",
+   "icons": [],
+   "level": "기본",
+   "text": "$2^3\\times3\\times5$와 어떤 자연수의 최대공약수가 $2^2\\times3$이므로 어떤 자연수는 $2^2\\times3$을 인수로 갖고 5는 인수로 갖지 않는다. 또, 최소공배수가 $2^3\\times3^2\\times5$이다. 따라서 어떤 자연수는 $2^2\\times3^2$(=36)이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "해결해요 (27쪽)",
+   "icons": [
+    "예시"
+   ],
+   "level": "기본",
+   "text": "그림을 완성하면 위와 같고, 좌우 순서를 바꾸어도 동일하다. 따라서 두 수의 쌍은 30과 70 / 210과 10이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "두 개의 원이 겹친 그림(벤 다이어그램) 완성"
+  },
+  {
+   "kind": "활동",
+   "label": "활동 1",
+   "corner": "수학 놀이터 (28쪽)",
+   "icons": [
+    "예시"
+   ],
+   "level": "활동",
+   "text": "곱하여 240이 되는 곱셈 도미노를 표시한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "육각형 곱셈 도미노 판에 빨간 선으로 표시"
+  },
+  {
+   "kind": "활동",
+   "label": "활동 2",
+   "corner": "수학 놀이터 (28쪽)",
+   "icons": [
+    "예시"
+   ],
+   "level": "활동",
+   "text": "가장 긴 곱셈 도미노는 240의 소인수분해를 이용하여 찾을 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "단원 마무리 정답",
+   "corner": "단원 마무리 (29쪽~31쪽)",
+   "icons": [],
+   "level": "",
+   "text": "1 ×  2 ○  3 ○  4 ○  5 ×  6 ○",
+   "subItems": [
+    {
+     "label": "01",
+     "text": "소수: 4개, 합성수: 4개"
+    },
+    {
+     "label": "02",
+     "text": "$2^2\\times3\\times13$"
+    },
+    {
+     "label": "03",
+     "text": "(1) 최대공약수: $2^2$(=4), 최소공배수: $2^3\\times5\\times7$(=280)\n(2) 최대공약수: $2\\times3$(=6), 최소공배수: $2^4\\times3\\times5^2$(=1200)"
+    },
+    {
+     "label": "04",
+     "text": "①, ③"
+    },
+    {
+     "label": "05",
+     "text": "⑤"
+    },
+    {
+     "label": "06",
+     "text": "30"
+    },
+    {
+     "label": "07",
+     "text": "1, 2, 3, 6, 9, 18"
+    },
+    {
+     "label": "08",
+     "text": "4"
+    },
+    {
+     "label": "09",
+     "text": "36"
+    },
+    {
+     "label": "10",
+     "text": "2"
+    },
+    {
+     "label": "11",
+     "text": "21"
+    },
+    {
+     "label": "12",
+     "text": "9"
+    },
+    {
+     "label": "13",
+     "text": "$\\frac{60}{7}$"
+    },
+    {
+     "label": "14",
+     "text": "(1) $36=2^2\\times3^2$, $60=2^2\\times3\\times5$, $6=2\\times3$, $180=2^2\\times3^2\\times5$\n(2) 6, 18, 30, 90"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "단원 마무리 풀이 1, 5",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "",
+   "text": "1 1은 소수도 합성수도 아니다.\n5 20을 소인수분해 하면 $2^2\\times5$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "단원 마무리 풀이 01",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "",
+   "text": "01 소수는 3, 5, 19, 29의 4개이고, 합성수는 9, 14, 20, 33의 4개이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "단원 마무리 풀이 04",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "",
+   "text": "04 ② 20보다 작은 소수는 2, 3, 5, 7, 11, 13, 17, 19의 8개이다.\n④ 서로소인 두 자연수의 공약수는 1이다.\n⑤ 4와 9는 최대공약수가 1이므로 서로소이지만 둘 다 소수가 아니다.\n따라서 옳은 것은 ①, ③이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "단원 마무리 풀이 05",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "",
+   "text": "05 $72=2^3\\times3^2$이므로 소인수는 2, 3이다.\n주어진 수들의 소인수를 찾으면\n① 2, 7  ② 2, 3, 7  ③ 2  ④ 2, 5  ⑤ 2, 3\n따라서 72와 소인수가 모두 같은 것은 ⑤ 96이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "단원 마무리 풀이 06",
+   "corner": "단원 마무리 풀이",
+   "icons": [],
+   "level": "",
+   "text": "06 소인수가 세 개인 자연수 중에서 가장 작은 수는 $2\\times3\\times5=30$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [
+  {
+   "caption": "서술형 6번 채점 기준",
+   "unit": "",
+   "headers": [
+    "채점 기준",
+    "배점 비율"
+   ],
+   "rows": [
+    [
+     "➊ □ 안에 들어갈 수가 80과 96의 공약수임을 알기",
+     "30 %"
+    ],
+    [
+     "➋ 80과 96의 최대공약수 구하기",
+     "50 %"
+    ],
+    [
+     "➌ □ 안에 들어갈 가장 큰 자연수 구하기",
+     "20 %"
+    ]
+   ],
+   "source": ""
+  }
+ ],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "수학 놀이터 활동 1·2 예시: 육각형 곱셈 도미노 판(240이 되는 곱셈 도미노를 빨간 선으로 표시)",
+   "labels": "육각형 칸에 적힌 수(대략 위치 순서 없이): 2, 5, 12, 4, 16, 2, 20, 5, 3, 30, 48, 3, 6, 2, 4, 5, 3, 15, 2, 19, 24, 120, 18, 40, 15, 80, 30, 10, 4, 2, 16, 2, 30, 2, 17, 6, 10, 2, 25, 5, 8, 2, 24, 60, 2, 12, 2, 5, 10, 10, 3, 16, 20, 5, 21, 30, 5, 8, 2, 15, 4, 7, 2, 4, 2, 6, 6, 7, 5, 14, 8, 10, 12, 2, 2",
+   "desc": "빨간 선이 여러 칸을 지나는 경로로 표시되어 있으나, 정확한 경로(어느 칸에서 어느 칸으로 이어지는지)는 이미지에서 확실히 읽을 수 없음."
+  },
+  {
+   "kind": "기타",
+   "caption": "해결해요 5번 예시 그림 (왼쪽)",
+   "labels": "두 원이 겹친 그림. 왼쪽 원: 3, 30 / 오른쪽 원: 7, 70 / 겹친 부분: 2, 5",
+   "desc": "좌측 원은 노란색(30 쪽), 우측 원은 파란색(70 쪽)으로 보임."
+  },
+  {
+   "kind": "기타",
+   "caption": "해결해요 5번 예시 그림 (오른쪽)",
+   "labels": "두 원이 겹친 그림. 왼쪽 원: 3, 210, 7(왼쪽 아래) / 오른쪽 원: 10 / 겹친 부분: 2, 5",
+   "desc": "좌우 순서를 바꾼 그림."
+  }
+ ],
+ "incomplete": "수학 놀이터 육각형 도미노 판의 각 칸 숫자 위치와 빨간 경로를 정확히 옮기지 못함(숫자는 대략적으로만 나열). 일부 작은 숫자는 읽기 어려움.",
+ "_page": 276,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 5550,
+  "out": 6273,
+  "sec": 36.7,
+  "stop": "end_turn"
+ }
+}

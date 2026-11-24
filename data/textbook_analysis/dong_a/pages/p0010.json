@@ -1,0 +1,99 @@
+{
+ "printedPage": "10",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.0 암호를 사용해 볼까요",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 수(7, 12)의 약수를 모두 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 수(6, 13)의 배수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 수의 최대공약수 구하기: (6, 8), (12, 15), (24, 28), (30, 36)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "태블릿, 노트, 연필통 위에 글자·숫자·기호 키보드 키가 떠 있고 한 학생이 암호문 종이를 읽는 암호 주제 일러스트",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "암호",
+  "정보 보호",
+  "키보드 문자와 기호"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등 약수",
+   "초등 배수",
+   "초등 최대공약수"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이다. '수학+정보 보호' 융합 표시가 있다. 준비해요 코너에서 초등에서 배운 약수, 배수, 최대공약수를 점검한다. 중2·중3 표시나 '이 단원의 내용' 목록은 이 쪽에 보이지 않는다. 단원 번호는 1.0으로 인쇄되어 있다.",
+ "_page": 10,
+ "_profile": "full",
+ "_usage": {
+  "in": 4076,
+  "out": 752,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

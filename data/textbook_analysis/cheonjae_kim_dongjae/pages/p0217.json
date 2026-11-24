@@ -1,0 +1,152 @@
+{
+ "printedPage": "217",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "2. 입체도형의 성질",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정사면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정팔면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정십이면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정이십면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "정사면체, 정육면체, 정팔면체, 정십이면체, 정이십면체의 면의 개수, 면의 모양, 한 꼭짓점에 모인 면의 개수를 표로 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (FUN)",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "모든 면이 정다각형인 두 입체도형(1), (2)가 정다면체가 아닌 까닭을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "관찰해 보자",
+   "summary": "알지오매스 3D로 정육면체의 전개도를 만들고 접어 보며 관찰한 뒤, 나머지 정다면체와 그 전개도도 관찰한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "정다면체 5가지의 면의 개수, 면의 모양, 한 꼭짓점에 모인 면의 개수를 적는 빈칸 표(정사면체 4, 정육면체 6과 정사각형만 채워짐)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "(1) 분홍색 다면체(오각형·육각형 면으로 된 깎은 모양), (2) 보라색 팔면체 모양의 입체도형",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 3D 화면 4장: 전개도 메뉴 선택, 정육면체 전개도 표시, 접기 진행, 완성된 정육면체",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "장식",
+   "desc": "FUN 표시와 초록색 정십이면체 그림, QR 코드 활동 영상",
+   "_raw": "그림",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "알지오매스 3D 프로그램"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "이 쪽에서 새로 정의되는 용어는 없고 정다면체 관련 용어를 이미 아는 것으로 사용함. 표의 빈칸은 학생이 채우는 칸이며, 정사면체 4와 정육면체 6, 정사각형만 제시됨. 도형 (1), (2)의 정확한 이름은 이미지로 확정하기 어려워 적지 않음.",
+ "_page": 217,
+ "_usage": {
+  "in": 4373,
+  "out": 1272,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

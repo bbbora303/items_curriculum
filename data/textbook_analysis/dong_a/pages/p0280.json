@@ -1,0 +1,155 @@
+{
+ "printedPage": "280",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.6 정수와 유리수의 나눗셈 / 단원 마무리",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분배법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": "|a|"
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "|-6|",
+   "meaning": "-6의 절댓값",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\div",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "(-1)^{10}",
+   "meaning": "거듭제곱",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "\\frac{a}{b}\\div\\frac{c}{d}=\\frac{a}{b}\\times\\frac{d}{c}",
+   "plain": "나누는 수의 역수를 곱해서 나눗셈을 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-24)\\div(-4)\\times(-6)=-36",
+   "plain": "나눗셈과 곱셈이 섞인 식은 앞에서부터 순서대로 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "",
+   "plain": "모든 정수는 유리수이고 절댓값이 가장 작은 정수는 0이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "",
+   "plain": "음수끼리 비교할 때는 통분하여 분수의 크기를 비교한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각해요 예시",
+   "summary": "나누는 분수의 분자와 분모를 바꾼 수를 곱하여 계산한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 넓히기 예시",
+   "summary": "나눗셈·곱셈이 섞인 식은 앞에서부터 계산한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "6 (정수와 유리수의 덧셈과 뺄셈 풀이)",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "곱이 -70인 서로 다른 세 음의 정수 중 모두 -1보다 작은 세 수의 합을 구하는 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "해결해요 4~6",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "역수를 이용한 곱셈과 나눗셈, 어떤 수 구하기 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "단원 마무리 01~13",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정수와 유리수의 대소 비교, 사칙 혼합계산, 거듭제곱 계산 등의 정답과 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "서술형 채점 기준표(어떤 수 구하기 50%, 바르게 계산한 값 구하기 50%)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "회사 이익(1.17억 원 이익)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로 도입되는 개념은 없고 이미 배운 내용을 사용하는 풀이만 있다. 문제 본문은 보이지 않고 정답과 풀이만 보인다. 일부 분수 표기는 이미지 기준으로 옮겼다.",
+ "_page": 280,
+ "_profile": "full",
+ "_usage": {
+  "in": 5868,
+  "out": 1323,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

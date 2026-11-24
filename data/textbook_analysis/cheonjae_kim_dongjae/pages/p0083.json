@@ -1,0 +1,83 @@
+{
+ "printedPage": "83",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "방정식과 그 해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "양쪽 접시에 사과와 오렌지가 놓인 접시저울 사진(등식의 성질 도입)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "재활용을 위해 모아 둔 페트병 사진(방정식 도입)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "장갑 낀 손으로 텃밭을 가꾸는 사진(일차방정식 도입)",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "접시저울의 평형",
+  "페트병 재활용",
+  "생태 텃밭의 가로 길이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "01 방정식과 그 해",
+   "02 일차방정식과 그 풀이"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "SNS 게시물 형식의 단원 도입 쪽이다. 세 질문은 방정식(85쪽), 등식의 성질(86쪽), 일차방정식의 활용(92쪽)으로 이어진다. 배운 내용·배울 내용 표시는 없다. 용어는 질문 제목으로만 나오고 정의되지 않아 role을 사용으로 표기했다.",
+ "_page": 83,
+ "_usage": {
+  "in": 4184,
+  "out": 616,
+  "sec": 6.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

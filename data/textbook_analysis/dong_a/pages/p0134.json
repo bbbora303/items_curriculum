@@ -1,0 +1,195 @@
+{
+ "printedPage": "134",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{a}{x}"
+  },
+  {
+   "term": "정비례 관계의 그래프(원점을 지나는 직선)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례 관계의 그래프(원점에 대해 대칭인 한 쌍의 곡선)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{a}{x}\\ (a\\neq 0)",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "(a, b)",
+   "meaning": "좌표평면 위의 점의 좌표",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "y=-2x의 그래프에 대한 설명 중 옳지 않은 것을 고른다(5지선다).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "y=ax의 그래프가 두 점 (4, -1), (b, 2)를 지날 때 a, b의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "y=a/x (a≠0)의 그래프에 대한 보기 ㄱ~ㄹ 중 옳은 것을 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "y=12/x의 그래프 위에서 색칠한 직사각형의 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "08",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "ab<0, a-b>0일 때 점 (a, b-a)가 제몇 사분면 위의 점인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "09",
+   "level": "심화(+표시)",
+   "verb": "고르시오",
+   "summary": "300 km 거리를 시속 x km로 갈 때 걸리는 시간 y시간에 대해 보기 중 옳은 것을 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "y=(2/3)x, y=-(2/3)x 그래프 위의 두 점 A, B와 원점으로 이루어진 삼각형 AOB의 넓이를 구한다(x좌표 6).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "11",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "y=2x와 y=a/x의 그래프가 점 P(x좌표 -2)에서 만날 때 a의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "07번: y=12/x 그래프와 색칠한 직사각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "10번: 원점을 지나는 두 직선과 삼각형 AOB",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "11번: y=2x와 y=a/x의 그래프가 점 P에서 만남",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "06, 09번의 보기 상자",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "자동차로 이동하는 거리·속력·시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "08~11번은 '발전' 표시가 붙어 있어 level을 심화로 분류했다(08번 위에 '발전' 표시가 있고 이는 오른쪽 열 전체에 적용되는 것으로 보임). 문제에 역량 아이콘은 보이지 않는다.",
+ "_page": 134,
+ "_profile": "full",
+ "_usage": {
+  "in": 4807,
+  "out": 1670,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,92 @@
+{
+ "printedPage": "34",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "나의 미래"
+ },
+ "pageType": "읽기자료",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "두 소수의 곱으로 만든 합성수는 소인수분해가 어렵다",
+   "plain": "두 소수를 곱해 만든 합성수는 소인수분해하기 어렵다는 점을 정보 암호화에 이용한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "열린 자물쇠 문서가 열쇠로 암호화되었다가 다시 복호화되는 과정을 나타낸 그림",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "방패를 든 로봇이 브라우저 창 안에 있는 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "로그인 창에 아이디와 비밀번호를 입력하는 화면",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "두 사람이 휴대전화와 노트북을 사용하는 모습",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "정보 보호 전문가",
+  "정보 암호화",
+  "인터넷 쇼핑과 뱅킹",
+  "전자 서명",
+  "모의 해킹",
+  "악성 코드 분석"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'나의 미래' 직업 소개 읽기 자료 쪽이다. 소수, 합성수, 소인수분해는 새로 정의하지 않고 암호화에 이용된다는 맥락으로만 언급된다. 소단원 번호와 제목은 보이지 않아 section은 빈 문자열로 두었다. 쪽 아래에는 '1. 소인수분해'가 표시되어 있다.",
+ "_page": 34,
+ "_profile": "full",
+ "_usage": {
+  "in": 4383,
+  "out": 727,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

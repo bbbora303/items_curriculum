@@ -1,0 +1,221 @@
+{
+ "printedPage": "309",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "04 상대도수 / 05 통계적 탐구 문제의 설정과 해결",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수의 총합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(\\text{어떤 계급의 상대도수})=\\frac{(\\text{그 계급의 도수})}{(\\text{도수의 총합})}",
+   "plain": "상대도수는 그 계급의 도수를 도수의 총합으로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "상대도수의 총합 = 1",
+   "plain": "모든 계급의 상대도수를 더하면 분자가 도수의 총합이 되어 1이 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "도수의 총합이 다른 두 자료는 상대도수로 비교한다",
+   "plain": "전체에서 차지하는 비율을 비교하면 도수의 총합이 달라도 분포를 비교할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시(상대도수 합)",
+   "summary": "0.1+0.15+0.3+0.25+0.15+0.05=1임을 확인하고 이유를 설명한 풀이",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "예시(A, B 학교 만족도 비교)",
+   "summary": "60점 이상 80점 미만 계급의 상대도수가 0.3, 0.36이므로 B 학교의 비율이 더 높다",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "예시(줄기와 잎 그림)",
+   "summary": "이지통계 프로그램으로 만든 줄기와 잎 그림 화면",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "04-1(상대도수란 무엇일까?) 1",
+   "level": "기본",
+   "verb": "답",
+   "summary": "상대도수 표의 빈칸 값(0.12, 0.18, 0.36, 0.2, 0.14, 합 1)과 그래프",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "04-1 2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "(1) 160cm 이상 170cm 미만 (2) 55% (3) 상대도수의 합 1 설명 (4) 가장 많은/적은 계급 서술",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "04-1 2+",
+   "level": "심화(+표시)",
+   "verb": "답",
+   "summary": "25명",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "04-2(도수의 총합이 다른 두 자료) 1",
+   "level": "기본",
+   "verb": "답",
+   "summary": "두 학년 상대도수 표 빈칸(0.25, 0.28 등)과 합 1, 1",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "04-2 2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "(1) 1학년 7~8시간, 3학년 6~7시간 (2) 1학년",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "04-2 2+",
+   "level": "심화(+표시)",
+   "verb": "답",
+   "summary": "7시간 미만에서는 3학년, 7시간 이상에서는 1학년의 비율이 더 높다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "05-1 1",
+   "level": "기본",
+   "verb": "답",
+   "summary": "(1) 이지통계로 줄기와 잎 그림, 도수분포표, 히스토그램, 도수분포다각형을 쉽게 구할 수 있다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "여가 활동 시간의 상대도수 도수분포다각형(가로 0~100분, 세로 0.1~0.4)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "신발 크기에 대한 A반·B반 상대도수 도수분포다각형 비교(220~270mm)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "이지통계의 줄기와 잎 그림 화면(2018~2019 vs 2020~2021)",
+   "_raw": "표",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "이지통계의 도수분포표 화면(두 기간 비교, 합계 24)",
+   "_raw": "표",
+   "figureType": "공학도구 화면"
+  }
+ ],
+ "contexts": [
+  "여가 활동 시간",
+  "학교 만족도",
+  "수면 시간",
+  "신발 크기",
+  "높이뛰기 등 기록(cm)",
+  "통계 프로그램(이지통계)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "예시"
+ ],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽(309)이며 새 개념 도입은 없고 04 상대도수와 05 통계적 탐구 문제의 정답 및 풀이만 있다. 문제 번호는 교과서 쪽수(254~257, 258~263쪽) 참조 기준으로 임의로 붙였다. '예시' 아이콘은 역량 아이콘이 아닌 풀이 유형 표시로 보인다.",
+ "_page": 309,
+ "_usage": {
+  "in": 5261,
+  "out": 2040,
+  "sec": 12.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

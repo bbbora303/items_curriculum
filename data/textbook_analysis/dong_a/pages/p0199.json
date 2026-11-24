@@ -1,0 +1,182 @@
+{
+ "printedPage": "199",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.6 부채꼴의 호의 길이와 넓이",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "부채꼴의 넓이",
+   "role": "정의",
+   "definition": "반지름의 길이가 r, 호의 길이가 l인 부채꼴의 넓이를 S=\\frac{1}{2}rl로 구한다.",
+   "notation": "S"
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\pi r^2"
+  },
+  {
+   "term": "원의 둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": "2\\pi r"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "r",
+   "meaning": "부채꼴의 반지름의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "l",
+   "meaning": "부채꼴의 호의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "x^\\circ",
+   "meaning": "부채꼴의 중심각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "S",
+   "meaning": "부채꼴의 넓이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "S=\\pi r^2\\times\\frac{x}{360}=\\frac{1}{2}\\times r\\times\\left(2\\pi r\\times\\frac{x}{360}\\right)=\\frac{1}{2}rl",
+   "plain": "부채꼴의 넓이는 원의 넓이에 중심각 비율을 곱해 구하며, 이를 호의 길이 l로 바꿔 나타낼 수 있다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "S=\\frac{1}{2}rl",
+   "plain": "부채꼴의 넓이는 반지름의 길이와 호의 길이의 곱의 절반이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "부채꼴을 잘라 엇갈리게 맞붙이기",
+   "plain": "부채꼴을 잘게 잘라 엇갈리게 붙이면 가로가 호의 절반인 직사각형 모양이 되어 넓이를 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "반지름 8 cm, 호의 길이 \\pi cm인 부채꼴의 넓이를 \\frac{1}{2}\\times8\\times\\pi=4\\pi(cm^2)로 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 5 cm, 호의 길이 2\\pi cm인 부채꼴의 넓이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 12 cm, 호의 길이 18\\pi cm인 부채꼴의 넓이 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "부채꼴을 잘게 잘라 엇갈리게 붙여 가로가 \\frac{1}{2}l, 높이가 r인 직사각형 모양을 만드는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "반지름 r, 호의 길이 l, 중심각 x°, 넓이 S를 표시한 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "(1) 반지름 5 cm, 호의 길이 2π cm인 부채꼴",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "(2) 반지름 12 cm, 호의 길이 18π cm인 큰 부채꼴(한 조각이 빠진 원 모양)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 원의 둘레 길이와 호의 길이, 원의 넓이와 부채꼴의 넓이의 관계를 \\frac{x}{360} 비율로 나타낸 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "'수학 집 짓기' 코너에서 호의 길이=2πr×x/360, 부채꼴의 넓이=πr²×x/360 관계를 정리한다. 앞쪽에서 호의 길이 공식과 부채꼴의 넓이 공식(πr²×x/360)이 이미 다뤄졌다고 보이며, 이 쪽에서는 S=½rl이 새로 도입된다. 문제 3의 (2) 그림은 중심각이 보이지 않아 호의 길이와 반지름만으로 푸는 문제로 보인다.",
+ "_page": 199,
+ "_profile": "full",
+ "_usage": {
+  "in": 4433,
+  "out": 1831,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,41 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "표지"
+ },
+ "pageType": "표지",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "왕관을 쓴 고슴도치 캐릭터 일러스트와 하트·반짝이 장식",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "교재 표지로 '중학교 수학 1'이라는 제목만 보이며 수학 내용은 없음.",
+ "_page": 1,
+ "_profile": "full",
+ "_usage": {
+  "in": 3898,
+  "out": 231,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

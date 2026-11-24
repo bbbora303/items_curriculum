@@ -1,0 +1,146 @@
+{
+ "printedPage": "14",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "01 소인수분해 (1.1 소수와 합성수 관련 해결해요)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "홀수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구분하시오",
+   "summary": "9, 13, 17, 20, 37을 소수와 합성수로 구분한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "하시오",
+   "summary": "21~30의 각 수가 소수이면 ○, 합성수이면 ×를 표에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "하시오",
+   "summary": "소수에 대한 세 설명(가장 작은 소수는 1, 소수는 모두 홀수, 5의 배수 중 소수는 1개뿐)의 참·거짓을 ○, ×로 판단한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "16보다 큰 자연수 중 가장 작은 합성수와 16보다 작은 자연수 중 가장 큰 소수의 합을 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "생일 초대장의 수 판(5×5)에서 소수를 색칠해 나타나는 것으로 하진이의 생일(3월 며칠)을 구한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_levelSuspect": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "21부터 30까지의 수와 ○/× 답을 쓰는 빈 칸이 있는 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "케이크 모양 수 판이 그려진 생일 초대장(5×5 수 격자)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어 볼 수 있는 QR코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "생일 초대장",
+  "3월 생일"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽 상단 안내: 1.1을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라고 되어 있다. 문제 1은 '해당하는 곳에 색칠해요' 우수/보통/분발 자기점검 표시가 있다. 5번 수 판의 숫자는 이미지에서 읽은 것이며, 색칠 결과(생일 날짜)는 쪽에 제시되지 않는다. 소단원 번호는 쪽에 직접 인쇄되어 있지 않아 안내 문구(1.1)로 추정했다.",
+ "_page": 14,
+ "_profile": "full",
+ "_usage": {
+  "in": 4525,
+  "out": 1233,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

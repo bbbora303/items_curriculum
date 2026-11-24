@@ -1,0 +1,165 @@
+{
+ "printedPage": "102",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해(근)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a=b,\\ c$는 자연수일 때 $a+c=b+c$, $a-c=b-c$, $ac=bc$, $\\frac{a}{c}=\\frac{b}{c}$",
+   "meaning": "등식의 성질 보기 ㄱ~ㄹ",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "일차방정식 $\\frac{x-8}{4}=-3$을 푸는 과정 (가), (나)에서 이용한 등식의 성질을 보기에서 각각 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "것은?",
+   "summary": "다섯 개의 일차방정식 중 해가 가장 큰 것을 고른다(소수·분수 계수, 괄호 포함).",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "십의 자리 숫자가 3인 두 자리 자연수에서 십·일의 자리를 바꾼 수가 처음 수보다 36 클 때 처음 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "08",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "소리의 속력 $(331+0.6x)$ m/초에서 기온 20 ℃일 때 2초 동안 소리가 전달되는 거리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "어떤 일차식에서 $x+3$에 2를 곱한 것을 뺐더니 $-6x+1$이 될 때 어떤 일차식을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "두 일차방정식 $4x-1=5x+1$과 $\\frac{2x+a}{3}+\\frac{1}{2}=\\frac{a(x-1)}{6}$의 해가 같을 때 $a$의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "11",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "동생이 분속 50 m로 출발한 10분 뒤 누나가 분속 60 m로 출발할 때, 누나가 출발한 지 몇 분 후에 동생을 만나는지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "05번 방정식 풀이 과정(x-8)/4=-3 → x-8=-12 → x=-4와 단계 (가), (나) 화살표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "보기 상자: 등식의 성질 ㄱ~ㄹ",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "집 앞 길을 걷는 두 아이 삽화(11번 문제 상황)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "소리의 속력과 기온",
+  "두 자리 자연수",
+  "동생과 누나가 걷는 속력과 만나는 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "08~11번은 '발전' 표시가 있는 문항군으로 보인다. 소단원 번호는 보이지 않아 비워 둔다. 문항 수준은 '발전' 표시를 심화로 분류했다.",
+ "_page": 102,
+ "_profile": "full",
+ "_usage": {
+  "in": 4679,
+  "out": 1559,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

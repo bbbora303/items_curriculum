@@ -1,0 +1,148 @@
+{
+ "printedPage": "129",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "반비례 관계의 그래프",
+  "area": "개념 설명 및 예제"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "반비례 관계 y=6/x의 그래프",
+   "role": "정의",
+   "definition": "x의 값이 0이 아닌 모든 수일 때, 좌표축에 점점 가까워지면서 한없이 뻗어 나가는 한 쌍의 매끄러운 곡선이다.",
+   "notation": "$y=\\frac{6}{x}$"
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": "$(x, y)$"
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": "$y=\\frac{a}{x}$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(x, y)$",
+   "meaning": "x, y의 값의 순서쌍(좌표)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=\\frac{6}{x}$",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=-\\frac{6}{x}$",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$y=\\frac{6}{x}$의 그래프는 x의 값 간격을 좁힐수록 점들이 곡선에 가깝게 촘촘해져, 좌표축에 점점 가까워지는 한 쌍의 매끄러운 곡선이 된다.",
+   "plain": "x의 값 사이 간격을 좁히면 점들이 이어져 한 쌍의 곡선이 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "x의 값에 따른 y의 값을 표로 구한다 → 순서쌍을 좌표로 하는 점을 찍는다 → 점들을 매끄러운 곡선으로 잇는다",
+   "plain": "표 → 점 찍기 → 곡선으로 잇기로 반비례 그래프를 그린다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x의 값이 정해져 있지 않을 때는 x의 값이 0이 아닌 수 전체로 생각한다.",
+   "plain": "반비례에서 x의 범위가 없으면 0을 제외한 모든 수로 본다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "반비례 관계 $y=-\\frac{6}{x}$의 그래프를 표와 순서쌍을 이용해 좌표평면에 그린다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "예제 1",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "반비례 관계 $y=-\\frac{6}{x}$의 그래프를 그리시오.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "<그림 1> $y=\\frac{6}{x}$ 위의 점 몇 개(x의 간격이 넓음)를 좌표평면에 나타낸 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "<그림 2> x의 간격을 좁혀 점이 더 촘촘해진 그림",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "<그림 3> $y=\\frac{6}{x}$의 그래프, 제1·3사분면의 한 쌍의 매끄러운 곡선",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x=-6,-3,-2,-1,1,2,3,6에 대한 $y=-\\frac{6}{x}$의 값 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "$y=-\\frac{6}{x}$의 그래프, 제2·4사분면의 점과 한 쌍의 곡선",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입이나 자기평가가 아닌 개념 설명과 예제 쪽이다. 소단원 번호와 제목은 이 쪽에 보이지 않아 내용에 맞춰 '반비례 관계의 그래프'로 추정했다. 쪽 아래에는 '2. 정비례와 반비례'가 표시되어 있다.",
+ "_page": 129,
+ "_usage": {
+  "in": 4822,
+  "out": 1585,
+  "sec": 9.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

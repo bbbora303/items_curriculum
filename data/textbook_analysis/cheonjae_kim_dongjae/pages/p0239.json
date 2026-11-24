@@ -1,0 +1,68 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "고층 건물 사진 위에 꺾은선그래프, 막대그래프, 숫자가 겹쳐 있고 두 학생 캐릭터가 앉아 있는 단원 도입 이미지",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "계통도 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "건물",
+  "데이터 그래프"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "막대그래프",
+   "꺾은선그래프",
+   "평균",
+   "띠그래프와 원그래프"
+  ],
+  "current": [
+   "자료의 정리와 해석"
+  ],
+  "later": [
+   {
+    "item": "경우의 수와 확률",
+    "grade": "중2"
+   },
+   {
+    "item": "산포도",
+    "grade": "중3"
+   },
+   {
+    "item": "상자그림과 산점도",
+    "grade": "중3"
+   }
+  ]
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로 쪽 번호는 보이지 않는다. 사진 위 문구는 '자료를 정리하고 해석하면 정보를 만들어 활용할 수 있다.'로 읽힌다.",
+ "_page": 239,
+ "_usage": {
+  "in": 4017,
+  "out": 465,
+  "sec": 3.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

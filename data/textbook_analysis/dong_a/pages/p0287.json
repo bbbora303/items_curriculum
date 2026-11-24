@@ -1,0 +1,172 @@
+{
+ "printedPage": "287",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.2 그래프의 뜻과 표현 / 4.3 정비례와 그 그래프",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "제1~4사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면 위의 점",
+   "role": "사용",
+   "definition": "",
+   "notation": "P(a, b)"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "P(a, b)",
+   "meaning": "좌표평면 위의 점의 좌표",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=5x",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "a<0,\\ b>0 \\Rightarrow P(a,b)\\text{는 제2사분면}",
+   "plain": "좌표의 부호를 보고 점이 놓인 사분면을 판단한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x\\text{의 값이 2배, 3배, 4배, }\\cdots\\text{일 때 }y\\text{도 2배, 3배, 4배, }\\cdots\\Rightarrow\\text{정비례}",
+   "plain": "x가 몇 배 될 때 y도 같은 배로 변하면 정비례이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "\\text{삼각형의 넓이}=\\frac{1}{2}\\times 5\\times 4=10",
+   "plain": "밑변 5, 높이 4인 삼각형의 넓이를 구한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "점 P(a,b)가 제2사분면일 때 점 A, B, C, D가 속한 사분면 판단(답: 제1, 제3, 제4, 제2사분면)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "좌표평면에 삼각형 ABC를 그리고 넓이 구하기(답: 10)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 1 (4.3)",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "표에서 x와 y가 정비례함을 확인하고 관계식 y=5x 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (4.3)",
+   "level": "기본",
+   "verb": "풀이",
+   "summary": "y=1200x, y=24-x, y=6x 중 정비례하는 것 고르기(답: ⑴, ⑶)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "해결해요 4",
+   "level": "서술형",
+   "verb": "풀이",
+   "summary": "두 사람의 이동 그래프를 해석하여 만난 시각, 먼저 도착한 사람, 거리 차이 구하기(채점 기준 30/30/40%)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "A, B, C 세 점을 꼭짓점으로 하는 삼각형을 그린 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "시간에 따른 물의 높이 변화를 꺾은선으로 나타낸 그래프(➊➋➌ 구간)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x와 y의 대응값 표(x=1~6, y=5~30)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "해결해요 4의 채점 기준과 배점 비율 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "물통 모양 ⑴~⑷와 그래프 ㉠~㉣을 잇는 연결 그림",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "물통에 물 채우기",
+  "바닷물 온도",
+  "오븐 온도",
+  "달리기 속력",
+  "이산화 탄소 농도",
+  "두 사람의 이동 거리와 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이다. 4.2 그래프의 뜻과 표현(문제 3·4, 생각 넓히기, 해결해요)과 4.3 정비례와 그 그래프(생각해요, 문제 1·2)의 답과 풀이가 함께 있고, 쪽 앞부분은 앞 단원 마무리 문제 5·6의 풀이이다. 새로운 개념 도입은 없고 정답과 풀이만 있다. 글자층의 y 표기(…로 변함)는 이미지 기준으로 '…'로 해석했다.",
+ "_page": 287,
+ "_profile": "full",
+ "_usage": {
+  "in": 5927,
+  "out": 1732,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

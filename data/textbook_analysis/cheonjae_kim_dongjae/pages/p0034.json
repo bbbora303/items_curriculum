@@ -1,0 +1,173 @@
+{
+ "printedPage": "34",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "수의 대소는 어떻게 비교할까?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "수의 대소 관계",
+   "role": "정의",
+   "definition": "수직선 위의 위치와 절댓값을 이용해 두 수의 크기를 비교하는 방법",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이상",
+   "role": "정의",
+   "definition": "어떤 수가 기준 수보다 크거나 같은 범위",
+   "notation": "$a\\ge 2$"
+  },
+  {
+   "term": "이하",
+   "role": "정의",
+   "definition": "어떤 수가 기준 수보다 작거나 같은 범위",
+   "notation": "$a\\le 2$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\ge$",
+   "meaning": "크거나 같다(이상)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$\\le$",
+   "meaning": "작거나 같다(이하)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$<$",
+   "meaning": "작다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$-5<a\\le 4$",
+   "meaning": "a는 -5보다 크고 4 이하이다",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "양수 > 0 > 음수",
+   "plain": "양수는 0보다 크고, 음수는 0보다 작다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "양수 > 음수",
+   "plain": "양수는 음수보다 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 양수: 절댓값이 큰 수가 크다",
+   "plain": "양수끼리는 절댓값이 클수록 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "두 음수: 절댓값이 큰 수가 작다",
+   "plain": "음수끼리는 절댓값이 클수록 작다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a\\ge 2$, $a\\le 2$, $-5<a\\le 4$",
+   "plain": "부등호를 사용해 수의 범위를 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "채워 넣기 ❶",
+   "level": "기본",
+   "verb": "빈칸에 알맞은 부등호를 넣으시오",
+   "summary": "-4는 음수, +3은 양수이므로 두 수의 크기를 비교해 부등호 넣기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "채워 넣기 ❷",
+   "level": "기본",
+   "verb": "빈칸에 알맞은 부등호를 넣으시오",
+   "summary": "-5/4와 -5/6의 절댓값을 비교해 두 음수의 크기 비교",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "-6부터 6까지 수직선에서 오른쪽으로 갈수록 커지고 왼쪽으로 갈수록 작아지는 것을 화살표로 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "0을 기준으로 왼쪽(음수)은 절댓값이 큰 수가 작고 오른쪽(양수)은 절댓값이 큰 수가 크다는 것을 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "장식",
+   "desc": "부등호 ≥, ≤ 모양의 입체 장식 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 보이지 않아 소제목(‘수의 대소는 어떻게 비교할까?’)만 section에 적음. 글자층에서 ≥, ≤가 >, <로 깨져 있어 이미지를 따름. 분수 -5/4, -5/6은 이미지 기준.",
+ "_page": 34,
+ "_usage": {
+  "in": 4764,
+  "out": 1457,
+  "sec": 8.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,169 @@
+{
+ "printedPage": "249",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "1. 자료의 정리와 해석 (도수분포표)",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 개수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a$이상 ~ $b$미만",
+   "meaning": "계급의 범위 표기(이상·미만)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\mu g/m^3$",
+   "meaning": "초미세 먼지 농도의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "계급의 크기는 모두 같게, 계급의 개수는 보통 5~15 정도",
+   "plain": "도수분포표를 만들 때 계급의 크기는 같게 하고 계급의 개수는 자료의 양에 따라 보통 5~15개로 정한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "계급의 개수가 너무 적거나 너무 많으면 분포 상태를 파악하기 어렵다",
+   "plain": "계급이 너무 적으면 분포를 알기 어렵고, 너무 많으면 각 계급의 도수가 작아 분포를 알 수 없다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "〈표 2〉 나트륨 함량 도수분포표",
+   "summary": "계급의 크기를 50 mg으로 한 도수분포표(40~90: 15개, 90~140: 9개, 합계 24개)는 계급 개수가 너무 적어 분포를 파악하기 어렵다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "30일 동안의 하루 평균 초미세 먼지 농도 자료(30개)로 주어진 계급(0이상~15미만, 15~30, 30~45, 45~60, 60~75)의 도수분포표를 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1⁺",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "1의 도수분포표에서 (1) 계급의 크기, (2) 도수가 가장 큰 계급, (3) 농도가 45 ㎍/m³ 이상인 날수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "만드시오",
+   "summary": "과일 20개의 당도 자료에서 계급의 크기를 정하고 도수분포표를 만든다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2⁺",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "2에서 만든 도수분포표로 알 수 있는 분포의 특징을 말한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "나트륨 함량 도수분포표 〈표 2〉(계급의 크기 50 mg).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "초미세 먼지 농도 30일 자료와 비어 있는 도수분포표.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "과일 20개의 당도 자료와 비어 있는 도수분포표(계급 직접 설정).",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "쪽 아래 과일(오렌지, 체리, 키위, 포도 등) 사진.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "과자의 나트륨 함량",
+  "초미세 먼지 농도",
+  "과일의 당도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "2번 도수분포표는 계급을 학생이 직접 정하는 빈 표이다. 이 쪽에서는 새 용어를 정의하지 않고 앞에서 배운 도수분포표 용어를 사용한다. 계급 개수 5~15 기준 안내만 새로 제시된다.",
+ "_page": 249,
+ "_usage": {
+  "in": 4781,
+  "out": 1572,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

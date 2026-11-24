@@ -1,0 +1,182 @@
+{
+ "printedPage": "254",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.4 히스토그램과 도수분포다각형",
+  "area": "단원 도입 및 개념 설명(생각1, 함께해요1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "히스토그램",
+   "role": "정의",
+   "definition": "도수분포표에서 각 계급을 가로로, 도수를 세로로 하여 직사각형으로 나타낸 그래프",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "이 쪽에서는 학습 목표·학습 요소로만 제시되고 아직 정의되지 않음",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "3\\text{ 이상}\\sim4\\text{ 미만}",
+   "meaning": "계급의 표기(이상~미만)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "히스토그램: 가로축에 계급, 세로축에 도수를 두고 직사각형으로 나타낸 그래프",
+   "plain": "도수분포표의 각 계급을 가로로, 도수를 세로로 하는 직사각형 그래프를 히스토그램이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "도수분포표를 히스토그램으로 나타내면 도수의 많고 적음을 한눈에 알기 쉽다.",
+   "plain": "히스토그램은 각 계급의 자료 수 차이를 한눈에 보여 준다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "히스토그램 그리기: 가로축에 계급의 양 끝 값, 세로축에 도수, 계급 크기를 가로로 하고 도수를 세로로 하는 직사각형",
+   "plain": "세 단계(가로축 값 쓰기, 세로축 도수 쓰기, 직사각형 그리기)로 히스토그램을 완성한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "[표 1] 음식 가격 도수분포표와 [그림 1] 히스토그램",
+   "summary": "음식 가격(3천 원 이상~8천 원 미만, 합계 17가지)의 도수분포표를 히스토그램으로 나타낸 보기",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "자료를 표와 그래프로 나타낼 때 그래프로 나타내면 어떤 점이 편리한지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각1",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "도수분포표를 히스토그램으로 나타내 보기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "전기 자동차 20대 충전 시간 도수분포표(계급 10~35분, 5분 간격; 도수 1,2,11,5,1)를 순서에 따라 히스토그램으로 완성하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "친환경 자동차의 미국 수출량(2022년 3분기~2023년 3분기) 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "친환경 자동차 미국 수출량 막대그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "자동차·반도체·휴대 전화 수출을 나타낸 지도와 말하는 학생 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[표 1] 음식 가격 도수분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[그림 1] 음식 가격 히스토그램",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "자동차 충전 시간 도수분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "히스토그램을 완성하기 위한 빈 좌표 격자(첫 직사각형만 그려져 있음)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "친환경 자동차 수출량",
+  "음식 가격",
+  "전기 자동차 충전 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입(8.4)과 개념 설명이 함께 있는 쪽. 학습 목표에 도수분포다각형이 언급되나 이 쪽에서는 정의되지 않음. 배운 내용/배울 내용 표시는 없음. 활동의 빈칸(가로축 값, 세로축 도수)은 학생이 채우도록 비어 있음.",
+ "_page": 254,
+ "_profile": "full",
+ "_usage": {
+  "in": 5016,
+  "out": 1774,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

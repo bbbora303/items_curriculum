@@ -1,0 +1,166 @@
+{
+ "printedPage": "86",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "일차식의 덧셈과 뺄셈",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "일차식의 덧셈",
+   "role": "정의",
+   "definition": "먼저 괄호를 푼 후 동류항끼리 모아서 계산한다.",
+   "notation": ""
+  },
+  {
+   "term": "일차식의 뺄셈",
+   "role": "정의",
+   "definition": "빼는 식의 각 항의 부호를 바꾸어 더한다.",
+   "notation": ""
+  },
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분배법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "일차식의 덧셈: 괄호 풀기 → 동류항끼리 모으기 → 동류항끼리 계산하기",
+   "plain": "일차식을 더할 때는 괄호를 먼저 풀고 동류항끼리 모아 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "일차식의 뺄셈: 빼는 식의 각 항의 부호를 바꾸어 더한다",
+   "plain": "일차식을 뺄 때는 빼는 식의 부호를 모두 바꾸어 더한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$2(x-3)-(3x-1)=2x-6-3x+1=2x-3x-6+1=-x-5$",
+   "plain": "괄호 풀기, 동류항끼리 모으기, 동류항끼리 계산하기의 순서로 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "일차식의 뺄셈 (1)과 분배법칙을 쓰는 덧셈 (2)를 계산한다. 풀이 과정과 답이 제시된다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2(1)",
+   "level": "기본",
+   "verb": "간단히 하시오",
+   "summary": "$3x-2x-5x$를 간단히 하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2(2)",
+   "level": "기본",
+   "verb": "간단히 하시오",
+   "summary": "$-a-5+\\frac{1}{2}a$를 간단히 하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3(1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$(3x-2)+(4x-7)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3(2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$-(2a+6)+(a-1)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3(3)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "$3(b-2)-(2b-3)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3(4)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "분수 계수가 있는 $2\\left(-\\frac{1}{2}y+\\frac{1}{4}\\right)-3\\left(\\frac{1}{3}y+\\frac{2}{3}\\right)$ 계산",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: $2(x-3)-(3x-1)$ 계산 단계(괄호 풀기, 동류항끼리 모으기, 동류항끼리 계산하기)를 보여 주는 메모지와 동류항 캐릭터($2x$와 $-3x$, $-6$과 $1$)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "풀이에서 분배법칙과 부호 변화를 화살표로 표시하고 말풍선으로 '분배법칙을 이용해서 괄호를 풀어요.'라고 안내함",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 쪽에 보이지 않아 제목을 '생각 2'의 질문에 따라 '일차식의 덧셈과 뺄셈'으로 적음. 문제 3(4)의 분수 형태는 이미지에서 읽은 것임. 이 쪽에서 용어(동류항, 일차식)는 앞에서 이미 배운 것으로 사용된다.",
+ "_page": 86,
+ "_profile": "full",
+ "_usage": {
+  "in": 4520,
+  "out": 1671,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

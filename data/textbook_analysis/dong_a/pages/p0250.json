@@ -1,0 +1,153 @@
+{
+ "printedPage": "250",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.3 도수분포표",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각 1, 확인해요)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "계급",
+   "role": "정의",
+   "definition": "변량을 일정한 간격으로 나눈 구간",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "정의",
+   "definition": "계급의 너비(구간의 너비)",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "정의",
+   "definition": "각 계급에 속하는 자료의 수",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "정의",
+   "definition": "변량을 몇 개의 계급으로 나누고 각 계급의 도수를 조사하여 나타낸 표",
+   "notation": ""
+  },
+  {
+   "term": "계급값",
+   "role": "정의",
+   "definition": "도수분포표에서 각 계급의 가운데 값",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a$ 이상 $b$ 미만",
+   "meaning": "$a$ 이상이고 $b$보다 작은 구간(계급 표기, 표에서 ~로 표시)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(계급값)=\\frac{(계급의 양 끝 값의 합)}{2}",
+   "plain": "계급값은 계급의 양 끝 값을 더해 2로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "변량을 일정한 간격의 계급으로 나누고 각 계급의 도수를 세어 표로 나타낸다",
+   "plain": "자료의 분포를 알기 위해 도수분포표로 정리한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "[표 1] 음식 가격 도수분포표",
+   "summary": "음식 가격을 천 원 간격으로 나누어 계급별 음식 수(5, 3, 4, 2, 3, 합계 17)를 정리한 표",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "그림에서 가격이 3000원 이상 4000원 미만인 음식이 몇 가지인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "확인해요 (1)",
+   "level": "기본",
+   "verb": "(서술형 답 제시)",
+   "summary": "[표 1]에서 계급의 개수는 5, 계급의 크기는 1천 원임을 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "확인해요 (2)",
+   "level": "기본",
+   "verb": "(서술형 답 제시)",
+   "summary": "5천 원 이상 6천 원 미만 계급의 도수는 4가지임을 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "음식점 차림표 형태로 17가지 음식과 가격을 나열한 그림(라면 3500원, 김밥 4000원 등)과 음식을 먹는 외국인 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[표 1] 가격(천 원) 구간별 음식 수를 나타낸 도수분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "음식 가격",
+  "외국인이 좋아하는 한국 음식"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "계급, 계급의 크기, 도수, 도수분포표"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입 쪽(8.3 도수분포표)이며 학습 목표: 자료를 도수분포표로 나타내고 해석할 수 있다. 계급값은 옆 단(곁글)에서 소개됨. 표의 '이상/미만' 표기는 첫 행에만 있고 나머지 행은 ~로 표기.",
+ "_page": 250,
+ "_profile": "full",
+ "_usage": {
+  "in": 4877,
+  "out": 1436,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

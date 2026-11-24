@@ -1,0 +1,261 @@
+{
+ "printedPage": "291",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "반비례 관계의 그래프는 어떻게 그릴까?",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=\\frac{30000}{x}$",
+   "meaning": "분식 금액을 x명이 나눌 때 한 명이 내는 금액",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=\\frac{6}{x}$",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(x, y)$",
+   "meaning": "순서쌍(좌표)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=4x$",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a$의 값이 양수일 때 $a$의 값이 클수록 원점에서 멀어지고, 음수일 때 $|a|$가 클수록 원점에서 멀어진다",
+   "plain": "반비례 그래프 $y=\\frac{a}{x}$에서 $|a|$가 클수록 곡선이 원점에서 멀어진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$x$가 2배, 3배, 4배, ...일 때 $y$는 $\\frac{1}{2}$배, $\\frac{1}{3}$배, $\\frac{1}{4}$배, ...",
+   "plain": "반비례 관계에서는 $x$가 몇 배가 되면 $y$는 그 역수 배가 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "반비례 그래프는 좌표축에 한없이 가까워지는 매끄러운 곡선이다",
+   "plain": "지유와 태오의 그래프 그리기 활동의 답으로, 그래프는 좌표축에 점점 가까워지면서 뻗는 매끄러운 곡선이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "분식집 상황(와글와글 수학 활동)",
+   "summary": "30000원을 x명이 나누어 낼 때 한 명이 내는 금액 y=30000/x를 표와 식으로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ➊",
+   "level": "활동",
+   "verb": "(표 완성)",
+   "summary": "x(L)와 y(분)의 표에서 순서쌍 (x, y)를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 열기 ➋",
+   "level": "활동",
+   "verb": "(점 찍기)",
+   "summary": "순서쌍을 좌표평면에 점으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "(그래프 그리기)",
+   "summary": "여섯 개 반비례 그래프 (1)~(6)을 좌표평면에 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "(설명)",
+   "summary": "a의 값에 따라 그래프가 원점에서 멀어지는 정도를 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "답: (1) 12, (2) -6",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "수학 더하기 1",
+   "level": "기본",
+   "verb": "(설명)",
+   "summary": "태오(나이)와 리아(높이와 기온)의 정비례·반비례 용어 사용이 틀린 이유를 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "수학 더하기 2",
+   "level": "기본",
+   "verb": "(표, 식, 값 구하기)",
+   "summary": "x(단)와 y(cm)의 표에서 y=4x를 구하고 20단일 때를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "수학 더하기 3",
+   "level": "기본",
+   "verb": "(카드 완성)",
+   "summary": "반비례 y=6/x를 표, 식, 그래프로 나타낸 카드를 보인다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "기타"
+  },
+  {
+   "label": "중단원 마무리 1",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "답: ㉡, ㉢",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "중단원 마무리 2",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "답: a=1/3, b=-1/3",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "분식 금액 x(명)와 y(원)의 대응표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "지유와 태오의 그래프 그리기 활동에 쓰인 좌표평면 위 쌍곡선 모양 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x(L)와 y(분)의 표와 순서쌍",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "생각 열기의 점 4개가 찍힌 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "여섯 개 반비례 곡선이 그려진 좌표평면",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "x(단)와 y(cm)의 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반비례 y=6/x의 표, 식, 그래프 카드 세 장",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "분식집 주문 금액 나누기",
+  "나이",
+  "높이와 기온",
+  "계단의 단 수와 높이",
+  "시간(분)과 물의 양(L)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로, 와글와글 수학 활동, 생각 열기, 역량 쑥쑥 수학 더하기, 중단원 마무리의 정답이 함께 실려 있다. 해설 중심이라 새로 정의되는 용어는 없다고 보았다. 그래프 (1)~(6)의 구체적인 a 값은 읽을 수 없다. 중단원 마무리 1번의 ㉡, ㉢ 보기 내용은 이 쪽에서 알 수 없다.",
+ "_page": 291,
+ "_usage": {
+  "in": 5008,
+  "out": 2448,
+  "sec": 15.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

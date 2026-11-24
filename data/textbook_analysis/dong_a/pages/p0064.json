@@ -1,0 +1,149 @@
+{
+ "printedPage": "64",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.6 정수와 유리수의 나눗셈(해결해요)",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "$(-5)^2$"
+  },
+  {
+   "term": "혼합 계산",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(-2)^3$",
+   "meaning": "음수의 거듭제곱",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\{\\ \\}$",
+   "meaning": "중괄호(계산 순서 묶음)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "정수·유리수의 나눗셈 6문항: (+35)÷(−7), (−36)÷(−4), 0÷(+8), (+8/9)÷(+2), (−7/15)÷(−6/5), (−3/4)÷(+9/16)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "곱셈, 나눗셈, 거듭제곱이 섞인 계산 2문항: 4×(−5)²÷(−2), (−5)×(+4)÷(−10/3)×(−5/6)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "사칙연산과 괄호가 섞인 계산 2문항: 2×3+10÷{2−(−8)}, (−2)³×{3/2÷(−4)}−7",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "−1/12의 역수와 0.75의 역수의 곱을 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정육면체에서 마주 보는 면의 두 수가 서로 역수일 때, 보이지 않는 세 면의 수 중 가장 큰 수와 가장 작은 수의 곱을 구한다(보이는 면: −14/3, 3/7, −7)",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "구하고 쓰시오",
+   "summary": "어떤 수를 −7/3로 나누어야 하는데 잘못하여 곱했더니 14/9가 되었을 때, 바르게 계산한 값을 구하고 풀이 과정을 쓴다",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "세 면에 −14/3, 3/7, −7이 적힌 정육면체 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "문항 1과 4~6에 우수/보통/분발 자기 점검 표정 아이콘이 있다. 2.6을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내와 QR 코드(문제를 더 풀어 볼 수 있음)가 있다. 6번의 서술형 아이콘은 level에 반영했다.",
+ "_page": 64,
+ "_profile": "full",
+ "_usage": {
+  "in": 4520,
+  "out": 1364,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

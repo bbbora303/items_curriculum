@@ -1,0 +1,194 @@
+{
+ "printedPage": "43",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.2 정수와 유리수의 대소 관계",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "정수와 유리수의 대소 관계",
+   "role": "정의",
+   "definition": "수직선 위에서 오른쪽에 있는 수가 왼쪽에 있는 수보다 크다는 것을 바탕으로 정수와 유리수의 크기를 비교하는 규칙이다.",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": "$|a|$"
+  },
+  {
+   "term": "양수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$<$",
+   "meaning": "왼쪽의 수가 오른쪽의 수보다 작다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$>$",
+   "meaning": "왼쪽의 수가 오른쪽의 수보다 크다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$|a|$",
+   "meaning": "수 a의 절댓값",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(음수)<0,\\ 0<(양수)",
+   "plain": "음수는 0보다 작고 양수는 0보다 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(음수)<(양수)",
+   "plain": "양수는 음수보다 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a>0,\\ b>0,\\ |a|>|b| \\Rightarrow a>b",
+   "plain": "양수끼리는 절댓값이 큰 수가 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a<0,\\ b<0,\\ |a|>|b| \\Rightarrow a<b",
+   "plain": "음수끼리는 절댓값이 큰 수가 작다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "수직선에서 오른쪽에 있는 수가 더 크다",
+   "plain": "수직선 위에서 오른쪽에 있는 수가 왼쪽에 있는 수보다 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (1)",
+   "summary": "-2와 +3은 음수와 양수이므로 -2<+3이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "|+3|>|+1.5|이고 둘 다 양수이므로 +3>+1.5이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (3)",
+   "summary": "|-1/2|<|-5/3|이고 둘 다 음수이므로 -1/2>-5/3이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "절댓값이 4인 수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "절댓값이 1.25인 수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "절댓값이 5인 양수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 2 (4)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "절댓값이 2/3인 음수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "-5부터 +5까지 수직선에서 오른쪽으로 갈수록 커지고 왼쪽으로 갈수록 작아짐을 화살표로 나타냈다.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "0을 기준으로 양수 쪽은 절댓값이 큰 수가 크고 음수 쪽은 절댓값이 큰 수가 작음을 화살표로 나타냈다.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "질문 코너: '절댓값이 같은 수는 항상 2개일까요?' (0은 절댓값이 같은 수가 1개뿐이라는 점을 생각하게 하는 질문으로 보이나 답은 쪽에 없음). '생각 2'의 질문 '정수와 유리수의 대소 관계는 어떻게 알 수 있나요?'로 시작한다. 확인해요 예시는 개념 설명 바로 아래에 있다.",
+ "_page": 43,
+ "_profile": "full",
+ "_usage": {
+  "in": 4700,
+  "out": 1723,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

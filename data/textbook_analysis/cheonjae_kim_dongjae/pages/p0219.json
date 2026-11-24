@@ -1,0 +1,137 @@
+{
+ "printedPage": "219",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "2. 입체도형의 성질 (회전체 소단원의 '배우고 익히기'; 소단원 번호는 쪽에 보이지 않음)",
+  "area": "배우고 익히기, 와글와글 수학 이야기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "단면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l$",
+   "meaning": "회전축이 되는 직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "사진으로 주어진 입체도형 (1) 팽이, (2) 뚜껑 있는 냄비, (3) 케틀벨 중 회전체인 것을 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "그리시오",
+   "summary": "직사각형을 한 변 옆에 떨어진 직선 $l$을 회전축으로 한 바퀴 돌릴 때 생기는 회전체를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "그리고 말하시오",
+   "summary": "사다리꼴 모양의 평면도형을 직선 $l$을 회전축으로 한 바퀴 돌려 생기는 회전체를 그리고 그 입체도형의 이름을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "2+에서 그린 회전체를 (1) 회전축에 수직인 평면, (2) 회전축을 포함하는 평면으로 자를 때 생기는 단면의 모양을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "팽이, 뚜껑 있는 냄비(타진), 케틀벨 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "회전축 l 옆의 분홍색 직사각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "회전축 l 옆의 보라색 사다리꼴(직각 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "회전문 사진과 인물이 나오는 만화 컷",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "팽이",
+  "냄비 뚜껑",
+  "케틀벨",
+  "회전문",
+  "냉난방 에너지 손실"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "'+' 표시 문항(1+, 2+)은 이미지에서 번호 위의 작은 +로 보이며 심화 문항으로 추정함. 글자층에서 '1', '2'가 반복됨. 와글와글 수학 이야기 '원기둥 모양의 회전문'은 회전문이 직사각형 문이 축을 중심으로 회전해 원기둥 모양 공간을 만든다는 대화이며, 장점은 냉난방 시 공기 흐름을 막아 에너지 손실을 줄이는 것이다. 소단원 번호와 제목은 보이지 않아 추정했다.",
+ "_page": 219,
+ "_usage": {
+  "in": 4369,
+  "out": 1302,
+  "sec": 8.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

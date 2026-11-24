@@ -1,0 +1,151 @@
+{
+ "printedPage": "59",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "문제",
+   "label": "문제 4",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$(+2)\\times(-3)^2\\times(+5)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$\\left(-\\frac{3}{2}\\right)^3\\times(-2^2)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산하여 값을 구한다(문제 4의 (1)과 (2) 사이에 점선 구분선이 있음)."
+  },
+  {
+   "kind": "참고",
+   "label": "문제 4 옆 설명",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "• 거듭제곱과 함께 음의 부호 $-$가 나올 때는 $-2^3=-(2\\times2\\times2)=-8$ 과 같이 거듭제곱을 먼저 계산한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "분배법칙 도입",
+   "corner": "개념설명",
+   "icons": [],
+   "level": "",
+   "text": "덧셈과 곱셈이 섞여 있는 식에서\n$2\\times\\{3+(-5)\\}=2\\times(-2)=-4$\n$2\\times3+2\\times(-5)=6+(-10)=-4$\n와 같이 어떤 수에 두 수의 합을 곱한 것은 어떤 수에 두 수 각각을 곱하여 더한 것과 같다. 이것을 분배법칙이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "분배법칙",
+   "corner": "분배법칙",
+   "icons": [],
+   "level": "",
+   "text": "분배법칙\n세 수 $a, b, c$에 대하여\n$a\\times(b+c)=a\\times b+a\\times c$\n$(a+b)\\times c=a\\times c+b\\times c$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "확인해요",
+   "corner": "확인해요",
+   "icons": [],
+   "level": "기본",
+   "text": "분배법칙을 이용한 계산 풀이가 제시되어 있다.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$10\\times\\left\\{\\left(+\\frac{3}{5}\\right)+\\left(-\\frac{1}{2}\\right)\\right\\}=10\\times\\left(+\\frac{3}{5}\\right)+10\\times\\left(-\\frac{1}{2}\\right)$\n$=6+(-5)=1$"
+    },
+    {
+     "label": "(2)",
+     "text": "$3\\times1.94+3\\times(-3.94)=3\\times\\{1.94+(-3.94)\\}$\n$=3\\times(-2)=-6$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "풀이 과정이 모두 제시되어 있음"
+  },
+  {
+   "kind": "문제",
+   "label": "문제 5",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 분배법칙을 이용하여 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$12\\times\\left\\{\\frac{3}{4}+\\left(-\\frac{1}{3}\\right)\\right\\}$"
+    },
+    {
+     "label": "(2)",
+     "text": "$8.37\\times(-19)+8.37\\times119$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "분배법칙을 이용하여 계산한다(문제 5의 (1)과 (2) 사이에 점선 구분선이 있음)."
+  },
+  {
+   "kind": "기타",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "",
+   "text": "곱의 부호를 정해요.\n[부호가 같은 두 수의 곱셈]\n$(+3)\\times(+5)=+(3\\times5)=+15$\n$(-3)\\times(-5)=+(3\\times5)=+15$\n[부호가 다른 두 수의 곱셈]\n$(+3)\\times(-5)=-(3\\times5)=-15$\n$(-3)\\times(+5)=-(3\\times5)=-15$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "분배법칙 설명 그림(연한 회색 상자)",
+   "labels": "$2\\times\\{3+(-5)\\}$ 와 $=2\\times3+2\\times(-5)$. 위 식에서 2에서 3으로 가는 화살표 ❶, 2에서 (−5)로 가는 화살표 ❷. 아래 식에서 $2\\times3$ 아래에 ❶, $2\\times(-5)$ 아래에 ❷ 표시와 밑줄.",
+   "desc": "2를 괄호 안의 두 수에 각각 곱함을 화살표로 나타냄"
+  },
+  {
+   "kind": "기타",
+   "caption": "수학 집 짓기 코너 삽화",
+   "labels": "말풍선: 곱의 부호를 정해요.",
+   "desc": "토끼 캐릭터, 연필, 지우개 그림. 부호 +와 −는 색 원 안에 표시됨(양수는 분홍, 음수는 파랑)."
+  }
+ ],
+ "incomplete": "쪽 오른쪽에 '2 단원' 표시와 아래 '2.5 정수와 유리수의 곱셈 59' 쪽 표지가 있으나 본문 항목에는 넣지 않음.",
+ "_page": 59,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4052,
+  "out": 2824,
+  "sec": 18.3,
+  "stop": "end_turn"
+ }
+}

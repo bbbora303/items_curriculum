@@ -1,0 +1,165 @@
+{
+ "printedPage": "20",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "수학 역량 쑥쑥 더하기 1 약수의 개수 구하기 / 2 조건을 만족시키는 두 수 찾기",
+  "area": "수학 역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수의 개수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^2\\times 5$",
+   "meaning": "거듭제곱을 이용한 소인수분해 표현",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$20=2^2\\times 5$ → 약수의 개수 $3\\times 2$",
+   "plain": "소인수분해에서 각 소인수의 약수를 가로와 세로에 배열하고, 만나는 점의 개수를 세어 약수의 개수를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "공유한 수의 곱 = 최대공약수, 모든 수의 곱 = 최소공배수",
+   "plain": "두 수의 소인수분해를 그림으로 나타내 겹치는 수의 곱은 최대공약수, 모든 수의 곱은 최소공배수가 된다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "20의 약수의 개수 구하기",
+   "summary": "$20=2^2\\times5$에서 가로에 $2^2$의 약수 3개, 세로에 5의 약수 2개를 배열해 점의 개수 $3\\times2=6$을 구한다.",
+   "solutionShown": false,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "48과 60의 최대공약수·최소공배수 그림",
+   "summary": "$48=2^4\\times3$, $60=2^2\\times3\\times5$를 그림으로 나타내 공유한 2,2,3의 곱 $2^2\\times3$이 최대공약수, 모든 수의 곱 $2^4\\times3\\times5$가 최소공배수임을 보인다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "위 방법을 이용하여 108의 약수의 개수를 구한다(20의 경우 빈칸 채우기 포함).",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❶",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "최대공약수가 $2\\times3^2$이고 최소공배수가 $2^2\\times3^2\\times7$인 두 수의 쌍을 나타내도록 그림을 완성한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2-❷",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "❶의 방법으로 최대공약수가 $3\\times7$이고 최소공배수가 $2^2\\times3\\times7^2$인 두 수의 쌍을 모두 구한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "가로에 $2^2$의 약수(1, 2, $2^2$), 세로에 5의 약수(1, 5)를 배열하고 교점에 점을 찍은 격자 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "<그림 1> 48과 60의 소인수를 각각 원 안에 나타낸 두 개의 고리 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "<그림 2> 두 원이 겹치는 부분에 공통 소인수 2, 2, 3을 공유하도록 연결한 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "활동",
+   "desc": "최대공약수·최소공배수 조건에 맞게 빈칸을 채우는 겹친 두 원 그림 2개",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 '수학 역량 쑥쑥 더하기' 심화 활동 쪽이며, 쪽 아래에는 'Ⅰ. 수와 연산'으로 표시되어 있다. 대단원 목록 중 소인수분해 단원으로 분류했다. 그림 2의 빈칸 위치와 색 구분은 세부적으로 읽기 어려웠다.",
+ "_page": 20,
+ "_usage": {
+  "in": 4669,
+  "out": 1700,
+  "sec": 10.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

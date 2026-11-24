@@ -1,0 +1,144 @@
+{
+ "printedPage": "222",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "뿔의 겉넓이",
+  "area": "문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "밑넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "옆넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(\\text{기둥의 겉넓이}) = (\\text{밑넓이}) \\times 2 + (\\text{옆넓이})",
+   "plain": "기둥의 겉넓이는 밑넓이의 두 배에 옆넓이를 더한 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(\\text{뿔의 겉넓이}) = (\\text{밑넓이}) + (\\text{옆넓이})",
+   "plain": "뿔의 겉넓이는 밑넓이와 옆넓이를 더한 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "밑면이 한 변 5cm인 정사각형이고 옆면의 높이가 8cm인 사각뿔(옆면은 모두 합동)의 겉넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "모선의 길이가 5cm이고 밑면의 반지름이 3cm인 원뿔의 겉넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "큰 원뿔에서 작은 원뿔을 잘라 만든 원뿔대의 전개도를 보고 겉넓이를 구한다(반지름 3cm와 6cm, 길이 10cm와 10cm).",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "사각뿔과 원뿔 그림에 길이가 표시되어 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원뿔대와 그 전개도(부채꼴 모양의 옆면과 두 원)가 화살표로 이어져 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "각기둥, 원기둥, 각뿔, 원뿔과 각각의 전개도에 밑면과 옆면이 표시되어 있다.",
+   "_raw": "그림",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "원뿔대 문제의 전개도에는 길이 표시가 없어서 원뿔대 그림의 수치(10cm, 10cm, 3cm, 6cm)를 읽었다. 10cm가 어느 선분인지는 그림만으로는 확실하지 않다. 사각뿔의 8cm는 옆면의 높이로 보인다. '수학 집 짓기'는 기둥과 뿔의 겉넓이 공식을 정리한 코너이다.",
+ "_page": 222,
+ "_profile": "full",
+ "_usage": {
+  "in": 4211,
+  "out": 1309,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

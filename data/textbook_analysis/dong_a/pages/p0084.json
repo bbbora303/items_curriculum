@@ -1,0 +1,163 @@
+{
+ "printedPage": "84",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "다항식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상수항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식과 수의 곱셈·나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x^2$",
+   "meaning": "x의 제곱(문자를 포함한 항의 차수 표현)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "다항식 $-2x^2+7x+6$에서 $x^2$의 계수 a, $x$의 계수 b, 상수항 c를 찾아 $a+b+c$를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "갈림길의 각 식이 일차식인지 판별해 이동하며 도착하는 동물을 구한다(예: $-2x+4$, $\\frac{a^2}{5}$, $6b$, $x^3-1$, $-\\frac{1}{2}b+7$, $\\frac{y}{3}+\\frac{1}{5}$, $\\frac{a+3}{2}$, $3y^2$, $-\\frac{x}{4}$).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "단항식과 수의 곱셈·나눗셈 4문항: $4\\times5a$, $8x\\times(-\\frac{5}{4})$, $(-7a)\\div\\frac{7}{2}$, $(-\\frac{1}{4}x)\\div(-\\frac{3}{2})$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "일차식과 수의 곱셈·나눗셈 4문항: $\\frac{1}{3}(6x-15)$, $(-2y+6)\\times(-3)$, $(15x+25)\\div5$, $(6y-3)\\div(-\\frac{2}{3})$.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "밑변 $4x-8$, 높이 5인 삼각형의 넓이를 x를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "계산하시오",
+   "summary": "보기($12x$, $-4$, $-y^2+\\frac{1}{3}$, $\\frac{3}{2}$, $\\frac{1}{5}x^2+1$, $y-6$)에서 일차식과 수를 골라 (일차식)×(수), (일차식)÷(수) 식을 만들고 계산한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "밑변 4x-8, 높이 5가 표시된 삼각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "일차식 여부에 따라 이동하는 갈림길 도표와 동물 그림(토끼, 펭귄, 오리, 개, 고양이, 다람쥐)",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 6의 보기 상자(식과 수 목록)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "추가 문제용 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "갈림길 동물 찾기 게임"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 마무리 성격의 '해결해요' 쪽으로 소단원 번호는 보이지 않는다. 쪽 안내문에 3.3을 익혔다면 부록 1의 붙임딱지를 붙이라는 문구가 있다. 각 문항 옆에 우수/보통/분발 표정 자기평가 아이콘이 있다. 6번의 보기 중 '-y^2+1/3'과 '1/5 x^2+1'은 글자층이 깨져 이미지 기준으로 옮겼다.",
+ "_page": 84,
+ "_profile": "full",
+ "_usage": {
+  "in": 4589,
+  "out": 1684,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

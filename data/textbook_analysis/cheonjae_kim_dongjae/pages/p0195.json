@@ -1,0 +1,166 @@
+{
+ "printedPage": "195",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "1. 평면도형의 성질 (삼각형의 내각과 외각)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반직선",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\overrightarrow{BC}"
+  },
+  {
+   "term": "삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\triangle ABC"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\angle x",
+   "meaning": "각 x의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\angle BAC,\\ \\angle CBA,\\ \\angle DCA",
+   "meaning": "삼각형의 내각 및 외각을 나타내는 각",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\overrightarrow{BC}",
+   "meaning": "반직선 BC",
+   "role": "사용"
+  },
+  {
+   "symbol": "65^\\circ",
+   "meaning": "각의 크기(도)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "\\text{(삼각형의 한 외각)}=\\text{(이웃하지 않는 두 내각의 합)}",
+   "plain": "알지오매스로 관찰하여 삼각형의 한 외각의 크기가 이웃하지 않는 두 내각의 크기의 합과 같음을 확인한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형에서 두 내각이 65°, 35°일 때 한 외각 x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형에서 두 내각이 40°, 100°(외각 100° 표시 가능)일 때 x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "외각 2x, 내각 x, 75°가 주어진 삼각형에서 x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "활동 ❶~❹",
+   "level": "활동",
+   "verb": "관찰해 보자",
+   "summary": "알지오매스로 삼각형 ABC, 반직선 BC, 점 D를 그리고 각 ∠BAC, ∠CBA, ∠DCA를 측정한다.",
+   "competencyIcons": [
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 마무리",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "점 A를 드래그하며 한 외각과 이웃하지 않는 두 내각의 합의 관계를 말한다.",
+   "competencyIcons": [
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "각도가 표시된 삼각형 3개(문제 1의 (1), (2), 1+)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "알지오매스 화면 4개: 삼각형 ABC 그리기, 반직선 BC, 점 D, 각도 측정(60°, 50°, 110°)",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "알지오매스(공학 도구)를 이용한 탐구"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 1(2)에서 100°가 외각인지 내각인지 그림만으로 확실하지 않아 구조만 적음. 이 쪽에서 외각의 성질은 활동으로 관찰하며 결론이 명시되지는 않음.",
+ "_page": 195,
+ "_usage": {
+  "in": 4389,
+  "out": 1453,
+  "sec": 12.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,142 @@
+{
+ "printedPage": "33",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "프로젝트"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$A<B$",
+   "meaning": "두 자리 자연수 A, B 사이의 크기 관계(A가 B보다 작음)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "네 자리 수 → 소인수분해 → 두 자리 자연수 $A, B$ ($A<B$)의 곱 → $A$, $B$를 나란히 적어 네 자리 비밀번호",
+   "plain": "네 자리 수를 소인수분해한 뒤 두 자리 자연수 두 개의 곱으로 나타내고, 그 두 수를 이어 붙여 비밀번호를 만든다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "비밀번호 만들기 보기(1410)",
+   "summary": "$1410=2\\times3\\times5\\times47$이므로 $1410=15\\times94=30\\times47$이고, 비밀번호는 1594 또는 3047이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "적어 보자",
+   "summary": "생일(10월 20일)을 뜻하는 네 자리 수 1020으로 위 순서에 따라 만들 수 있는 비밀번호를 적는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "적어 보자",
+   "summary": "1학년 때의 학년·반·번호를 뜻하는 네 자리 수 1513으로 만들 수 있는 비밀번호를 적는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "이야기해 보자",
+   "summary": "1과 2의 활동에서 느낀 점을 이야기한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "4",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "네 자리 수를 정하고 순서에 따라 나만의 비밀번호를 만든다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "5",
+   "level": "활동",
+   "verb": "이야기해 보자",
+   "summary": "안전한 비밀번호를 만들려면 어떻게 하면 좋을지 이야기한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "비밀번호 만드는 순서 1, 2와 1410을 이용한 보기를 나란히 정리한 안내 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "프로젝트 평가표: 우수·보통·분발 세 단계 얼굴 그림에 색칠하는 3개 문항",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "비밀번호",
+  "생일",
+  "학년·반·번호"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽이 90도 회전되어 있어 읽기 어려웠다. 소단원 번호는 보이지 않아 비워 두었다. 프로젝트 평가 문항은 '비밀번호를 찾는 활동에 적극적으로 참여했나요?', '안전한 비밀번호를 만드는 방법을 이해했나요?', '소수를 이용하여 안전한 비밀번호를 만들 수 있나요?'이다. 1020과 1513의 구체적 답은 쪽에 없다.",
+ "_page": 33,
+ "_profile": "full",
+ "_usage": {
+  "in": 4583,
+  "out": 1361,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

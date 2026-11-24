@@ -1,0 +1,294 @@
+{
+ "printedPage": "288",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.4 반비례와 그 그래프",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{a}{x}"
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원점",
+   "role": "사용",
+   "definition": "",
+   "notation": "O"
+  },
+  {
+   "term": "정비례 관계의 그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{a}{x}",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "(x, y)",
+   "meaning": "순서쌍(좌표)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "y=ax \\text{의 그래프는 원점을 지나는 직선이다}",
+   "plain": "정비례 관계 그래프는 원점을 지나는 직선이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "y=ax\\ (a>0):\\ \\text{제1, 3사분면},\\ (a<0):\\ \\text{제2, 4사분면}",
+   "plain": "a의 부호에 따라 그래프가 지나는 사분면이 정해진다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "\\text{그래프가 지나는 점의 좌표를 식에 대입하여 상수의 값을 구한다}",
+   "plain": "점의 좌표를 대입해 미지수를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x \\text{의 값이 2배, 4배, ...일 때 } y \\text{의 값이 } \\frac{1}{2}\\text{배, } \\frac{1}{4}\\text{배, ...이면 반비례}",
+   "plain": "한 값이 몇 배가 될 때 다른 값이 그 역수 배가 되면 반비례이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각 넓히기 예시",
+   "summary": "1회 10000원씩 기부할 때 기부 횟수 x와 기부금 y는 y=10000x로 정비례한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "질문 예시",
+   "summary": "x=0일 때 y=0이므로 정비례 그래프는 항상 원점을 지난다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "(답)",
+   "summary": "y=2x의 표 완성 및 순서쌍을 좌표평면에 나타낸 그래프(정수 x)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "함께해요 2",
+   "level": "활동",
+   "verb": "(답)",
+   "summary": "x=-2.5, -1.5, ... 일 때 y=2x의 순서쌍을 좌표평면에 나타낸 그래프",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "함께해요 3",
+   "level": "활동",
+   "verb": "(답)",
+   "summary": "점을 모두 이으면 원점을 지나는 직선이 된다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문제 3",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "y=3x, y=-2x, y=\\frac{1}{4}x, y=-\\frac{1}{2}x의 그래프",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "해결해요 1",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "x와 y의 표(5,10,15,20 / 30,60,90,120) 정답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "해결해요 2",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "표에서 정비례 판단하고 y=4x를 구함",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "해결해요 3",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "정비례 관계에 대한 설명 중 옳은 것은 ㄴ, ㄷ",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "해결해요 4",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "y=6x와 y=-\\frac{3}{5}x 그래프가 지나는 사분면",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "해결해요 5",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "점 (-2,4), (4,3)을 대입해 a=-2, b=\\frac{3}{4}",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "해결해요 6",
+   "level": "서술형",
+   "verb": "(답)",
+   "summary": "y=2x가 점 (a-1, 7-a)를 지날 때 a=3, 채점 기준 40/40/20%",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (4.4)",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "표에서 반비례 판단하고 y=\\frac{20}{x}",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (4.4)",
+   "level": "기본",
+   "verb": "(답)",
+   "summary": "y=300-x, y=\\frac{90}{x} 중 반비례는 (2)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "y=2x 위의 점들을 찍은 좌표평면(정수 x)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "소수 x값의 점들을 추가로 찍은 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원점을 지나는 직선 y=2x 그래프",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 네 정비례 그래프 y=3x, -2x, \\frac{1}{4}x, -\\frac{1}{2}x",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "해결해요 4의 y=6x와 y=-\\frac{3}{5}x 그래프",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정비례 관계 x, y 값의 표와 순서쌍 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반비례 관계 x(cm), y(cm) 값의 표(20, 10, 5, 4, 2, 1)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 채점 기준과 배점 비율 표",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "병원 기부금",
+  "직사각형 가로·세로 길이(cm)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 문제 발문은 보이지 않고 정답만 있어 problems는 풀이 기준으로 요약했다. 이 쪽 오른쪽 아래에 4.4 반비례와 그 그래프(126~130쪽) 소단원 풀이가 시작된다. 왼쪽 앞부분은 4.3 정비례 그래프 풀이(125쪽)에 해당한다. 수학 집 짓기 칸은 '정비례 / 2, 2, 2'로 표시되어 있다.",
+ "_page": 288,
+ "_profile": "full",
+ "_usage": {
+  "in": 5396,
+  "out": 2747,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

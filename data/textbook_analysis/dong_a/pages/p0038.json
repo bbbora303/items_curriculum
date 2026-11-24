@@ -1,0 +1,193 @@
+{
+ "printedPage": "38",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.1 정수와 유리수 - 생각1 양수와 음수는 무엇인가요?",
+  "area": "단원 도입 / 생각해요 / 생각1"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "양의 부호",
+   "role": "정의",
+   "definition": "기준을 중심으로 서로 반대되는 성질의 수량 중 한쪽에 붙이는 부호 +",
+   "notation": "+"
+  },
+  {
+   "term": "음의 부호",
+   "role": "정의",
+   "definition": "기준을 중심으로 서로 반대되는 성질의 수량 중 다른 쪽에 붙이는 부호 -",
+   "notation": "-"
+  },
+  {
+   "term": "양수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "+",
+   "meaning": "양의 부호",
+   "role": "정의"
+  },
+  {
+   "symbol": "-",
+   "meaning": "음의 부호",
+   "role": "정의"
+  },
+  {
+   "symbol": "+4",
+   "meaning": "양의 4",
+   "role": "정의"
+  },
+  {
+   "symbol": "-3",
+   "meaning": "음의 3",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "영상 $4^\\circ\\text{C}\\to +4^\\circ\\text{C}$, 영하 $3^\\circ\\text{C}\\to -3^\\circ\\text{C}$",
+   "plain": "0℃를 기준으로 영상은 +, 영하는 -를 붙여 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "이익과 손해, 지상과 지하 등 반대 성질의 수량은 한쪽에 +, 다른 쪽에 -",
+   "plain": "기준을 중심으로 서로 반대되는 성질의 수량은 +와 -로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "기온 표현",
+   "summary": "영상 4℃는 +4℃, 영하 3℃는 -3℃로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "유럽 도시들의 아침 기온 중 영하인 도시를 모두 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "1000원 이익을 +1000원으로 나타낼 때, 500원 손해를 부호로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "지하 80 m를 -80 m로 나타낼 때, 지상 20 m를 부호로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "유럽 지도 위에 런던 3℃, 파리 4℃, 베를린 2℃, 오슬로 -1℃, 헬싱키 -3℃ 기온을 표시하고 인물 캐릭터가 대화하는 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "유럽 도시들의 아침 기온",
+  "이익과 손해",
+  "지상과 지하"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "양의 부호(+), 음의 부호(-), 양수, 음수, 양의 정수, 음의 정수, 정수, 양의 유리수, 음의 유리수, 유리수, 수직선"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 목표: 다양한 상황으로 음수의 필요성 인식, 양수와 음수·정수와 유리수 개념 이해. 학습 요소의 정수·유리수·수직선 등은 이 쪽에서는 목록으로만 제시되며 정의는 이후에 나온다. 교과 연계 표시: 수학, 사회. 우측 '수학 톡 지식 톡'에서 도시와 나라 정보를 소개한다.",
+ "_page": 38,
+ "_profile": "full",
+ "_usage": {
+  "in": 4658,
+  "out": 1658,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

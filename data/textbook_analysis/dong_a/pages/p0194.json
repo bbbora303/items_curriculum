@@ -1,0 +1,147 @@
+{
+ "printedPage": "194",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "생각2 부채꼴의 중심각과 호에는 어떤 관계가 있나요?",
+  "area": "개념 설명 / 함께해요"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴의 중심각과 호의 관계",
+   "role": "정의",
+   "definition": "한 원에서 부채꼴의 호의 길이와 넓이는 중심각의 크기에 정비례한다는 성질",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle \\mathrm{AOB}$",
+   "meaning": "각 AOB (부채꼴 AOB의 중심각)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overset{\\frown}{\\mathrm{AB}}$",
+   "meaning": "호 AB",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 원에서 중심각의 크기가 같은 두 부채꼴의 호의 길이와 넓이는 각각 같다.",
+   "plain": "한 원에서 중심각이 같으면 호의 길이와 넓이도 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 원에서 호의 길이가 같거나 넓이가 같은 부채꼴은 중심각의 크기도 같다.",
+   "plain": "한 원에서 호의 길이나 넓이가 같으면 중심각도 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 원에서 부채꼴의 호의 길이와 넓이는 각각 중심각의 크기에 정비례한다.",
+   "plain": "중심각이 2배, 3배, ...가 되면 호의 길이와 넓이도 2배, 3배, ...가 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "∠BOC, ∠BOD, ∠BOE의 크기가 각각 ∠AOB의 몇 배인지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "호 BC, BD, BE의 길이가 각각 호 AB의 몇 배인지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "부채꼴 BOC, BOD, BOE의 넓이가 각각 부채꼴 AOB의 몇 배인지 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "중심각이 같은 두 부채꼴을 회전하여 포개는 원 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "원 모양 종이를 반으로 세 번 접었다 펼치는 과정과 점 A~E가 표시된 원",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원을 여러 개의 같은 부채꼴로 나눠 색으로 구분한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "원 모양 종이 접기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 아래에 '6. 평면도형의 성질'이 표시되어 있어 대단원을 평면도형의 성질로 적었다. 위쪽 소단원 번호는 '생각 2'만 보인다. 문제 1~3은 '함께해요' 활동이며 역량 아이콘은 보이지 않는다.",
+ "_page": 194,
+ "_profile": "full",
+ "_usage": {
+  "in": 4570,
+  "out": 1373,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

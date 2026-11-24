@@ -1,0 +1,39 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "집필진"
+ },
+ "pageType": "기타",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "집필진 5명의 증명사진이 구불구불한 길 모양 배경을 따라 배치되어 있다.",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 집필진 소개 쪽이다. 쪽 번호는 인쇄되어 있지 않다. 집필 단원 표기(Ⅰ~Ⅵ)는 이 교과서의 대단원 목록(11개)과 체계가 달라 단원 정보로 쓰지 않았다. 집필진: 김동재(집필 총괄), 최경식(Ⅴ. 도형의 성질, Ⅵ. 통계), 김상미(Ⅲ. 좌표평면과 그래프, Ⅴ. 도형의 성질), 원유미(Ⅰ. 수와 연산, Ⅳ. 도형의 기초), 강해기(Ⅱ. 문자와 식, Ⅳ. 도형의 기초).",
+ "_page": 315,
+ "_usage": {
+  "in": 4449,
+  "out": 464,
+  "sec": 3.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,117 @@
+{
+ "printedPage": "57",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "예제",
+   "label": "예제 1",
+   "corner": "예제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\left(-\\frac{2}{5}\\right)\\times\\left(-\\frac{3}{4}\\right)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-3.4)\\times(+5)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [
+    "| 풀이 |",
+    "(1) $\\left(-\\frac{2}{5}\\right)\\times\\left(-\\frac{3}{4}\\right)=+\\left(\\frac{2}{5}\\times\\frac{3}{4}\\right)=+\\frac{3}{10}$ (두 부호 −에 파란 원, 결과의 부호 +에 분홍 원 표시. 약분 표시: 분자 2 위에 1, 분모 4 아래에 2)",
+    "(2) $(-3.4)\\times(+5)=-(3.4\\times5)=-17$ (−에 파란 원, +에 분홍 원, 결과의 −에 파란 원 표시)",
+    "답 (1) $+\\frac{3}{10}$ (2) $-17$"
+   ],
+   "answerFormat": "풀이와 답이 제시됨"
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\left(+\\frac{3}{8}\\right)\\times\\left(+\\frac{8}{7}\\right)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-8.6)\\times(+3)$"
+    },
+    {
+     "label": "(3)",
+     "text": "$\\left(+\\frac{7}{10}\\right)\\times\\left(-\\frac{5}{2}\\right)$"
+    },
+    {
+     "label": "(4)",
+     "text": "$(-4.8)\\times(-0.5)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산하여 답을 구함"
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각 2",
+   "corner": "생각",
+   "icons": [],
+   "level": "",
+   "text": "수의 곱셈에는 어떤 계산 법칙이 있나요?\n두 수 $+4$와 $-3$의 곱셈에서\n$(+4)\\times(-3)=-(4\\times3)=-12$\n$(-3)\\times(+4)=-(3\\times4)=-12$\n와 같이 두 수의 순서를 바꾸어 곱해도 그 결과는 같다. 이것을 곱셈의 교환법칙이라고 한다.\n또, 세 수 $-2$, $+3$, $+4$의 곱셈에서\n$\\{(-2)\\times(+3)\\}\\times(+4)=(-6)\\times(+4)=-24$\n$(-2)\\times\\{(+3)\\times(+4)\\}=(-2)\\times(+12)=-24$\n와 같이 어느 두 수를 먼저 곱해도 그 결과는 같다. 이것을 곱셈의 결합법칙이라고 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "",
+   "note": "'교환법칙', '결합법칙'은 붉은 굵은 글씨. 첫 식의 +4와 −3, 둘째 식의 −3과 +4에 색 강조(초록/주황). 둘째 묶음의 {(−2)×(+3)}, {(+3)×(+4)}에 주황 중괄호 강조."
+  },
+  {
+   "kind": "기타",
+   "label": "곱셈의 계산 법칙",
+   "corner": "곱셈의 계산 법칙",
+   "icons": [],
+   "level": "",
+   "text": "세 수 $a, b, c$에 대하여\n1 곱셈의 교환법칙 $a\\times b=b\\times a$\n2 곱셈의 결합법칙 $(a\\times b)\\times c=a\\times(b\\times c)$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "옆 설명",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "세 수의 곱셈에서 $(a\\times b)\\times c$와 $a\\times(b\\times c)$의 계산 결과가 같으므로 괄호를 사용하지 않고 $a\\times b\\times c$와 같이 나타낼 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [],
+ "incomplete": "쪽 오른쪽의 '2 단원' 표시와 하단의 '2.5 정수와 유리수의 곱셈 57'은 쪽 표지 정보로만 확인함.",
+ "_page": 57,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4049,
+  "out": 2062,
+  "sec": 14.0,
+  "stop": "end_turn"
+ }
+}

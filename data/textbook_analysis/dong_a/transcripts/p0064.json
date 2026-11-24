@@ -1,0 +1,178 @@
+{
+ "printedPage": "64",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "해결해요",
+   "corner": "해결해요",
+   "icons": [],
+   "level": "",
+   "text": "해결해요 / 문제를 더 풀어 볼 수 있어요. (QR 코드) / 2.6을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요!",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "1",
+   "corner": "해결해요",
+   "icons": [
+    "해당하는 곳에 색칠해요.(우수·보통·분발 표정 3개)"
+   ],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$(+35)\\div(-7)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-36)\\div(-4)$"
+    },
+    {
+     "label": "(3)",
+     "text": "$0\\div(+8)$"
+    },
+    {
+     "label": "(4)",
+     "text": "$\\left(+\\frac{8}{9}\\right)\\div(+2)$"
+    },
+    {
+     "label": "(5)",
+     "text": "$\\left(-\\frac{7}{15}\\right)\\div\\left(-\\frac{6}{5}\\right)$"
+    },
+    {
+     "label": "(6)",
+     "text": "$\\left(-\\frac{3}{4}\\right)\\div\\left(+\\frac{9}{16}\\right)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산 결과를 쓴다. 해당하는 표정(우수/보통/분발)에 색칠한다."
+  },
+  {
+   "kind": "문제",
+   "label": "2",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$4\\times(-5)^2\\div(-2)$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-5)\\times(+4)\\div\\left(-\\frac{10}{3}\\right)\\times\\left(-\\frac{5}{6}\\right)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산 결과를 쓴다."
+  },
+  {
+   "kind": "문제",
+   "label": "3",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "다음을 계산하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2\\times3+10\\div\\{2-(-8)\\}$"
+    },
+    {
+     "label": "(2)",
+     "text": "$(-2)^3\\times\\left\\{\\frac{3}{2}\\div(-4)\\right\\}-7$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "계산 결과를 쓴다."
+  },
+  {
+   "kind": "문제",
+   "label": "4",
+   "corner": "해결해요",
+   "icons": [
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "$-\\frac{1}{12}$의 역수와 $0.75$의 역수의 곱을 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$-\\frac{1}{12}$, $0.75$",
+   "steps": [],
+   "answerFormat": "값을 구한다."
+  },
+  {
+   "kind": "문제",
+   "label": "5",
+   "corner": "해결해요",
+   "icons": [
+    "추론",
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "기본",
+   "text": "오른쪽 그림과 같은 정육면체가 있다. 이 정육면체의 마주 보는 면에 적힌 두 수는 서로 역수이다. 이때 보이지 않는 세 면에 적힌 수 중에서 가장 큰 수와 가장 작은 수의 곱을 구하시오.",
+   "subItems": [],
+   "conditions": [
+    "정육면체의 마주 보는 면에 적힌 두 수는 서로 역수이다."
+   ],
+   "given": "보이는 세 면: 윗면 $-\\frac{14}{3}$, 앞면 $\\frac{3}{7}$, 오른쪽 면 $-7$",
+   "steps": [],
+   "answerFormat": "값을 구한다."
+  },
+  {
+   "kind": "서술형문제",
+   "label": "6",
+   "corner": "해결해요",
+   "icons": [
+    "서술형",
+    "문제해결",
+    "우수·보통·분발 표정 3개"
+   ],
+   "level": "서술형",
+   "text": "어떤 수를 $-\\frac{7}{3}$로 나누어야 할 것을 잘못하여 곱했더니 $\\frac{14}{9}$가 되었다. 바르게 계산한 값을 구하고, 그 풀이 과정을 쓰시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$-\\frac{7}{3}$, $\\frac{14}{9}$",
+   "steps": [],
+   "answerFormat": "바르게 계산한 값과 풀이 과정을 서술한다."
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "5번 정육면체",
+   "labels": "윗면: $-\\frac{14}{3}$, 앞면(왼쪽 앞): $\\frac{3}{7}$, 오른쪽 면: $-7$",
+   "desc": "보라색 계열의 정육면체로 윗면, 앞면, 오른쪽 면 세 면이 보인다."
+  }
+ ],
+ "incomplete": "QR 코드의 내용은 읽을 수 없다.",
+ "_page": 64,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 3955,
+  "out": 2678,
+  "sec": 16.1,
+  "stop": "end_turn"
+ }
+}

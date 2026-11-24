@@ -1,0 +1,119 @@
+{
+ "printedPage": "98",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "미술과 수학 사이 (수군수군) - 일차방정식을 이용한 퍼즐 맞추기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "붙여 완성해 보자",
+   "summary": "12개의 일차방정식을 풀고 가운데 표에서 해를 찾아 해당 방정식의 붙임딱지를 붙여 그림(인왕제색도)을 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "퍼즐 1",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "괄호가 있는 일차방정식: $-3(x-2)=9$, $-2(4x+5)=5(1-x)$, $x+11=-4(x+1)$, $3(x-6)=26+2x$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "퍼즐 2",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "이항해서 푸는 일차방정식: $9-7x=x-7$, $18x+3=30+9x$, $2x+3=11$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "퍼즐 3",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "계수가 분수인 일차방정식: $\\frac{1}{5}x=\\frac{1}{2}x-3$, $\\frac{x}{2}+1=\\frac{x}{3}+2$, $x-\\frac{1}{2}(x-5)=7$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "퍼즐 4",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "계수가 소수인 일차방정식: $1.4x-0.1=2x+1.1$, $0.2x+1=0.5x+3.1$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "가운데 3×4 표에 해 후보 $x=4, -5, 10, -3, -7, 44, 9, -1, 2, 6, 3, -2$가 적혀 있다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "퍼즐 조각 모양 12개 칸에 일차방정식이 하나씩 있고 각 칸에 인왕제색도의 일부 그림이 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "겸재 정선의 인왕제색도 배경 그림과 색연필 장식.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "겸재 정선의 인왕제색도(미술 작품)",
+  "퍼즐 맞추기",
+  "붙임딱지(준비물 3)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "융합 읽기·활동 쪽(미술과 수학 사이). 새로 정의되는 개념은 없고 일차방정식 풀이(괄호 풀기, 이항, 분수·소수 계수)를 활용한다. 하단 '진로 탐색: 무슨 일을 하나요? 미술품 감정사, 학예사, 미술품 관리사 등' 코너 있음. 쪽 아래에 'Ⅱ. 문자와 식'으로 표시되어 있으나 제시된 대단원 목록에는 '일차방정식'이 별도 대단원이므로 chapter는 내용에 따라 '일차방정식'으로 적음(대단원 이름 표기가 불일치할 수 있음). 소단원 번호는 보이지 않는다.",
+ "_page": 98,
+ "_usage": {
+  "in": 4453,
+  "out": 1387,
+  "sec": 9.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

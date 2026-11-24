@@ -1,0 +1,183 @@
+{
+ "printedPage": "121",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.3 정비례와 그 그래프",
+  "area": "개념 설명(예제·문제·생각 넓히기)"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax\\ (a\\neq 0)"
+  },
+  {
+   "term": "정비례 관계식",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax\\ (a\\neq 0)"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax\\ (a\\neq 0)",
+   "meaning": "정비례 관계를 나타내는 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=4x",
+   "meaning": "1분에 4 L씩 물을 넣을 때 x분 후 물의 양 y L 사이의 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "x\\text{가 2배, 3배, 4배, ...로 변함에 따라 }y\\text{도 2배, 3배, 4배, ...로 변하면 정비례한다}",
+   "plain": "x의 값이 몇 배가 될 때 y의 값도 같은 배로 변하면 x와 y는 정비례한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x=1,2,3,\\ldots\\text{일 때 }y=4\\times1,\\ 4\\times2,\\ 4\\times3,\\ldots \\Rightarrow y=4x",
+   "plain": "x의 값에 따른 y의 값에서 규칙을 찾아 관계식을 세운다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "빈 물통에 1분에 4 L씩 물을 넣을 때, 표를 완성해 x와 y가 정비례하는지 확인하고 관계를 식 y=4x로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "확인하시오",
+   "summary": "한 변의 길이가 x cm인 정오각형의 둘레 y cm에 대해 표(x=1~6, y=5)를 완성하고 정비례하는지 확인한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "x와 y 사이의 관계를 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "1개에 1200원인 아이스크림 x개의 가격 y원을 식으로 나타내고 정비례 여부를 판단한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "낮의 길이 x시간과 밤의 길이 y시간의 관계를 식으로 나타내고 정비례 여부를 판단한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "1그루가 1년 동안 이산화 탄소 6 kg을 흡수할 때, x그루가 흡수하는 양 y kg을 식으로 나타내고 정비례 여부를 판단한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "일상생활에서 정비례 관계인 것을 찾아 설명한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "x(분)와 y(L)의 값을 쓰는 표로, y는 1분일 때 4만 주어져 있다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "수도꼭지에서 물이 빈 물통으로 떨어지는 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "풀이에서 완성된 표로, y 값이 4, 8, 12, 16, 20, 24이다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1의 x(cm)와 y(cm) 표로, y는 x=1일 때 5만 주어져 있다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "y=ax (a≠0)가 적힌 캐릭터 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "물통에 물 넣기",
+  "정오각형의 둘레",
+  "아이스크림 가격",
+  "낮과 밤의 길이",
+  "나무의 이산화 탄소 흡수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "정비례의 정의가 이 쪽에 직접 서술되어 있지 않고 예제 풀이로 판별 방법만 제시되므로, 정비례는 role=사용으로 분류했다. 문제 2(2)는 x+y=24라서 정비례가 아니라는 점을 이용한 판단 문항으로 보이나, 이미지에 풀이는 없다. 쪽 오른쪽의 '4단원' 표시는 단원 탭이다.",
+ "_page": 121,
+ "_profile": "full",
+ "_usage": {
+  "in": 4708,
+  "out": 1911,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

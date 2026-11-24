@@ -1,0 +1,146 @@
+{
+ "printedPage": "114",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.2 그래프의 뜻과 표현",
+  "area": "단원 도입 / 생각1"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "그래프",
+   "role": "정의",
+   "definition": "여러 가지 상황이나 자료를 분석하여 그 변화나 상태를 한눈에 알아볼 수 있도록 좌표평면 위에 점, 직선, 곡선 등으로 나타낸 그림이다.",
+   "notation": ""
+  },
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점, 직선, 곡선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "그래프: 좌표평면 위에 점, 직선, 곡선 등으로 나타낸 그림",
+   "plain": "상황이나 자료의 변화·상태를 좌표평면 위의 점, 직선, 곡선으로 한눈에 보이게 나타낸 그림이 그래프이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [
+  {
+   "title": "그림 1 상품의 판매량",
+   "summary": "월별 판매량을 점으로 찍은 그래프(1~6월: 40, 35, 31, 48, 62, 89개).",
+   "solutionShown": false,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "그림 2 습도",
+   "summary": "시각에 따른 습도 변화를 곡선으로 나타낸 그래프.",
+   "solutionShown": false,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "그림 3 맥박",
+   "summary": "시간(초)에 따른 압력이 주기적으로 반복되는 곡선 그래프.",
+   "solutionShown": false,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "그림 4 광합성량",
+   "summary": "빛의 세기에 따른 광합성량이 증가하다가 일정해지는 그래프.",
+   "solutionShown": false,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "바닷물의 온도 그래프를 보고 온도가 어떻게 변하고 있는지 말해 본다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "연도에 따라 바닷물의 온도가 올라가는 꺾은선 그래프(대게 수산 장면 삽화 속).",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[그림 1] 월별 상품 판매량을 점으로 나타낸 그래프.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[그림 2] 시각에 따른 습도 변화 곡선.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[그림 3] 시간에 따른 맥박(압력) 곡선.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "[그림 4] 빛의 세기에 따른 광합성량 그래프.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "대게 수산 가게에서 아이와 상인이 대화하는 삽화.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "바닷물 온도와 대게 가격·어획량",
+  "상품 판매량",
+  "습도",
+  "맥박",
+  "광합성량"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "그래프의 뜻을 알고, 다양한 상황을 그래프로 나타내기",
+   "주어진 그래프 해석하기"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 4.2 도입 쪽(학습 목표: 그래프의 뜻과 표현, 학습 요소: 그래프). QR코드가 있음. 배운 내용/배울 내용 표시는 보이지 않음. 그래프의 구체적 값은 그림 1만 읽을 수 있고 나머지는 모양만 확인함.",
+ "_page": 114,
+ "_profile": "full",
+ "_usage": {
+  "in": 4492,
+  "out": 1358,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

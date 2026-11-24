@@ -1,0 +1,181 @@
+{
+ "printedPage": "74",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "3.1 문자의 사용",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각 1, 확인해요, 문제 1)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "문자의 사용",
+   "role": "정의",
+   "definition": "수량이나 수량 사이의 관계를 문자를 사용하여 식으로 간단히 나타내는 것",
+   "notation": ""
+  },
+  {
+   "term": "문자",
+   "role": "정의",
+   "definition": "구체적인 수 대신 쓰는 알파벳 기호로, 보통 a, b, c, …, x, y, z를 사용한다",
+   "notation": "$a, b, c, \\ldots, x, y, z$"
+  },
+  {
+   "term": "식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직사각형의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "먹은 방울토마토의 개수를 대신하는 문자",
+   "role": "정의"
+  },
+  {
+   "symbol": "$a, b, c, \\ldots, x, y, z$",
+   "meaning": "수량을 나타내는 데 쓰는 알파벳 문자",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(x\\times 2)$ kcal",
+   "meaning": "방울토마토 x개의 총열량",
+   "role": "정의"
+  },
+  {
+   "symbol": "$(a-2)$",
+   "meaning": "a살인 나보다 2살 어린 동생의 나이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$(3\\times x)\\,\\text{cm}^2$",
+   "meaning": "가로 3 cm, 세로 x cm인 직사각형의 넓이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle$",
+   "meaning": "먹은 방울토마토의 개수를 나타내는 기호(도입 질문)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\{(\\text{먹은 방울토마토의 개수})\\times 2\\}\\ \\text{kcal} \\rightarrow (x\\times 2)\\ \\text{kcal}$",
+   "plain": "먹은 개수 대신 문자 x를 쓰면 총열량을 (x×2) kcal로 나타낼 수 있다.",
+   "_raw": "방법",
+   "statementType": "활동 안내"
+  },
+  {
+   "latex": "문자를 사용하면 수량이나 수량 사이의 관계를 식으로 간단히 나타낼 수 있다.",
+   "plain": "문자를 쓰면 수량과 그 관계를 간단한 식으로 표현할 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각해요: 방울토마토 총열량",
+   "summary": "방울토마토 1개가 2 kcal일 때 먹은 개수를 문자로 두어 총열량을 식으로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "확인해요 (1)",
+   "summary": "내 나이가 a살일 때 2살 어린 동생의 나이는 (a-2)살이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "가로 3 cm, 세로 x cm인 직사각형의 넓이는 (3×x) cm²이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "나타내 보자",
+   "summary": "먹은 방울토마토의 개수를 △라 할 때 △를 사용하여 총열량을 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "a명에게 사탕을 3개씩 나누어 주고 2개가 남았을 때 사탕의 총개수를 문자를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "밑변의 길이가 a cm, 높이가 h cm인 삼각형의 넓이를 문자를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "친구들이 방울토마토를 먹으며 총열량을 말풍선으로 이야기하는 삽화(TV 속 설명 포함)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "생각해요 옆 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "방울토마토 열량",
+  "나이",
+  "직사각형 넓이",
+  "사탕 나누기",
+  "삼각형 넓이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "학습 목표: 다양한 상황을 문자를 사용한 식으로 나타내어 그 유용성을 인식할 수 있다. 소단원 번호 3.1은 큰 숫자로 표시되어 있다. 글자층의 '_'는 곱셈 기호(×)가 깨진 것으로 보고 이미지를 따랐다. 단원 도입 성격과 개념 설명이 섞여 있어 개념설명으로 분류했다.",
+ "_page": 74,
+ "_profile": "full",
+ "_usage": {
+  "in": 4612,
+  "out": 1883,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

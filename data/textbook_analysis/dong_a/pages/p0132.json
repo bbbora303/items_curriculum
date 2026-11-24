@@ -1,0 +1,134 @@
+{
+ "printedPage": "132",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "수학 놀이터 - 온실가스 줄이기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "좌표평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "O",
+   "meaning": "좌표평면의 원점",
+   "role": "사용"
+  },
+  {
+   "symbol": "x",
+   "meaning": "가로축(x축)",
+   "role": "사용"
+  },
+  {
+   "symbol": "y",
+   "meaning": "세로축(y축)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "그래프가 지나는 점의 온실가스를 없앤다",
+   "plain": "그래프를 그려 그래프가 지나가는 점의 온실가스를 없애는 놀이 규칙이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시 그림(말풍선)",
+   "summary": "원점을 지나는 직선이 점 2개를 지나면 '온실가스를 2개 없앴어요'라고 보여 준다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "없애 보자",
+   "summary": "정비례 관계의 그래프와 반비례 관계의 그래프를 1개씩 그려 가능한 한 많은 온실가스 점을 없앤다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "활동 1에서 그린 그래프를 친구의 그래프와 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "x축과 y축이 -12~12까지 눈금으로 표시된 큰 좌표평면에 온실가스를 나타내는 회색 점들이 흩어져 있다.",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "작은 좌표평면에서 원점을 지나는 직선이 점 2개를 지나는 예시 그림.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "지구 캐릭터, 풍력 발전기, 북극곰, 공장, 나무 등 환경 관련 배경 일러스트.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "온실가스 줄이기",
+  "환경 보호",
+  "지구온난화"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 놀이터 활동 쪽으로, 새로 정의되는 용어는 없고 앞서 배운 좌표평면, 정비례·반비례 그래프를 활용한다. 점들의 정확한 좌표와 점 모양(밝은 점/어두운 점)의 구분은 이미지상 작아서 옮기지 않았다.",
+ "_page": 132,
+ "_profile": "full",
+ "_usage": {
+  "in": 4160,
+  "out": 1094,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

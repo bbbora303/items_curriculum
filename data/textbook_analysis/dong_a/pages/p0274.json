@@ -1,0 +1,96 @@
+{
+ "printedPage": "274",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.1 소수와 합성수",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "짝수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "학습 진도표에 1~8단원 구간별로 캐릭터, 코끼리 미로, 캠핑 장면, 단짝 그림을 배치한 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "해결해요 2번 답: 21~30의 수에 대해 소수이면 ○, 아니면 ×로 표시한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "해결해요 5번 답: 5×5 수 표에서 소수인 칸을 분홍색으로 칠한 표(17일)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로 정의되는 개념은 없고, 이 단원(소인수분해)의 준비해요·1.1 소수와 합성수(생각해요, 문제, 함께해요, 질문, 해결해요)·수학 실험실의 정답만 실려 있다. 왼쪽에는 학습 진도표(8쪽) 삽화가 있다. 준비해요 2번 (2)의 글자층이 깨져 이미지에서 13, 26, 39로 읽었다. 정답: 준비해요 1~4, 생각해요 약수 개수(1→1개, 2→2개, 3→2개, 4→3개, 5→2개, 6→4개, 7→2개, 8→4개, 9→3개, 10→4개), 해결해요 4번 풀이는 18+13=31, 5번 답은 17일, 활동 1은 137이 소수라는 답이다.",
+ "_page": 274,
+ "_profile": "full",
+ "_usage": {
+  "in": 4846,
+  "out": 856,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

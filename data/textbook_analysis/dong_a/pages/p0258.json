@@ -1,0 +1,122 @@
+{
+ "printedPage": "258",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.5 상대도수",
+  "area": "단원 도입 / 생각해요 / 생각1 상대도수는 무엇인가요?"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "정의",
+   "definition": "도수의 총합에 대한 각 계급의 도수의 비율을 그 계급의 상대도수라고 한다.",
+   "notation": "(어떤 계급의 상대도수)=\\frac{(그 계급의 도수)}{(도수의 총합)}"
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수의 총합",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "비율",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "0\\text{ 이상}\\sim 2\\text{ 미만}",
+   "meaning": "계급을 나타내는 표기(이상, 미만)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(\\text{어떤 계급의 상대도수})=\\frac{(\\text{그 계급의 도수})}{(\\text{도수의 총합})}",
+   "plain": "상대도수는 그 계급의 도수를 도수의 총합으로 나눈 값이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "도수의 총합이 다른 두 자료는 각 계급의 도수 대신 비율을 비교한다",
+   "plain": "총합이 다른 두 자료의 분포를 비교할 때는 전체에서 차지하는 비율을 비교하는 것이 더 적합할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "A 학교와 B 학교의 4편 이상 6편 미만 구독 학생 비율 비교",
+   "summary": "A 학교 27/100=0.27, B 학교 40/200=0.2이므로 A 학교의 비율이 더 높다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "A, B 학교 중 웹툰을 4편 이상 6편 미만 구독한 학생 수가 더 많은 학교를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "A, B 학교 1학년 학생의 구독 중인 웹툰 수별 학생 수 도수분포표(합계 A 100명, B 200명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "웹툰을 보는 학생, 스마트폰 화면, 등장인물 삽화와 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "웹툰 구독",
+  "학교별 1학년 학생 수 비교"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "상대도수를 구할 수 있다",
+   "상대도수의 분포를 표나 그래프로 나타내고 해석할 수 있다"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 도입(학습 목표·학습 요소)과 생각1의 개념 설명이 함께 있는 쪽이다. 배운 내용/배울 내용 표시는 없다. QR코드가 있으나 내용은 알 수 없다. 'B 학교: 40/200=0.2'는 이미지에 그대로 적혀 있다.",
+ "_page": 258,
+ "_profile": "full",
+ "_usage": {
+  "in": 4678,
+  "out": 1216,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,167 @@
+{
+ "printedPage": "18",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "03 최소공배수",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "최소공배수",
+   "role": "정의",
+   "definition": "두 개 이상의 자연수의 공배수 중 가장 작은 수(앞 쪽에서 정의한 것을 이어서 소인수분해로 구하는 방법을 다룸)",
+   "notation": ""
+  },
+  {
+   "term": "공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공통인 소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^3\\times 3$",
+   "meaning": "소인수분해를 거듭제곱으로 나타낸 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$18=2\\times 3^2,\\ 30=2\\times 3\\times 5 \\Rightarrow 2\\times 3^2\\times 5=90$",
+   "plain": "공통인 소인수는 지수가 큰 쪽을, 공통이 아닌 소인수는 그대로 택해 모두 곱하면 최소공배수이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "여러 자연수의 최소공배수 = (공통인 소인수의 거듭제곱 중 지수가 같으면 그대로, 다르면 큰 것) × (공통이 아닌 소인수의 거듭제곱)",
+   "plain": "소인수분해한 결과에서 공통 소인수는 큰 지수, 나머지는 그대로 곱한 것이 최소공배수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "공배수 = 최소공배수의 배수",
+   "plain": "두 개 이상의 자연수의 공배수는 그 수들의 최소공배수의 배수이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "2)24\\ 40\\ 96 \\to 2\\times2\\times2\\times3\\times1\\times5\\times4=480",
+   "plain": "공약수로 나누는 나눗셈 방식(세 수를 함께 나눔)으로도 최소공배수를 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "세 수 24, 40, 96을 소인수분해해 최소공배수 $2^5\\times3\\times5=480$과 공배수 480, 960, 1440, …를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "생각 열기",
+   "summary": "8=2^3, 12=2^2×3에서 최소공배수 24를 구하는 과정을 보고 방법을 설명한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "8과 12의 최소공배수를 구하는 풀이 과정을 보고 그 방법을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "예제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 세 수 24, 40, 96의 최소공배수와 공배수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "8과 12를 소인수분해하여 겹치는 부분을 색으로 표시하고 최소공배수 24를 구하는 과정",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "18=2×3², 30=2×3×5를 세로로 나열하여 최소공배수 2×3²×5를 구하는 식",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "24, 40, 96을 각각 소인수분해해 세로로 나열한 식(최소공배수 2⁵×3×5)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "24, 40, 96을 2, 2, 2, 3으로 차례로 나누는 나눗셈 방식 계산",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 03 최소공배수의 첫 쪽으로 쪽 상단에 학습 목표 '소인수분해를 이용하여 최소공배수를 구할 수 있다'가 있다. 최소공배수와 공배수의 정의는 이 쪽에 직접 나오지 않아 앞 쪽에서 배운 것으로 보인다. 여백 참고 설명으로 '두 개 이상 자연수의 공배수는 그 수들의 최소공배수의 배수'가 제시된다. 역량 아이콘은 보이지 않는다.",
+ "_page": 18,
+ "_usage": {
+  "in": 4912,
+  "out": 1749,
+  "sec": 10.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

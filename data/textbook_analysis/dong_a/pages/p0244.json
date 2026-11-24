@@ -1,0 +1,200 @@
+{
+ "printedPage": "244",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "부록 4 / 문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "중앙값",
+   "role": "정의",
+   "definition": "자료를 작은 값부터 크기순으로 나열했을 때 가운데 위치한 값이다.",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "정의",
+   "definition": "자료에서 가장 많이 나타나는 값이다.",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "눈 일수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "적설량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "통그라미",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "자료를 작은 값부터 크기순으로 나열했을 때 가운데 위치한 값 = 중앙값",
+   "plain": "크기순으로 늘어놓았을 때 한가운데 값이 중앙값이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "자료에서 가장 많이 나타나는 값 = 최빈값",
+   "plain": "가장 자주 나오는 값이 최빈값이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "평창 동계 올림픽에서 메달을 딴 종목 자료(범주형)의 최빈값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기 (1)",
+   "level": "심화(+표시)",
+   "verb": "선택하고 구하시오",
+   "summary": "10명 대상 세 자료(5 km 달리기 기록, 반려동물 수, 영어 듣기 평가 점수)에 대해 평균·중앙값·최빈값 중 적절한 대푯값을 고르고 그 값을 구한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "생각 넓히기 (2)",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "(1)에서 그 대푯값을 선택한 이유를 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "생각 넓히기 (1) 정보처리",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "통그라미 프로그램으로 부록 4 자료 1(서울의 눈 일수)의 평균, 중앙값, 최빈값을 구한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 넓히기 (2) 정보처리",
+   "level": "활동",
+   "verb": "비교하시오",
+   "summary": "어느 해의 눈 일수가 21일이었다고 할 때, (1)에서 구한 대푯값과 비교한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "제23회 평창 동계 올림픽 우리나라 메달 종목 목록 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "10명 대상 세 자료(5 km 달리기 기록, 반려동물 수, 영어 듣기 평가 점수)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부록 4 자료 1: 1960~2022년 서울의 눈 일수 연도별 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "부록 4 자료 2: 1960~2022년 서울의 5 cm 이상 적설량 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "통그라미 프로그램 화면 캡처(기초 통계량 변수 선택 및 결과 화면)와 자료 불러오기용 QR코드",
+   "_raw": "사진",
+   "figureType": "QR코드"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기의 숫자 캐릭터 그림(중앙값은 가운데 숫자, 최빈값은 많이 나온 숫자 강조)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "서울의 눈 일수",
+  "서울의 적설량",
+  "평창 동계 올림픽 메달 종목",
+  "5 km 달리기 기록",
+  "반려동물 수",
+  "영어 듣기 평가 점수",
+  "기상청 기상자료개방포털"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "왼쪽 쪽은 부록 4(서울의 눈 일수와 적설량) 자료표이고 오른쪽 쪽은 문제 2, 생각 넓히기, 수학 집 짓기이다. 한 쪽에 성격이 섞여 있어 pageType은 '기타'로 분류했다. 소단원 번호·제목은 보이지 않아 비워 두었다. 통그라미 화면에는 평균 27.51, 중앙값 27.00, 최빈값 24가 표시되어 있다. 세부 표 값은 옮기지 않았다.",
+ "_page": 244,
+ "_profile": "full",
+ "_usage": {
+  "in": 5827,
+  "out": 1873,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

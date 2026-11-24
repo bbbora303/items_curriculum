@@ -1,0 +1,230 @@
+{
+ "printedPage": "56",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수(자연수)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "음의 정수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "유리수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수의 대소 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "덧셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "뺄셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "곱셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$<$, $>$",
+   "meaning": "수의 대소 관계(음수<0<양수)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$+$, $-$",
+   "meaning": "양의 부호, 음의 부호",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\times$, $\\div$",
+   "meaning": "곱셈, 나눗셈 기호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(+3)+(+2)=+(3+2)=+5,\\ (-3)+(-2)=-(3+2)=-5",
+   "plain": "부호가 같은 두 수의 덧셈은 공통인 부호에 절댓값의 합을 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(+3)+(-2)=+(3-2)=+1",
+   "plain": "부호가 다른 두 수의 덧셈은 절댓값이 큰 수의 부호에 절댓값의 차를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(+2)-(+6)=(+2)+(-6)",
+   "plain": "뺄셈은 빼는 수의 부호를 바꾸어 덧셈으로 고쳐 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(-3)\\times(-2)=+(3\\times2)=+6,\\ (+3)\\times(-2)=-(3\\times2)=-6",
+   "plain": "같은 부호끼리의 곱은 +, 다른 부호끼리의 곱은 -이고 절댓값의 곱을 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "",
+   "plain": "나눗셈은 나누는 수의 역수를 곱하여 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(\\text{음수})<0<(\\text{양수})",
+   "plain": "음수는 0보다 작고 양수는 0보다 크다. 음수끼리는 절댓값이 큰 수가 더 작고, 양수끼리는 절댓값이 큰 수가 더 크다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "주어진 수 −3, 2, 4/7, 0, −8.1, +5 중 (1) 정수, (2) 음의 유리수를 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "수직선에서 세 점 A, B, C에 대응하는 수의 합을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "절댓값이 4인 음의 정수와 절댓값이 2인 양의 정수 사이에 있는 정수의 개수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "쓰시오",
+   "summary": "$(-\\frac{1}{2})^2$, $(-2)^3$, $-\\frac{1}{2^4}$을 계산 결과가 작은 것부터 차례대로 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "유리수의 분류 도식(양의 정수, 0, 음의 정수, 정수가 아닌 유리수)과 빈칸.",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수의 대소 관계를 수직선과 화살표로 나타내고 빈칸을 채우게 한 그림.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "사칙계산(덧셈, 뺄셈, 곱셈, 나눗셈) 요약 도식과 빈칸.",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2번 문제의 점 A, B, C가 표시된 수직선.",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리의 단원 정리 쪽(빈칸 채우기)과 기본 문제 1~4번이 함께 있다. 소단원 번호는 없다. 2번 수직선의 점 A, B, C 위치는 이미지에서 정확히 읽기 어려워 구체적인 값은 적지 않았다.",
+ "_page": 56,
+ "_usage": {
+  "in": 4241,
+  "out": 1963,
+  "sec": 12.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

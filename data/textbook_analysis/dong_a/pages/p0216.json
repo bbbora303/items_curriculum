@@ -1,0 +1,132 @@
+{
+ "printedPage": "216",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "함께해요 / 개념 설명"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "회전체의 단면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "선대칭도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대칭축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "회전체를 회전축에 수직인 평면으로 자른 단면의 모양은 원이다.",
+   "plain": "회전축에 수직으로 자르면 단면은 항상 원이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "회전체를 회전축을 포함하는 평면으로 자른 단면은 모두 합동이고, 각 단면은 회전축을 대칭축으로 하는 선대칭도형이다.",
+   "plain": "회전축을 포함하게 자르면 단면들은 서로 합동이며 회전축을 기준으로 좌우대칭이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "그려 보자",
+   "summary": "원기둥, 원뿔, 구를 회전축에 수직인 평면으로 자른 단면의 모양을 관찰하여 각각 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "활동",
+   "verb": "그려 보자",
+   "summary": "원기둥, 원뿔, 구를 회전축을 포함하는 평면으로 자른 단면의 모양을 관찰하여 각각 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "3",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "1, 2에서 알게 된 단면의 특징을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "원기둥, 원뿔, 구를 회전축에 수직인 평면으로 자르는 모습과 단면을 그릴 빈 칸",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "원기둥, 원뿔, 구를 회전축을 포함하는 평면으로 자르는 모습과 단면을 그릴 빈 칸",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "초등: 대칭축을 따라 접었을 때 완전히 겹치는 도형을 선대칭도형이라고 한다."
+  ],
+  "current": [
+   "회전체의 성질"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 이 쪽에 보이지 않아 section을 비워 둠. 회전체·회전축 등은 앞 쪽에서 정의되었을 것으로 보여 '사용'으로 분류함. 선대칭도형은 '초등 배운 내용' 상자에 있어 사용으로 분류함.",
+ "_page": 216,
+ "_profile": "full",
+ "_usage": {
+  "in": 4477,
+  "out": 1144,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

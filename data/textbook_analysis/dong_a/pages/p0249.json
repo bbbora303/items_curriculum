@@ -1,0 +1,191 @@
+{
+ "printedPage": "249",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.2 줄기와 잎 그림",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "줄기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "잎",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$(6|1\\text{은 }61\\text{점})$",
+   "meaning": "줄기 6, 잎 1은 61점을 뜻하는 줄기와 잎 그림의 표기 방법",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1(1)",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "학생 16명의 과학 성적 자료를 줄기와 잎 그림으로 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "과학 성적이 80점 이상인 학생 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "통학 시간 줄기와 잎 그림에서 조사한 학생 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "잎이 가장 많은 줄기를 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2(3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "통학 시간이 5번째로 긴 학생의 통학 시간을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "책을 25권 이상 읽은 학생이 전체의 몇 %인지 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4(1)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "두 모둠의 제기차기 기록에서 20개 이상인 학생 수를 각각 구하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4(2)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "각 모둠에서 2번째로 좋은 기록을 비교해 어느 모둠이 더 좋은지 판단하고 풀이 과정을 쓴다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "과학 성적 16개의 자료표와 줄기 6, 잎 1만 채워진 빈 줄기와 잎 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "통학 시간을 나타낸 줄기와 잎 그림(줄기 1~5)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "읽은 책의 수를 나타낸 줄기와 잎 그림(줄기 0~3)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "1모둠과 2모둠의 제기차기 기록을 비교하는 두 잎의 줄기와 잎 그림(줄기 0~3)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "제기차기 '능력자' 도장 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어볼 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "과학 성적",
+  "통학 시간",
+  "방학 동안 읽은 책의 수",
+  "제기차기 기록"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 1 옆에 우수/보통/분발 중 해당하는 곳에 색칠하는 자기 점검 표시가 있다. 하단에 8.2를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙이라는 안내가 있다. 각 문제의 줄기와 잎 그림 값은 이미지에서 읽었으며 문제 4의 일부 줄기와 잎의 정렬은 확실하지 않을 수 있다.",
+ "_page": 249,
+ "_profile": "full",
+ "_usage": {
+  "in": 4911,
+  "out": 1636,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

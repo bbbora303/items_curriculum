@@ -1,0 +1,130 @@
+{
+ "printedPage": "140",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "1학기 말 활동 - 여행지에 붙임딱지 붙이기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정수와 유리수의 곱셈·나눗셈",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\div$",
+   "meaning": "나눗셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$=$",
+   "meaning": "등호(방정식)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$x$",
+   "meaning": "미지수",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동",
+   "level": "활동",
+   "verb": "붙이는 놀이를 해 보자",
+   "summary": "주사위를 던져 도착한 여행지에 적힌 식 또는 방정식을 풀고 그 값에 해당하는 붙임딱지를 붙인다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "식1",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "정수·유리수의 곱셈과 나눗셈 계산: $3\\times(-6)\\div\\frac{1}{2}$, $(+1.6)\\times(-5)\\div2$, $(-2)\\times(-4)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "식2",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "분수·소수 곱셈과 나눗셈 계산: $\\frac{1}{4}\\times\\frac{8}{6}$, $\\frac{1}{4}\\times1.6$, $\\frac{1}{2}\\div(-\\frac{1}{6})$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "방정식",
+   "level": "활동",
+   "verb": "풀다",
+   "summary": "일차방정식 풀기: $2(3x+11)=-2-12$, $x-12=-2x-3$, $-3x+4=10$, $0.4x=1.2-0.2x$, $5(4x-2)=-2x+1$, $\\frac{2x-4}{3}=\\frac{-3x+6}{4}$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "제주도 모양의 여행 지도에 길과 여행지(해변, 숲, 산, 초가집 등) 아이콘, 식이나 방정식, 붙임딱지를 붙일 빈 칸이 있다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "바다, 비행기, 등대, 나무, 귤나무 등 배경 그림",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "여행",
+  "제주도 지도",
+  "주사위 놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "1학기 말 활동 쪽이라 단원 표시는 없다. 지도에 있는 식은 정수와 유리수의 계산과 일차방정식 풀이를 복습하는 내용이다. 글자층에 '3x+4=10'이 있으나 이미지에는 '-3x+4=10'으로 보인다. 일부 분수식은 이미지 기준으로 옮겼다. 준비물 3(붙임딱지)이 필요하다.",
+ "_page": 140,
+ "_usage": {
+  "in": 4141,
+  "out": 1274,
+  "sec": 8.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

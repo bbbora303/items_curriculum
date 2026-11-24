@@ -1,0 +1,133 @@
+{
+ "printedPage": "66",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "01 문자를 사용한 식",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "문자를 사용한 식",
+   "role": "정의",
+   "definition": "수량 사이의 관계를 문자를 사용해 간단히 나타낸 식",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "인공위성이 이동한 시간(초)을 나타내는 문자",
+   "role": "정의"
+  },
+  {
+   "symbol": "$3\\times x$",
+   "meaning": "x초 동안 이동한 거리(km)",
+   "role": "정의"
+  },
+  {
+   "symbol": "$a$",
+   "meaning": "동생의 나이를 나타내는 문자",
+   "role": "정의"
+  },
+  {
+   "symbol": "$a+3$",
+   "meaning": "누나의 나이(세)",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$3\\times(\\text{이동한 시간})\\rightarrow 3\\times x$",
+   "plain": "변하는 양(이동한 시간)을 문자 x로 바꾸어 식을 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "문자를 사용하면 수량 사이의 관계를 간단한 식으로 나타낼 수 있다.",
+   "plain": "문자를 쓰면 여러 경우를 하나의 식으로 간단히 표현할 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "인공위성의 이동 거리",
+   "summary": "초속 3 km로 1초, 2초, 3초 이동한 거리를 구한 뒤 x초 동안의 거리를 $3\\times x$ (km)로 나타낸다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "누나와 동생의 나이",
+   "summary": "나이 차이가 3세일 때 동생의 나이를 a로 하면 누나의 나이는 $(a+3)$세이다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "초속 3 km로 비행하는 인공위성이 2초 동안 이동한 거리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "x초 동안 이동한 거리를 x를 사용한 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "지구 위를 비행하는 인공위성 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "3×(이동한 시간)에서 3×x로 바뀌는 과정을 보여 주는 말풍선 상자",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "누나와 동생이 공을 들고 있는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "인공위성의 속력과 이동 거리",
+  "누나와 동생의 나이 차이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "다양한 상황을 문자를 사용한 식으로 나타내어 그 유용성을 인식할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로 중단원 제목 '문자를 사용하여 식을 어떻게 나타낼까?'가 있다. 사이드 노트에 x 대신 a, b, c 등 다른 문자도 쓸 수 있다고 안내한다. 쪽 아래에는 'Ⅱ. 문자와 식'이 표시되어 있고, 주어진 대단원 목록에서는 '문자의 사용과 식'에 해당한다. 배운 내용/배울 내용 표시는 이 쪽에 없다.",
+ "_page": 66,
+ "_usage": {
+  "in": 4546,
+  "out": 1358,
+  "sec": 8.3,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

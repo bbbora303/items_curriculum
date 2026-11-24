@@ -1,0 +1,238 @@
+{
+ "printedPage": "189",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": "\\equiv"
+  },
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행한 모서리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\equiv",
+   "meaning": "두 도형이 합동임을 나타내는 기호",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\overline{AD}",
+   "meaning": "선분 AD의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\angle CAD",
+   "meaning": "각 CAD",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\triangle ABC",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "14",
+   "level": "기본",
+   "verb": "찾아 나타내고 말하시오",
+   "summary": "AD=CB, ∠CAD=∠ACB일 때 합동인 두 삼각형을 찾아 기호로 나타내고 합동 조건을 말하기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "15",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "△AOD와 △BOC에서 OA=OB, BD=AC일 때 (1) BC의 길이 (2) ∠DAO의 크기 구하기 (8 cm, 55°, 25° 제시)",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "16",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "직육면체의 세 모서리의 중점을 지나는 삼각뿔을 잘라 만든 입체도형에서 면 ABED와 평행한 모서리 개수 a, 모서리 CG와 꼬인 위치에 있는 모서리 개수 b일 때 a+b 구하기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "17",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정삼각형 △ABC, △ECD에서 B, C, D가 한 직선 위에 있고 AD와 BE의 교점이 P일 때 ∠x의 크기 구하기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "14번: AD=CB인 평행사변형 모양에 대각선 AC가 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "15번: 점 O에서 뻗은 두 선분 위에 A, C, B, D가 있는 삼각형 그림(8 cm, 55°, 25° 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "16번: 직육면체에서 삼각뿔 모양을 잘라 낸 입체도형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "17번: 한 직선 위의 B, C, D 위에 정삼각형 ABC와 ECD가 붙어 있고 AD와 BE가 P에서 만나는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "Math Pizza 자기평가 그림: 피자 모양에 영역별 문항 번호 원이 있고 '느낀 점' 쓰는 칸이 있음",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "점, 선, 면, 각",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ]
+  },
+  {
+   "concept": "위치 관계",
+   "problemNos": [
+    "6",
+    "7",
+    "16"
+   ]
+  },
+  {
+   "concept": "평행선의 성질",
+   "problemNos": [
+    "8",
+    "9"
+   ]
+  },
+  {
+   "concept": "간단한 도형의 작도",
+   "problemNos": [
+    "10"
+   ]
+  },
+  {
+   "concept": "삼각형의 작도",
+   "problemNos": [
+    "11",
+    "12"
+   ]
+  },
+  {
+   "concept": "삼각형의 합동 조건",
+   "problemNos": [
+    "13",
+    "14",
+    "15",
+    "17"
+   ]
+  }
+ ],
+ "notes": "문제 번호 위의 아이콘은 역량 표시로 보이나 어떤 역량인지 확실하지 않아 '추론'으로 추정했다. 16번은 '서술형 문제' 코너([16~17] 지시)에 속한다. Math Pizza의 영역 이름 일부(예: '삼각형의 작도', '삼각형의 합동 조건')는 이미지가 작아 읽기가 불확실하다.",
+ "_page": 189,
+ "_usage": {
+  "in": 4501,
+  "out": 1784,
+  "sec": 10.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

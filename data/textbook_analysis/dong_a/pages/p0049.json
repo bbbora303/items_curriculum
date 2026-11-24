@@ -1,0 +1,142 @@
+{
+ "printedPage": "49",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.3 정수와 유리수의 덧셈",
+  "area": "배우고 익히기(예제·문제·생각 넓히기·수학 집 짓기)"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "덧셈의 교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "덧셈의 결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$+$, $-$",
+   "meaning": "수의 부호(양의 부호, 음의 부호)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "세 개 이상의 수의 덧셈은 교환법칙과 결합법칙을 이용하면 편리할 때가 있다",
+   "plain": "세 수 이상을 더할 때는 순서를 바꾸거나 묶어서 계산하면 쉬울 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$(+3)+(+2)=+(3+2)=+5,\\ (-3)+(-2)=-(3+2)=-5$",
+   "plain": "부호가 같은 두 수의 덧셈은 절댓값의 합에 공통 부호를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$(+4)+(-3)=+(4-3)=+1,\\ (-4)+(+3)=-(4-3)=-1$",
+   "plain": "부호가 다른 두 수의 덧셈은 절댓값의 차에 절댓값이 큰 수의 부호를 붙인다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 2",
+   "summary": "세 유리수 $(-\\frac{5}{4})+(+3)+(-\\frac{3}{4})$를 교환법칙과 결합법칙으로 계산한다(답 +1).",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 3 (1)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "세 정수의 덧셈 $(+5)+(-11)+(-5)$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 3 (2)",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "네 유리수의 덧셈 $(+\\frac{1}{2})+(-\\frac{2}{3})+(+\\frac{1}{4})+(-\\frac{1}{3})$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "$(+8)+(-12)+(-6)$을 계산하고 하진이의 방법과 자신의 방법을 비교하여 설명한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "풀이 옆에 교환법칙과 결합법칙이 쓰인 단계를 화살표와 말풍선으로 표시했다.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "하진이의 계산 방법과 나의 풀이를 적는 두 개의 칸.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 부호가 같은 경우와 다른 경우의 덧셈을 절댓값의 합·차와 함께 정리한 상자.",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "덧셈의 교환법칙·결합법칙은 이 쪽에서 새로 정의되지 않고 풀이의 근거로 사용되는 것으로 보았다(앞 쪽에서 도입됐을 가능성이 있으나 이 쪽만으로는 확인되지 않음). '수학 집 짓기'는 앞서 배운 덧셈 규칙을 정리하는 코너로 보아 role을 방법으로 적었다. 학생 풀이 칸은 비어 있다.",
+ "_page": 49,
+ "_profile": "full",
+ "_usage": {
+  "in": 4537,
+  "out": 1469,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

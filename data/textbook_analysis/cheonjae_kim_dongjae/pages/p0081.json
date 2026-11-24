@@ -1,0 +1,170 @@
+{
+ "printedPage": "81",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$, $a$, $y$",
+   "meaning": "문자를 사용한 식에서 쓰는 문자",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\frac{x+1}{3}-\\frac{x-1}{2}$",
+   "meaning": "분수 꼴의 일차식의 뺄셈",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "보기 ㉠~㉣ 중 일차식을 모두 찾는다. 보기: $7-x^2$, $x-8$, $5$, $\\frac{y}{3}+2$",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "6",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "네 학생(윤우, 은서, 태오, 지유)의 일차식 곱셈·나눗셈 계산 중 바르게 계산한 학생을 찾는다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "7",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "(1) 2(x-6)+4(3-2x), (2) 3(3a-7)-2(a-4), (3) 분수 꼴 일차식의 뺄셈, (4) 분수 꼴 일차식의 뺄셈",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "8",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "어떤 일차식에서 2x-9를 빼야 하는데 잘못 더해서 -x+7이 되었을 때 바르게 계산한 식을 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "십의 자리 숫자를 x, 각 자리 숫자의 합이 9인 두 자리 자연수에서 두 숫자를 바꾼 수를 x로 나타낸다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "한 변의 길이가 4 cm인 정삼각형 3개를 겹쳐 놓은 도형의 둘레의 길이를 a(겹친 부분 길이)를 사용한 식으로 나타낸다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "5번 보기 상자: 네 개의 식 ㉠~㉣",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "6번 학생 네 명의 계산 결과 상자",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정삼각형 3개가 겹쳐진 도형, 한 변 4 cm, 겹친 부분의 한 변 a cm 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Road: 문항 번호 1~10이 붙은 가로등과 안내 인물, 복습 쪽 안내",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Road (문항별 복습 쪽 안내)",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  }
+ ],
+ "notes": "Math Road 복습 안내: 1→67쪽 1, 2→69쪽 1, 3→71쪽 2, 4→73쪽 1, 5→73쪽 2, 6→75쪽 1·2, 7→77쪽 2, 8→77쪽 2, 9→67쪽 1과 77쪽 2, 10→77쪽 2로 읽었으나 9번 부분은 배치상 약간 불확실함. 8번에는 '발전' 표시가 있음. 이 쪽은 문항 5~10이며 1~4번은 이전 쪽에 있는 것으로 보임. 역량 아이콘은 보이지 않음.",
+ "_page": 81,
+ "_usage": {
+  "in": 4659,
+  "out": 1629,
+  "sec": 15.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

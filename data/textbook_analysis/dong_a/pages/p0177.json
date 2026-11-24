@@ -1,0 +1,53 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "큰 숫자 6 모양의 파란색·초록색 로고와 말풍선 모양의 흰색 배경",
+   "_raw": "기타",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "알람브라 궁전",
+  "무늬"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "6.0 알람브라 궁전에서 평면도형을 만나요",
+   "6.1 다각형의 대각선의 개수",
+   "6.2 삼각형의 내각과 외각",
+   "6.3 다각형의 내각의 크기의 합",
+   "6.4 다각형의 외각의 크기의 합",
+   "6.5 원과 부채꼴",
+   "6.6 부채꼴의 호의 길이와 넓이",
+   "프로젝트: 나만의 무늬를 만들어요"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입의 첫 쪽으로 차례와 단원 질문만 있다. 질문: '평면도형은 어떤 성질이 있고, 각도, 길이, 넓이는 어떻게 구할까요?' 쪽 번호는 보이지 않는다. '배운 내용/배울 내용' 표시는 이 쪽에 없어 gradeLinks의 prior와 later는 비워 두었고, current에는 소단원 목록을 적었다.",
+ "_page": 177,
+ "_profile": "full",
+ "_usage": {
+  "in": 4092,
+  "out": 534,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

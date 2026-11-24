@@ -1,0 +1,124 @@
+{
+ "printedPage": "77",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "동류항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "주어진 식에서 동류항을 모두 찾는다. (1) 4x+1+3x-5 (2) -a+6b+7a-b",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "계산하시오",
+   "summary": "일차식의 덧셈·뺄셈과 분배법칙을 이용한 계산 4문항 (괄호 포함, 수 곱하기 일차식 포함)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "간단히 하시오",
+   "summary": "동류항을 정리하여 식을 간단히 한다. (1) -3x+12-4x-7 (2) y/6+5+5y/6-11 (분수 계수 포함)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "비교하시오",
+   "summary": "( ㉠ )+2( ㉡ )=x-4가 되도록 ㉠, ㉡에 알맞은 일차식을 써넣고 친구들의 답과 비교한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "나타내어 보자",
+   "summary": "길 위의 식(일차식의 계산)을 계산하여 x의 계수가 -1인 일차식이 있는 곳만 지나는 출발점에서 도착점까지의 길을 찾는다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "숲속 길 지도에 출발점과 도착점, 각 지점에 일차식(예: 5x-(3-6x), 2(x-2)-(x+3), (x-1)/3-(x+3)/2 등)이 적힌 미로형 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "장식",
+   "desc": "배우고 익히기 옆 'FUN' 코너 '동류항'으로 삼행시를 지으면? 문구 그림",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "숲속 길 찾기 (은서와 윤우)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 이 쪽에 보이지 않아 비워 둠. 글자층의 분수 표기는 깨져 있어 이미지를 따름. 길 위 식 중 일부(예: -2/5x+(x-3)/2, (2-2/3x)-x/3)는 분수 모양이며 정확한 구조는 이미지 기준. 'FUN' 코너는 읽을거리 성격의 짧은 문구.",
+ "_page": 77,
+ "_usage": {
+  "in": 4506,
+  "out": 1210,
+  "sec": 8.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

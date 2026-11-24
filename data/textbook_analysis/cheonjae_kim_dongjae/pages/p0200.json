@@ -1,0 +1,153 @@
+{
+ "printedPage": "200",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "02 다각형의 대각선",
+  "area": "개념 설명(생각 열기, 채워 넣기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "n각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "n"
+  },
+  {
+   "term": "다각형의 대각선의 개수",
+   "role": "정의",
+   "definition": "n각형의 대각선의 개수를 구하는 방법과 공식을 이 쪽에서 새로 다룬다.",
+   "notation": "\\frac{n(n-3)}{2}"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "n",
+   "meaning": "다각형의 변(꼭짓점)의 개수를 나타내는 문자",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\frac{n(n-3)}{2}",
+   "meaning": "n각형의 대각선의 개수",
+   "role": "정의"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "5\\times 2 \\div 2 = 5",
+   "plain": "오각형은 한 꼭짓점에서 대각선이 2개이므로 5개의 꼭짓점에서 모두 10개이고, 각 대각선이 두 번씩 세어지므로 2로 나누어 5개이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "n(n-3)",
+   "plain": "n각형은 한 꼭짓점에서 그을 수 있는 대각선이 n-3개이므로 n개의 꼭짓점에서 모두 n(n-3)개이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "\\frac{n(n-3)}{2}",
+   "plain": "n각형의 대각선의 개수는 n(n-3)을 2로 나눈 값이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "오각형의 대각선의 개수",
+   "summary": "한 꼭짓점에서 2개씩 5개의 꼭짓점이므로 10개이고, 두 번씩 센 것을 2로 나누어 5개를 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "완성해 보자",
+   "summary": "사각형·오각형·육각형의 꼭짓점의 개수와 한 꼭짓점에서 그을 수 있는 대각선의 개수 표를 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "추측해 보자",
+   "summary": "십오각형의 한 꼭짓점에서 그을 수 있는 대각선의 개수를 추측한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "채우시오(빈칸 채우기)",
+   "summary": "팔각형의 대각선의 개수를 공식 \\frac{□×(□-3)}{2}=□ 의 빈칸을 채워 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "표시된 꼭짓점이 있는 사각형, 오각형, 육각형 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "다각형별 꼭짓점 개수와 한 꼭짓점에서 그을 수 있는 대각선 개수를 적는 빈 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "오각형에 대각선 5개를 그린 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "휠체어를 탄 학생이 오각형 그림을 들고 있는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "다각형의 대각선의 개수를 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 아래 'V. 도형의 성질'은 인쇄된 대단원 표시이나 제공된 대단원 목록에는 없어 가장 가까운 '평면도형의 성질'로 적었다. 소단원 번호 02와 제목 '다각형의 대각선'은 이미지에서 확인했다.",
+ "_page": 200,
+ "_usage": {
+  "in": 4538,
+  "out": 1520,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

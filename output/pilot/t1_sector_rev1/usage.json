@@ -1,0 +1,22 @@
+{
+ "rows": [
+  {
+   "stage": "수정-1",
+   "in": 15787,
+   "out": 7478,
+   "stop": "end_turn"
+  },
+  {
+   "stage": "AI점검",
+   "in": 8558,
+   "out": 4154,
+   "stop": "end_turn"
+  }
+ ],
+ "total": {
+  "calls": 2,
+  "in": 24345,
+  "out": 11632,
+  "estUSD": 0.248
+ }
+}

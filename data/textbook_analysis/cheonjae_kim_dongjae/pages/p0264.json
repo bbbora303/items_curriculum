@@ -1,0 +1,161 @@
+{
+ "printedPage": "264",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "역량 쑥쑥 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "kWh",
+   "meaning": "전력 소비량의 단위(킬로와트시)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1-❶",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "11개 접시에 담긴 비스킷 개수(9, 1, 8, 3, 8, 3, 3, 6, 7, 3, 4)의 평균, 중앙값, 최빈값을 구한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1-❷",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "비스킷을 옮겨 담아도 평균, 중앙값, 최빈값 중 변하지 않는 것이 무엇인지 찾고 그 까닭을 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1-❸",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "중앙값을 6개로 만들기 위해 옮겨 담아야 하는 비스킷의 최소 개수를 구한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❶",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "A 아파트(200가구)와 B 아파트(300가구)에서 전력 소비량이 250 kWh 이상인 가구 수를 그래프로 각각 구한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-❷",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "두 아파트 중 전력 소비량의 평균이 더 높은 쪽을 그래프를 이용해 판단하고 그 까닭을 설명한다.",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "11개의 접시에 담긴 비스킷 개수(9, 1, 8, 3, 8, 3, 3, 6, 7, 3, 4개)를 보여 주는 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A, B 아파트의 전력 소비량에 대한 상대도수 도수분포다각형이며, 일부가 얼룩져 눈금이 가려져 있다.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "전기 플러그와 멀티탭, 노트북을 사용하는 사람의 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "비스킷 나누어 담기",
+  "아파트 전력 소비량"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "대단원 목록에 '통계'가 없고 쪽 아래에는 'Ⅵ. 통계'로 인쇄되어 있어 가장 가까운 '자료의 정리와 해석'으로 적었다. 소단원 번호는 보이지 않는다. 활동 1은 추론·의사소통, 활동 2는 문제해결·의사소통 아이콘이 표시되어 있다. 그래프에서 얼룩진 부분의 값은 읽을 수 없다.",
+ "_page": 264,
+ "_usage": {
+  "in": 4576,
+  "out": 1405,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,153 @@
+{
+ "printedPage": "231",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "3 정다면체는 왜 다섯 가지뿐일까?",
+  "area": "역량 쑥쑥 수학 더하기"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "정다면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정오각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "활동 1",
+   "level": "활동",
+   "verb": "말하고, 설명해 보자",
+   "summary": "한 꼭짓점에 정삼각형이 3, 4, 5, 6개 모이도록 교구를 붙여 입체도형을 만들고, 정다면체가 되면 이름을 말하고 안 되면 까닭을 설명한다.",
+   "competencyIcons": [
+    "문제해결",
+    "추론",
+    "의사소통",
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 2",
+   "level": "활동",
+   "verb": "말하고, 설명해 보자",
+   "summary": "한 꼭짓점에 정사각형이 3, 4개 모이도록 교구를 붙여 정다면체가 되는지 확인하고 이름 또는 까닭을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 3",
+   "level": "활동",
+   "verb": "말하고, 설명해 보자",
+   "summary": "한 꼭짓점에 정오각형이 3, 4개 모이도록 교구를 붙여 정다면체가 되는지 확인하고 이름 또는 까닭을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "활동 4",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "한 면의 모양이 정육각형인 정다면체를 만들 수 없는 까닭을 설명한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "한 꼭짓점에 모인 정삼각형의 개수(3, 4, 5, 6)별로 교구로 만든 모양 사진을 보여 주는 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "한 꼭짓점에 모인 정사각형의 개수(3, 4)별 교구 모양 사진 표와 교구를 붙이는 손 사진",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "한 꼭짓점에 모인 정오각형의 개수(3, 4)별 교구 모양 사진 표와 교구를 붙이는 손 사진",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "교구로 입체도형을 만드는 학생 사진과 색깔 있는 정다면체 모형 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "정다각형 교구로 입체도형 만들기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론",
+  "의사소통",
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "교과서 '역량 쑥쑥 수학 더하기'의 탐구 활동 쪽으로, 새로 정의되는 용어나 기호는 없음. 정다면체 개념은 이미 배운 것으로 전제하고 한 꼭짓점에 모인 면의 개수로 정다면체가 다섯 가지뿐인 까닭을 탐구함. 활동 1에만 역량 아이콘이 표시된 것이 아니라 쪽 상단에 공통으로 표시되어 있음.",
+ "_page": 231,
+ "_usage": {
+  "in": 4597,
+  "out": 1401,
+  "sec": 8.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

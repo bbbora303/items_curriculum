@@ -1,0 +1,135 @@
+{
+ "printedPage": "11",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.0 암호를 사용해 볼까요",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "암호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "자연수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "\\Rightarrow",
+   "meaning": "글자를 숫자로 바꾸는 암호 약속(A⇨1 등)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "암호 만들기 예시",
+   "summary": "A⇨1, B⇨2, C⇨3 … 규칙으로 영어 단어 FACE를 숫자 6135로 암호화한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "4 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 수 4, 6의 최소공배수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 수 10, 12의 최소공배수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4 (3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 수 20, 28의 최소공배수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4 (4)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 수 30, 42의 최소공배수 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "사다리에 앉아 노트북을 하는 아이, 태블릿의 자물쇠, 컵, 키보드 키 등 암호·보안을 나타내는 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "도입 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "암호",
+  "비밀번호",
+  "보안"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등 | 최소공배수"
+  ],
+  "current": [
+   "약수가 2개뿐인 자연수"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로 '학습 계획 세우기' 기록란(목표·다짐 적기)이 있다. 하단 4번 문제는 초등 최소공배수 복습 문제로 보인다. 32쪽의 비밀번호 만들기 활동을 안내한다. 새로 정의되는 용어는 없다.",
+ "_page": 11,
+ "_profile": "full",
+ "_usage": {
+  "in": 4455,
+  "out": 989,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

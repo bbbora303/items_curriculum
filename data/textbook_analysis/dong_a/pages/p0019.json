@@ -1,0 +1,127 @@
+{
+ "printedPage": "19",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "1.2 소인수분해",
+  "area": "문제 / 생각 넓히기 / 수학 집 짓기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "$2^2\\times 3^2$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^3\\times 7$",
+   "meaning": "거듭제곱을 포함한 소인수분해 꼴의 수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$2^2\\times 3^3$",
+   "meaning": "108의 소인수분해",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "36=2\\times 18=2\\times 2\\times 9=2\\times 2\\times 3\\times 3=2^2\\times 3^2",
+   "plain": "수를 곱셈으로 계속 나누어 소인수의 거듭제곱 꼴로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "36=2^{\\square}\\times 3^{\\square}",
+   "plain": "가지 그림과 나눗셈 방법으로 소인수분해한 결과를 거듭제곱 꼴로 정리한다(빈칸 채우기).",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 5 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 $2^3\\times 7$의 약수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 5 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 225의 약수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "대화를 읽고 소인수분해를 이용해 약수를 구하면 좋은 점을 설명한다(108의 약수 나열과 $2^2\\times 3^3$ 비교).",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "두 학생이 108의 약수를 나열하고 소인수분해로 약수가 더 있을지 의논하는 대화 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "수학 집 짓기: 36을 곱셈 전개, 가지 그림, 빈칸 식, 나눗셈 방법으로 소인수분해하는 과정",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 5는 소인수분해로 약수 구하는 방법을 이미 안내받았다고 전제한다. 생각 넓히기 대화의 108 약수 목록에는 12가 빠져 있는 것으로 보이며, 이것이 '약수가 더 있을 것 같다'는 발문의 근거로 보인다. 수학 집 짓기 빈칸은 이미지에서 비어 있다.",
+ "_page": 19,
+ "_profile": "full",
+ "_usage": {
+  "in": 4236,
+  "out": 1187,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

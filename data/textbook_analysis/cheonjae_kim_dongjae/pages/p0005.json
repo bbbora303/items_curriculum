@@ -1,0 +1,157 @@
+{
+ "printedPage": "13",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "교재 구성 안내(단원 도입 쪽 안내 + 배우고 익히기·와글와글 수학 활동 예시)"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "에라토스테네스의 체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^3$",
+   "meaning": "거듭제곱 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "에라토스테네스의 체: 1을 지우고, 2, 3, 5, ...의 배수를 차례로 지워 소수만 남긴다",
+   "plain": "가장 작은 수를 남기고 그 수의 배수를 지우는 과정을 반복해 소수를 찾는다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "배우고 익히기 1",
+   "level": "기본",
+   "verb": "구분하시오",
+   "summary": "주어진 수를 소수와 합성수로 구분한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "배우고 익히기 1'",
+   "level": "기본",
+   "verb": "써 넣으시오",
+   "summary": "소수·합성수의 성질에 맞는 수를 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "배우고 익히기 2",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "곱셈식을 거듭제곱으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "배우고 익히기 2'",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "거듭제곱에 대한 설명 중 옳은 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "찾아보자",
+   "summary": "에라토스테네스의 체로 1~102 중 소수를 모두 찾는다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "1에서 102까지 자연수를 나열한 에라토스테네스의 체 활동 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "책을 읽는 학생과 고양이 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "'3 더 알아보며 마무리!'의 수학 더하기, ○○과 수학 사이, 창의 융합 컴퓨팅, 중·대단원 마무리 쪽 축소 이미지와 안내",
+   "_raw": "기타",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "에라토스테네스의 체",
+  "축구 골 득실",
+  "블록 코딩",
+  "2학기 말 활동(글짓기, 그림 그리기, 카드 뉴스)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "교재 구성을 안내하는 쪽으로 학습 내용을 도입하는 쪽이 아니다. 13쪽은 축소 예시로 보이며 그 안의 문제는 일부만 읽힌다. '3 더 알아보며 마무리!'와 2학기 말 활동 안내가 섞여 있어 pageType은 '기타'로 분류했다.",
+ "_page": 5,
+ "_usage": {
+  "in": 9904,
+  "out": 1320,
+  "sec": 8.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

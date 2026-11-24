@@ -1,0 +1,199 @@
+{
+ "printedPage": "244",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "배우고 익히기"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지진 발생 횟수 9개 자료의 중앙값 구하기(7, 5, 30, 17, 4, 12, 5, 3, 7)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "학급 학생 20명이 태어난 달 자료의 최빈값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "학생 15명의 봉사 활동 시간 자료의 평균, 중앙값, 최빈값 각각 구하기(극단적인 값 72 포함)",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3(2)",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "(1)에서 구한 값 중 대푯값으로 적절한 값을 말하고 그 까닭을 설명하기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "도수가 표로 주어진 사격 점수 12회 자료의 중앙값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+(1)",
+   "level": "심화(+표시)",
+   "verb": "비교하시오",
+   "summary": "두 자료 A, B의 중앙값의 크기 비교하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2+(2)",
+   "level": "심화(+표시)",
+   "verb": "비교하시오",
+   "summary": "두 자료 A, B의 최빈값의 크기 비교하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "운동복 치수 20개 자료에서 적절한 대푯값 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "지진 발생 횟수 자료 나열",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "태어난 달 자료 나열(20개)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "봉사 활동 시간 자료 나열(15개)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "은서의 사격 점수와 횟수 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "자료 A, B 각 9개 값",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "운동복 치수 자료(20개)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "사격 과녁 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "장식",
+   "desc": "달력 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "지진 발생 횟수",
+  "태어난 달",
+  "봉사 활동 시간",
+  "사격 점수",
+  "운동복 치수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "왼쪽 열은 기본 문제 1~3, 오른쪽 열은 심화 문제 1+~3+. 새로 정의되는 용어는 없고 중앙값·최빈값·평균·대푯값을 사용하는 연습 쪽. 쪽 아래에 'Ⅵ. 통계'가 인쇄되어 있으나 소단원 번호·제목은 보이지 않음.",
+ "_page": 244,
+ "_usage": {
+  "in": 4819,
+  "out": 1502,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

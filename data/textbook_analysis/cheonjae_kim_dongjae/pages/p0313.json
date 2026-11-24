@@ -1,0 +1,32 @@
+{
+ "printedPage": "313",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "사진 및 인용 자료 출처"
+ },
+ "pageType": "부록",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "수학 내용이 없는 부록 쪽이다. 사진 자료 출처(게티이미지뱅크, 게티이미지코리아, 셔터스톡, 녹색제품정보시스템, 뉴스뱅크, 국가유산포털, 위키미디어 코먼스, 주소정보누리집)와 인용 자료 출처(24~209쪽의 논문·도서·웹사이트 목록)만 나열되어 있다. 단원 표시는 없어 chapter와 section은 빈 문자열로 두었다.",
+ "_page": 313,
+ "_usage": {
+  "in": 5935,
+  "out": 329,
+  "sec": 2.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,203 @@
+{
+ "printedPage": "308",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.6 통계 프로젝트 / 대단원 마무리(270쪽~272쪽)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "(상대도수의 총합)=1",
+   "plain": "상대도수를 모두 더하면 1이므로 나머지 계급의 상대도수를 1에서 빼서 구할 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(도수)=(전체 도수)\\times(상대도수)",
+   "plain": "전체 도수에 상대도수를 곱하면 그 계급의 도수가 된다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "최빈값이 변하지 않는 조건 등",
+   "plain": "변량이 하나 추가되어도 중앙값·최빈값이 변하지 않는 경우를 판단한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "01",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "최빈값이 6명이 되도록 x를 정하고 중앙값을 구함(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "04",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "도수분포표 해석에서 옳지 않은 것 고르기(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "상대도수로 회원 수를 구해 10번째로 적은 회원의 계급의 상대도수 구함(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "변량 추가 시 평균·중앙값·최빈값의 변화 판단(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "08",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "전체 학생 수 40명으로 방정식 3+5+2x+11+x=40을 세워 A, B를 구함(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "09",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "A반과 B반의 상대도수 분포 비교(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "10",
+   "level": "서술형",
+   "verb": "정하시오",
+   "summary": "도수가 가장 높은 계급의 계급값으로 떡볶이 가격을 정하는 예시 답(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "11",
+   "level": "서술형",
+   "verb": "선택하시오",
+   "summary": "중앙값과 최빈값 중 대푯값을 선택하고 이유를 설명, 규칙 정하기 예시 답(풀이)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "통계 프로젝트 1~4단계(문제, 조사 내용, 수집 방법, 정리, 해석)를 정리한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "나이대별 관광지 선호를 나타낸 도수분포다각형(경복궁, 남산 표시)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "외국인 관광객의 서울 관광지 선호",
+  "축구부 선수들의 키",
+  "봉사 활동 시간",
+  "영화 관람 편수",
+  "떡볶이 가격",
+  "수업 시간 자리에 앉아 있는 횟수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽. 왼쪽은 수학 돋보기(263쪽) 활동 답, 8.6 통계 프로젝트(264~269쪽) 예시 답안, 앞 문제 풀이 끝부분을 담고 있고, 오른쪽은 대단원 마무리(270~272쪽)의 O/X 답과 01~11번 정답 및 풀이를 담고 있다. 새로 정의되는 용어는 없고 모두 사용 단계이다. 쪽 위쪽 풀이는 이전 쪽에서 이어지는 부분이며 문항 번호가 보이지 않는다.",
+ "_page": 308,
+ "_profile": "full",
+ "_usage": {
+  "in": 6249,
+  "out": 1797,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

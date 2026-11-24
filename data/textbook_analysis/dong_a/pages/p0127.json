@@ -1,0 +1,160 @@
+{
+ "printedPage": "127",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.4 반비례와 그 그래프",
+  "area": "개념 설명(예제·문제)"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "$y=\\frac{a}{x}$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=\\frac{a}{x}\\ (a\\neq 0)$",
+   "meaning": "반비례 관계를 나타내는 식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=\\frac{18}{x}$",
+   "meaning": "물통 문제에서 x와 y 사이의 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "x\\text{가 }2,3,6\\text{배가 될 때 }y\\text{가 }\\frac{1}{2},\\frac{1}{3},\\frac{1}{6}\\text{배가 되면 반비례}",
+   "plain": "x가 몇 배가 될 때 y가 그 역수 배가 되면 x와 y는 반비례한다고 판단한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "x=1,2,3\\text{일 때 }y=\\frac{18}{1},\\frac{18}{2},\\frac{18}{3}\\Rightarrow y=\\frac{18}{x}",
+   "plain": "x의 값에 따른 y의 값에서 규칙을 찾아 관계를 식으로 나타낸다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 1",
+   "summary": "18 L 물통을 1분에 x L씩 채울 때 걸리는 시간 y분의 표를 완성하고 반비례 여부를 확인한 뒤 관계식 $y=\\frac{18}{x}$를 구한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "확인하시오",
+   "summary": "넓이 1 cm² 정사각형 20개로 가로 x cm, 세로 y cm 직사각형을 만들 때 표를 완성하고 x와 y가 반비례하는지 확인한다(x=1,2,4,5,10,20).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "x와 y 사이의 관계를 식으로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "300쪽 책에서 읽은 쪽수 x와 남은 쪽수 y의 관계를 식으로 나타내고 반비례 여부를 판단한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "젤리 90개를 x명이 똑같이 나눌 때 한 사람의 젤리 수 y의 관계를 식으로 나타내고 반비례 여부를 판단한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "일상생활에서 반비례 관계인 것을 찾아 설명한다.",
+   "competencyIcons": [
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "예제 1의 x(L/min), y(분) 값 표(빈칸 채우기)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "풀이의 완성된 표: x=1,2,3,6,9,18에 y=18,9,6,3,2,1",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1의 x(cm), y(cm) 표(빈칸 채우기)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "$y=\\frac{a}{x}\\ (a\\neq 0)$ 판을 든 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "물통에 물 채우기",
+  "정사각형으로 직사각형 만들기",
+  "책 읽기",
+  "젤리 나누어 먹기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "반비례의 정의는 이 쪽에 없고 앞쪽에서 도입된 것으로 보여 role을 '사용'으로 분류함. 쪽 오른쪽 '4단원' 표시와 하단 '4.4 반비례와 그 그래프'를 근거로 단원을 정함. 단원 목록 중 '좌표평면과 그래프'에 해당.",
+ "_page": 127,
+ "_profile": "full",
+ "_usage": {
+  "in": 4715,
+  "out": 1704,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

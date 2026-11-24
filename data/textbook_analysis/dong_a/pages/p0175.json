@@ -1,0 +1,72 @@
+{
+ "printedPage": "175",
+ "unit": {
+  "chapter": "기본 도형과 작도",
+  "section": "프로젝트: 놀이공원의 설계도를 작도해 보자",
+  "area": "프로젝트 평가"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "활동",
+   "verb": "작도해 보자",
+   "summary": "놀이공원의 설계도를 작도해 본다. 필수 시설 5개(매표소, 주차장, 회전목마, 범퍼카, 꽃밭)와 추가 시설 3개(⑥~⑧)를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "시설 이름을 적는 표로, 필수 시설 ①~⑤는 이름이 적혀 있고 추가 시설 ⑥~⑧은 빈칸이다.",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "프로젝트 평가표로, 세 문항마다 우수·보통·분발 표정 그림에 색칠한다.",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "놀이공원",
+  "매표소",
+  "주차장",
+  "회전목마",
+  "범퍼카",
+  "꽃밭"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "이미지가 시계 반대 방향으로 90도 회전되어 있다. 작도 활동을 위한 빈 공간이 넓고, 문제 번호 '1'은 활동 단계 번호로 보았다. 평가 문항은 ① ~ ⑤ 시설을 주어진 그림과 모양·크기가 같게 그렸는지, 작도로 다양한 도형을 그렸는지, 시설을 추가해 설계했는지 세 가지다. 5단원 표시가 있으나 대단원 목록에는 번호가 없어 '기본 도형과 작도'로 추정했다.",
+ "_page": 175,
+ "_profile": "full",
+ "_usage": {
+  "in": 4128,
+  "out": 725,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

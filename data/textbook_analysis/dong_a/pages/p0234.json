@@ -1,0 +1,235 @@
+{
+ "printedPage": "234",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "사각뿔대",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "단면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "옆넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부피",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$210^\\circ$",
+   "meaning": "부채꼴의 중심각 크기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "05",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "윗면 한 변 3cm, 아랫면 한 변 6cm, 옆면 높이 4cm인 사각뿔대(옆면 모두 합동)의 겉넓이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "06",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름 12cm, 중심각 210°인 부채꼴과 원으로 된 전개도로 만든 원뿔의 겉넓이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "07",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "회전축에 수직인 단면(반지름 3cm인 원)과 회전축을 포함한 단면(직사각형, 높이 8cm)이 주어진 회전체의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "08",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "한 모서리 6cm인 정육면체에서 밑면 반지름 2cm, 높이 6cm인 원기둥을 잘라 낸 입체도형의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "09",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "밑면 반지름 5cm인 원뿔을 점 O를 중심으로 2바퀴 굴려 제자리로 돌아올 때 원뿔의 옆넓이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "10",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "한 모서리 3cm인 정육면체에서 네 꼭짓점 A, C, F, H를 꼭짓점으로 하는 사면체의 부피",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "11",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "밑면 반지름 6cm, 물 높이 13cm인 원기둥 그릇에 반지름 3cm인 구 3개를 넣을 때 물의 높이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "사각뿔대 그림에 길이 3cm, 4cm, 6cm가 표시되어 있다.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반지름 12cm, 중심각 210°인 부채꼴과 원으로 된 원뿔의 전개도",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "회전체의 두 단면: 반지름 3cm인 원([그림 1])과 높이 8cm인 직사각형([그림 2])",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육면체에서 원기둥 모양을 파낸 입체도형(6cm, 2cm 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원뿔을 점 O를 중심으로 굴리는 그림(밑면 반지름 5cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "정육면체 ABCD-EFGH에서 꼭짓점 A, C, F, H를 이은 사면체",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "물이 담긴 원기둥 그릇(반지름 6cm, 물 높이 13cm)과 반지름 3cm인 쇠구슬 3개",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "물이 담긴 그릇에 쇠구슬 넣기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 마무리 쪽으로 소단원 번호는 없다. 09~11번은 '발전' 표시가 있는 문제로 보인다(발전 표시가 09번 위에만 있어 범위가 불확실). 문제 번호 옆 역량 아이콘은 보이지 않는다.",
+ "_page": 234,
+ "_profile": "full",
+ "_usage": {
+  "in": 4723,
+  "out": 1923,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

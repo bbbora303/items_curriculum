@@ -1,0 +1,180 @@
+{
+ "printedPage": "199",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "1. 평면도형의 성질 (다각형의 내각과 외각 관련 연습)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "정다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정이십각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "구하려는 각의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$180^\\circ\\times(n-2)$",
+   "meaning": "정n각형의 내각의 크기의 합",
+   "role": "사용"
+  },
+  {
+   "symbol": "$360^\\circ$",
+   "meaning": "다각형의 외각의 크기의 합",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "180^\\circ\\times(n-2)",
+   "plain": "n각형의 내각의 크기의 합은 180°×(n−2)이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "360^\\circ",
+   "plain": "다각형의 외각의 크기의 합은 항상 360°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "삼각형에서 한 내각 바깥쪽 외각 105°, 110°가 주어졌을 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "사각형에서 외각 120°와 내각 85°, 50° 등이 주어졌을 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "육각형에서 116°, 135°, 72°, 72°, 64°가 주어졌을 때 ∠x의 크기 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "정이십각형의 한 외각의 크기를 구하고 그 방법을 설명하기",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "한 외각의 크기가 40°인 정다각형의 이름 말하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "채워 설명을 완성해 보자",
+   "summary": "한 내각이 135°인 정다각형의 이름을 내각의 합(방법 1)과 외각의 합(방법 2)을 이용해 빈칸 채우며 알아보기",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "삼각형과 외각이 표시된 문제 1(1)의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "사각형과 외각이 표시된 문제 1(2)의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각의 크기가 표시된 육각형 문제 1+의 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "두 학생이 각각 방법 1, 방법 2를 설명하는 삽화와 빈칸 설명 상자",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입이 아닌 연습 쪽으로, 1+, 2+는 심화 표시가 있는 문항이다. 활동의 빈칸에는 정답이 인쇄되어 있지 않다.",
+ "_page": 199,
+ "_usage": {
+  "in": 4302,
+  "out": 1476,
+  "sec": 8.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

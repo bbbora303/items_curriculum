@@ -1,0 +1,108 @@
+{
+ "printedPage": "274",
+ "unit": {
+  "chapter": "",
+  "section": "직업 속의 수학",
+  "area": "2학기 말 활동"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "공개 열쇠 암호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [
+  {
+   "title": "예시: 미디어 콘텐츠 창작자",
+   "summary": "직업 카드 뉴스 예시로, 하는 일·준비 방법·필요한 수학 역량·미래 전망 네 항목으로 소개한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "2학기 말 활동",
+   "level": "활동",
+   "verb": "만들어 보자",
+   "summary": "관심 있는 직업을 골라 하는 일, 필요한 수학 역량, 인공 지능 시대의 미래 전망 등을 탐색하여 카드 뉴스를 만든다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "컴퓨터 보안 전문가가 보안 화면(자물쇠, 지문)을 보는 일러스트와 자물쇠·열쇠 사진",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "장식",
+   "desc": "상담 전문가와 내담자가 마주 앉은 일러스트와 원그래프·막대그래프가 있는 말풍선",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "미디어 콘텐츠 창작자가 영상을 촬영하는 일러스트(예시 카드 뉴스)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "예시 카드 뉴스의 4개 항목 카드(어떤 일을 할까? / 어떻게 준비할까? / 필요한 수학 역량은? / 미래 전망은?)",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "컴퓨터 보안 전문가",
+  "공개 열쇠 암호",
+  "상담 전문가",
+  "심리·적성 검사 결과",
+  "미디어 콘텐츠 창작자",
+  "영상 콘텐츠 플랫폼"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "2학기 말 활동 도입 쪽으로 새로 정의되는 수학 용어나 기호는 없다. 보안 전문가 소개에서 '큰 수의 소인수분해'가 언급되어 1단원 소인수분해와 연결된다. 상담 전문가 소개에서는 표와 그래프가 언급된다. 대단원 표시는 보이지 않아 chapter는 비워 두었다. 소단원은 활동 제목 '직업 속의 수학'으로 적었다.",
+ "_page": 274,
+ "_usage": {
+  "in": 4501,
+  "out": 1032,
+  "sec": 6.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

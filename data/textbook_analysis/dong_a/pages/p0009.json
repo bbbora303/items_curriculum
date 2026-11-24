@@ -1,0 +1,51 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "주황색 바탕에 흰 말풍선 모양과 보라·주황·빨강 색으로 꾸민 큰 숫자 1이 있다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "암호",
+  "개인 정보 보호"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "1.0 암호를 사용해 볼까요",
+   "1.1 소수와 합성수",
+   "1.2 소인수분해",
+   "1.3 최대공약수",
+   "1.4 최소공배수",
+   "프로젝트: 내 정보는 내가 지켜요"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 표지 쪽이다. 인쇄된 쪽 번호는 보이지 않는다. 단원 안내 문구는 '자연수의 특징을 알기 위해 자연수를 어떻게 표현하면 좋을까요?'이다. 배운 내용, 배울 내용(중2·중3 표시)은 이 쪽에 없다. 차례 항목은 이 단원의 내용으로 current에 옮겼다.",
+ "_page": 9,
+ "_profile": "full",
+ "_usage": {
+  "in": 4011,
+  "out": 460,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

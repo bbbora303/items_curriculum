@@ -1,0 +1,165 @@
+{
+ "printedPage": "198",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "다각형의 외각의 크기의 합",
+  "area": "개념 설명(생각 열기 + 설명 + 채워 넣기)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "다각형의 외각의 크기의 합",
+   "role": "정의",
+   "definition": "다각형의 각 꼭짓점에서 잡은 외각들의 크기를 모두 더한 값으로, 모양과 변의 개수에 관계없이 360°이다.",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "외각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "n각형",
+   "role": "사용",
+   "definition": "",
+   "notation": "n"
+  },
+  {
+   "term": "꼭짓점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "360^\\circ",
+   "meaning": "다각형의 외각의 크기의 합",
+   "role": "정의"
+  },
+  {
+   "symbol": "180^\\circ\\times(n-2)",
+   "meaning": "n각형의 내각의 크기의 합",
+   "role": "사용"
+  },
+  {
+   "symbol": "n",
+   "meaning": "다각형의 변 또는 꼭짓점의 개수",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(\\text{내각의 크기의 합})+(\\text{외각의 크기의 합})=180^\\circ\\times n",
+   "plain": "n각형은 꼭짓점이 n개이고 각 꼭짓점에서 내각과 외각의 합이 180°이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(\\text{외각의 크기의 합})=180^\\circ\\times n-180^\\circ\\times(n-2)=360^\\circ",
+   "plain": "전체 합에서 내각의 합을 빼면 외각의 합은 360°이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "\\text{다각형의 외각의 크기의 합은 }360^\\circ",
+   "plain": "다각형의 외각의 크기의 합은 모양과 변의 개수에 관계없이 360°로 일정하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "알지오매스에서 사각형과 오각형의 외각을 한 점에 모으는 과정을 보고 외각의 크기의 합을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "채우시오(빈칸)",
+   "summary": "육각형의 외각의 크기의 합을 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "알지오매스 화면에서 슬라이더 a를 0에서 1로 바꾸며 사각형과 오각형의 외각을 한 점에 모으는 과정을 보여 주는 6개의 화면",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "다각형의 한 꼭짓점에서 내각과 외각을 색으로 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "사진기 조리개가 열리고 닫히는 모양",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "활동",
+   "desc": "활동 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "사진기 조리개",
+  "알지오매스(공학 도구)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 이 쪽에서 보이지 않아 제목만 적음. 다각형의 내각의 크기의 합 180°×(n-2)는 앞에서 배운 것으로 전제하고 사용함. 이 쪽에는 역량 아이콘이 보이지 않음.",
+ "_page": 198,
+ "_usage": {
+  "in": 4546,
+  "out": 1436,
+  "sec": 9.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,241 @@
+{
+ "printedPage": "307",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.5 상대도수 (258쪽~261쪽), 해결해요 (262쪽)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형(그래프)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "상대도수는 전체에서 그 계급이 차지하는 비율이다",
+   "plain": "상대도수가 같다고 해서 도수가 같은 것은 아니다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "\\frac{11}{x}=0.22,\\ x=50",
+   "plain": "계급의 도수를 상대도수로 나누면 전체 도수를 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "",
+   "plain": "상대도수의 그래프가 오른쪽으로 치우쳐 있으면 상대적으로 값이 큰 쪽의 비율이 더 높다고 해석한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "",
+   "plain": "도수의 총합이 다른 두 집단은 도수가 아니라 상대도수로 비교한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "질문 예시 답",
+   "summary": "상대도수가 같아도 전체 도수가 다르면 도수는 같지 않다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "생각 넓히기 예시 답(뮤직비디오)",
+   "summary": "시청자 수는 A 국가가 많지만 시청 비율은 대한민국이 높으므로 상대도수 비교가 적절하다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "함께해요 3(4) 예시 답",
+   "summary": "A 학교의 그래프가 오른쪽으로 치우쳐 있어 A 학교 학생들이 웹툰을 상대적으로 더 많이 구독했다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "문제 2(3) 예시 답",
+   "summary": "1학년의 그래프가 오른쪽으로 치우쳐 있어 1학년이 책을 상대적으로 더 많이 읽었다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "생각 넓히기 예시 답(서울의 눈 일수)",
+   "summary": "2000년 이후 눈이 30일 이상 내린 날의 비율이 더 낮아 눈이 상대적으로 적게 내렸다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "B 학교의 웹툰 수 도수분포표에서 상대도수 표를 완성하고 (2) 28 %, (3) 40 %를 구한다(답).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 3",
+   "level": "활동",
+   "verb": "쓰시오",
+   "summary": "두 학교의 상대도수 그래프를 비교하는 답: (1) 6, 8, 2, 4 (2)(3) ○표 (4) A 학교",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 18 %, (2) 64명, (3) 1학년이 책을 더 많이 읽음(답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "해결해요 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "100 m 달리기 기록의 상대도수 표 (도수 합 40명)와 (2) 15 %",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "해결해요 2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) A=96, B=0.26, C=0.25, D=60 (2) 바람 마을",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "해결해요 3",
+   "level": "기본",
+   "verb": "판단",
+   "summary": "답: B반",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "해결해요 4",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "상대도수 0.22, 도수 11명으로 전체 선수 수 x=50을 구하고, 22 kg 이상 28 kg 미만 학생 수 25-(4+6+5+2+1)=7명을 구하는 서술형 풀이와 채점 기준",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "B 학교의 구독 중인 웹툰 수 도수·상대도수 분포표(합계 200명, 상대도수 합 1)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A 학교의 웹툰 수 히스토그램과 도수분포다각형(상대도수)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A 학교와 B 학교의 상대도수 도수분포다각형을 겹친 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "2000년 이전과 이후 서울의 눈 일수 상대도수 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "100 m 달리기 기록의 학생 수와 상대도수 표(합계 40명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 채점 기준표(배점 비율 50 %, 50 %)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "웹툰 구독 수",
+  "뮤직비디오 시청",
+  "서울의 눈 일수",
+  "100 m 달리기 기록",
+  "축구부 선수의 키",
+  "악력"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 개념이 새로 도입되지 않고 앞 쪽 개념(상대도수)을 사용한다. 쪽 맨 위는 앞 문제의 서술형 풀이 끝부분이다. 일부 표의 수치는 이미지 기준으로 옮겼다.",
+ "_page": 307,
+ "_profile": "full",
+ "_usage": {
+  "in": 5491,
+  "out": 2295,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

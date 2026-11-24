@@ -1,0 +1,174 @@
+{
+ "printedPage": "193",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.5 원과 부채꼴",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "정의",
+   "definition": "원 O에서 두 반지름 OA, OB와 호 AB로 이루어진 도형",
+   "notation": "부채꼴 AOB"
+  },
+  {
+   "term": "중심각",
+   "role": "정의",
+   "definition": "부채꼴 AOB에서 두 반지름이 이루는 각 ∠AOB로, 호 AB에 대한 중심각이라고도 한다",
+   "notation": "$\\angle AOB$"
+  },
+  {
+   "term": "호 AB에 대한 중심각",
+   "role": "정의",
+   "definition": "호 AB의 양 끝점과 원의 중심 O를 이은 두 반지름이 이루는 각 ∠AOB",
+   "notation": "$\\angle AOB$"
+  },
+  {
+   "term": "호 AB에 대한 호",
+   "role": "정의",
+   "definition": "∠AOB에 대응하는 호 AB를 ∠AOB에 대한 호라고 한다",
+   "notation": ""
+  },
+  {
+   "term": "활꼴",
+   "role": "정의",
+   "definition": "원 O에서 현 CD와 호 CD로 이루어진 도형",
+   "notation": ""
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "할선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "부채꼴 AOB의 중심각",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "부채꼴 AOB: 두 반지름 OA, OB와 호 AB로 이루어진 도형",
+   "plain": "원의 두 반지름과 그 사이 호로 둘러싸인 도형이 부채꼴이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "중심각 $\\angle AOB$",
+   "plain": "부채꼴에서 두 반지름이 이루는 각이 중심각이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "활꼴: 현 CD와 호 CD로 이루어진 도형",
+   "plain": "현과 그 현에 대응하는 호로 둘러싸인 도형이 활꼴이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "원 O 위의 네 점 A, B, C, D에 대해 (1) 호 AB, (2) 현 CD, (3) 할선 BC를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "문제 2",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "원 O에 (1) 부채꼴 AOE, (2) 호 BC에 대한 중심각, (3) 현 DE와 호 DE로 이루어진 활꼴을 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "생각 넓히기",
+   "level": "활동",
+   "verb": "설명하시오",
+   "summary": "부채꼴이면서 활꼴인 도형을 원 O에 그려 보고 그렇게 그린 이유를 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원 O 위에 점 A, B, C, D가 찍힌 원(문제 1)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "원 O에서 부채꼴 AOB, 중심각, 활꼴 CD를 색으로 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 O 위에 점 A, B, C, D, E가 찍힌 원(문제 2)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "도형을 그려 넣는 빈 원 O와 설명을 쓰는 줄 공책",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "단원 도입 표시는 없고 오른쪽 탭에 6단원 표시만 보인다. 소단원 제목 '6.5 원과 부채꼴'은 쪽 아래에서 확인했다. 호, 현, 할선은 앞 쪽에서 이미 도입된 것으로 보이며 이 쪽에서는 사용만 한다.",
+ "_page": 193,
+ "_profile": "full",
+ "_usage": {
+  "in": 4356,
+  "out": 1609,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

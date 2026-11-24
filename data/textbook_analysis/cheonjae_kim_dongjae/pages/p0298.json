@@ -1,0 +1,180 @@
+{
+ "printedPage": "298",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "03 삼각형의 합동 조건",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "삼각형의 합동 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SSS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "ASA 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\equiv$",
+   "meaning": "두 도형이 합동임",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\triangle ABC$",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overline{AB}$",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\angle B$",
+   "meaning": "각 B",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [
+  {
+   "title": "정답 해설: 와글와글 수학 활동 (1) 예시",
+   "summary": "세 변의 길이가 주어진 삼각형 작도(BC와 같은 EF를 긋고, 두 원의 교점 D를 잡아 연결)",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "정답 해설: 와글와글 수학 활동 (2) 예시",
+   "summary": "두 변의 길이와 그 끼인각이 주어진 삼각형 작도(∠E 작도 후 원으로 D, F를 잡음)",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "정답 해설: 와글와글 수학 활동 (3) 예시",
+   "summary": "한 변의 길이와 양 끝각이 주어진 삼각형 작도(EF 작도 후 ∠E, ∠F 작도해 교점 D)",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  },
+  {
+   "title": "생각 열기 ① 예시",
+   "summary": "표에서 AB, BC, CA에 ○ 표시(세 변의 길이가 주어진 경우)",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "생각 열기 ② 예시",
+   "summary": "세 변의 길이가 같은 삼각형을 작도하려 한다는 예시 문장",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1(배우고 익히기)",
+   "level": "기본",
+   "verb": "합동 표시",
+   "summary": "합동인 삼각형 쌍과 합동 조건 답: △ABC≡△QRP(SSS), △DEF≡△LJK(SAS), △GHI≡△OMN(ASA)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "합동 표시",
+   "summary": "답: △ABD≡△CBD(SSS 합동)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "답",
+   "summary": "답: EF=8 cm, ∠B=40°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "답",
+   "summary": "답: 80 m",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "앞 소단원 작도 문제 1+, 2, 2+의 해설용 작도 과정 그림(번호 ❶❷❸ 순서 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "와글와글 수학 활동 (1)~(3)의 삼각형 작도 순서를 보여 주는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "생각 열기의 AB, BC, CA, ∠A, ∠B, ∠C 항목 표와 ○ 표시",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로, 앞 소단원(삼각형의 작도)의 답과 03 삼각형의 합동 조건 소단원의 생각 열기·배우고 익히기 답이 섞여 있음. 새로 정의되는 용어는 없고 작도 순서만 보여 줌. '와글와글 수학 활동'은 해설 형태이며 문제 본문은 보이지 않음. 2+의 단위 m 외 풀이는 보이지 않음.",
+ "_page": 298,
+ "_usage": {
+  "in": 4935,
+  "out": 1639,
+  "sec": 10.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

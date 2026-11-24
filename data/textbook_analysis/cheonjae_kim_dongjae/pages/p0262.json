@@ -1,0 +1,104 @@
+{
+ "printedPage": "262",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "공학 도구 활용(통계 프로그램 사용법)과 자료의 해석"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "상대도수의 분포를 나타낸 도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최빈값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "통계 그래프에서 도수분포다각형 선택 → 설정에서 [모아보기] ON",
+   "plain": "두 자료의 상대도수 도수분포다각형 모양 그래프를 한 화면에 함께 볼 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "자료 입력 → 통계값 → 자료 탭 선택 → 평균·중앙값·최빈값",
+   "plain": "통계 프로그램에서 자료의 대푯값을 구하는 순서이다.",
+   "_raw": "방법",
+   "statementType": "도구 활용"
+  },
+  {
+   "latex": "2022년 8월은 2002년 8월보다 최고 기온이 높다.",
+   "plain": "두 상대도수 그래프를 비교해 자료의 분포를 해석한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "2002년과 2022년 8월 최고 기온의 상대도수 도수분포다각형 모양 그래프 두 개를 한 좌표평면에 겹쳐 그린 화면",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "통계 프로그램의 자료 입력 화면으로, 2002년 자료 표와 평균·중앙값·최빈값이 표시되어 있다.",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  }
+ ],
+ "contexts": [
+  "8월 최고 기온",
+  "2002년과 2022년 기온 비교"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "공학 도구 안내 쪽으로 6번(상대도수 분포 그래프), 7번(대푯값) 항목과 '자료의 해석' 설명이 있다. 새 용어를 정의하지 않고 앞서 배운 개념을 사용한다. 화면 속 표의 작은 숫자와 최댓값·최솟값 칸은 읽기 어렵거나 비어 있다. 중단원 번호는 보이지 않는다.",
+ "_page": 262,
+ "_usage": {
+  "in": 4705,
+  "out": 949,
+  "sec": 9.5,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

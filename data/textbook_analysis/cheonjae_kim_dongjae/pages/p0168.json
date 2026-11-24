@@ -1,0 +1,274 @@
+{
+ "printedPage": "168",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "직선 AB",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overleftrightarrow{AB}$"
+  },
+  {
+   "term": "반직선 AB",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overrightarrow{AB}$"
+  },
+  {
+   "term": "선분 AB",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직이등분선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "위치 관계(직선과 직선, 직선과 평면)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}=\\overleftrightarrow{BA}$",
+   "meaning": "직선 AB와 직선 BA는 같다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overrightarrow{AB}\\neq\\overrightarrow{BA}$",
+   "meaning": "반직선 AB와 반직선 BA는 다르다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$",
+   "meaning": "각 a",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l /\\!/ m$",
+   "meaning": "직선 l과 m은 평행하다",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$\\angle a=\\angle b$ (맞꼭지각)",
+   "plain": "맞꼭지각의 크기는 서로 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l /\\!/ m \\Rightarrow \\angle a=\\angle b$ (동위각)",
+   "plain": "두 직선이 평행하면 동위각의 크기가 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a=\\angle b \\Rightarrow l /\\!/ m$ (동위각)",
+   "plain": "동위각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l /\\!/ m \\Rightarrow \\angle a=\\angle c$ (엇각)",
+   "plain": "두 직선이 평행하면 엇각의 크기가 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a=\\angle c \\Rightarrow l /\\!/ m$ (엇각)",
+   "plain": "엇각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "평면에서 두 직선: 일치한다, 한 점에서 만난다, 평행하다",
+   "plain": "평면에서 두 직선의 위치 관계는 세 가지이다.",
+   "_raw": "정리",
+   "statementType": "성질"
+  },
+  {
+   "latex": "공간에서 두 직선: 일치, 한 점에서 만남, 평행, 꼬인 위치",
+   "plain": "공간에서 두 직선의 위치 관계는 네 가지이다.",
+   "_raw": "정리",
+   "statementType": "성질"
+  },
+  {
+   "latex": "직선과 평면: 포함된다, 한 점에서 만난다, 평행하다",
+   "plain": "직선과 평면의 위치 관계는 세 가지이다.",
+   "_raw": "정리",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "원 위의 네 점에서 두 점을 지나는 직선 x개, 반직선 y개, 선분 z개일 때 x+y+z의 값",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "M이 AB의 중점, N이 MB의 중점이고 AN=21 cm일 때 AB의 길이",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "두 직선이 만나 생기는 맞꼭지각 (x+30)°, y°, 75°에서 x, y의 값",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "평행사변형 ABCD에서 점 A와 BC 사이의 거리, 점 B와 CD 사이의 거리(17 cm, 22 cm, 16 cm 주어짐)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 만들기",
+   "level": "활동",
+   "verb": "풀어 보자",
+   "summary": "2번 문제에서 밑줄 친 수를 바꾸어 문제를 만들고 친구와 바꾸어 푼다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "직선·반직선·선분 AB, 맞꼭지각, 수직이등분선과 수선의 발 요약 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "평면과 공간에서 직선과 직선, 직선과 평면의 위치 관계를 나타낸 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "평행선과 한 직선이 만나 생기는 동위각과 엇각 그림",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 위의 네 점 A, B, C, D",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "선분 AB 위의 점 M, N과 AN=21 cm 표시",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "두 직선이 교차하며 x°+30°, y°, 75°가 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평행사변형 ABCD와 수선, 길이 17 cm, 22 cm, 16 cm 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "중단원 마무리 쪽으로, 빈칸 채우기 정리 부분의 빈칸은 선분 AB=선분 BA, ∠a=∠b, 점 C와 AB 사이의 거리=CH 등을 채우는 형태로 보이며 정답은 제시되지 않음. 소단원 번호는 보이지 않아 비워 둠.",
+ "_page": 168,
+ "_usage": {
+  "in": 4385,
+  "out": 2425,
+  "sec": 13.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

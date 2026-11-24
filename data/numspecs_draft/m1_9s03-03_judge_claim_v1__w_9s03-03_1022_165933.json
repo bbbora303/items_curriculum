@@ -1,0 +1,71 @@
+{
+  "id": "m1_9s03-03_judge_claim_v1__w_9s03-03_1022_165933",
+  "description": "세 변의 길이로 삼각형을 작도하고, 가장 긴 변이 나머지 두 변의 합 이상인 반례로 학생의 주장을 판단하는 수치 후보",
+  "variables": {
+    "a": {
+      "range": [
+        3,
+        10
+      ],
+      "unit": "cm",
+      "meaning": "작도할 삼각형의 가장 짧은 변의 길이"
+    },
+    "b": {
+      "range": [
+        3,
+        10
+      ],
+      "unit": "cm",
+      "meaning": "작도할 삼각형의 중간 길이 변의 길이"
+    },
+    "c": {
+      "range": [
+        3,
+        10
+      ],
+      "unit": "cm",
+      "meaning": "작도할 삼각형의 가장 긴 변의 길이"
+    },
+    "g": {
+      "values": [
+        0,
+        1,
+        2
+      ],
+      "unit": "cm",
+      "meaning": "반례에서 가장 긴 변이 나머지 두 변의 합보다 더 긴 정도"
+    }
+  },
+  "derived": {
+    "longest": "max(a, b, c)",
+    "otherSum": "a + b + c - longest",
+    "margin": "otherSum - longest",
+    "perimeter": "a + b + c",
+    "d": "a + b + g",
+    "badOtherSum": "a + b",
+    "badGap": "d - badOtherSum"
+  },
+  "constraints": [
+    "a < b",
+    "b < c",
+    "c < a + b",
+    "margin >= 1",
+    "d <= 20",
+    "badGap == g",
+    "d > c"
+  ],
+  "difficulty": {
+    "easy": "margin >= 3 and g == 0",
+    "medium": "margin == 2 and g in (0, 1)",
+    "hard": "margin == 1 and g in (1, 2)"
+  },
+  "standards": [
+    "9수03-03"
+  ],
+  "taskPatterns": [
+    "judge_claim"
+  ],
+  "status": "provisional",
+  "plainSummary": "세 변의 길이와 반례에서 가장 긴 변이 더 긴 정도를 바꿉니다. 세 길이는 모두 달라 실제로 작도되도록 합니다. 쉬운 쪽은 길이 여유가 크고 반례가 일직선이 되며, 어려운 쪽은 여유가 작고 반례의 원이 만나지 않습니다.",
+  "baseId": "m1_9s03-03_judge_claim_v1"
+}

@@ -1,0 +1,158 @@
+{
+ "printedPage": "135",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "좌표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$, $y$",
+   "meaning": "지구에서의 무게(N), 달에서의 무게(N)를 나타내는 변수",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "12(1)",
+   "level": "서술형",
+   "verb": "나타내시오",
+   "summary": "지구에서의 무게가 달에서의 무게의 6배일 때 $x$와 $y$ 사이의 관계를 식으로 나타내기",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "12(2)",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "지구에서 무게가 540 N인 우주 비행사의 달에서의 무게 구하기",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "13(1)",
+   "level": "서술형",
+   "verb": "말하시오",
+   "summary": "이동 거리 그래프를 보고 세 사람이 공원에 도착한 순서 말하기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "13(2)",
+   "level": "서술형",
+   "verb": "설명하시오",
+   "summary": "그래프를 보고 세 사람이 공원에 도착하기까지의 상황을 추측하여 설명하기",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "달 위에 앉아 있는 아이의 일러스트(12번 문제 삽화)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "시간에 따른 거리(km) 그래프에 건우, 이안, 현서 세 사람의 이동 거리가 꺾은선으로 표시되어 있고 5 km에 점선이 있음",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "문제를 더 풀어 볼 수 있는 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "지구와 달에서의 무게",
+  "자전거를 타고 공원에 가기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "연결",
+  "추론"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "순서쌍과 좌표, 그래프의 유용성과 편리함",
+   "problemNos": []
+  },
+  {
+   "concept": "다양한 상황을 일상 언어, 표, 그래프, 식으로 나타내고 해석하려는 도전적 태도",
+   "problemNos": []
+  },
+  {
+   "concept": "정비례·반비례 관계를 표, 식, 그래프로 나타내고 합리적으로 의사 결정하려는 태도",
+   "problemNos": []
+  }
+ ],
+ "notes": "문제 번호 옆에 '서·논술형' 표시가 있음. 자기평가는 문항 번호 없이 개념별 진행 막대(0~100%)로 되어 있고 기억에 남는 것을 적는 칸과 붙임딱지 안내가 있음. 그래프에서 세 사람의 선이 어느 쪽이 먼저 도착하는지는 이미지가 작아 정확히 판독하기 어려워 도착 순서는 적지 않음.",
+ "_page": 135,
+ "_profile": "full",
+ "_usage": {
+  "in": 4572,
+  "out": 1307,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

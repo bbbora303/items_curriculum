@@ -1,0 +1,207 @@
+{
+ "printedPage": "161",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "",
+  "area": "배우고 익히기, 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "직육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "모서리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점과 직선, 직선과 직선, 직선과 평면 사이의 위치 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "한 점에서 만난다",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "높이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overline{BF}$",
+   "meaning": "모서리 BF (교과서에는 선분 기호 없이 '모서리 BF'로 표기)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$P$",
+   "meaning": "평면 P",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "직육면체에서 (1) 모서리 BF를 포함하는 면, (2) 모서리 FG와 한 점에서 만나는 면, (3) 모서리 AB와 평행한 면을 모두 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "오각기둥에서 (1) 모서리 CH와 수직인 면, (2) 면 ABCDE와 수직인 모서리를 모두 찾기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "표시하시오",
+   "summary": "평면 P 그림(탁자)에 (1) 평면에 포함되는 직선, (2) 한 점에서 만나는 직선, (3) 평행한 직선을 표시하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "나타내시오",
+   "summary": "밑면이 정사각형인 사각뿔의 꼭짓점에서 밑면에 수선의 발을 내려 높이를 나타내기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "표현하고 찍어 보자 / 선정해 보자",
+   "summary": "모둠이 점과 직선, 직선과 직선, 직선과 평면의 위치 관계를 사진과 다른 모습으로 표현해 촬영하고, 전시 후 창의적인 사진을 선정하기",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~H가 표시된 직육면체",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "꼭짓점 A~J가 표시된 오각기둥",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "평면 P가 표시된 탁자 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "밑면이 정사각형인 사각뿔",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "점과 직선(팔 끝의 공), 직선과 직선(두 학생이 팔을 교차), 직선과 평면(매트 위에 서 있는 학생)의 예시 사진 3장",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "탁자",
+  "학생 모둠 사진 촬영"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "'배우고 익히기' 문제 1, 2는 기본, 1+, 2+는 오른쪽 열의 심화 문항으로 보임. 소단원 번호·제목은 이 쪽에 보이지 않아 비웠다. 위치 관계 용어는 앞쪽에서 이미 도입되었다고 보고 '사용'으로 분류함.",
+ "_page": 161,
+ "_usage": {
+  "in": 4465,
+  "out": 1647,
+  "sec": 10.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,181 @@
+{
+ "printedPage": "286",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "구하려는 값을 나타내는 미지수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$4x-5=3x+2$",
+   "meaning": "일차식끼리 등호로 연결한 일차방정식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "방정식을 세운다 → 푼다 → 해가 문제의 뜻에 맞는지 확인한다",
+   "plain": "일차방정식으로 문제를 푸는 순서(디오판토스 문제 풀이에 나타남)",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "역량 쑥쑥 수학 더하기 2번 풀이(디오판토스의 일생)",
+   "summary": "디오판토스가 일생을 마친 나이를 x세로 두고 방정식 $\\frac{x}{6}+\\frac{x}{12}+\\frac{x}{7}+5+\\frac{x}{2}+4=x$를 세워 풀면 x=84이고, 확인하여 문제의 뜻에 맞음을 보인다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  },
+  {
+   "title": "3번 예시 답(나의 일차식: 4x-5)",
+   "summary": "친구들이 만든 일차식과 4x-5를 등호로 이은 일차방정식의 해를 확인하고 채점하는 표",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "대단원 마무리 17번 풀이",
+   "summary": "x의 계수가 -3인 일차식 -3x+b에서 x=1, x=3일 때의 값의 차 m-n=6",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "92~93쪽 생각 열기 ❶❷",
+   "level": "기본",
+   "verb": "",
+   "summary": "텃밭의 가로 길이, 2{x+(x+8)}=64 (답)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "94~95쪽 수학 더하기 1~10",
+   "level": "기본",
+   "verb": "",
+   "summary": "일차방정식의 뜻, 등식의 성질, 방정식의 풀이, 활용 문제의 답 (답만 제시)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7 문제 만들기",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "사탕을 3개씩 주면 9개 남고 4개씩 주면 3개 부족할 때 친구 수 구하기 (답 12명)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "98쪽 미술과 수학 사이",
+   "level": "활동",
+   "verb": "",
+   "summary": "그림 격자에 x의 값들을 시계 방향으로 나열한 답",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "99~101쪽 대단원 마무리 1~17",
+   "level": "기본",
+   "verb": "",
+   "summary": "문자 사용, 식의 계산, 일차방정식 풀이와 활용의 답 및 17번 풀이",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "계산"
+  },
+  {
+   "label": "96~97쪽 중단원 마무리",
+   "level": "기본",
+   "verb": "",
+   "summary": "(왼쪽부터) 항등식 / c / 일차",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "기타",
+   "problemType": "기타"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "디오판토스의 일생을 출생·결혼·아들 탄생·아들 사망·사망 시점으로 나눈 시간선",
+   "_raw": "수직선",
+   "figureType": "수직선"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "친구 이름, 일차식, 확인 일차방정식, 해, 채점, 점수로 구성된 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "격자로 나뉜 산수화 그림(미술과 수학 사이)",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "디오판토스의 일생",
+  "사탕 나누기",
+  "미술 작품(산수화)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽이라 새로 정의되는 용어는 없고 모든 용어는 '사용'으로 분류했다. 문제 번호는 코너별로 묶어 요약했다. 미술과 수학 사이의 사진 내용은 세부를 읽기 어려웠다.",
+ "_page": 286,
+ "_usage": {
+  "in": 5398,
+  "out": 1717,
+  "sec": 10.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

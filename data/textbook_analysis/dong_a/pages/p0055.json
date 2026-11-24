@@ -1,0 +1,154 @@
+{
+ "printedPage": "55",
+ "unit": {
+  "chapter": "정수와 유리수",
+  "section": "2.5 정수와 유리수의 곱셈",
+  "area": "단원 도입 / 생각1"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "(곱셈의) 교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "(곱셈의) 결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "분배법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 정수와 정수의 곱셈",
+   "role": "정의",
+   "definition": "양의 정수에 정수를 곱할 때, 곱하는 수가 1씩 작아지면 곱이 3씩 작아지는 규칙으로 계산 원리를 알아본다.",
+   "notation": "$(+3)\\times(+2)=+6$"
+  },
+  {
+   "term": "절댓값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "양의 부호, 음의 부호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$+,\\,-$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\times$",
+   "meaning": "곱셈",
+   "role": "사용"
+  },
+  {
+   "symbol": "$+,\\,-$",
+   "meaning": "양의 부호, 음의 부호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$(+)\\times(+)\\rightarrow +,\\quad (+)\\times(-)\\rightarrow -$",
+   "plain": "양의 정수와 양의 정수의 곱은 절댓값의 곱에 +를, 양의 정수와 음의 정수의 곱은 절댓값의 곱에 −를 붙인다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$(+3)\\times(+2)=(+3)+(+3)=+6$",
+   "plain": "(+3)×(+2)는 +3을 2번 더한 것과 같다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "생각1 ❶ (양의 정수)×(정수)",
+   "summary": "(+3)에 +2, +1, 0, −1, −2를 차례로 곱하면 곱이 +6, +3, 0, −3, −6으로 3씩 작아지는 규칙을 관찰한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "확인해요 (1)",
+   "level": "기본",
+   "verb": "계산하시오(풀이 형태가 제시됨)",
+   "summary": "$(+5)\\times(+6)=+(5\\times6)=+30$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "확인해요 (2)",
+   "level": "기본",
+   "verb": "계산하시오(풀이 형태가 제시됨)",
+   "summary": "$(+4)\\times(-7)=-(4\\times7)=-28$",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "책을 읽는 아이와 고양이, 강아지가 있는 도서 공간 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(+3)에 +2부터 −2까지 곱한 결과를 나열하고, 곱하는 수가 1씩 작아지면 곱이 3씩 작아짐을 화살표로 보여 줌",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "(+)×(+)→+, (+)×(−)→− 부호 규칙 요약 상자",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "생각해요 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "3×(자연수)의 곱의 변화 (3×4=3+3+3+3 등)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "정수와 유리수의 곱셈의 원리를 이해하고 계산하기",
+   "곱셈의 교환법칙, 결합법칙, 분배법칙"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽이지만 '생각1' 활동과 개념 설명을 함께 담고 있다. 학습 요소의 교환·결합·분배법칙은 이 쪽에서 정의되지 않고 이후 쪽에서 다룰 용어로 보인다. 이 쪽에서는 (양의 정수)×(정수)만 다루며 (음의 정수)×(정수)는 나오지 않는다.",
+ "_page": 55,
+ "_profile": "full",
+ "_usage": {
+  "in": 4792,
+  "out": 1520,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

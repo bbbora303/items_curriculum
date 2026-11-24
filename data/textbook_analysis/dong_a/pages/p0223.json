@@ -1,0 +1,219 @@
+{
+ "printedPage": "223",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.3 기둥과 뿔의 겉넓이",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "겉넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원기둥",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "사각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육면체",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "전개도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "회전축",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$l$",
+   "meaning": "회전축으로 쓰이는 직선",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "전개도로 만든 (1) 삼각기둥, (2) 원뿔의 겉넓이를 구한다(밑면 3, 4, 5 cm 직각삼각형, 높이 7 cm / 모선 8 cm, 밑면 반지름 3 cm).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 반지름 4 cm, 높이 5 cm인 원기둥, (2) 밑면이 한 변 8 cm인 정사각형이고 옆면 높이 10 cm인 사각뿔(옆면은 모두 합동)의 겉넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "3 cm, 6 cm, 10 cm인 직육면체와 겉넓이가 같은 정육면체의 한 면의 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "밑면의 반지름 4 cm, 겉넓이 $80\\pi$ cm²인 원기둥의 높이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "가로 5 cm, 세로 8 cm인 직사각형을 한 변을 포함한 직선 l을 축으로 1회전 시킬 때 생기는 입체도형의 겉넓이를 구한다.",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "원기둥과 원뿔을 붙인 게르 모양 입체도형(원뿔 모선 5 m, 원기둥 높이 2 m, 반지름 4 m)의 겉넓이를 구한다.",
+   "competencyIcons": [
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "삼각기둥 전개도와 원뿔 전개도",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥과 사각뿔 입체도형",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직육면체와 정육면체 그림",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반지름이 표시된 원기둥",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "회전축 l과 직사각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥과 원뿔을 붙인 게르 모양 입체도형",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "장식",
+   "desc": "몽골 게르 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "몽골의 이동식 가옥 게르"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 4의 원기둥에는 4 cm가 표시되어 있고(반지름으로 추정), 문제 1(2)·6의 일부 길이 표기는 그림이 작아 정확하지 않을 수 있음. 문제 1에는 우수/보통/분발 색칠 자기평가 표시, 6번은 '도전' 문제. 7.2+7.3 연계 표시는 5번에 있음. 부록 1 붙임딱지 안내가 있음.",
+ "_page": 223,
+ "_profile": "full",
+ "_usage": {
+  "in": 4523,
+  "out": 1740,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

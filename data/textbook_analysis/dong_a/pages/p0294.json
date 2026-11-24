@@ -1,0 +1,157 @@
+{
+ "printedPage": "294",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "5.6 삼각형의 합동 (166쪽~168쪽 정답) / 단원 마무리 (171쪽~173쪽 정답)",
+  "area": "정답 및 풀이"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "SSS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "SAS 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "ASA 합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응변",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대응각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "끼인각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정삼각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정육각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼬인 위치",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\triangle ABC\\equiv\\triangle FDE$",
+   "meaning": "두 삼각형이 합동",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AB}$",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle A$",
+   "meaning": "각 A",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "SSS 합동: 대응하는 세 변의 길이가 각각 같다.",
+   "plain": "세 변의 길이가 각각 같으면 두 삼각형은 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "SAS 합동: 두 변의 길이와 그 끼인각의 크기가 각각 같다.",
+   "plain": "두 변과 그 끼인각이 각각 같으면 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "ASA 합동: 한 변의 길이와 그 양 끝 각의 크기가 각각 같다.",
+   "plain": "한 변과 그 양 끝 각이 각각 같으면 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$\\angle a=100^\\circ\\times\\frac{2}{5}=40^\\circ$",
+   "plain": "합을 비로 나누어 각의 크기를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "수학 놀이터의 보물 지도 위에 점 A~F와 선분이 그려져 있다.",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "단원마무리 08번 풀이에서 평행한 두 직선 l, m과 보조선으로 엇각을 보이는 그림.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "서술형 6번의 채점 기준과 배점 비율 표(50%, 50%).",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "보물 지도"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽이라 새로 도입되는 개념은 없고 앞서 배운 삼각형 합동 조건(SSS, SAS, ASA)을 사용한다. 5.6 삼각형의 합동의 생각해요·문제·함께해요·생각 넓히기·수학 집 짓기와 해결해요(169쪽) 정답, 수학 놀이터(170쪽) 그림, 단원마무리(171~173쪽) 정답과 풀이가 함께 있다. 단원마무리 1~6번은 ○/×, 01~13번은 객관식·단답식 정답이다. 이 쪽의 학년 판별은 중1 평면도형의 성질 범위로 보았다.",
+ "_page": 294,
+ "_profile": "full",
+ "_usage": {
+  "in": 5800,
+  "out": 1339,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,153 @@
+{
+ "printedPage": "276",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "01 소인수분해 / 02 최대공약수 / 03 최소공배수",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "소수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합성수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최대공약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최소공배수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$2^3\\times 3$",
+   "meaning": "거듭제곱을 이용한 소인수분해 표현",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$8=2\\times2\\times2,\\ 12=2\\times2\\times3$ 에서 공통인 $2\\times2=4$",
+   "plain": "소인수분해에서 공통으로 들어 있는 수의 곱이 최대공약수이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$2\\times2\\times2\\times3=24$",
+   "plain": "공통인 수와 공통이 아닌 수를 모두 곱하면 최소공배수이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예시(최대공약수)",
+   "summary": "8과 12의 최대공약수는 공통인 $2\\times2=4$이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "예시(2⁺)",
+   "summary": "소인수분해를 이용한 최대공약수 문제의 풀이로 4, 9가 제시됨.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "예시(소인수)",
+   "summary": "$2^3$, $5^2$은 소수가 아니므로 소인수가 될 수 없고 $2^3\\times5^2$의 소인수는 2, 5이다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "예시(최소공배수)",
+   "summary": "8과 12의 최소공배수는 $2\\times2\\times2\\times3=24$이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "와글와글 수학 활동 정답: 소수와 약수를 점으로 이어 만든 텐트 그림(점 옆에 수가 적힘)",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "캠핑 텐트"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "약수",
+   "최대공약수",
+   "배수"
+  ],
+  "current": [
+   "소인수분해"
+  ],
+  "later": [
+   {
+    "item": "양수, 음수",
+    "grade": "중2"
+   },
+   {
+    "item": "정수, 유리수",
+    "grade": "중2"
+   }
+  ]
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽으로 새 개념 도입은 없다. 대단원 I '수와 연산'의 '나의 학습 준비 상태'(10쪽) 정답: 1 (1) 약수 (2) 1,2,4,5,10,20; 2 (1) 1,2,3,6 (2) 6 (3) 30,60,90,… (4) 30; 3 <,>,>,<; 4 2, 5/3, 6, 15. '이 단원의 학습 목표' 항목은 1 소인수분해, 3 양수·음수, 4 정수·유리수이며 2번 항목은 보이지 않는다. gradeLinks.later에는 이 목록을 옮겼으나 '중2' 표시는 이미지에 없어 학년 구분은 불확실하다. 오른쪽 열의 일부 정답(예: 1⁺, 2⁺ 항목)은 이미지가 작아 판독이 불확실하다.",
+ "_page": 276,
+ "_usage": {
+  "in": 5186,
+  "out": 1360,
+  "sec": 9.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

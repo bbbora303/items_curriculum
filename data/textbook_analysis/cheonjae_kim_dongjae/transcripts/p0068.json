@@ -1,0 +1,163 @@
+{
+ "printedPage": "68",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "기타",
+   "label": "문자를 사용한 식을 어떻게 간단히 나타낼까?",
+   "corner": "소단원 제목",
+   "icons": [],
+   "level": "",
+   "text": "문자를 사용한 식을 어떻게 간단히 나타낼까?\n문자를 사용한 식은 다음과 같이 곱셈 기호 $\\times$를 생략하여 간단히 나타낼 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "곱셈 기호의 생략",
+   "corner": "곱셈 기호의 생략",
+   "icons": [],
+   "level": "",
+   "text": "곱셈 기호의 생략",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "수와 문자의 곱에서는 곱셈 기호를 생략하고 수를 문자 앞에 쓴다.\n$5\\times a=5a,\\ a\\times 3=3a,\\ x\\times(-4)=-4x$"
+    },
+    {
+     "label": "❷",
+     "text": "문자와 문자의 곱에서는 곱셈 기호를 생략하고 보통 알파벳순으로 쓴다.\n$x\\times y=xy,\\ b\\times a\\times c=abc$"
+    },
+    {
+     "label": "❸",
+     "text": "같은 문자의 곱은 거듭제곱으로 나타낸다.\n$a\\times a\\times a=a^3,\\ x\\times x\\times y\\times y\\times y=x^2y^3$"
+    },
+    {
+     "label": "❹",
+     "text": "괄호가 있는 식과 수의 곱에서는 곱셈 기호를 생략하고 수를 괄호 앞에 쓴다.\n$(a+6)\\times 2=2(a+6)$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "• $1\\times 2=2,\\ (-1)\\times 2=-2$와 같이 1 또는 $-1$과 문자의 곱에서도 1을 생략하고 $1\\times a=a,\\ (-1)\\times a=-a$와 같이 나타낸다.\n• $0.1\\times a$는 $0.a$로 나타내지 않고 $0.1a$로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (곱셈 기호의 생략)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "채워 넣기",
+   "subItems": [
+    {
+     "label": "❶",
+     "text": "$y\\times 4\\times x=\\square\\,xy$"
+    },
+    {
+     "label": "❷",
+     "text": "$a\\times(-5)+3\\times b=\\square+3b$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "빈칸 □에 알맞은 것을 채우기"
+  },
+  {
+   "kind": "기타",
+   "label": "나눗셈 기호의 생략 도입",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "한편 문자를 사용한 식 $a\\div 2$는 나눗셈 기호 $\\div$를 생략하여 $a\\div 2=a\\times\\frac{1}{2}=\\frac{a}{2}$로 나타낼 수 있다.\n문자를 사용한 식은 다음과 같이 나눗셈 기호 $\\div$를 생략하여 간단히 나타낼 수 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "나눗셈 기호의 생략",
+   "corner": "나눗셈 기호의 생략",
+   "icons": [],
+   "level": "",
+   "text": "나눗셈 기호의 생략\n나눗셈 기호를 생략하고 분수의 꼴로 나타낸다.\n$a\\div b=a\\times\\frac{1}{b}=\\frac{a}{b}$ (단, $b\\neq 0$)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "참고",
+   "label": "참고",
+   "corner": "참고",
+   "icons": [],
+   "level": "",
+   "text": "• '$b$는 0이 아니다.'를 기호 $\\neq$를 사용하여 $b\\neq 0$으로 나타낸다.\n• $a\\div 7$은 $\\frac{a}{7}$ 또는 $\\frac{1}{7}a$, $(a+b)\\div 2$는 $\\frac{a+b}{2}$ 또는 $\\frac{1}{2}(a+b)$로 나타낸다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "채워 넣기 (나눗셈 기호의 생략)",
+   "corner": "채워 넣기",
+   "icons": [],
+   "level": "기본",
+   "text": "채워 넣기\n$x\\div 6+y\\div 7=x\\times\\frac{1}{\\square}+y\\times\\frac{1}{\\square}=\\frac{x}{6}+\\square$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "빈칸 □ 세 곳에 알맞은 것을 채우기"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "곱셈 기호의 생략 상자 옆 그림",
+   "labels": "파란색 곱셈(×) 기호 모양 아이콘",
+   "desc": "장식용 그림"
+  },
+  {
+   "kind": "기타",
+   "caption": "나눗셈 기호의 생략 상자 옆 그림",
+   "labels": "파란색 나눗셈(÷) 기호 모양 아이콘",
+   "desc": "장식용 그림"
+  }
+ ],
+ "incomplete": "",
+ "_page": 68,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 4195,
+  "out": 2529,
+  "sec": 16.2,
+  "stop": "end_turn"
+ }
+}

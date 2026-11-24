@@ -1,0 +1,315 @@
+{
+ "printedPage": "302",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "03 원과 부채꼴 / 04 부채꼴의 호의 길이와 넓이",
+  "area": "정답과 해설"
+ },
+ "pageType": "기타",
+ "terms": [
+  {
+   "term": "활꼴",
+   "role": "정의",
+   "definition": "한 원에서 호와 그 양 끝을 이은 현으로 이루어진 도형이다.",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴",
+   "role": "정의",
+   "definition": "한 원에서 호와 그 양 끝을 원의 중심과 이은 두 반지름으로 이루어진 도형이다.",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\angle AOB$"
+  },
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\widehat{AD}$"
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\overline{AB}$"
+  },
+  {
+   "term": "대각선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정폭도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주율",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\pi$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle AOB$",
+   "meaning": "각 AOB (중심각)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\widehat{AD}$",
+   "meaning": "호 AD",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{AC}$",
+   "meaning": "선분 AC (현)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\triangle OAB \\equiv \\triangle OBC$",
+   "meaning": "삼각형의 합동",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "\\frac{n(n-3)}{2}",
+   "plain": "n각형의 대각선의 개수",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "\\overline{AC}<\\overline{AB}+\\overline{BC}=2\\overline{AB}",
+   "plain": "한 원에서 현의 길이는 중심각의 크기에 정비례하지 않는다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "180^\\circ",
+   "plain": "활꼴이면서 부채꼴이 되는 경우는 활꼴의 현이 원의 지름일 때이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "와글와글 수학 활동",
+   "summary": "빨간색·초록색 펜으로 번갈아 선을 그어 한 색의 삼각형을 먼저 만들지 않는 사람이 이기는 게임이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "와글와글 수학 활동 (현의 길이와 중심각)",
+   "summary": "∠AOB=∠BOC이면 AC<2AB이므로 현의 길이는 중심각에 정비례하지 않음을 설명한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "와글와글 수학 이야기",
+   "summary": "기타 픽이나 동전에서 정폭도형을 찾아볼 수 있다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "와글와글 수학 이야기 (원주율 외우기)",
+   "summary": "원주율을 소수점 아래 더 많이 외운 사람이 이기는 놀이를 한다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1 (대각선)",
+   "level": "기본",
+   "verb": "",
+   "summary": "n각형의 대각선 개수와 관련된 문제의 답이 제시됨: 27, 90",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2 (대각선)",
+   "level": "기본",
+   "verb": "",
+   "summary": "답: 십일각형, 44",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "1 (부채꼴)",
+   "level": "기본",
+   "verb": "",
+   "summary": "원 위의 호·현·부채꼴·활꼴을 그림에서 찾는 문제의 답이 제시됨",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2 (부채꼴)",
+   "level": "기본",
+   "verb": "",
+   "summary": "답: (1) ∠AOB (2) 호 AD (3) ∠COD",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2+ (부채꼴)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "활꼴과 부채꼴의 정의 및 둘 다 될 때(현이 지름)를 설명하는 해설과 180°",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1 (호의 길이와 넓이 04-1)",
+   "level": "기본",
+   "verb": "",
+   "summary": "답: 120",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "1+ (04-1)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "답: x=14, y=80",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2 (04-1)",
+   "level": "기본",
+   "verb": "",
+   "summary": "답: (1) 28 (2) 50",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2+ (04-1)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "답: 90 cm²",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "1 (04-2)",
+   "level": "기본",
+   "verb": "",
+   "summary": "부채꼴의 호의 길이와 넓이 답: (1) 6π cm, 27π cm² (2) 10π cm, 30π cm²",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+ (04-2)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "답: 108°",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2 (04-2)",
+   "level": "기본",
+   "verb": "",
+   "summary": "답: (1) 6π (2) 3π",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  },
+  {
+   "label": "2+ (04-2)",
+   "level": "심화(+표시)",
+   "verb": "",
+   "summary": "답: 3 cm",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원 O 위에 점 A~F와 현·호·부채꼴 (1)(2)(3)이 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 O에서 점 P,Q,R,S와 부채꼴 (1)과 활꼴 (2)가 색칠된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "지름으로 나뉜 반원 모양 활꼴(부채꼴)을 색칠한 원 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "삼각형 모양의 기타 픽(Guitar)",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "기타 픽",
+  "동전",
+  "원주율 외우기 놀이"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답과 해설 쪽이라 문제 발문은 보이지 않고 답과 해설만 있어 문제 내용은 답에서 유추한 것이다. 소단원 03 '부채꼴이란 무엇일까?'(202~203쪽)와 04 '부채꼴의 호의 길이와 넓이'(204~207쪽)의 해설이 함께 있다. 쪽 위쪽에 이전 소단원 해설(다각형의 대각선) 일부가 있다.",
+ "_page": 302,
+ "_usage": {
+  "in": 5176,
+  "out": 2740,
+  "sec": 15.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

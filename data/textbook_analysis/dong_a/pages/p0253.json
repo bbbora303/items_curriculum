@@ -1,0 +1,166 @@
+{
+ "printedPage": "253",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.3 도수분포표",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$a$ 이상 $b$ 미만",
+   "meaning": "계급의 범위 표기(경계값 a는 포함, b는 제외)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "완성하시오",
+   "summary": "달걀 무게 20개 자료를 계급의 크기 5 g으로 하여 도수분포표(40 g 이상 45 g 미만부터)를 완성한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "합계가 30인 일교차 도수분포표에서 빈칸 A의 값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2-(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "일교차가 6 ℃인 날이 속하는 계급의 도수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2-(3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "도수가 가장 큰 계급을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "모두 고르시오",
+   "summary": "제자리멀리뛰기 도수분포표에 대해 계급의 개수, 도수, 5번째로 좋은 기록의 계급, 가장 좋은 기록에 관한 보기 ㄱ~ㄹ 중 옳은 것을 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "4",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "칭찬 스티커 도수분포표에서 10장 미만인 학생이 전체의 30 %임을 이용해 15장 이상 20장 미만인 계급의 도수를 구한다.",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "달걀 무게 원자료 20개와 빈 도수분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "11월 일교차 도수분포표(A는 빈칸)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "제자리멀리뛰기 기록 도수분포표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "멀리뛰기를 하는 학생 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "칭찬 스티커 수 도수분포표(일부 빈칸)",
+   "_raw": "표",
+   "figureType": "표"
+  }
+ ],
+ "contexts": [
+  "달걀 무게",
+  "일교차",
+  "제자리멀리뛰기 기록",
+  "칭찬 스티커"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "각 문항 옆의 우수/보통/분발 얼굴 자기평가 표시가 있음. 상단 안내: 8.3을 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙임. QR 코드로 추가 문제 제공. 4번에는 '도전'과 '문제해결' 표시가 있음.",
+ "_page": 253,
+ "_profile": "full",
+ "_usage": {
+  "in": 5002,
+  "out": 1368,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

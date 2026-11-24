@@ -1,0 +1,201 @@
+{
+ "printedPage": "96",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "",
+  "area": "중단원 마무리(단원 정리 + 기본 문제)"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "항등식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "등식의 성질",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x=2$",
+   "meaning": "방정식 $x+5=7$의 해(x=2일 때 참)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$c\\neq 0$",
+   "meaning": "등식의 양변을 나눌 때 c는 0이 아니어야 함",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$a=b$이면 $a+c=b+c$",
+   "plain": "등식의 양변에 같은 수를 더해도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $a-c=b-c$",
+   "plain": "등식의 양변에서 같은 수를 빼도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $ac=bc$",
+   "plain": "등식의 양변에 같은 수를 곱해도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$a=b$이면 $\\frac{a}{c}=\\frac{b}{c}$ (단, $c\\neq 0$)",
+   "plain": "등식의 양변을 0이 아닌 같은 수로 나누어도 등식이 성립한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "이항하기 → 양변 정리하기 → $x=(\\text{수})$ 꼴로 나타내기",
+   "plain": "일차방정식은 이항하고 정리하여 푼다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "미지수 정하기 → 방정식 세우기 → 방정식 풀기 → 확인하기",
+   "plain": "일차방정식을 활용하는 문제의 풀이 순서",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "일차방정식 풀이 예",
+   "summary": "$6x-1=4x+5$를 이항하고 정리하여 $x=3$을 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "일차방정식의 활용 예",
+   "summary": "둘레 32 cm, 세로가 가로보다 4 cm 긴 직사각형에서 $2\\{x+(x+4)\\}=32$로 가로 6 cm를 구한다.",
+   "solutionShown": true,
+   "_raw": "식세우기",
+   "exampleType": "식세우기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "보기의 방정식 중 [ ] 안의 수가 해인 것을 찾는다. (㉠ 4x+5=-3 [-1], ㉡ 5x=-8+x [-2])",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "하시오",
+   "summary": "등식의 성질을 이용한 것으로 옳은 것에 ○, 옳지 않은 것에 ×표 한다. ((1) a-7=b-7이면 a=b, (2) x/3=y/5이면 3x=5y)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "이항하시오",
+   "summary": "등식에서 밑줄 친 항을 이항한다. ((1) 2x-4=6, (2) 6x+5=3x-10)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "문장을 등식으로 나타내어 일차방정식인 것을 찾는다. (㉠ 한 변이 x cm인 정사각형의 넓이 49 cm², ㉡ 공책 40권을 7명에게 x권씩 나누어 5권 남음)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "천칭 그림으로 등식의 성질(같은 무게를 더하거나 빼도, 2배로 늘리거나 반으로 줄여도 평형)을 나타냄",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "x+6=8에서 +6을 이항하여 x=8-6이 되는 과정을 나타낸 메모",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "일차방정식의 풀이 과정과 활용 풀이 순서를 정리한 개념 지도",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "장식",
+   "desc": "X 캐릭터와 말풍선 문제 상황",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "직사각형의 둘레와 가로·세로 길이",
+  "공책 나누어 주기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "쪽 위 표시는 '2 일차방정식'이고 하단에 'Ⅱ. 문자와 식'이 인쇄되어 있다. 단원 정리의 일부 빈칸(항등식 설명, 등식의 성질 ②의 빈칸, 일차방정식 정의 빈칸)은 채워지지 않은 상태다. 글자층의 문제 번호 순서는 이미지와 다르며 이미지를 따랐다.",
+ "_page": 96,
+ "_usage": {
+  "in": 4432,
+  "out": 1988,
+  "sec": 12.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

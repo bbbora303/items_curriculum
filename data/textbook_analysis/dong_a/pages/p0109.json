@@ -1,0 +1,87 @@
+{
+ "printedPage": "109",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "꺾은선그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$^\\circ\\mathrm{C}$",
+   "meaning": "섭씨온도(기온 단위)",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "어느 날의 기온을 나타낸 꺾은선그래프에서 가장 낮은 기온을 읽어 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "갈라진 땅과 빙산 사진이 걸린 전시관 장면에 관람객이 앉아 있는 삽화.",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "시각(2~14시)에 따른 기온(18~21 °C)을 점과 선분으로 나타낸 꺾은선그래프.",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "도입 영상 QR 코드.",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "기후 변화",
+  "지구 온난화",
+  "기온",
+  "미술 작품 「선택할 시간」",
+  "카드 뉴스"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등 | 꺾은선그래프"
+  ],
+  "current": [
+   "변화나 상태를 한눈에 알아볼 수 있도록 나타내는 방법"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로 소단원 번호와 제목은 보이지 않는다. 쪽 아래에는 '4.0 우리의 선택, 지구를 변화시켜요'와 쪽 번호 109가 인쇄되어 있다. 4단원 표시가 있고 목록상 4단원은 '좌표평면과 그래프'이다. 오른쪽에 '학습 계획 세우기' 쓰기란이 있다. 그래프 점의 정확한 값은 읽는 값(가장 낮은 기온 약 18 °C)이며 문제 풀이는 제시되지 않았다. '배운 내용/배울 내용' 표는 이 쪽에 없고 초등 연계 문제 1개만 있다.",
+ "_page": 109,
+ "_profile": "full",
+ "_usage": {
+  "in": 4363,
+  "out": 839,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

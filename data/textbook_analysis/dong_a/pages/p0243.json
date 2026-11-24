@@ -1,0 +1,179 @@
+{
+ "printedPage": "243",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "8.1 대푯값 / 생각2 최빈값은 무엇인가요?",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "최빈값",
+   "role": "정의",
+   "definition": "자료에서 가장 많이 나타나는 값을 대푯값으로 사용할 때, 그 값을 최빈값이라 한다.",
+   "notation": ""
+  },
+  {
+   "term": "중앙값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평균",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "최빈값: 자료에서 가장 많이 나타나는 값",
+   "plain": "가장 자주 나타나는 값이 최빈값이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "최빈값은 두 개 이상일 수도 있다",
+   "plain": "평균, 중앙값과 달리 최빈값은 자료에 따라 하나로 정해지지 않을 수 있다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "변량의 개수가 홀수이면 가운데 값, 짝수이면 가운데 두 값의 평균",
+   "plain": "중앙값을 구하는 방법(복습)이다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "최빈값은 숫자로 나타낼 수 없는 자료에도 쓸 수 있다",
+   "plain": "가장 좋아하는 음식처럼 수가 아닌 자료의 대푯값으로 쓴다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (중앙값) ⑴",
+   "summary": "자료 3, 17, 19, 20, 21은 변량이 홀수 개이므로 중앙값은 19이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "확인해요 (중앙값) ⑵",
+   "summary": "자료 5, 6, 6, 7, 9, 9, 10, 27은 변량이 짝수 개이므로 중앙값은 $\\frac{7+9}{2}=8$이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "확인해요 (최빈값) ⑴",
+   "summary": "자료 2, 3, 3, 3, 3, 6의 최빈값은 3이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  },
+  {
+   "title": "확인해요 (최빈값) ⑵",
+   "summary": "자료 1, 3, 3, 6, 6, 7의 최빈값은 3과 6이다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "단체 줄넘기 기록 8개(6, 13, 41, 8, 2, 11, 9, 3)의 중앙값을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "함께해요 1",
+   "level": "활동",
+   "verb": "표시해 보자",
+   "summary": "자료 22, 47, 35, 52, 50, 50, 20, 52, 56, 52, 68에서 여러 번 나타나는 값을 모두 표시한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "함께해요 2",
+   "level": "활동",
+   "verb": "빈칸 채우기",
+   "summary": "가장 많이 나타나는 값을 빈칸에 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "단체 줄넘기 기록 8개를 나열한 표(단위: 회)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "단체 줄넘기를 하는 학생들의 삽화",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "활동",
+   "desc": "함께해요의 자료 11개를 나열한 표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "통그라미 자료 창과 변수 창의 화면 캡처",
+   "_raw": "그림",
+   "figureType": "공학도구 화면"
+  }
+ ],
+ "contexts": [
+  "단체 줄넘기 기록",
+  "가장 좋아하는 음식",
+  "눈 일수 자료(통그라미 입력)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "왼쪽은 8.1 대푯값의 '생각2 최빈값' 본문이고, 오른쪽은 부록 3 '통그라미에 자료를 입력해요'(정보처리 활동 안내)로 두 성격이 섞여 있다. 개념 설명이 가장 큰 비중이라 pageType을 개념설명으로 했다. 부록 3에는 통계 소프트웨어 사용법이 들어 있고 244, 248, 252, 256, 261쪽의 정보처리 문제와 연결된다. 학년 연계 표시는 보이지 않는다. 최(最)·빈(頻) 한자 뜻풀이가 주석으로 있다.",
+ "_page": 243,
+ "_profile": "full",
+ "_usage": {
+  "in": 4694,
+  "out": 1775,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

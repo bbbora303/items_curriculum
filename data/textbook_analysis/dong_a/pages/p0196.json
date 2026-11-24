@@ -1,0 +1,226 @@
+{
+ "printedPage": "196",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "호",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\\\overset{\\\\frown}{AB}$"
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\\\angle AOB$"
+  },
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "현",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수직",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\\\perp$"
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": "$/\\\\!/$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\overset{\\\\frown}{AB}$",
+   "meaning": "호 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\angle AOB$",
+   "meaning": "각 AOB (중심각)",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\perp$",
+   "meaning": "수직",
+   "role": "사용"
+  },
+  {
+   "symbol": "$/\\\\!/$",
+   "meaning": "평행",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\\\overline{AB}$",
+   "meaning": "선분 AB의 길이",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "원 O에서 (1) ∠AOB에 대한 호, (2) ∠COD에 대한 호를 기호로 나타내고 (3) 부채꼴 AOD의 중심각을 나타낸다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "표현하기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "(1) 중심각 160°, 40°와 호의 길이 24 cm로 x cm를 구한다 (2) 중심각 150°, 30°와 부채꼴 넓이 2 cm²로 x cm²를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "원 O에서 AC⊥BD이고 AB=4 cm일 때 사각형 ABCD의 둘레의 길이를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반원 O에서 ∠BOC=40°, 호 BC=6 cm일 때 호 AC의 길이를 구한다",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "AB가 지름, OC∥BD, ∠AOC=45°, 부채꼴 AOC의 넓이 15 cm²일 때 부채꼴 BOD의 넓이를 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "원 O에서 호 AB : 호 ACB = 1 : 5이고 OA=3 cm일 때 현 AB의 길이를 구한다",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "원 O와 지름 BD, 반지름 OA, OC가 그려진 그림(1번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원에 중심각과 호의 길이가 표시된 그림 두 개(2번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원에 수직인 두 지름과 사각형 ABCD가 그려진 그림(3번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반원 O에 ∠BOC=40°와 호 BC=6 cm가 표시된 그림(4번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 O에 부채꼴 AOC와 BOD가 색칠된 그림(5번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원 O에 반지름 OA=3 cm와 현 AB가 그려진 그림(6번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "추론"
+ ],
+ "selfAssessment": [
+  {
+   "concept": "6.5 (부채꼴의 호의 길이와 넓이 등)",
+   "problemNos": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ]
+  }
+ ],
+ "notes": "'해결해요' 코너로 단원 중간 점검 쪽이다. 소단원 번호는 쪽에 직접 표시되지 않았다. 5번에 5.4와 6.5 표시가 있어 두 소단원을 연결한 문제이다. 각 문항에 우수/보통/분발 자기평가 얼굴 아이콘이 있다. 상단에 '6.5를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요' 안내와 QR 코드가 있다.",
+ "_page": 196,
+ "_profile": "full",
+ "_usage": {
+  "in": 4592,
+  "out": 1889,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

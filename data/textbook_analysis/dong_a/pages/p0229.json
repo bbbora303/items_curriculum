@@ -1,0 +1,152 @@
+{
+ "printedPage": "229",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "7.5 구의 겉넓이와 부피",
+  "area": "단원 도입 및 개념 설명(생각해요, 생각 1, 확인해요, 문제)"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "구의 겉넓이",
+   "role": "정의",
+   "definition": "구의 겉면의 넓이로, 반지름의 길이가 같은 원의 넓이의 4배임이 알려져 있다.",
+   "notation": "4\\pi r^2"
+  },
+  {
+   "term": "반구",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "r",
+   "meaning": "구의 반지름의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\pi",
+   "meaning": "원주율",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\mathrm{cm}^2",
+   "meaning": "넓이의 단위",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "구의 겉면으로 구와 반지름이 같은 원 4개를 채울 수 있다",
+   "plain": "활동을 통해 구의 겉넓이가 같은 반지름인 원 4개의 넓이와 같다고 추측한다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(구의 겉넓이)=4\\pi r^2",
+   "plain": "반지름의 길이가 r인 구의 겉넓이는 4πr²이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요",
+   "summary": "반지름이 5 cm인 구의 겉넓이를 $4\\pi\\times5^2=100\\pi(\\mathrm{cm}^2)$로 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름의 길이가 4 cm인 구의 겉넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "반지름의 길이가 3 cm인 반구의 겉넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "생각해요",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "한 개의 구의 겉면으로 몇 개의 원을 채울 수 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "구를 반으로 자르고 잘게 잘라 구와 반지름이 같은 원 4개를 채우는 과정을 만화 형식으로 보여 준다.",
+   "_raw": "그림",
+   "figureType": "삽화"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반지름 4 cm인 구와 반지름 3 cm인 반구의 입체 그림.",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "활동",
+   "desc": "영상 자료로 연결되는 QR 코드.",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "구(공)를 잘라 원을 채우는 활동",
+  "영상 촬영"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "구의 겉넓이를 구할 수 있다.",
+   "구의 부피를 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 7.5의 첫 쪽으로 학습 목표와 '생각해요' 도입 활동이 함께 있다. 대단원은 목록의 '입체도형의 성질'(7단원 표시)로 판단했다. 구의 부피는 이 쪽에서 다루지 않고 학습 목표에만 나온다.",
+ "_page": 229,
+ "_profile": "full",
+ "_usage": {
+  "in": 4438,
+  "out": 1340,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

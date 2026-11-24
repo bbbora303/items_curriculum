@@ -1,0 +1,185 @@
+{
+ "printedPage": "113",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "x",
+   "meaning": "시간(초) 등 변하는 양",
+   "role": "사용"
+  },
+  {
+   "symbol": "y",
+   "meaning": "남은 음료수의 양, 높이, 거리 등 x에 따라 변하는 양",
+   "role": "사용"
+  },
+  {
+   "symbol": "O",
+   "meaning": "원점",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "음료수를 마신 시간과 남은 양의 관계 그래프에서 5초일 때 남은 음료수의 양을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "그래프에서 음료수를 마시지 않은 시간(그래프가 수평인 구간, 5초~12초)을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "연결하시오",
+   "summary": "두 그래프(번지 점프의 높이, 자전거 바퀴 위 한 점의 높이)를 알맞은 상황과 연결한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "1번 그래프를 보고 시간 x초와 남은 음료수의 양 y mL 사이의 관계를 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "달린 시간 x초와 출발점으로부터의 거리 y m의 그래프에서 알 수 있는 사실을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "와글와글 수학 활동 (1)",
+   "level": "활동",
+   "verb": "비교해 보자",
+   "summary": "<그림 1>에서 작은 소리와 큰 소리의 파동 그래프의 특징을 비교한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "와글와글 수학 활동 (2)",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "<그림 2>에서 시간에 따른 목소리의 변화를 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "시간 x초와 남은 음료수의 양 y mL의 꺾은선 그래프(300에서 200으로 감소, 수평 구간, 다시 감소)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "번지 점프와 자전거 바퀴 상황에 대응하는 두 곡선 그래프(반복되는 호, 점점 줄어드는 파동)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "달린 시간과 출발점으로부터 거리의 지그재그 그래프(0~20 사이 오르내림)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "실로폰 작은 소리·큰 소리의 파동 그래프(세기-시간)를 나타낸 <그림 1>",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "사람 목소리의 파동 그래프(세기-시간)를 나타낸 <그림 2>",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "실로폰 사진과 확성기를 든 학생 사진",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "음료수 마시기",
+  "번지 점프",
+  "자전거 바퀴",
+  "달리기",
+  "소리의 파동(실로폰, 목소리)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 비워 둠. 그래프의 읽기 값(5초 때 음료수 양 등)은 이미지의 눈금으로 확인 가능하나 정답은 적지 않음. 1+, 2+ 표시는 문제 번호에 붙은 + 표시를 심화로 해석함.",
+ "_page": 113,
+ "_usage": {
+  "in": 4702,
+  "out": 1663,
+  "sec": 10.2,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

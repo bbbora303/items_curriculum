@@ -1,0 +1,148 @@
+{
+ "printedPage": "260",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "자료의 정리",
+  "area": "공학 도구 활용(통계 프로그램)"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "줄기와 잎 그림",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대푯값",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급의 개수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "20\\text{이상}\\sim 23\\text{미만}",
+   "meaning": "계급 표기(도수분포표 화면)",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "줄기와 잎 그림 선택 → 설정에서 [정렬하기] ON",
+   "plain": "정렬하기를 ON으로 하면 정렬된 줄기와 잎 그림을 볼 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "도수분포표 선택 → 설정에서 [계급 설정]",
+   "plain": "계급의 시작값, 크기, 개수를 정하면 도수분포표를 볼 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "계급 설정 예시",
+   "summary": "계급의 시작값 20, 크기 3, 개수 7로 정하여 2002년과 2022년 자료의 도수분포표를 만든다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "활동 예시"
+  }
+ ],
+ "problems": [],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "통계 프로그램의 줄기와 잎 그림 화면(2002년·2022년 두 자료를 줄기 21~37에 대해 비교)",
+   "_raw": "기타",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "활동",
+   "desc": "계급 설정 창과 도수분포표 화면(계급 20~41, 도수 합계 각 31)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "컴퓨터를 함께 보는 두 학생과 모니터 일러스트",
+   "_raw": "사진",
+   "figureType": "사진"
+  }
+ ],
+ "contexts": [
+  "통계 프로그램",
+  "2002년과 2022년 두 자료 비교"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "줄기와 잎 그림",
+   "도수분포표",
+   "히스토그램",
+   "도수분포다각형",
+   "상대도수"
+  ],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 후 공학 도구(통계 프로그램) 사용법 안내 쪽. 쪽 아래 'Ⅵ. 통계'는 대단원 '자료의 정리와 해석'으로 보았다. 화면 속 작은 숫자는 글자층 기준으로 확인했다. 소단원 번호는 보이지 않아 '자료의 정리'로 적었다.",
+ "_page": 260,
+ "_usage": {
+  "in": 4770,
+  "out": 1125,
+  "sec": 7.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

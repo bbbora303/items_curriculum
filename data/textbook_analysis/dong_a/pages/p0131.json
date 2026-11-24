@@ -1,0 +1,163 @@
+{
+ "printedPage": "131",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "4.4 반비례와 그 그래프",
+  "area": "해결해요"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반비례 관계의 그래프(쌍곡선)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$y=\\frac{a}{x}$",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "$y=ax$",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1(1)",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "넓이가 12 cm²인 삼각형의 밑변 x, 높이 y 표를 완성하고 x와 y가 반비례하는지 말한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1(2)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "x와 y 사이의 관계를 식으로 나타낸다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "보기의 6개 식에서 정비례하는 것과 반비례하는 것을 각각 찾는다 (4.3+4.4 통합)",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "찾으시오",
+   "summary": "세 상황에서 x와 y 사이의 관계를 식으로 나타내고 반비례하는 것을 모두 찾는다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "식세우기",
+   "problemType": "식세우기"
+  },
+  {
+   "label": "4",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "좌표평면 위에 y=2/x, y=-3/x의 그래프를 그린다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "5",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "주어진 두 반비례 그래프에서 a, b의 값을 각각 구한다",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "6",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "y=-6/x의 그래프가 두 점 (1, a), (b, -3)을 지날 때 a+b의 값을 구하고 풀이 과정을 쓴다",
+   "competencyIcons": [
+    "문제해결"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "x(cm)와 y(cm)의 값을 채우는 표 (x=1,2,3,4,6,8,12,24, y=24 하나만 제시)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "반비례 그래프를 그리기 위한 빈 좌표평면(눈금 -6~6)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "두 반비례 그래프 y=a/x, y=b/x가 점선으로 표시된 점 (1,1), (-2,... ), 3 등과 함께 그려진 그림",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  }
+ ],
+ "contexts": [
+  "삼각형의 넓이",
+  "책 쌓기 높이",
+  "아이스크림 가격",
+  "영어 단어 암기 기간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "자기 평가 표정 아이콘(우수/보통/분발)이 각 문제에 있음. 상단에 '4.4를 잘 익혔다면 부록 1의 붙임딱지를 8쪽에 붙여요' 안내와 QR코드 있음. 5번 그래프의 눈금 값(3, 1, -2, 1)은 이미지상 정확한 위치 해석이 불확실함.",
+ "_page": 131,
+ "_profile": "full",
+ "_usage": {
+  "in": 4746,
+  "out": 1443,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

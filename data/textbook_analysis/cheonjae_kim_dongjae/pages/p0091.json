@@ -1,0 +1,153 @@
+{
+ "printedPage": "91",
+ "unit": {
+  "chapter": "일차방정식",
+  "section": "2. 일차방정식",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "이항",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수가 소수인 일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계수가 분수인 일차방정식",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$x$",
+   "meaning": "미지수",
+   "role": "사용"
+  },
+  {
+   "symbol": "$=$",
+   "meaning": "등호",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "양변에 10, 100, 1000, ...과 같이 적당한 수를 곱한다",
+   "plain": "소수 계수를 정수로 만들기 위해 양변에 10의 거듭제곱을 곱하는 방법(지유의 말)",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "1.85x와 -0.8을 각각 이항한다",
+   "plain": "문자항과 상수항을 이항하여 푸는 방법(태오의 말)",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "푸시오",
+   "summary": "괄호가 있는 일차방정식 4개를 푼다(분배법칙과 이항 이용)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "2(x-2)=-6을 양변을 2로 나누어 푸는 방법에서 ㉠ 과정을 설명한다",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "푸시오",
+   "summary": "계수가 소수 또는 분수인 일차방정식 4개를 푼다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "푸시오",
+   "summary": "분수 계수와 소수가 섞인 방정식 $\\frac{2}{3}x-\\frac{x-1}{4}=1.5$ 를 푼다",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "와글와글 수학 활동",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "2.25x-0.8=1.85x-0.5를 태오(이항)와 지유(10, 100 곱하기)의 방법으로 풀어 보고 어느 방법이 더 나은지 말한다",
+   "competencyIcons": [
+    "문제해결",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "2(x-2)=-6에서 x-2=-3, x=-1로 이어지는 풀이 과정 상자(㉠ 표시)",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "태오와 지유 캐릭터와 각자의 풀이를 쓰는 빈 종이, 말풍선 힌트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "문제해결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호는 쪽 아래 '2. 일차방정식'만 보여 section에 그대로 적음. 2번 (4)와 2+번의 분수식은 글자층이 깨져 있어 이미지를 따름. 1+, 2+의 '+'는 심화 표시로 판단함.",
+ "_page": 91,
+ "_usage": {
+  "in": 4414,
+  "out": 1309,
+  "sec": 8.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,161 @@
+{
+ "printedPage": "15",
+ "unit": {
+  "chapter": "소인수분해",
+  "section": "소인수분해를 이용하여 자연수의 약수를 모두 구하기",
+  "area": "배우고 익히기"
+ },
+ "pageType": "예제",
+ "terms": [
+  {
+   "term": "소인수분해",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "약수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "소인수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "거듭제곱",
+   "role": "사용",
+   "definition": "",
+   "notation": "$7^2$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$7^2$",
+   "meaning": "7을 두 번 곱한 거듭제곱",
+   "role": "사용"
+  },
+  {
+   "symbol": "$2^3\\times5^2$",
+   "meaning": "거듭제곱으로 나타낸 소인수분해 꼴",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$98=2\\times7^2$ → 약수 = (2의 약수)×(7^2의 약수)",
+   "plain": "소인수분해한 뒤 각 소수 거듭제곱의 약수를 하나씩 골라 곱하면 약수를 모두 구할 수 있다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "예제 2",
+   "summary": "소인수분해와 곱셈표를 이용하여 98의 약수 1, 2, 7, 14, 49, 98을 모두 구한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "소인수분해하시오",
+   "summary": "24, 52, 256, 500을 각각 소인수분해한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "2^3×5^2의 소인수를 2^3, 5^2이라고 한 대화에서 은서가 '아니야'라고 한 까닭을 쓴다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "2^7, 2^2×3^3의 약수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "소인수분해하시오",
+   "summary": "2×3×4×5×6을 소인수분해한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 28, 135의 소인수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "소인수분해를 이용하여 225의 약수를 모두 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "2의 약수 1, 2와 7^2의 약수 1, 7, 7^2를 곱하여 98의 약수를 구하는 곱셈표",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "윤우와 은서가 말풍선으로 대화하는 장면",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "쪽 위 문장은 학습 목표('소인수분해를 이용하여 자연수의 약수를 모두 구할 수 있다')로 보이며 소단원 번호와 제목은 보이지 않아 section에 목표를 바탕으로 적음. 문제 2번 대화는 2^3×5^2의 소인수를 '2^3, 5^2'라고 한 것에 대해 은서가 반박하는 내용(정답 풀이는 보이지 않음). 오른쪽 열의 1+, 2+, 3+는 심화 문항으로 판단함.",
+ "_page": 15,
+ "_usage": {
+  "in": 4467,
+  "out": 1442,
+  "sec": 9.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

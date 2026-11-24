@@ -1,0 +1,39 @@
+{
+ "printedPage": "",
+ "unit": {
+  "chapter": "",
+  "section": "",
+  "area": "표지"
+ },
+ "pageType": "표지",
+ "terms": [],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "파란 모자를 쓰고 헤드폰을 목에 건 채 팔짱을 끼고 서 있는 학생 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "표지 쪽이다. '중학교 수학 1'이라는 제목과 저자명(김동재·최경식·김상미·원유미·강해기)이 세로로 인쇄되어 있다. 수학 내용은 없다. 저자명은 글자가 작아 일부 확실하지 않을 수 있다.",
+ "_page": 1,
+ "_usage": {
+  "in": 3910,
+  "out": 310,
+  "sec": 4.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

@@ -1,0 +1,178 @@
+{
+ "printedPage": "252",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "도수분포표 (소단원 번호·제목은 이 쪽에 보이지 않음)",
+  "area": "문제 1, 생각 넓히기(정보처리), 수학 집 짓기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "계급",
+   "role": "정의",
+   "definition": "변량을 일정한 간격으로 나눈 구간",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "정의",
+   "definition": "각 계급에 속하는 자료의 수",
+   "notation": ""
+  },
+  {
+   "term": "계급의 크기",
+   "role": "정의",
+   "definition": "각 계급의 구간의 너비(예: 55 g 이상 65 g 미만이면 10 g)",
+   "notation": ""
+  },
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "변량",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "계급: 변량을 일정한 간격으로 나눈 구간",
+   "plain": "자료를 같은 간격으로 나눈 각 구간을 계급이라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "도수: 각 계급에 속하는 자료의 수",
+   "plain": "각 구간에 들어가는 자료의 개수를 도수라고 한다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "통그라미: 자료 불러오기 → 통계 → 도수분포표 → 변수 추가 → 확인",
+   "plain": "통그라미(공학 도구)로 도수분포표를 만드는 순서이다.",
+   "_raw": "방법",
+   "statementType": "도구 활용"
+  }
+ ],
+ "examples": [
+  {
+   "title": "수학 집 짓기: 귤의 무게 도수분포표",
+   "summary": "귤 25개의 무게를 55 g 이상 105 g 미만의 5개 계급(크기 10 g)으로 나눈 도수분포표에 계급과 도수의 뜻을 표시했다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 1 (1)",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "지호가 3주 동안 하루에 걸은 걸음 수 21개 자료의 계급의 크기를 정하여 도수분포표로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "문제 1 (2)",
+   "level": "기본",
+   "verb": "말하시오",
+   "summary": "도수분포표에서 알 수 있는 자료의 분포 상태를 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "문제 1 (3)",
+   "level": "기본",
+   "verb": "비교하시오",
+   "summary": "내가 만든 도수분포표와 친구가 만든 도수분포표를 비교한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "생각 넓히기 (1)",
+   "level": "활동",
+   "verb": "나타내시오",
+   "summary": "통그라미로 부록 4의 자료 2를 도수분포표로 나타낸다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 넓히기 (2)",
+   "level": "활동",
+   "verb": "구하시오",
+   "summary": "(1)의 도수분포표에서 적설량이 20 cm 이상인 날의 수를 구한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "지호의 하루 걸음 수 21개 자료와 빈 도수분포표(걸음 수, 날수, 합계)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "활동",
+   "desc": "통그라미 프로그램 화면 2개(변수 선택 창과 적설량 도수분포표 결과)와 QR 코드",
+   "_raw": "그림",
+   "figureType": "QR코드"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "귤의 무게 도수분포표에 계급, 도수, 계급의 크기를 표시한 그림",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "말풍선을 단 귤 캐릭터와 생각하는 캐릭터",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "걸음 수 측정(휴대 전화 센서)",
+  "적설량과 대설 경보",
+  "귤의 무게"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 section은 내용으로 추정했다. 통그라미 화면의 작은 글씨는 일부만 읽혔다. 도수분포표의 합계는 114로 읽힌다.",
+ "_page": 252,
+ "_profile": "full",
+ "_usage": {
+  "in": 4982,
+  "out": 1638,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

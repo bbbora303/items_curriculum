@@ -1,0 +1,174 @@
+{
+ "printedPage": "290",
+ "unit": {
+  "chapter": "좌표평면과 그래프",
+  "section": "",
+  "area": "정답 및 풀이 (수학 놀이터, 단원 마무리, 프로젝트)"
+ },
+ "pageType": "부록",
+ "terms": [
+  {
+   "term": "순서쌍",
+   "role": "사용",
+   "definition": "",
+   "notation": "(a, b)"
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax"
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{a}{x}"
+  },
+  {
+   "term": "사분면",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "(a, b)",
+   "meaning": "좌표평면 위 점의 좌표(순서쌍)",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=ax",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{a}{x}",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "y=ax\\ (a<0)\\text{의 그래프는 제2사분면과 제4사분면을 지난다}",
+   "plain": "a가 음수이면 정비례 그래프는 제2, 4사분면을 지난다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "(2,3)\\ne(3,2)",
+   "plain": "순서쌍은 순서가 다르면 서로 다른 것이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "\\text{그래프가 지나는 점의 좌표를 식에 대입하여 }a\\text{의 값을 구한다}",
+   "plain": "점의 좌표를 대입해 미지수를 구한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "y=\\frac{300}{x}",
+   "plain": "(거리)=(속력)×(시간)에서 x와 y의 관계를 식으로 세워 반비례임을 판단한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "수학 놀이터 활동 1 예시 답",
+   "summary": "y=x와 y=16/x의 그래프를 그려 온실가스를 각각 4개, 3개 없앴다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "수학 놀이터 활동 2 예시 답",
+   "summary": "y=4x와 y=-10/x의 그래프를 그려 온실가스를 각각 3개, 2개 없앴다.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  },
+  {
+   "title": "프로젝트 예시 답",
+   "summary": "해수면 높이 변화와 재생 에너지 발전량 그래프를 활용한 기후 변화 홍보 자료 예시.",
+   "solutionShown": true,
+   "_raw": "기타",
+   "exampleType": "개념 예시"
+  }
+ ],
+ "problems": [
+  {
+   "label": "단원 마무리 01~13",
+   "level": "기본",
+   "verb": "(정답·풀이)",
+   "summary": "좌표평면, 정비례·반비례 그래프 단원 마무리 문제의 정답과 풀이(07 직사각형 넓이 12, 08 제4사분면, 09 ㄴㄷㄹ, 10 삼각형 넓이 24, 11 a=8, 12 y=x/6과 90 N, 13 그래프 해석).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "기타",
+   "problemType": "정답·해설"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "y=x와 y=16/x의 그래프 위에 온실가스 점들이 찍힌 좌표평면",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "해수면 높이 변화 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "재생 에너지 발전량 그래프",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "활동",
+   "desc": "프로젝트 3의 기후 변화 홍보 자료 네 칸 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  }
+ ],
+ "contexts": [
+  "온실가스",
+  "기후 변화",
+  "해수면 높이",
+  "재생 에너지 발전량",
+  "에너지 절약",
+  "일회용품 줄이기",
+  "달과 지구에서의 무게",
+  "시속과 도착 시간",
+  "달리기 도착 순서"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "정답 및 풀이 쪽으로 새로 도입되는 개념은 없다. 단원 마무리 1~6번은 ○/× 판별 정답이고, 01~13번은 문제 풀이이다. 일부 문항(02, 06, 1~6의 일부)은 정답만 있다.",
+ "_page": 290,
+ "_profile": "full",
+ "_usage": {
+  "in": 6049,
+  "out": 1570,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": true
+}

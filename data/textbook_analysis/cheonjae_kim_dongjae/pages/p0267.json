@@ -1,0 +1,205 @@
+{
+ "printedPage": "267",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "도수분포표",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "계급",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "히스토그램",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "도수분포다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "상대도수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "10^{이상} \\sim 20^{미만}",
+   "meaning": "계급의 범위(이상 ~ 미만) 표기",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "4-(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "도수분포표에서 나이가 30세 미만인 사람이 전체의 몇 %인지 구한다(40명, 도수 11·14·9·4·2).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "4-(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "도수분포표에서 도수가 3번째로 큰 계급을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5-(1)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "도수분포다각형에서 조사한 과자의 전체 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5-(2)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "도수분포다각형에서 도수가 가장 큰 계급을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "5-(3)",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "소비 기한이 120일 이상인 과자의 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "5 문제 만들기",
+   "level": "활동",
+   "verb": "풀어 보자",
+   "summary": "밑줄 친 부분을 바꾸어 문제를 만들고 친구와 바꾸어 푼다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "6",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "학생 35명의 도서관 방문 횟수 히스토그램(일부 찢어짐)에서 6회 이상 10회 미만이 전체의 40%일 때 10회 이상 12회 미만 학생 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "7",
+   "level": "서술형",
+   "verb": "쓰시오",
+   "summary": "A, B 중학교의 책 수에 대한 상대도수 분포 다각형을 비교하여 알 수 있는 사실 3가지를 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "편의점 방문자 나이의 도수분포표(10세 이상~60세 미만, 합계 40명)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "과자의 소비 기한 도수분포다각형",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "도서관 방문 횟수 히스토그램(일부 찢어짐)",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A·B 중학교 책의 수 상대도수의 분포를 나타낸 도수분포다각형 두 개",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "장식",
+   "desc": "Math Road 복습 안내 그림(가로등 1~7번과 인물)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "편의점 방문자 나이",
+  "마트 과자의 소비 기한",
+  "도서관 방문 횟수",
+  "읽은 책의 수"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "Math Road (맞은 문항 색칠, 틀린 문항은 해당 쪽 복습)",
+   "problemNos": [
+    "1: 244쪽 1, 2",
+    "2: 244쪽 3",
+    "3: 247쪽 1",
+    "4: 249쪽 1",
+    "5: 253쪽 2",
+    "6: 251쪽 1",
+    "7: 257쪽 2"
+   ]
+  }
+ ],
+ "notes": "중단원 마무리 쪽의 뒷부분(문제 4~7)과 Math Road 자기평가 구성. 6번에는 '발전' 표시가 있음. Math Road의 번호는 이 쪽 문제 번호가 아니라 중단원 마무리 전체 문항 1~7 기준으로 보임. 소단원 번호는 보이지 않음.",
+ "_page": 267,
+ "_usage": {
+  "in": 5001,
+  "out": 1752,
+  "sec": 10.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

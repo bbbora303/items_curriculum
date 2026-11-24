@@ -1,0 +1,143 @@
+{
+ "printedPage": "189",
+ "pageType": "서술형문제",
+ "items": [
+  {
+   "kind": "문제",
+   "label": "14",
+   "corner": "대단원 마무리",
+   "icons": [
+    "(문제 번호 위 와이파이 모양 아이콘 1개)"
+   ],
+   "level": "기본",
+   "text": "오른쪽 그림에서 $\\overline{AD}=\\overline{CB}$, $\\angle CAD=\\angle ACB$일 때, 서로 합동인 두 삼각형을 찾아 기호 $\\equiv$를 사용하여 나타내고, 합동 조건을 말하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$\\overline{AD}=\\overline{CB}$, $\\angle CAD=\\angle ACB$",
+   "steps": [],
+   "answerFormat": "합동인 두 삼각형을 기호 ≡로 나타내고 합동 조건을 서술"
+  },
+  {
+   "kind": "문제",
+   "label": "15",
+   "corner": "대단원 마무리",
+   "icons": [
+    "(문제 번호 위 와이파이 모양 아이콘 1개)"
+   ],
+   "level": "기본",
+   "text": "아래 그림의 $\\triangle AOD$와 $\\triangle BOC$에서 $\\overline{OA}=\\overline{OB}$이고, $\\overline{BD}=\\overline{AC}$일 때, 다음을 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$\\overline{BC}$의 길이"
+    },
+    {
+     "label": "(2)",
+     "text": "$\\angle DAO$의 크기"
+    }
+   ],
+   "conditions": [],
+   "given": "$\\overline{OA}=\\overline{OB}$, $\\overline{BD}=\\overline{AC}$, 그림에 8 cm, 55°, 25° 표시",
+   "steps": [],
+   "answerFormat": "(1) 길이, (2) 각의 크기"
+  },
+  {
+   "kind": "기타",
+   "label": "서술형 문제 [16~17]",
+   "corner": "서술형 문제",
+   "icons": [],
+   "level": "서술형",
+   "text": "[16~17] 다음 문제의 풀이 과정을 자세히 써 보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "서술형문제",
+   "label": "16",
+   "corner": "서술형 문제",
+   "icons": [
+    "(문제 번호 위 와이파이 모양 아이콘 1개)"
+   ],
+   "level": "서술형",
+   "text": "다음 그림은 직육면체의 세 모서리의 중점을 지나는 삼각뿔을 잘라 만든 입체도형이다. 면 ABED와 평행한 모서리의 개수를 $a$, 모서리 CG와 꼬인 위치에 있는 모서리의 개수를 $b$라고 할 때, $a+b$의 값을 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "면 ABED와 평행한 모서리의 개수 $a$, 모서리 CG와 꼬인 위치에 있는 모서리의 개수 $b$",
+   "steps": [],
+   "answerFormat": "풀이 과정을 자세히 서술"
+  },
+  {
+   "kind": "서술형문제",
+   "label": "17",
+   "corner": "서술형 문제",
+   "icons": [
+    "(문제 번호 위 와이파이 모양 아이콘 1개)"
+   ],
+   "level": "서술형",
+   "text": "다음 그림에서 $\\triangle ABC$와 $\\triangle ECD$는 정삼각형이고, 세 점 B, C, D는 한 직선 위에 있다. $\\overline{AD}$와 $\\overline{BE}$의 교점이 P일 때, $\\angle x$의 크기를 구하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "$\\triangle ABC$, $\\triangle ECD$는 정삼각형, 세 점 B, C, D는 한 직선 위, $\\overline{AD}$와 $\\overline{BE}$의 교점 P",
+   "steps": [],
+   "answerFormat": "풀이 과정을 자세히 서술"
+  },
+  {
+   "kind": "활동",
+   "label": "Math Pizza",
+   "corner": "Math Pizza",
+   "icons": [],
+   "level": "활동",
+   "text": "맞은 문항에 색칠하고, 단원을 배우고 나서 느낀 점을 써 보자.",
+   "subItems": [],
+   "conditions": [],
+   "given": "피자 모양 그림 안의 원형 조각에 문항 번호 1~17이 단원 주제별로 적혀 있음: 점, 선, 면, 각(1, 2, 3, 4, 5) / 위치 관계(6, 7, 16) / 평행선의 성질(8, 9) / 간단한 도형의 작도(10) / 삼각형의 작도(11, 12) / 삼각형의 합동 조건(13, 14, 15, 17). 아래쪽 빈 공간에 '느낀 점' 문구가 흐리게 인쇄되어 있음",
+   "steps": [
+    "맞은 문항 번호에 색칠하기",
+    "단원을 배우고 나서 느낀 점 쓰기"
+   ],
+   "answerFormat": "맞은 문항 번호 색칠, 느낀 점 서술(빈 공간)"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "14번 그림",
+   "labels": "A(왼쪽 위), D(오른쪽 위), B(왼쪽 아래), C(오른쪽 아래), 대각선 AC",
+   "desc": "사각형 ADCB 모양(평행사변형처럼 기울어진 모양)에 대각선 AC가 그어져 있음. 변 AD와 변 BC에 같은 길이 표시(짧은 눈금)가 있고, 꼭짓점 A와 C의 안쪽에 각이 같음을 나타내는 표시가 있음."
+  },
+  {
+   "kind": "도형",
+   "caption": "15번 그림",
+   "labels": "C(위), A, O(왼쪽 아래), B(아래), D(오른쪽 아래), 25°(C 근처), 8 cm(A와 D 사이 점선 곡선 근처), 55°(O 근처), 점 A에 분홍색 각 표시",
+   "desc": "점 O에서 나가는 두 선분 OC(점 A를 지남)와 OD(점 B를 지남)가 있고, B와 C를 잇는 선분, A와 D를 잇는 점선이 있음. 선분 AC와 BD에 같은 길이 표시가 있고, OA와 OB에도 같은 길이 표시가 있음. ∠DAO에 분홍색 호 표시."
+  },
+  {
+   "kind": "도형",
+   "caption": "16번 그림(입체도형)",
+   "labels": "A, B, C, E, F, G, H, D, I, J",
+   "desc": "직육면체의 한 꼭짓점 부분을 삼각뿔 모양으로 잘라 낸 입체도형. 위쪽에 A, C, 왼쪽에 B, 아래쪽에 E, F, 오른쪽 아래에 G, 안쪽에 H, D, I, J 표시. 보이지 않는 모서리는 점선으로 그려져 있음."
+  },
+  {
+   "kind": "도형",
+   "caption": "17번 그림",
+   "labels": "A(위), B(왼쪽 아래), C(아래 가운데), D(오른쪽 아래), E(오른쪽 위), P(AD와 BE의 교점), $x$(점 P에서의 각, 분홍색 표시)",
+   "desc": "직선 위의 세 점 B, C, D 위에 정삼각형 ABC와 정삼각형 ECD가 놓여 있고, 선분 AD와 BE가 점 P에서 만남. 점 P 부분의 각 $x$가 분홍색으로 표시됨."
+  }
+ ],
+ "incomplete": "그림 14·15번의 작은 길이·각 표시 기호의 정확한 개수와 위치, 16번 그림의 점선 모서리 연결 관계는 이미지가 작아 정확히 읽기 어려움. 하단 '대단원 마무리' 쪽 표시와 쪽 번호 189는 확인함.",
+ "_page": 189,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 3915,
+  "out": 3533,
+  "sec": 23.7,
+  "stop": "end_turn"
+ }
+}

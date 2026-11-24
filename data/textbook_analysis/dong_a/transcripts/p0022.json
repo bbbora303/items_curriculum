@@ -1,0 +1,179 @@
+{
+ "printedPage": "22",
+ "pageType": "개념설명",
+ "items": [
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 두 수의 최대공약수를 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2^2\\times3^3$, $2^3\\times3$"
+    },
+    {
+     "label": "(2)",
+     "text": "$2^2\\times7$, $2\\times3\\times7^2$"
+    },
+    {
+     "label": "(3)",
+     "text": "30, 48"
+    },
+    {
+     "label": "(4)",
+     "text": "80, 92"
+    }
+   ],
+   "conditions": [],
+   "given": "(1) $2^2\\times3^3$, $2^3\\times3$ (2) $2^2\\times7$, $2\\times3\\times7^2$ (3) 30, 48 (4) 80, 92",
+   "steps": [],
+   "answerFormat": "각 문항마다 풀이 여백이 있음(점선으로 칸을 나눔)"
+  },
+  {
+   "kind": "문제",
+   "label": "문제 2",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "최대공약수를 이용하여 다음 두 수의 공약수를 모두 구하시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "$2\\times3^3$, $2\\times3^2\\times5$"
+    },
+    {
+     "label": "(2)",
+     "text": "20, 45"
+    }
+   ],
+   "conditions": [],
+   "given": "(1) $2\\times3^3$, $2\\times3^2\\times5$ (2) 20, 45",
+   "steps": [],
+   "answerFormat": "각 문항마다 풀이 여백이 있음"
+  },
+  {
+   "kind": "참고",
+   "label": "말풍선",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "두 개 이상의 자연수의 공약수는 모두 최대공약수의 약수예요.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "서로소 개념 설명",
+   "corner": "",
+   "icons": [],
+   "level": "",
+   "text": "한편, 두 자연수 5와 8의 최대공약수는 1이다.\n이와 같이 최대공약수가 1인 두 자연수를 서로소라고 한다.\n(왼쪽 여백) • 5의 약수: 1, 5 / 8의 약수: 1, 2, 4, 8",
+   "subItems": [],
+   "conditions": [],
+   "given": "5의 약수: 1, 5 / 8의 약수: 1, 2, 4, 8 (두 줄 모두 1이 강조 표시됨)",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "예제",
+   "label": "확인해요",
+   "corner": "확인해요",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "2와 7의 최대공약수는 1이다. 즉, 2와 7은 서로소이다."
+    },
+    {
+     "label": "(2)",
+     "text": "6과 10의 최대공약수는 2이다. 즉, 6과 10은 서로소가 아니다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 3",
+   "corner": "문제",
+   "icons": [],
+   "level": "기본",
+   "text": "다음 중에서 두 수가 서로소인 것을 모두 찾으시오.",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "3, 9"
+    },
+    {
+     "label": "(2)",
+     "text": "1, 6"
+    },
+    {
+     "label": "(3)",
+     "text": "4, 25"
+    },
+    {
+     "label": "(4)",
+     "text": "15, 20"
+    }
+   ],
+   "conditions": [],
+   "given": "(1) 3, 9 (2) 1, 6 (3) 4, 25 (4) 15, 20",
+   "steps": [],
+   "answerFormat": "서로소인 것을 모두 고름"
+  },
+  {
+   "kind": "기타",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [
+    "추론",
+    "의사소통"
+   ],
+   "level": "",
+   "text": "서로 다른 두 소수는 항상 서로소인지 생각해 보고, 왜 그렇게 생각했는지 말하시오.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "생각을 말로 설명"
+  }
+ ],
+ "tables": [],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "기타",
+   "caption": "말풍선을 말하는 캐릭터",
+   "labels": "말풍선: 두 개 이상의 자연수의 공약수는 모두 최대공약수의 약수예요.",
+   "desc": "연필을 든 둥근 캐릭터가 말풍선으로 말하고 있음"
+  },
+  {
+   "kind": "기타",
+   "caption": "쪽 하단 캐릭터 그림",
+   "labels": "물음표(?), 느낌표(!)",
+   "desc": "둥근 캐릭터 두 개가 있으며 하나는 물음표, 다른 하나는 느낌표가 위에 표시됨"
+  }
+ ],
+ "incomplete": "",
+ "_page": 22,
+ "_why": [
+  "concept"
+ ],
+ "_usage": {
+  "in": 3858,
+  "out": 2409,
+  "sec": 16.4,
+  "stop": "end_turn"
+ }
+}

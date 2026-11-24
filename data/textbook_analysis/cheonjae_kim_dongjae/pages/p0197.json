@@ -1,0 +1,205 @@
+{
+ "printedPage": "197",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "1. 평면도형의 성질 (다각형의 내각의 크기의 합 관련)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "내각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정다각형(정십이각형)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "오각형·육각형·n각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\angle x$",
+   "meaning": "각 x의 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "$180^\\circ\\times(n-2)$",
+   "meaning": "n각형의 내각의 크기의 합",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$180^\\circ\\times(n-2)$",
+   "plain": "n각형의 내각의 크기의 합이며, 활동 (3)에서 두 방법으로 설명해 보게 한다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "$180^\\circ\\times5-360^\\circ=540^\\circ$",
+   "plain": "윤우의 방법: 오각형 내부의 한 점과 각 꼭짓점을 이어 삼각형 5개로 나누고, 중심에 모인 각 360°를 뺀다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "$180^\\circ\\times4-180^\\circ=540^\\circ$",
+   "plain": "은서의 방법: 변 위의 한 점과 각 꼭짓점을 이어 삼각형 4개로 나누고, 한 점에 모인 평각 180°를 뺀다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "윤우와 은서의 오각형 내각의 합 구하기",
+   "summary": "오각형의 내각의 크기의 합을 서로 다른 두 방법으로 540°라고 구한 사례",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "쓰고, 구하시오",
+   "summary": "주어진 두 다각형((1) 칠각형, (2) 구각형 모양)의 이름을 쓰고 내각의 크기의 합을 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하고, 설명하시오",
+   "summary": "정십이각형의 한 내각의 크기를 구하고 그 방법을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "오각형에서 주어진 각 90°(직각 표시), 125°, 110°, 105°를 이용해 ∠x의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "(가) 모든 변의 길이와 모든 내각의 크기가 같고 (나) 내각의 크기의 합이 2160°인 다각형의 이름을 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "활동 (1)",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "윤우와 은서가 오각형의 내각의 합을 구한 방법을 각각 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "활동 (2)",
+   "level": "활동",
+   "verb": "구해 보자",
+   "summary": "두 학생의 방법으로 육각형의 내각의 크기의 합을 각각 구한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "활동 (3)",
+   "level": "활동",
+   "verb": "설명해 보자",
+   "summary": "두 방법으로 n각형의 내각의 합이 180°×(n-2)임을 각각 설명한다.",
+   "competencyIcons": [
+    "추론",
+    "의사소통"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "문제 1의 (1) 칠각형, (2) 구각형 모양의 다각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "세 각 125°, 110°, 105°와 직각 표시, ∠x가 주어진 오각형",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "오각형 내부의 한 점에서 꼭짓점을 이은 그림(윤우 방법)과 변 위의 한 점에서 꼭짓점을 이은 그림(은서 방법)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "윤우와 은서 인물 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "추론",
+  "의사소통"
+ ],
+ "selfAssessment": [],
+ "notes": "문제 1의 (1)(2) 도형의 변의 수는 이미지로 대략 칠각형·구각형으로 보이나 정확히 확인하기 어렵다. 문제 1+의 직각 표시는 그림 상단 왼쪽 꼭짓점에 있는 것으로 보인다. 쪽 아래 단원 표시는 '1. 평면도형의 성질'이다. 중단원 제목은 이 쪽에 따로 나와 있지 않다.",
+ "_page": 197,
+ "_usage": {
+  "in": 4372,
+  "out": 1968,
+  "sec": 11.9,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

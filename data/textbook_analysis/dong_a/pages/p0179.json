@@ -1,0 +1,109 @@
+{
+ "printedPage": "179",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "6.0 알람브라 궁전에서 평면도형을 만나요",
+  "area": "단원 도입"
+ },
+ "pageType": "단원도입",
+ "terms": [
+  {
+   "term": "평면도형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "다각형",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원주율",
+   "role": "사용",
+   "definition": "",
+   "notation": "$3.14$"
+  },
+  {
+   "term": "원의 둘레의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지름 20 cm인 원의 둘레의 길이와 넓이를 각각 구한다(원주율 3.14).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "장식",
+   "desc": "알람브라 궁전 전경과 원형 확대 창으로 보이는 실내 장식 사진, 망원경을 든 아이 그림",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "20 cm라고 표시된 원(지름 표시)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "도입 영상 QR 코드",
+   "_raw": "기타",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "알람브라 궁전",
+  "건축물의 실내 장식 무늬",
+  "미술 작품"
+ ],
+ "gradeLinks": {
+  "prior": [
+   "초등: 원의 둘레의 길이와 넓이"
+  ],
+  "current": [
+   "다각형, 원과 같은 평면도형의 성질"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 도입 쪽으로, 소단원 번호 없이 '6.0'으로 표기됨. 하단에 '학습 계획 세우기' 칸이 있고 '복습을 꼭 하고, 필요한 경우 초등학교에서 배운 내용도 찾아보겠다.'가 예시로 적혀 있음. 3번 문제는 초등 선수 학습 확인용이며 원 안의 20 cm는 지름으로 보이나(중심을 지나는 점선) 이미지상 '지름'이라는 글자는 없음. '배운 내용/배울 내용' 표는 이 쪽에 없음.",
+ "_page": 179,
+ "_profile": "full",
+ "_usage": {
+  "in": 4342,
+  "out": 867,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

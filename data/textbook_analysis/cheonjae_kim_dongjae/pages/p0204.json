@@ -1,0 +1,154 @@
+{
+ "printedPage": "204",
+ "unit": {
+  "chapter": "평면도형의 성질",
+  "section": "04 부채꼴의 호의 길이와 넓이",
+  "area": "단원 도입 / 생각 열기 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "부채꼴",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중심각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "호의 길이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "부채꼴의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\\\text{부채꼴 BOD}$, $\\\\text{부채꼴 AOB}$",
+   "meaning": "점 O를 중심으로 하는 부채꼴을 세 점 문자로 나타낸 이름",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "한 원에서 중심각의 크기가 같은 두 부채꼴은 합동이다",
+   "plain": "한 원에서 중심각이 같으면 두 부채꼴은 서로 합동이다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 원에서 중심각의 크기가 같은 두 부채꼴의 호의 길이와 넓이는 각각 같다",
+   "plain": "중심각이 같은 두 부채꼴은 호의 길이도 같고 넓이도 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 원에서 호의 길이와 넓이가 각각 같은 부채꼴은 중심각의 크기도 같다",
+   "plain": "한 원에서 호의 길이와 넓이가 같으면 중심각도 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "한 원에서 부채꼴의 호의 길이와 넓이는 각각 중심각의 크기에 정비례한다",
+   "plain": "중심각이 2배, 3배, ...가 되면 호의 길이와 넓이도 각각 2배, 3배, ...가 된다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "생각 열기 ❶",
+   "level": "활동",
+   "verb": "몇 배인가?",
+   "summary": "부채꼴 BOD의 중심각의 크기는 부채꼴 AOB의 중심각의 몇 배인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❷",
+   "level": "활동",
+   "verb": "몇 배인가?",
+   "summary": "부채꼴 BOD의 호의 길이는 부채꼴 AOB의 호의 길이의 몇 배인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "생각 열기 ❸",
+   "level": "활동",
+   "verb": "몇 배인가?",
+   "summary": "부채꼴 BOD의 넓이는 부채꼴 AOB의 넓이의 몇 배인지 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "원 모양 색종이를 반으로, 다시 반으로, 또 반으로 세 번 접었다가 펼치면 원이 8개의 합동인 부채꼴로 나뉘고 점 A, B, C, D, O가 표시된다.",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "한 원에서 중심각의 크기가 같은 두 부채꼴(색칠)을 보여 주는 원.",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "한 원에서 중심각이 1배, 2배, 3배 등으로 커지는 부채꼴들을 색의 진하기로 구분해 보여 주는 원.",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [
+  "원 모양 색종이 접기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [
+   "부채꼴의 중심각과 호의 관계를 이해하고, 이를 이용하여 부채꼴의 호의 길이와 넓이를 구할 수 있다."
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 04 시작 쪽이다. 앞서 배운 내용·배울 내용 표시는 없다. 부채꼴, 중심각, 호는 이 쪽에서 정의되지 않고 이미 배운 것으로 쓰인다(이전 쪽에서 정의되었을 것으로 추정). 이 쪽에서 새로 도입되는 것은 '부채꼴의 중심각과 호 사이의 관계'라는 성질이다.",
+ "_page": 204,
+ "_usage": {
+  "in": 4635,
+  "out": 1637,
+  "sec": 9.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

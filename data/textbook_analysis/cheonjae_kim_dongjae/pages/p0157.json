@@ -1,0 +1,229 @@
+{
+ "printedPage": "157",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "1. 기본 도형 (소단원 번호·제목은 이 쪽에 보이지 않음)",
+  "area": "배우고 익히기 / 와글와글 수학 활동"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "수직이등분선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수선의 발",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "점과 직선 사이의 거리",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "꼭짓점(각의 꼭짓점)",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "맞꼭지각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "교각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직교",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "중점",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "직선의 수직",
+   "role": "사용",
+   "definition": "",
+   "notation": "$\\perp$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$\\overleftrightarrow{AB}$",
+   "meaning": "직선 AB",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\overline{CD}$",
+   "meaning": "선분 CD",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\perp$",
+   "meaning": "수직",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle BAM$",
+   "meaning": "각 BAM",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "써넣으시오",
+   "summary": "AB와 CD가 수직이등분 관계인 그림에서 (1) 직선 AB와 CD의 관계 기호, (2) CD=□OD의 수를 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "선분 BC의 중점 M, 6 cm, 각 B가 50°인 그림에서 (1) BM의 길이, (2) ∠BAM의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "나타내시오 / 구하시오",
+   "summary": "모눈종이 위 두 직선 l, m과 점 A에서 (1) 수선의 발 P, Q를 나타내고 (2) 점 A와 두 직선 사이의 거리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "A·B가 직각인 사다리꼴 ABCD(AD=3 cm, AB=4 cm, BC=7 cm)에서 점 D와 BC 사이의 거리를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "십자말풀이",
+   "level": "활동",
+   "verb": "해 보자",
+   "summary": "가로·세로 열쇠(수선, 교선, 교점, 평각, 맞꼭지각, 수직이등분선, 직교, 축구 등 용어 설명)를 보고 낱말을 채운다.",
+   "competencyIcons": [
+    "문제해결",
+    "연결"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "점 A, B, C, D, O와 수직으로 만나는 두 직선(선분)이 그려진 그림 (문제 1)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "A에서 BC에 수선 AM을 내린 이등변삼각형 모양, B=50°, BM=6 cm (문제 1+)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "모눈종이 위에 수직인 두 직선 l, m과 점 A (문제 2)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "직각 표시가 있는 사다리꼴 ABCD와 변 길이 3 cm, 4 cm, 7 cm (문제 2+)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "번호가 붙은 칸이 있는 십자말풀이 판",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "장식",
+   "desc": "가로·세로 열쇠 옆의 책 읽는 인물 일러스트",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "십자말풀이 놀이",
+  "야구와 비슷한 발로 차는 경기(킥볼)"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "문제해결",
+  "연결"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호·제목은 쪽에 보이지 않아 section은 대단원 표시(1. 기본 도형)만 적음. 십자말풀이의 정답 낱말은 쪽에 주어지지 않음. 문제 1의 (1) 빈칸에 들어갈 기호와 거리 관계 등은 그림 기준으로 판단해야 하며 확정하지 않음. 1+, 2+ 는 + 표시된 심화 문제로 판단.",
+ "_page": 157,
+ "_usage": {
+  "in": 4768,
+  "out": 1922,
+  "sec": 13.1,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,156 @@
+{
+ "printedPage": "134",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "2 정비례와 반비례 중단원 마무리",
+  "area": "중단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "정비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=ax(a\\neq 0)"
+  },
+  {
+   "term": "반비례",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{a}{x}(a\\neq 0)"
+  },
+  {
+   "term": "그래프",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=ax\\ (a\\neq 0)",
+   "meaning": "정비례 관계식",
+   "role": "사용"
+  },
+  {
+   "symbol": "y=\\frac{a}{x}\\ (a\\neq 0)",
+   "meaning": "반비례 관계식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "y=ax\\ (a\\neq 0)",
+   "plain": "x가 2배, 3배, 4배가 되면 y도 2배, 3배, 4배가 된다(정비례). 빈칸으로 채우게 함.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "y=\\frac{a}{x}\\ (a\\neq 0)",
+   "plain": "x가 2배, 3배, 4배가 되면 y는 \\frac{1}{2}배, \\frac{1}{3}배, \\frac{1}{4}배가 된다(반비례). 빈칸으로 채우게 함.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a>0,\\ a<0",
+   "plain": "정비례 그래프는 a의 부호에 따라 1·3사분면 또는 2·4사분면을 지나는 직선이다(빈칸).",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "a>0,\\ a<0",
+   "plain": "반비례 그래프는 a의 부호에 따라 1·3사분면 또는 2·4사분면에 있는 한 쌍의 곡선이다(빈칸).",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "고르시오",
+   "summary": "㉠~㉣ 중 y가 x에 정비례하는 것을 모두 고르기(낮·밤 길이, 사과 5개의 값, 정사각형 둘레, 200 km 가는 시간)",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "정비례 y=ax의 그래프가 두 점 (3, 1), (-1, b)를 지날 때 a, b의 값 구하기",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "3",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "(1) y=-\\frac{3}{2}x, (2) y=\\frac{9}{x}의 그래프를 좌표평면에 그리기",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "식물이 하루에 4 mm씩 자랄 때 1~4일의 길이 표와 배수 관계 화살표(정비례)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "주스 600 mL를 1~4명이 나눠 마실 때 한 사람 몫의 표와 배수 관계 화살표(반비례)",
+   "_raw": "표",
+   "figureType": "표"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "a의 부호에 따른 정비례 직선 그래프 2개",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "a의 부호에 따른 반비례 곡선 그래프 2개",
+   "_raw": "그래프",
+   "figureType": "그래프"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 3의 그래프를 그릴 눈금 있는 좌표평면(-8~8)",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  }
+ ],
+ "contexts": [
+  "식물 성장",
+  "주스 나누어 마시기",
+  "낮과 밤의 길이",
+  "사과 값",
+  "정사각형 둘레",
+  "속력과 시간"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "단원 정리 빈칸 채우기 쪽이며 빈칸의 정답은 인쇄되어 있지 않다. 쪽 아래 단원 표시는 'Ⅲ. 좌표평면과 그래프'로 인쇄되어 있으나 중단원은 '2 정비례와 반비례'이다. 상단에 QR코드(단원 정리)가 있다.",
+ "_page": 134,
+ "_usage": {
+  "in": 4327,
+  "out": 1578,
+  "sec": 9.4,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

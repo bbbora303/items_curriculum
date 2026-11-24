@@ -1,0 +1,58 @@
+{
+ "printedPage": "259",
+ "unit": {
+  "chapter": "자료의 정리와 해석",
+  "section": "1. 자료의 정리와 해석",
+  "area": "자료의 수집"
+ },
+ "pageType": "탐구활동",
+ "terms": [
+  {
+   "term": "자료",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "수집",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "최고 기온",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "verbs": [
+  "조사해 볼까",
+  "입력하자",
+  "접속한다",
+  "선택하고 입력한다"
+ ],
+ "contexts": [
+  "8월의 최고 기온",
+  "기상청 자료",
+  "도시별 기온 조사",
+  "이지통계 프로그램"
+ ],
+ "essay": false,
+ "dataFigures": true,
+ "problemCount": 0,
+ "notes": "단원 내용 도입 쪽으로, 새로 정의되는 용어는 없음. 2002년과 2022년 8월 최고 기온 자료표와 이지통계 입력 화면이 제시됨. 발문 끝 지시어는 대화와 활동 순서 문장에서 가져옴.",
+ "_page": 259,
+ "_profile": "lite",
+ "_usage": {
+  "in": 3355,
+  "out": 391,
+  "sec": 4.2,
+  "stop": "end_turn"
+ }
+}

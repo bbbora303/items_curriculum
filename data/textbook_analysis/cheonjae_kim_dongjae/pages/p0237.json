@@ -1,0 +1,192 @@
+{
+ "printedPage": "237",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [],
+ "symbols": [
+  {
+   "symbol": "$\\angle a+\\angle b$",
+   "meaning": "정육각형과 정팔각형이 맞닿은 곳에 생기는 두 각의 크기의 합",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "13",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "옆넓이가 $90\\pi\\,\\text{cm}^2$이고 모선의 길이가 15 cm인 원뿔의 밑넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "14",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "지름이 7 cm인 구 모양 야구공의 겉면이 합동인 두 조각으로 되어 있을 때 한 조각의 넓이를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "15",
+   "level": "서술형",
+   "verb": "구하시오",
+   "summary": "한 변의 길이가 같은 정육각형과 정팔각형을 한 변이 겹치도록 붙인 그림에서 $\\angle a+\\angle b$의 크기를 구하는 풀이 과정을 쓴다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "16",
+   "level": "기본",
+   "verb": "나타내시오",
+   "summary": "사각뿔 ㉮와 사각뿔대 ㉯의 부피의 비를 간단한 자연수의 비로 나타낸다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "17",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "부피가 $32\\pi\\,\\text{cm}^3$인 원기둥 모양의 통에 구 모양의 공 2개가 꼭 맞게 들어 있을 때 공 1개의 부피를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "모선의 길이가 15 cm로 표시된 원뿔 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "각 변의 길이가 표시된 사각뿔 ㉮와 사각뿔대 ㉯(높이 각각 5 cm, 밑면 변 8 cm·6 cm, 윗면 변 4 cm·3 cm)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "원기둥 모양의 통 안에 구 모양의 공 2개가 꼭 맞게 들어 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "야구공과, 합동인 두 조각으로 나뉜 겉면 그림",
+   "_raw": "그림",
+   "figureType": "기타"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "한 변이 겹치도록 붙인 정육각형과 정팔각형, 각 a와 b 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "활동",
+   "desc": "Math Lemon: 레몬 나무에 단원 소주제별로 문항 번호 1~17이 레몬 열매로 배치된 자기점검 그림과 '느낀 점' 화분",
+   "_raw": "그림",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [
+  "야구공",
+  "통 속에 든 공"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [
+  {
+   "concept": "다각형의 내각과 외각",
+   "problemNos": [
+    "1",
+    "2",
+    "15"
+   ]
+  },
+  {
+   "concept": "다각형의 대각선",
+   "problemNos": [
+    "3",
+    "4"
+   ]
+  },
+  {
+   "concept": "원과 부채꼴",
+   "problemNos": [
+    "5"
+   ]
+  },
+  {
+   "concept": "부채꼴의 호의 길이와 넓이",
+   "problemNos": [
+    "6",
+    "7"
+   ]
+  },
+  {
+   "concept": "다면체와 회전체",
+   "problemNos": [
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  {
+   "concept": "기둥의 겉넓이와 부피",
+   "problemNos": [
+    "11",
+    "12"
+   ]
+  },
+  {
+   "concept": "뿔의 겉넓이와 부피",
+   "problemNos": [
+    "13",
+    "16"
+   ]
+  },
+  {
+   "concept": "구의 겉넓이와 부피",
+   "problemNos": [
+    "14",
+    "17"
+   ]
+  }
+ ],
+ "notes": "단원 이름은 이 쪽의 내용(뿔·구·기둥의 넓이와 부피)을 근거로 '입체도형의 성질'로 추정함. 15번은 다각형 단원 내용이 섞여 있음. 14번은 구의 겉넓이를 쓰는 문제. 13~17번 문항 옆에 와이파이 모양 아이콘이 있으나 라벨은 보이지 않아 competencyIcons는 비워 둠.",
+ "_page": 237,
+ "_usage": {
+  "in": 4654,
+  "out": 1705,
+  "sec": 10.6,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

@@ -1,0 +1,187 @@
+{
+ "printedPage": "188",
+ "unit": {
+  "chapter": "작도와 합동",
+  "section": "",
+  "area": "대단원 마무리"
+ },
+ "pageType": "단원마무리",
+ "terms": [
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": "l \\parallel m"
+  },
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "삼각형의 작도 조건",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "합동",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "크기가 같은 각의 작도",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "l \\parallel m",
+   "meaning": "두 직선 l, m이 평행함",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\overline{AB}",
+   "meaning": "선분 AB 또는 그 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\angle A",
+   "meaning": "각 A 또는 그 크기",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\triangle ABC",
+   "meaning": "삼각형 ABC",
+   "role": "사용"
+  },
+  {
+   "symbol": "\\overrightarrow{PQ}",
+   "meaning": "반직선 PQ",
+   "role": "사용"
+  }
+ ],
+ "statements": [],
+ "examples": [],
+ "problems": [
+  {
+   "label": "8",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "l∥m일 때 꺾인 선이 있는 그림에서 ∠x의 크기를 구한다(30°, 20°, 직각 표시).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "9",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "세 직선 l, m, n과 두 직선 p, q에서 각의 크기(71°, 69°, 71°, 71°)를 보고 평행한 직선의 쌍의 수를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "10",
+   "level": "기본",
+   "verb": "옳지 않은 것은?",
+   "summary": "∠XOY와 크기가 같은 각을 반직선 PQ를 한 변으로 작도한 그림에서 옳지 않은 것을 고른다(선분 길이 같음, ∠AOB=∠CPD 등).",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "11",
+   "level": "기본",
+   "verb": "모두 고르시오",
+   "summary": "AB의 길이와 ∠A의 크기를 알 때, △ABC를 하나로 작도하기 위해 추가할 조건을 ㉠ BC, ㉡ AC, ㉢ ∠B에서 모두 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "12",
+   "level": "기본",
+   "verb": "모두 고르면",
+   "summary": "다섯 가지 변의 길이·각의 크기 조건 중 △ABC를 하나로 작도할 수 있는 것 2개를 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "13",
+   "level": "기본",
+   "verb": "합동인 것은?",
+   "summary": "5 cm, 60° 등이 표시된 삼각형과 서로 합동인 삼각형을 ①~⑤에서 고른다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "두 평행선 l, m 사이에 꺾인 선분과 각 30°, 20°, x, 직각 표시가 있는 그림(8번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "세 직선 l, m, n이 두 직선 p, q와 만나며 각의 크기가 표시된 그림(9번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "∠XOY와 크기가 같은 각을 반직선 PQ 위에 작도한 그림, 점 A, B, C, D 표시(10번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "변의 길이와 각이 표시된 기준 삼각형과 보기 ①~⑤의 삼각형들(13번)",
+   "_raw": "도형",
+   "figureType": "도형"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "대단원 마무리 문제 쪽(8~13번). 쪽 위의 'Ⅳ. 도형의 기초'는 교재 대단원 목록에는 없고, 내용상 작도와 합동·기본 도형(평행선) 범위로 보아 chapter를 '작도와 합동'으로 추정함. 소단원 번호는 보이지 않음. 번호 옆에 작은 아이콘이 있으나 역량 라벨은 읽을 수 없음.",
+ "_page": 188,
+ "_usage": {
+  "in": 4639,
+  "out": 1729,
+  "sec": 10.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

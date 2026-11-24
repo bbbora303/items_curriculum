@@ -1,0 +1,186 @@
+{
+ "printedPage": "82",
+ "unit": {
+  "chapter": "문자의 사용과 식",
+  "section": "03 다항식의 계산 (추정: 차수·일차식 및 단항식과 수의 곱셈, 나눗셈)",
+  "area": "개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "차수(항의 차수)",
+   "role": "정의",
+   "definition": "문자를 포함한 항에서 문자가 곱해진 개수를 그 문자에 대한 항의 차수라고 한다.",
+   "notation": "3x^2"
+  },
+  {
+   "term": "다항식의 차수",
+   "role": "정의",
+   "definition": "다항식에서 차수가 가장 큰 항의 차수를 그 다항식의 차수라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "일차식",
+   "role": "정의",
+   "definition": "차수가 1인 다항식을 일차식이라고 한다.",
+   "notation": ""
+  },
+  {
+   "term": "곱셈의 교환법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": "a\\times b=b\\times a"
+  },
+  {
+   "term": "곱셈의 결합법칙",
+   "role": "사용",
+   "definition": "",
+   "notation": "(a\\times b)\\times c=a\\times(b\\times c)"
+  },
+  {
+   "term": "역수",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "대수 막대",
+   "role": "정의",
+   "definition": "변의 길이와 막대의 넓이를 이용하여 식의 계산 원리를 이해하는 데 사용하는 교구이다.",
+   "notation": ""
+  }
+ ],
+ "symbols": [],
+ "statements": [
+  {
+   "latex": "3x^2=3\\times x\\times x \\Rightarrow x에 대한 차수는 2",
+   "plain": "문자가 곱해진 개수가 그 항의 차수이다.",
+   "_raw": "정의",
+   "statementType": "정의"
+  },
+  {
+   "latex": "2x\\times 3=2\\times x\\times 3=2\\times 3\\times x=(2\\times 3)\\times x=6x",
+   "plain": "단항식과 수를 곱할 때는 수끼리 곱하여 문자 앞에 쓴다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "12x\\div 3=12x\\times\\frac{1}{3}=\\left(12\\times\\frac{1}{3}\\right)\\times x=4x",
+   "plain": "단항식을 수로 나눌 때는 나누는 수의 역수를 곱하여 계산한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  }
+ ],
+ "examples": [
+  {
+   "title": "확인해요 (1)",
+   "summary": "6x-3에서 차수가 가장 큰 항 6x의 차수가 1이므로 일차식이다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "확인해요 (2)",
+   "summary": "4x^2+3x-1에서 차수가 가장 큰 항 4x^2의 차수가 2이므로 일차식이 아니다.",
+   "solutionShown": true,
+   "_raw": "판단",
+   "exampleType": "판단"
+  },
+  {
+   "title": "생각2 대수 막대 활동 설명",
+   "summary": "대수 막대 그림으로 2x×3=6x임을 보이고 교환·결합법칙으로 계산 과정을 설명한다.",
+   "solutionShown": true,
+   "_raw": "설명",
+   "exampleType": "설명"
+  },
+  {
+   "title": "12x÷3 계산",
+   "summary": "12x÷3을 역수 1/3을 곱하여 4x로 계산한다.",
+   "solutionShown": true,
+   "_raw": "계산",
+   "exampleType": "계산"
+  }
+ ],
+ "problems": [
+  {
+   "label": "문제 2 (1)",
+   "level": "기본",
+   "verb": "말하고, 찾으시오",
+   "summary": "다항식 -2a+6의 차수를 말하고 일차식인지 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (2)",
+   "level": "기본",
+   "verb": "말하고, 찾으시오",
+   "summary": "다항식 1-0.3x의 차수를 말하고 일차식인지 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  },
+  {
+   "label": "문제 2 (3)",
+   "level": "기본",
+   "verb": "말하고, 찾으시오",
+   "summary": "다항식 y^2+y+3의 차수를 말하고 일차식인지 찾는다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "판단",
+   "problemType": "판단"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "3x^2에서 지수 2를 '차수'로 표시한 설명 상자.",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  },
+  {
+   "role": "활동",
+   "desc": "[그림 1] 폭 2, 높이 x인 대수 막대 세 묶음과 [그림 2] 폭 6, 높이 x인 대수 막대 한 묶음의 넓이 비교.",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "대수 막대 교구 설명(변의 길이 x, 1과 넓이 표시).",
+   "_raw": "모형",
+   "figureType": "모형"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "계산 과정에서 교환법칙·결합법칙이 적용된 단계를 화살표와 말풍선으로 표시.",
+   "_raw": "기타",
+   "figureType": "수학 다이어그램"
+  }
+ ],
+ "contexts": [],
+ "gradeLinks": {
+  "prior": [
+   "중1: 곱셈의 교환법칙, 곱셈의 결합법칙"
+  ],
+  "current": [
+   "항의 차수, 다항식의 차수, 일차식",
+   "단항식과 수의 곱셈, 나눗셈"
+  ],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 추정함. '생각 2' 코너 제목은 '단항식과 수의 곱셈, 나눗셈은 어떻게 계산할까요?'. 쪽 하단에 '3. 문자의 사용과 식' 표시.",
+ "_page": 82,
+ "_profile": "full",
+ "_usage": {
+  "in": 4896,
+  "out": 1919,
+  "sec": 0,
+  "stop": "end_turn",
+  "batch": true
+ },
+ "_notesInferred": false
+}

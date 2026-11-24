@@ -1,0 +1,163 @@
+{
+ "printedPage": "130",
+ "unit": {
+  "chapter": "정비례와 반비례",
+  "section": "반비례 관계의 그래프(소단원 번호·제목은 이 쪽에 보이지 않음)",
+  "area": "배우고 익히기(문제)"
+ },
+ "pageType": "연습문제",
+ "terms": [
+  {
+   "term": "반비례 관계",
+   "role": "사용",
+   "definition": "",
+   "notation": "y=\\frac{a}{x}\\ (a\\neq0)"
+  },
+  {
+   "term": "알지오매스",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "y=\\frac{a}{x}\\ (a\\neq0)",
+   "meaning": "반비례 관계를 나타내는 식",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "y=3/x",
+   "plain": "알지오매스 입력 창에 y=3/x를 입력하면 반비례 관계 y=3/x의 그래프를 쉽게 그릴 수 있다.",
+   "_raw": "방법",
+   "statementType": "도구 활용"
+  }
+ ],
+ "examples": [
+  {
+   "title": "알지오매스로 y=3/x 그리기",
+   "summary": "입력 창에 y=3/x를 입력하면 반비례 관계의 그래프가 화면에 나타나는 예를 보여 준다.",
+   "solutionShown": true,
+   "_raw": "그리기",
+   "exampleType": "그리기"
+  }
+ ],
+ "problems": [
+  {
+   "label": "1 (1)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "반비례 관계 y=4/x의 그래프를 좌표평면에 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1 (2)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "y=8/x의 그래프를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1 (3)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "y=10/x의 그래프를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1 (4)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "y=-4/x의 그래프를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1 (5)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "y=-8/x의 그래프를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "1 (6)",
+   "level": "기본",
+   "verb": "그리시오",
+   "summary": "y=-10/x의 그래프를 그린다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "그리기",
+   "problemType": "그리기"
+  },
+  {
+   "label": "2",
+   "level": "심화(+표시)",
+   "verb": "말하시오",
+   "summary": "알지오매스로 a의 값을 바꾸며 y=a/x의 그래프를 그릴 때 a의 값에 따라 그래프가 어떻게 변하는지 말한다.",
+   "competencyIcons": [
+    "정보처리"
+   ],
+   "hasFigureOrTable": false,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  }
+ ],
+ "figures": [
+  {
+   "role": "문제 자료",
+   "desc": "x, y 범위가 -10~10인 모눈 좌표평면으로, 문제 1의 반비례 그래프를 그리는 데 쓴다.",
+   "_raw": "좌표평면",
+   "figureType": "좌표평면"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "알지오매스 화면 캡처로, 입력 창의 y=3/x와 제1사분면·제3사분면에 나타난 두 곡선을 보여 준다.",
+   "_raw": "그래프",
+   "figureType": "공학도구 화면"
+  },
+  {
+   "role": "장식",
+   "desc": "태블릿에서 알지오매스를 실행한 모습과 활동 영상 QR 코드.",
+   "_raw": "사진",
+   "figureType": "QR코드"
+  }
+ ],
+ "contexts": [
+  "알지오매스(공학 도구)",
+  "태블릿"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "정보처리"
+ ],
+ "selfAssessment": [],
+ "notes": "소단원 번호와 제목은 이 쪽에 보이지 않아 section은 추정한 내용이다. 문제 1의 연필 아이콘은 직접 쓰거나 그리는 활동 표시로 보인다. 문제 2의 '심화' 표시는 따로 보이지 않으며, 탐구 성격이라 임의로 분류했다.",
+ "_page": 130,
+ "_usage": {
+  "in": 4457,
+  "out": 1474,
+  "sec": 8.8,
+  "stop": "end_turn"
+ },
+ "_notesInferred": true
+}

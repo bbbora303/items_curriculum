@@ -1,0 +1,180 @@
+{
+ "printedPage": "165",
+ "unit": {
+  "chapter": "기본 도형",
+  "section": "평행선에서 동위각과 엇각의 성질",
+  "area": "개념 설명 / 배우고 익히기"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "동위각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "엇각",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행선",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "평행",
+   "role": "사용",
+   "definition": "",
+   "notation": "$l \\parallel m$"
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$l \\parallel m$",
+   "meaning": "두 직선 l과 m이 서로 평행하다",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\angle a$, $\\angle b$",
+   "meaning": "각의 이름",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "$l \\parallel m \\Rightarrow$ 동위각의 크기는 같다",
+   "plain": "두 직선이 평행하면 동위각의 크기가 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "$l \\parallel m \\Rightarrow$ 엇각의 크기는 같다",
+   "plain": "두 직선이 평행하면 엇각의 크기가 같다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "동위각의 크기가 같다 $\\Rightarrow l \\parallel m$",
+   "plain": "동위각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  },
+  {
+   "latex": "엇각의 크기가 같다 $\\Rightarrow l \\parallel m$",
+   "plain": "엇각의 크기가 같으면 두 직선은 평행하다.",
+   "_raw": "성질",
+   "statementType": "성질"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "1",
+   "level": "기본",
+   "verb": "구하시오",
+   "summary": "l∥m일 때 두 그림((1) 50°, (2) 75°와 114°)에서 ∠a, ∠b의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2",
+   "level": "기본",
+   "verb": "설명하시오",
+   "summary": "두 개의 삼각자로 두 직선 l, m을 그릴 때 두 직선이 평행한 까닭을 설명한다.",
+   "competencyIcons": [
+    "의사소통"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  },
+  {
+   "label": "1+",
+   "level": "심화(+표시)",
+   "verb": "구하시오",
+   "summary": "세 직선 l, m, n이 평행할 때 60°, 70°가 주어진 그림에서 ∠a, ∠b의 크기를 구한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "계산",
+   "problemType": "계산"
+  },
+  {
+   "label": "2+",
+   "level": "심화(+표시)",
+   "verb": "설명하시오",
+   "summary": "그림에서 평행한 직선을 모두 찾아 기호로 나타내고 그 까닭을 설명한다(68°, 68°, 111°, 112°).",
+   "competencyIcons": [
+    "추론"
+   ],
+   "hasFigureOrTable": true,
+   "_raw": "설명",
+   "problemType": "설명"
+  }
+ ],
+ "figures": [
+  {
+   "role": "개념 설명",
+   "desc": "평행한 두 직선과 한 직선이 만나 생기는 동위각과 엇각을 색으로 표시한 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1 (1)(2): 평행선과 다른 직선들이 만나는 그림에 각도 표시",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2: 두 개의 삼각자로 평행선을 그리는 모습",
+   "_raw": "그림",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 1+: 평행한 세 직선과 꺾인 선이 있는 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "문제 자료",
+   "desc": "문제 2+: 직선 p, q와 직선 l, m, n이 만나 각이 표시된 그림",
+   "_raw": "도형",
+   "figureType": "도형"
+  },
+  {
+   "role": "장식",
+   "desc": "F, Z 모양 글자 그림(동위각 F, 엇각 Z를 연상시킴)",
+   "_raw": "그림",
+   "figureType": "삽화"
+  }
+ ],
+ "contexts": [
+  "삼각자로 평행선 긋기"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [
+  "의사소통",
+  "추론"
+ ],
+ "selfAssessment": [],
+ "notes": "동위각·엇각은 앞 쪽에서 정의되었고 이 쪽에서는 사용만 된다. 이 쪽에서는 평행선과 각의 성질을 정리한다. 문제 번호 1+, 2+는 이미지에서 '+' 위첨자로 표시되어 있다.",
+ "_page": 165,
+ "_usage": {
+  "in": 4458,
+  "out": 1594,
+  "sec": 10.0,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}

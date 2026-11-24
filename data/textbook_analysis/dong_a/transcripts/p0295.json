@@ -1,0 +1,405 @@
+{
+ "printedPage": "295",
+ "pageType": "기타",
+ "items": [
+  {
+   "kind": "문제",
+   "label": "09",
+   "corner": "정답 및 풀이",
+   "icons": [],
+   "level": "",
+   "text": "△ABP와 △CBQ에서 $\\overline{AP}=\\overline{CQ}$, $\\overline{AB}=\\overline{CB}$, $\\angle PAB=\\angle QCB$이므로 △ABP≡△CBQ (SAS 합동) 이때 $\\overline{PB}=\\overline{QB}$이므로 삼각형 PBQ는 이등변삼각형이다. 따라서 $\\angle PBQ=180^\\circ-2\\times75^\\circ=30^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "10",
+   "corner": "정답 및 풀이",
+   "icons": [],
+   "level": "",
+   "text": "⑤ 작도 순서는 ㉣ → ㉥ → ㉢ → ㉤ → ㉡ → ㉠이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "11",
+   "corner": "정답 및 풀이",
+   "icons": [],
+   "level": "",
+   "text": "세 선분 중에서 가장 긴 선분의 길이가 나머지 두 선분의 길이의 합보다 작아야 삼각형을 만들 수 있다.",
+   "subItems": [
+    {
+     "label": "(i)",
+     "text": "가장 긴 변의 길이가 9 cm일 때, 9<3+7(○), 9<4+7(○), 9>3+4(×) 즉, 세 변의 길이가 (3 cm, 7 cm, 9 cm), (4 cm, 7 cm, 9 cm)인 삼각형을 만들 수 있다."
+    },
+    {
+     "label": "(ii)",
+     "text": "가장 긴 변의 길이가 7 cm일 때, 7=3+4(×) 즉, 가장 긴 변의 길이가 7 cm인 삼각형은 만들 수 없다."
+    },
+    {
+     "label": "(i), (ii)",
+     "text": "(i), (ii)에서 만들 수 있는 삼각형은 모두 2개이다."
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "12",
+   "corner": "정답 및 풀이",
+   "icons": [],
+   "level": "",
+   "text": "$\\overline{AD}\\parallel\\overline{BC}$이므로 $\\angle GFC=\\angle EGF=70^\\circ$(엇각) 종이테이프가 접힌 부분의 각의 크기가 같으므로 $\\angle EFG=\\angle GFC=70^\\circ$ 이때 $\\angle AEF=\\angle EFC$(엇각)이므로 $\\angle x=140^\\circ$",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "13",
+   "corner": "정답 및 풀이",
+   "icons": [
+    "예시"
+   ],
+   "level": "서술형",
+   "text": "지호의 주장은 틀렸다. 서로 합동인 두 삼각형은 대응하는 두 변의 길이가 각각 같고, 그 끼인각의 크기가 같다. 그러나 주어진 두 삼각형은 밑변의 길이와 높이가 같으므로 두 변의 길이가 각각 같은 것이 아니다. 또, 위의 그림과 같이 넓이가 같은 두 삼각형은 서로 합동이 아닐 수도 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "두 삼각형 모두 밑변 6 cm, 높이 4 cm",
+   "steps": [],
+   "answerFormat": "서술"
+  },
+  {
+   "kind": "문제",
+   "label": "준비해요 1",
+   "corner": "준비해요 (178쪽~179쪽)",
+   "icons": [],
+   "level": "",
+   "text": "가: 삼각형, 나: 사각형, 라: 오각형",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "준비해요 2",
+   "corner": "준비해요 (178쪽~179쪽)",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "75°"
+    },
+    {
+     "label": "(2)",
+     "text": "80°"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "준비해요 3",
+   "corner": "준비해요 (178쪽~179쪽)",
+   "icons": [],
+   "level": "",
+   "text": "둘레의 길이: 62.8 cm, 넓이: 314 cm²",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "생각열기",
+   "label": "생각해요",
+   "corner": "6.1 다각형의 대각선의 개수 (180쪽~181쪽)",
+   "icons": [
+    "예시"
+   ],
+   "level": "",
+   "text": "대각선에 있는 사람을 지목해야 한다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요 1",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "사각형, 오각형, 육각형, 칠각형에 한 꼭짓점에서 대각선을 그은 그림 (붉은색 선)",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "그림"
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요 2",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "표: 다각형(육각형, 칠각형)별 꼭짓점의 개수와 한 꼭짓점에서 그은 대각선의 개수",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "표"
+  },
+  {
+   "kind": "활동",
+   "label": "함께해요 3",
+   "corner": "함께해요",
+   "icons": [],
+   "level": "활동",
+   "text": "$(n-3)$개",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "기타",
+   "label": "질문",
+   "corner": "질문+",
+   "icons": [
+    "예시"
+   ],
+   "level": "",
+   "text": "삼각형은 꼭짓점이 모두 이웃하므로 대각선을 그을 수 없다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "문제 1",
+   "corner": "문제",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "27"
+    },
+    {
+     "label": "(2)",
+     "text": "54"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "생각 넓히기",
+   "corner": "생각 넓히기",
+   "icons": [
+    "예시"
+   ],
+   "level": "활동",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "오른쪽 그림과 같이 한 꼭짓점에서 한 개의 대각선을 그어 사각형과 육각형으로 나누어지는 다각형은 팔각형이다."
+    },
+    {
+     "label": "(2)",
+     "text": "$\\frac{8\\times(8-3)}{2}=20$"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "수학 집 짓기",
+   "corner": "수학 집 짓기",
+   "icons": [],
+   "level": "활동",
+   "text": "3, 3",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "빈칸"
+  },
+  {
+   "kind": "문제",
+   "label": "해결해요 1",
+   "corner": "해결해요 (182쪽)",
+   "icons": [],
+   "level": "",
+   "text": "",
+   "subItems": [
+    {
+     "label": "(1)",
+     "text": "35"
+    },
+    {
+     "label": "(2)",
+     "text": "170"
+    }
+   ],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "해결해요 2",
+   "corner": "해결해요 (182쪽)",
+   "icons": [],
+   "level": "",
+   "text": "구각형의 한 꼭짓점에서 그을 수 있는 대각선의 개수는 $9-3=6$이므로 $a=6$ 십사각형의 대각선의 개수는 $\\frac{14\\times(14-3)}{2}=77$이므로 $b=77$ 따라서 $a+b=6+77=83$이다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "문제",
+   "label": "해결해요 3",
+   "corner": "해결해요 (182쪽)",
+   "icons": [],
+   "level": "",
+   "text": "ㄱ. 육각형의 변의 개수는 6이고 육각형의 대각선의 개수는 $\\frac{6\\times(6-3)}{2}=9$이므로 다각형의 변의 개수와 대각선의 개수는 다를 수도 있다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": ""
+  },
+  {
+   "kind": "활동",
+   "label": "프로젝트 1",
+   "corner": "프로젝트 (175쪽)",
+   "icons": [
+    "예시"
+   ],
+   "level": "활동",
+   "text": "필수 시설 5가지에 ⑥ 롤러코스터, ⑦ 분수를 추가하여 놀이공원의 설계도를 작도했다.",
+   "subItems": [],
+   "conditions": [],
+   "given": "",
+   "steps": [],
+   "answerFormat": "설계도 그림"
+  }
+ ],
+ "tables": [
+  {
+   "caption": "함께해요 2: 다각형의 대각선의 개수",
+   "unit": "",
+   "headers": [
+    "다각형",
+    "육각형",
+    "칠각형"
+   ],
+   "rows": [
+    [
+     "꼭짓점의 개수",
+     "6",
+     "7"
+    ],
+    [
+     "한 꼭짓점에서 그은 대각선의 개수",
+     "3",
+     "4"
+    ]
+   ],
+   "source": ""
+  }
+ ],
+ "graphs": [],
+ "figures": [
+  {
+   "kind": "도형",
+   "caption": "13번 풀이의 두 삼각형",
+   "labels": "왼쪽: 직각삼각형, 세로 변 4 cm, 밑변 6 cm, 직각 표시 있음. 오른쪽: 밑변 6 cm, 점선으로 그은 높이 4 cm, 높이의 밑에 직각 표시",
+   "desc": "밑변과 높이가 같은 두 삼각형"
+  },
+  {
+   "kind": "도형",
+   "caption": "함께해요 1 — 사각형",
+   "labels": "붉은 선 1개",
+   "desc": "사각형의 한 꼭짓점에서 그은 대각선 1개"
+  },
+  {
+   "kind": "도형",
+   "caption": "함께해요 1 — 오각형",
+   "labels": "붉은 선 2개",
+   "desc": "오각형의 한 꼭짓점에서 그은 대각선 2개"
+  },
+  {
+   "kind": "도형",
+   "caption": "함께해요 1 — 육각형",
+   "labels": "붉은 선 3개",
+   "desc": "육각형의 한 꼭짓점에서 그은 대각선 3개"
+  },
+  {
+   "kind": "도형",
+   "caption": "함께해요 1 — 칠각형",
+   "labels": "붉은 선 4개",
+   "desc": "칠각형의 한 꼭짓점에서 그은 대각선 4개"
+  },
+  {
+   "kind": "도형",
+   "caption": "생각 넓히기 (1) 팔각형",
+   "labels": "붉은 대각선 1개",
+   "desc": "한 대각선으로 사각형과 육각형으로 나뉜 팔각형"
+  },
+  {
+   "kind": "기타",
+   "caption": "프로젝트 1 놀이공원 설계도",
+   "labels": "①매표소, ②주차장, ③회전목마, ④범퍼카, ⑤꽃밭, ⑥롤러코스터, ⑦분수",
+   "desc": "길과 나무, 시설이 그려진 놀이공원 설계도"
+  }
+ ],
+ "incomplete": "13번 삼각형의 직각 표시와 설계도의 세부 그림은 정확히 읽기 어렵다. 단원 표지 '6 평면도형의 성질'은 제목만 있고 별도 항목으로 옮기지 않았다.",
+ "_page": 295,
+ "_why": [
+  "essay"
+ ],
+ "_usage": {
+  "in": 4940,
+  "out": 4958,
+  "sec": 28.5,
+  "stop": "end_turn"
+ }
+}

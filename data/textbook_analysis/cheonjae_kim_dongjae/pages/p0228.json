@@ -1,0 +1,140 @@
+{
+ "printedPage": "228",
+ "unit": {
+  "chapter": "입체도형의 성질",
+  "section": "04 구의 겉넓이와 부피",
+  "area": "탐구 활동 / 개념 설명"
+ },
+ "pageType": "개념설명",
+ "terms": [
+  {
+   "term": "구의 겉넓이",
+   "role": "정의",
+   "definition": "반지름의 길이가 r인 구의 겉넓이는 반지름이 같은 원의 넓이의 4배인 $4\\pi r^2$이다.",
+   "notation": "$4\\pi r^2$"
+  },
+  {
+   "term": "구의 부피",
+   "role": "정의",
+   "definition": "구를 한없이 많은 각뿔 모양으로 나누어 생각하여 얻는, 반지름이 r인 구의 부피이다.",
+   "notation": "$\\frac{4}{3}\\pi r^3$"
+  },
+  {
+   "term": "각뿔",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "원의 넓이",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  },
+  {
+   "term": "반지름",
+   "role": "사용",
+   "definition": "",
+   "notation": ""
+  }
+ ],
+ "symbols": [
+  {
+   "symbol": "$r$",
+   "meaning": "구의 반지름의 길이",
+   "role": "사용"
+  },
+  {
+   "symbol": "$\\pi$",
+   "meaning": "원주율",
+   "role": "사용"
+  }
+ ],
+ "statements": [
+  {
+   "latex": "(구의 겉넓이)=4\\pi r^2",
+   "plain": "구의 겉넓이는 같은 반지름의 원의 넓이의 4배이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  },
+  {
+   "latex": "(구의 부피)=\\frac{1}{3}\\times(구의 겉넓이)\\times(구의 반지름의 길이)",
+   "plain": "구를 각뿔 모양으로 잘게 나누면 밑넓이의 합은 구의 겉넓이, 높이는 반지름이므로 각뿔의 부피 공식을 적용한다.",
+   "_raw": "방법",
+   "statementType": "계산·풀이 방법"
+  },
+  {
+   "latex": "(구의 부피)=\\frac{4}{3}\\pi r^3",
+   "plain": "반지름이 r인 구의 부피 공식이다.",
+   "_raw": "공식",
+   "statementType": "공식"
+  }
+ ],
+ "examples": [],
+ "problems": [
+  {
+   "label": "탐구활동 1",
+   "level": "활동",
+   "verb": "말해 보자",
+   "summary": "공에 감았던 털실로 같은 지름의 원을 몇 개 채울 수 있는지 말한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "탐구활동 2",
+   "level": "활동",
+   "verb": "추측해 보자",
+   "summary": "구의 겉넓이가 같은 반지름의 원의 넓이의 몇 배인지 추측한다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": true,
+   "_raw": "탐구",
+   "problemType": "탐구"
+  },
+  {
+   "label": "채워 넣기",
+   "level": "기본",
+   "verb": "빈칸을 채우시오(구하기)",
+   "summary": "반지름이 3 cm인 구의 겉넓이 $4\\pi\\times\\square^2$와 부피 $\\frac{\\square}{3}\\pi\\times3^3$의 빈칸을 채운다.",
+   "competencyIcons": [],
+   "hasFigureOrTable": false,
+   "_raw": "계산",
+   "problemType": "계산"
+  }
+ ],
+ "figures": [
+  {
+   "role": "활동",
+   "desc": "스티로폼 공에 털실을 감은 모습(그림 1)과 털실을 풀어 원을 채워 가는 모습(그림 2)",
+   "_raw": "사진",
+   "figureType": "사진"
+  },
+  {
+   "role": "개념 설명",
+   "desc": "구를 한없이 많은 각뿔 모양으로 나눈 그림, 꼭짓점이 구의 중심에 있고 높이가 반지름인 각뿔",
+   "_raw": "모형",
+   "figureType": "모형"
+  }
+ ],
+ "contexts": [
+  "스티로폼 공",
+  "털실"
+ ],
+ "gradeLinks": {
+  "prior": [],
+  "current": [],
+  "later": []
+ },
+ "competencies": [],
+ "selfAssessment": [],
+ "notes": "소단원 번호 04와 제목은 이미지에서 확인했다. 단원 이름은 대단원 목록과 쪽 아래의 'V. 도형의 성질'을 근거로 '입체도형의 성질'로 보았다. 탐구활동의 두 문항에서 역량 아이콘은 보이지 않았다. 구의 겉넓이 공식은 활동으로 추측하게 한 뒤 '알려져 있다'로 제시하며, 증명은 하지 않는다.",
+ "_page": 228,
+ "_usage": {
+  "in": 4712,
+  "out": 1465,
+  "sec": 8.7,
+  "stop": "end_turn"
+ },
+ "_notesInferred": false
+}
