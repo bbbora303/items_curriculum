@@ -518,7 +518,7 @@ class Handler(BaseHTTPRequestHandler):
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     srv = ThreadingHTTPServer(("127.0.0.1", PORT), Handler)
-    print(f"수학 서술형 문항 생성 도구(시험용) — http://127.0.0.1:{PORT}  (끝내려면 이 창에서 Ctrl+C)")
+    print(f"수학 서술형 문항 생성 도구(시험용) — http://0.0.0.0:{PORT}  (끝내려면 이 창에서 Ctrl+C)")
     try:
         srv.serve_forever()
     except KeyboardInterrupt:
